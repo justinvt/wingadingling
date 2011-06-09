@@ -1,0 +1,1024 @@
+䋋	(same as 罠) a kind of spring fishing net (U+42CB)	e48b8b
+䋌	(ancient form 堅) strong; durable; solid; firm; stable, (same as 䋗) tight; firm, pressing (U+42CC)	e48b8c
+䋍	(an abbreviated form of 䋪) fine and delicate silk, plain white sackcloth for mourning (U+42CD)	e48b8d
+䋎	to mend (cothes, etc.), (inchangeable 綻) rippen seam; a crack; split (U+42CE)	e48b8e
+䋏	thick and big ropes or cords; bulky cables, spoilt silk (U+42CF)	e48b8f
+䋐	fabric; textile with patterns used for hem decorations, decorations on carriage and horses, varicolored silk or fine cloth loose in textture (U+42D0)	e48b90
+䋑	to tie; to knot, to join (U+42D1)	e48b91
+䋒	(corrupted form of 紓) to relax, to free from (U+42D2)	e48b92
+䋓	(abbreviated form 縐) wrinkled, to shrink, crepe, a coarse, yellowish cloth for summer wear (U+42D3)	e48b93
+䋔	to band together; to twist; to wring and to disperse fiber then to make thin silk, cloth, cotton-yarn or rope (U+42D4)	e48b94
+䋕	(same as U+7D4D 紝) to lay the warp; to weave (U+42D5)	e48b95
+䋖	long, a gown; a long dress (U+42D6)	e48b96
+䋗	(same as 䋌) (same as 堅) strong and durable, solid and firm; tight; pressing (U+42D7)	e48b97
+䋘	(same as 縋) to hand by a rope; to let down by a rope (U+42D8)	e48b98
+䋙	reins; bridle (U+42D9)	e48b99
+䋚	(same as 翼) wings, fins, to help, to protect (U+42DA)	e48b9a
+䋛	the clustered embroidery patterns (as tiny and fine rice) (U+42DB)	e48b9b
+䋜	(same as 綮) crucial points; critical points, an embroidered banner, sheath for a lancehead (U+42DC)	e48b9c
+䋝	(abbreviated form of 纓) a throat-band; chin strap for holding the hat, tassel; a fringe (U+42DD)	e48b9d
+䋞	(abbreviated form of 網) web; net; network (U+42DE)	e48b9e
+䋟	the weight on a steelyard, connected stitches (U+42DF)	e48b9f
+䋠	(interchangeable 補) to repair; to mend, to add to, to make up (U+42E0)	e48ba0
+䋡	(same as 紓) (interchangeable 舒) to relax, to free from (U+42E1)	e48ba1
+䋢	to twist ropes, a belt or string to hold the bow, to tie; to bind, the cart turning back to the left, to draw or pull (of a cart), to mourn (U+42E2)	e48ba2
+䋣	decorations put on the mane or horsehair, (standard form of 繁) many, troublesome, a family name (U+42E3)	e48ba3
+䋤	plain white silk, to soften and whiten raw silk by boiling (U+42E4)	e48ba4
+䋥	lines; stripes; veins (U+42E5)	e48ba5
+䋦	ravelled silk (U+42E6)	e48ba6
+䋧	(same as 絇) ornamennts for the frontal part of shoes (U+42E7)	e48ba7
+䋨	to set in order the old, raw, coarse, waste silk or cotton (U+42E8)	e48ba8
+䋩	pretty and fine silk fabrics (U+42E9)	e48ba9
+䋪	(interchangeable 䋍) fine and delicate silk, plain white sackcloth for mourning (U+42EA)	e48baa
+䋫	to wind round the ropes, crooked; winding; bends; turns; curves; turns and twists, to play a sound of hasty (fast) string (of a musical instrument) (U+42EB)	e48bab
+䋬	rug; carpet; blanket, woolen textiles; woolen goods; woolen stuff; woolen fabrics (U+42EC)	e48bac
+䋭	to weave silk fabrics with green color for longitude and white for latitude, silk fabrics from Yuyang (U+42ED)	e48bad
+䋮	(the large seal; a type of Chinese calligraphy) (same as 紟) a sash, to tie, a kind of cloth or textiles, lapel of a Chinese dress, a single coverlet (U+42EE)	e48bae
+䋯	(same as 綮) crucial points; critical points, an embroidered banner, sheath for a lancehead (U+42EF)	e48baf
+䋰	to bind or restrain; restraint; restriction, timid and awkward, to wind around; to tangle, to connect; to join, together with (U+42F0)	e48bb0
+䋱	(same as 斄) a wild yak, hard and curved hair, name of a county in ancient times (U+42F1)	e48bb1
+䋲	(non-classical form of U+7E69 繩) a rope; a cord, to restrain, to rectify; to correct (U+42F2)	e48bb2
+䋳	(same as 褙) cloth or paper pasted together; pasteboard; to mount (paintings or calligraphics works), short clothes (U+42F3)	e48bb3
+䋴	silk fabrics with mixed colors (U+42F4)	e48bb4
+䋵	quick, urgent, anxious, not going to succeed, poor quality of silk fabrics (U+42F5)	e48bb5
+䋶	to stumble; to trip the front feet of a beast, a kind of brocade from Shu (U+42F6)	e48bb6
+䋷	a kind of thick, loosely-woven raw silk fabric (U+42F7)	e48bb7
+䋸	back center suture of the clothes (U+42F8)	e48bb8
+䋹	(same as 幅) breadth of material (cloth or paper, etc.) (U+42F9)	e48bb9
+䋺	(same as 鞦) a swing (same as U+97A7 緧) a crupper; traces (U+42FA)	e48bba
+䋻	to spin and weave, equal; uniform; (same as U+7D1D 紝) to lay the warp; to weave (U+42FB)	e48bbb
+䋼	slow; leisurely, to delay; to slacken, silk ribbons (U+42FC)	e48bbc
+䋽	hempen sandals, leather shoes (for children) (U+42FD)	e48bbd
+䋾	cotton and silk to be laid and attached each other (U+42FE)	e48bbe
+䋿	a decorative knot made of colorful silk ( blue, yellow, red, white and black) (U+42FF)	e48bbf
+䌀	to arrange; to repair silk, colored patterns (stripes; lines; streaks; veins) (U+4300)	e48c80
+䌁	a pleat; fold, a piece of string; ribbon used to tie clothes, a rope; a line; a cord (U+4301)	e48c81
+䌂	(same as 握) in ancient times, article for preparing the body for the coffin (something slip on the hand of the dead) (U+4302)	e48c82
+䌃	(same as 綃) raw silk, to seal; to close (U+4303)	e48c83
+䌄	(standard form of 綆) a rope for drawing up water (form a well, stream, etc.) (U+4304)	e48c84
+䌅	a thick ropes (U+4305)	e48c85
+䌆	silk fabrics (U+4306)	e48c86
+䌇	(non-classical form of 索) a thick rope; a cable, alone, to tighten; to squeeze, to need, to demand (U+4307)	e48c87
+䌈	to get something with a lasso (U+4308)	e48c88
+䌉	(non-classical form of 綱) the large of a net, main point, principle (U+4309)	e48c89
+䌊	(corrupted form of 繇) entourage; aides; attendants, cause; means, by way of, etc., forced labour; labor service (U+430A)	e48c8a
+䌋	a herchief hung at the waist, a tiny sack; a purse or pouch carried hanging over the girdle (U+430B)	e48c8b
+䌌	lace; embroidered hem (of a garment), (same as 緁) a narrow strip of woven material (such as the hem of a straw hat) (U+430C)	e48c8c
+䌍	fine woven pattern (U+430D)	e48c8d
+䌎	to baste for sewing, to connect; to sew; to stitch; to mend (U+430E)	e48c8e
+䌏	U+430F (U+430F)	e48c8f
+䌐	ropes; cords; cables (U+4310)	e48c90
+䌑	(interchangeable 堅) tight; firm; fast; secure; close (U+4311)	e48c91
+䌒	pure; unallyed, honest; simple, purely (U+4312)	e48c92
+䌓	(corrupted form of U+7E41 繁) many; abundant, complex; intricate (U+4313)	e48c93
+䌔	(corrupted form of 漚) to soak, foam; bubble; froth (U+4314)	e48c94
+䌕	(same as 縻) to tie; to fasten; to connect (U+4315)	e48c95
+䌖	to gather; to assemble; to come together; to blend; to mix, disorderly; mixed, a general term for wealthy goods and textiles (in southern minority group) (U+4316)	e48c96
+䌗	the left over of drawing silk (from cocoons), silk, to arrange raw, coarse, old, waste cotton or silk (U+4317)	e48c97
+䌘	to knit; to twist ropes, a belt to hang sword, poor qualitied silk wadding (U+4318)	e48c98
+䌙	hank of ropes (U+4319)	e48c99
+䌚	wrinkles; creases; folds (U+431A)	e48c9a
+䌛	(same as 繇 徭 陶 謠 由 猶 悠 籀) entourage; aides; attendants, compulsory labor service, to make pottery or earthenware, happy, ballad; folk song, rumor, through; via; by way of, like; similar to, still; yet, far, sad, soft; slow, to deduce (interchangeable 搖 遙 傜) (U+431B)	e48c9b
+䌜	to sew; to stitch; to suture; to mend; to patch a garment; dresses, etc.. to twist; to tie up with ropes (U+431C)	e48c9c
+䌝	silk, a general name of silk fabrics or goods, (interchangeable 紺) reddish dark color; violet or purple (U+431D)	e48c9d
+䌞	a knot to hang the apparatus made of reed for raising silkworms, a rope (U+431E)	e48c9e
+䌟	to weave silk ribbons, (interchangeable 澼) to wash; to launder (U+431F)	e48c9f
+䌠	hold on to one's own views, to keep the mouth shut, stingy; miserly; niggardly; parsimonious (U+4320)	e48ca0
+䌡	to wind around; to bind; to wrap; to tangle, to boter persistently (U+4321)	e48ca1
+䌢	raw, coarse, old, waste cotton or silk, wooly; fluffy (U+4322)	e48ca2
+䌣	to accumulate; to store up (U+4323)	e48ca3
+䌤	a kind of unrefined or unpolished silken textiles; silken goods; silken fabrics, to sew; to patch clothes (of sword) (U+4324)	e48ca4
+䌥	to sew clothes; to do needle-work (U+4325)	e48ca5
+䌦	green color; bluish yellow (U+4326)	e48ca6
+䌧	(non-classical form of 紬 綢) a kind of silk fabric; thin silk goods (U+4327)	e48ca7
+䌨	thin silk fabrics, sound of the rubbing of clothes (U+4328)	e48ca8
+䌩	fine, thin stockings or socks (U+4329)	e48ca9
+䌪	to continue; to extend; to review (U+432A)	e48caa
+䌫	(non-classical form of U+7E9C 纜) a hawser, a cable, a rope (U+432B)	e48cab
+䌬	straight; right; just, straight-forward, uninterrupted (U+432C)	e48cac
+䌭	raw hemp, a kind of fabric (U+432D)	e48cad
+䌮	silk fabrics with the color of new leaves (U+432E)	e48cae
+䌯	a truban; a kerchief, children's hat, a girdle, belt of the clothes (U+432F)	e48caf
+䌰	connected silk, measurement (U+4330)	e48cb0
+䌱	(same as 䌴) uneven; silk with knots (U+4331)	e48cb1
+䌲	(same as 纁) light red (U+4332)	e48cb2
+䌳	a kind of unrefined or unpolished silken textiles; silken goods; silken fabrics (U+4333)	e48cb3
+䌴	uneven; silk with knots; unpolished (U+4334)	e48cb4
+䌵	lapel and belt (U+4335)	e48cb5
+䌶	(simplified form of 䊷) (same as 緇)) black silk; a dark, drab colour, used for Buddhists, from the dark colour of their robes (same as 純) pure, honest (U+4336)	e48cb6
+䌷	(simplified form of 紬) a thread; a clue (U+4337)	e48cb7
+䌸	(simplified form of 縳) fine silk fabric of bright white colour, to tie up, (interchangeable 卷) a book or painting which can be easily folded or rolled up, a division of a book, files (U+4338)	e48cb8
+䌹	(simplified form of 絅) (same as 褧) a garment of one colour with no lining, a dust coat (U+4339)	e48cb9
+䌺	(simplified form) (interchangeable 耳) flourishing; thriving; vigorous (U+433A)	e48cba
+䌻	(simplified form) (same as 翼) wings, fins, to help; to assist (U+433B)	e48cbb
+䌼	a kind of fine silk fabric (U+433C)	e48cbc
+䌽	varicolored silk; motley (U+433D)	e48cbd
+䌾	(same as U+7D1D 紝) to lay the warp; to weave (U+433E)	e48cbe
+䌿	(simplified form) (same as 幅) the breadth of cloth or paper; a piece (of cloth) (U+433F)	e48cbf
+䍀	(same as U+8964 襤) clothes without hem; ragged garments; sloppily dressed (U+4340)	e48d80
+䍁	(simplified form of 繸) the hem or border of a garment, a tassel (U+4341)	e48d81
+䍂	tools to draw water or liquid (U+4342)	e48d82
+䍃	a vase, a pitcher, earthenware (U+4343)	e48d83
+䍄	an indenture (of earthenware) (U+4344)	e48d84
+䍅	containers for water or wine used in ancient times (U+4345)	e48d85
+䍆	container for grains used in ancient times (U+4346)	e48d86
+䍇	flat-bottom crock (with narrow opening); jug, pitcher, vase, etc; (Cant.) stool (U+4347)	e48d87
+䍈	(same as 缾 瓶) bottle; pitcher; jug; vase (U+4348)	e48d88
+䍉	traces or marks of incomplete or damage (U+4349)	e48d89
+䍊	clay-made blowing wind instruments; music instruments made of clay (U+434A)	e48d8a
+䍋	bottle; pitcher; jug; vase; an earthen jar with narrow opening (U+434B)	e48d8b
+䍌	(same as 瓿) a jar; a pot (U+434C)	e48d8c
+䍍	unburnt bricks; tiles; eathenware, etc. (U+434D)	e48d8d
+䍎	a spindle, a earthenware used to pinch or knead, a small crock (U+434E)	e48d8e
+䍏	U+434F (U+434F)	e48d8f
+䍐	(standard form 罕) a net or snare, a flag, rare; strange; scarce; few, name of a place in ancient times (U+4350)	e48d90
+䍑	(same as 䍐) (standard form 罕) a net or snare, a flag, rare; strange; scarce; few, name of a place in ancient times (U+4351)	e48d91
+䍒	(corrupted form) net; web; network (U+4352)	e48d92
+䍓	(a corrupted form) net for catching rabbit (U+4353)	e48d93
+䍔	a full net, a thick rope; a cable (U+4354)	e48d94
+䍕	net; web; network, net for catching rabbit (U+4355)	e48d95
+䍖	(same as 罦) a kind of net equipted with tricky machine used to catch birds and beasts, a covering for a cart (U+4356)	e48d96
+䍗	(same as 罥) to hang up; to bind; to entangle, net; web; network (U+4357)	e48d97
+䍘	a general term for nets (U+4358)	e48d98
+䍙	nets for catching birds, net; web; network (U+4359)	e48d99
+䍚	vast (U+435A)	e48d9a
+䍛	a kind of tool used to get fish (U+435B)	e48d9b
+䍜	a basket or a cage used to keep wild and domestic fowls (U+435C)	e48d9c
+䍝	net; web; network (U+435D)	e48d9d
+䍞	(same as 罭) a drag-net; a fine net used to catch small fish (U+435E)	e48d9e
+䍟	a kind of fish net with fine meshes (U+435F)	e48d9f
+䍠	(simplified form of 䍦) turban used in ancient times (U+4360)	e48da0
+䍡	small fish net, to catch fish with small fish net (U+4361)	e48da1
+䍢	netted veined window-sill (U+4362)	e48da2
+䍣	a kind of fish net (U+4363)	e48da3
+䍤	to strain out; to filter wine; to squeeze juice out of; to draw; to press milk (U+4364)	e48da4
+䍥	smoky, covering; to spread, cloth for covering food (U+4365)	e48da5
+䍦	(traditional form of 䍠) a kind of turban used in ancient times (U+4366)	e48da6
+䍧	(same as 牂) a ewe or she-goat (U+4367)	e48da7
+䍨	to castrate, a ram or he-goat, last name (U+4368)	e48da8
+䍩	(ancient form of 養) to offer provision (esp. to one's elders); to feed one's children (U+4369)	e48da9
+䍪	castrated ram (U+436A)	e48daa
+䍫	a legendary goat-like animal with 4 ears and 9 tails, a kind of goat with no horn (U+436B)	e48dab
+䍬	to use; to made; to act, a kind of goat with mixed colors (U+436C)	e48dac
+䍭	(same as 牂) a ewe or she-goat (U+436D)	e48dad
+䍮	young goat (sheep) under one year old, castrated ram of hundred catties (Chinese pound) (U+436E)	e48dae
+䍯	(same as 觤) gaot with different horns (one is long and the other short) (U+436F)	e48daf
+䍰	a plague or a pestilence of goat (sheep); black goat or sheep, black (U+4370)	e48db0
+䍱	the wild goat or sheep (U+4371)	e48db1
+䍲	a kind of sheep (goat) with curled hairs (U+4372)	e48db2
+䍳	disease; illness, goat (or sheep) get sick, a throbbing goat (or sheep) (U+4373)	e48db3
+䍴	to squeeze and to crowd against each other (of sheep) (U+4374)	e48db4
+䍵	young goat, antelope (U+4375)	e48db5
+䍶	unicorn (U+4376)	e48db6
+䍷	to chase each other (of sheep or goats) (U+4377)	e48db7
+䍸	a legendary goat-like animal with 4 ears and 9 tails (U+4378)	e48db8
+䍹	(same as U+7FB4 羶) odor of a sheep or goat, flock of goats or sheep, name and description of snuff (a kind of tobacco) (U+4379)	e48db9
+䍺	a legendary goat-like beast (U+437A)	e48dba
+䍻	young goat of sheep under one year old (U+437B)	e48dbb
+䍼	salted mutton, to store up the meat under the ground, a goat-like beast, odor of a sheep or goat (U+437C)	e48dbc
+䍽	a fierce goat, a castrated ram (U+437D)	e48dbd
+䍾	flying (U+437E)	e48dbe
+䍿	a kind of dance accompanied by music performed in ancient times, (same as 凰) the female phoenix, a legendary bird in Chinese mythology (U+437F)	e48dbf
+䎀	flying, to run swiftly; to go at express speed (U+4380)	e48e80
+䎁	used in person's name (U+4381)	e48e81
+䎂	colorful feather, a feather decorated arrow (U+4382)	e48e82
+䎃	fine down; floss; wool (U+4383)	e48e83
+䎄	hairy; long tail feather of a bird (U+4384)	e48e84
+䎅	flying (U+4385)	e48e85
+䎆	flying (U+4386)	e48e86
+䎇	quick; quickly, hasty, soft and meek feather (U+4387)	e48e87
+䎈	flying (U+4388)	e48e88
+䎉	to walk swiftly, (same as 矞) scared; afraid; fearful; frightened (U+4389)	e48e89
+䎊	flying, flying away (U+438A)	e48e8a
+䎋	fly (U+438B)	e48e8b
+䎌	feather, flying, neat feather (U+438C)	e48e8c
+䎍	fine and soft hair, feather (U+438D)	e48e8d
+䎎	to glide or to hover up in the air, to soaring (U+438E)	e48e8e
+䎏	young birds flying (U+438F)	e48e8f
+䎐	hairy (U+4390)	e48e90
+䎑	flying over the water surface, flying up; soaring (U+4391)	e48e91
+䎒	flying quickly and to attack suddenly (said of bird) (U+4392)	e48e92
+䎓	flying (U+4393)	e48e93
+䎔	fine and soft hair, feather (U+4394)	e48e94
+䎕	flying birds (U+4395)	e48e95
+䎖	soaring up in the sky (U+4396)	e48e96
+䎗	flying (U+4397)	e48e97
+䎘	birds flying, sound of the flying wings (U+4398)	e48e98
+䎙	flying (U+4399)	e48e99
+䎚	the end of bird wings, bird wings (U+439A)	e48e9a
+䎛	U+439B (U+439B)	e48e9b
+䎜	aged; to get old, advanced age; great age; old age (U+439C)	e48e9c
+䎝	(same as 翥) to soar (U+439D)	e48e9d
+䎞	U+439E (U+439E)	e48e9e
+䎟	to fawn on; to flatter; to please, to love, attractive (U+439F)	e48e9f
+䎠	to twist or to crumple between hands and make something turn, (same as U+611E 懦) cowardice; timid; weak and cowardly (U+43A0)	e48ea0
+䎡	to shrink; to recoil; to flinch, weak, soft and meek; gentle, (corrupted form of 耎) soft; weak, pliable (U+43A1)	e48ea1
+䎢	to measure (esp. for grains) by pints and pecks (U+43A2)	e48ea2
+䎣	(same as 耜) a plough; a ploughshare (U+43A3)	e48ea3
+䎤	to till; to plough; to cultivate, agricultural implements; farm tools (U+43A4)	e48ea4
+䎥	U+43A5 (U+43A5)	e48ea5
+䎦	to till; to plough, sharp-pointed spade or shovel (U+43A6)	e48ea6
+䎧	agricultural implements; farm tools ( a plough; a ploughshare), to till; to plough (U+43A7)	e48ea7
+䎨	to plough and sow, to farm (U+43A8)	e48ea8
+䎩	to till; to plough, (same as 菑) land under cultivation for one year, to weed grass (U+43A9)	e48ea9
+䎪	the stalk of grain; straw, a hammer used to pound grains and corns, etc. (U+43AA)	e48eaa
+䎫	to plant; to sow; to cultivate (U+43AB)	e48eab
+䎬	(simplified form of 䎱) (same as 耙) a drag; a harrow; a rake (U+43AC)	e48eac
+䎭	a kind of farm tool made of twisted thron strips used to flaten the land (U+43AD)	e48ead
+䎮	to plant; to raise or grow ( plants); to cultivate (U+43AE)	e48eae
+䎯	winter ploughing, to plough a dry farmland (upland), to till; to plough (U+43AF)	e48eaf
+䎰	name of a place in Sichuan Province (U+43B0)	e48eb0
+䎱	(same as 耙) a drag; a harrow; a rake (U+43B1)	e48eb1
+䎲	ear lobe; lobule (U+43B2)	e48eb2
+䎳	lose of the ear (U+43B3)	e48eb3
+䎴	a legendary spirit; immortal, (non-classical form of 聖) sage, sacred; holy (U+43B4)	e48eb4
+䎵	(corrupted form) to look straight forward, ashamed, to look in a mean way (U+43B5)	e48eb5
+䎶	offering blood to God (U+43B6)	e48eb6
+䎷	an old man with white hair, source; head (of a stream), loud cries (U+43B7)	e48eb7
+䎸	to hear; to listen; to obey; to understand (U+43B8)	e48eb8
+䎹	(ancient form of 聞) to hear, to learn, to convey, to smell (U+43B9)	e48eb9
+䎺	to learn; to hear; (Cant.) to work; to be willing (U+43BA)	e48eba
+䎻	to hear, clear, bright, ears (U+43BB)	e48ebb
+䎼	a kind of insect (U+43BC)	e48ebc
+䎽	(ancient form of 聞) to hear, to learn, to convey, to smell, to hear of (U+43BD)	e48ebd
+䎾	(corrupted form of 睔) big and round eyes (U+43BE)	e48ebe
+䎿	buzzing in the ears; tinnitus aurium (U+43BF)	e48ebf
+䏀	inharmonious (U+43C0)	e48f80
+䏁	unable to hear distinctly or clearly (U+43C1)	e48f81
+䏂	clever, quick of apprehension, with a good faculty of hearing (U+43C2)	e48f82
+䏃	to hear, to listen carefully (U+43C3)	e48f83
+䏄	not to listen, disease of the ears, a dull sense of hearing (inefficacious; unresponsive) (U+43C4)	e48f84
+䏅	to hear; to listen, a keen sense of hearing (U+43C5)	e48f85
+䏆	buzzing in the ears; tinnitus aurium (U+43C6)	e48f86
+䏇	to hear; barely enough to hear clearly, hearsay; groundless talk (U+43C7)	e48f87
+䏈	(standard form of 聯) to unite; to connect; to join together (same as 攣) tangled; to bind; entwined (U+43C8)	e48f88
+䏉	to waver; to shake ears (said of cattle and horses) (U+43C9)	e48f89
+䏊	(same as 聾) deaf; hard of hearing (U+43CA)	e48f8a
+䏋	(ancient form of 肅) respectful; solemn; serious; majestic, neat and quite (U+43CB)	e48f8b
+䏌	to vibrate; vibration, (same as 佾) a row or file of dancers, esp. referring to those in ancient dances at sacrifices or other rites (U+43CC)	e48f8c
+䏍	(same as 肙 蜎) a small worm; larvae of mosquitoes, empty, to twist; to surround (U+43CD)	e48f8d
+䏎	milk; breasts, the young of animals, birds (U+43CE)	e48f8e
+䏏	(same as 吁) signs and groans; moan, name of a county (U+43CF)	e48f8f
+䏐	the buttocks, the anus (U+43D0)	e48f90
+䏑	(same as U+7099 炙) to burn; to heat; to roast; to broil (U+43D1)	e48f91
+䏒	half of the body, (non-classical form of 胖) fat; obese (U+43D2)	e48f92
+䏓	(same as 脘) the stomach; gizzard (of birds and fowls) (U+43D3)	e48f93
+䏔	to eat meat, (same as 肘) the elbow, (same as 腬) fine quality of meat, (same as 衄) nose bleeding (U+43D4)	e48f94
+䏕	(ancient form of 飪) to cook food thoroughly (U+43D5)	e48f95
+䏖	a wound; a bruise; a sore, scar, muscles of the back (U+43D6)	e48f96
+䏗	unexpectedly; suddenly aching of the midriff or waist; lumbago (U+43D7)	e48f97
+䏘	a big abdomen, a female animal with a fat belly (U+43D8)	e48f98
+䏙	(same as U+9193 醓) brine from pickled meat; condiments, juicy meat pulp; mashed meat cooked with soybean sauce, short and ugly, light of the setting moon; (Cant.) 肚䏙 stomach (U+43D9)	e48f99
+䏚	small, missing; wanting; lost, the floating ribs on the sides of the trunk (U+43DA)	e48f9a
+䏛	(a corrupted form) a kind of insects; earthworm, strips of meat cut from the flank and dried in the wind (U+43DB)	e48f9b
+䏜	fat; plump; obesity; obese (U+43DC)	e48f9c
+䏝	(simplified form of 膞) sincere; earnest, a part of offering in sacrifice, gizzard of a fowl, chopped meat, small pig, the kneecap; patella, bone of one's limbs (U+43DD)	e48f9d
+䏞	the belly; the abdomen (U+43DE)	e48f9e
+䏟	fat meat, big; large (U+43DF)	e48f9f
+䏠	(ancient form of 汁) meat soup, mixed meat (U+43E0)	e48fa0
+䏡	uncooked or raw meat, an organic compound; Proteose (U+43E1)	e48fa1
+䏢	meat, rough; cracked skin (U+43E2)	e48fa2
+䏣	(same as non-classical form 蛆) maggot (U+43E3)	e48fa3
+䏤	(same as U+9856 囟) top of the human head; the skull (U+43E4)	e48fa4
+䏥	dry, dandruff-like scales of dead flesh and skin (U+43E5)	e48fa5
+䏦	fat of animals or plants, (same as 胋) fat; plump, fertuke, animal fat (U+43E6)	e48fa6
+䏧	fatty; greasy, not thick; not tight, plump and pretty of the flesh (U+43E7)	e48fa7
+䏨	to swell up greatly, to swell; a swelling; a boil (U+43E8)	e48fa8
+䏩	(same as 脅) to shrug the shoulders, the ribs (U+43E9)	e48fa9
+䏪	tendon (of meat animals); sinews; muscles (U+43EA)	e48faa
+䏫	in between of the abdomen and the spine; the spinal column (U+43EB)	e48fab
+䏬	the spine; the spinal column, the ridge (U+43EC)	e48fac
+䏭	the cheeks; the jaw (U+43ED)	e48fad
+䏮	(abbreviated form of 脇=脅) the sides of the trunk from armpits to ribs; the flank (U+43EE)	e48fae
+䏯	(same as 痣) moles; birthmarks (U+43EF)	e48faf
+䏰	a kind of insects; earthworm, durable; strong and soft; pliable yet tough (U+43F0)	e48fb0
+䏱	body, fat; plump (U+43F1)	e48fb1
+䏲	(same as 胅) protruded bones, swelling, a crooked nose (U+43F2)	e48fb2
+䏳	(in chemistry) olein, oil and grease; fats (esp. animal), the ribs and skin (U+43F3)	e48fb3
+䏴	dim; ambiguous; unclear eyesight, sharp ends of something (U+43F4)	e48fb4
+䏵	plump, rich and full, plentiful, swelling, a plumpy trunk (body) (U+43F5)	e48fb5
+䏶	the stomach; gizzard (of birds and fowls), (same as 髀) buttocks, thigh (U+43F6)	e48fb6
+䏷	medicine for a sore; a boil (injure by a sword or a knief) (U+43F7)	e48fb7
+䏸	fish, eyes of the fishes (U+43F8)	e48fb8
+䏹	to watch stealthily (U+43F9)	e48fb9
+䏺	to swell; swelling (U+43FA)	e48fba
+䏻	(same as 能) can; to be able to, capability; talent, energy (U+43FB)	e48fbb
+䏼	what is left over of the food ( of birds and animals), a big belly (U+43FC)	e48fbc
+䏽	meat pulp; mashed meat cooked with soybean sauce, last name (U+43FD)	e48fbd
+䏾	(non-classical form of U+43FA 䏺) to swell; swelling (U+43FE)	e48fbe
+䏿	the calf of the legs (U+43FF)	e48fbf
+䐀	to dismember body of the livestock (U+4400)	e49080
+䐁	the buttocks; the rump, fat; plump, one of the seven constellations; name of a star, the anus (U+4401)	e49081
+䐂	fat of animals or plants, fat; plump; obese (U+4402)	e49082
+䐃	fat in the abdomen or intestine, protuberances of the muscle, a fetus inside the belly (U+4403)	e49083
+䐄	the unsatisfaction of hunger requires meat, to cook the meat (U+4404)	e49084
+䐅	the buttocks; the bottom; the rump, to groan; to moan (U+4405)	e49085
+䐆	big belly, swollen of the belly (U+4406)	e49086
+䐇	clear; bright, (same as 吻) to agree; match, (same as 唇) the lips; the labia (U+4407)	e49087
+䐈	a piece of one foot two inches dried seasoned meat, to paste up; to attach to; to stick up; to glue, (same as 殖) rotten fat; grease, lard, etc., bowels, fat (U+4408)	e49088
+䐉	fat, (interchangeable 腦) the head (U+4409)	e49089
+䐊	(same as 䖵) insects, (same as 餛) cakes; biscuits; pastry, an ellipse (U+440A)	e4908a
+䐋	sick; illness; disease, red (U+440B)	e4908b
+䐌	(ancient form of 腆) luxuriant; abundant; rich; plentiful of food, brazen-faced; shameless, good; virtuous, protruding, as belly, etc., to go to excess (U+440C)	e4908c
+䐍	(same as 䐢) excellent food; delicacies, to wrinkle; to contract, beautiful; elegant, dried and seasoned meat (U+440D)	e4908d
+䐎	fat; greasy (U+440E)	e4908e
+䐏	fat; plump (U+440F)	e4908f
+䐐	curved part of the knee, between the thigh and calf (U+4410)	e49090
+䐑	thin cut of the sliced meat (U+4411)	e49091
+䐒	not fine; coarse, to stickup; to paste up; to attach to; to glue, scar (U+4412)	e49092
+䐓	soft, (same as U+811C 脜) gentle; mild; temperate facial expression (U+4413)	e49093
+䐔	muscle of the calf (of the leg), tendon (of meat animals), stopping and rising of the pulse like a plaited ropes (U+4414)	e49094
+䐕	oil and grease; fats, the bursting of a wound (U+4415)	e49095
+䐖	(same as 㕧) to laugh heartily; to roar with laughter; to groan; to moan (U+4416)	e49096
+䐗	(same as 豬) a pig, (same as 肚) the belly; the abdomen (U+4417)	e49097
+䐘	to laugh heartily; to roar with laughter, tongue of the cow (U+4418)	e49098
+䐙	(same as 膈) the diaphragm (U+4419)	e49099
+䐚	good graces; great favors, luster (U+441A)	e4909a
+䐛	to loosen; to widen skin (U+441B)	e4909b
+䐜	a swelled belly; drop-sical, to swell, inflated (U+441C)	e4909c
+䐝	thick; heavy fat of animals or plants (U+441D)	e4909d
+䐞	the thin membrane between skin and flesh that protects internal organs or tissues in the human body, weak; fragile; delicate, flesh, meat (U+441E)	e4909e
+䐟	fat; plump, bent; curved feet (U+441F)	e4909f
+䐠	between the flesh, name of state in southen China (of minority group), dim moon (U+4420)	e490a0
+䐡	(same as 臍) the navel; the umbilicus, the underside of a crab (U+4421)	e490a1
+䐢	to wrinkle; to contract, beautiful; elegant, dried and seasoned meat, excellent food; delicacies (U+4422)	e490a2
+䐣	soup made of cutted meat mixed with blood (U+4423)	e490a3
+䐤	dried and seasoned meat, sound of the abdomen (U+4424)	e490a4
+䐥	stinky; offensive-smelling; odorous, fat; plump (U+4425)	e490a5
+䐦	sleepy (U+4426)	e490a6
+䐧	(same as 犒) to reward or cheer troops with food, money, gifts, etc., (same as 臛) meat broth (U+4427)	e490a7
+䐨	back of the foot, the back feet of the animal, covering; shell, to strike; heat from the top (U+4428)	e490a8
+䐩	fat; plump, the fetus of livestock, delicious meat (U+4429)	e490a9
+䐪	(same as standard form 臇) fat; rich, a stew of fish (U+442A)	e490aa
+䐫	obesity, fat; plump (U+442B)	e490ab
+䐬	crisp, brittle, light, sound from the abdomen (U+442C)	e490ac
+䐭	a discharge or flux, diarrhoea and dysentery (U+442D)	e490ad
+䐮	skin (U+442E)	e490ae
+䐯	ugly appearance of a person, dry meat; preserved meat (U+442F)	e490af
+䐰	(same as U+7F9E 羞) to offer food as tribute; delicacies, savoury food (U+4430)	e490b0
+䐱	to pick the meat in between of bones (U+4431)	e490b1
+䐲	half-raw meat; not well cooked meat, the light or grow of fire, raw meat, offensve smell, especially of fish or blood, thin sliced meat (U+4432)	e490b2
+䐳	(same as 魚) fish (U+4433)	e490b3
+䐴	lumbago (U+4434)	e490b4
+䐵	fat; obese, swelling (U+4435)	e490b5
+䐶	to cook; to boil; to decoct, diseases of the lips; hare-lip, pieces of meat (U+4436)	e490b6
+䐷	paunchy; a large belly (U+4437)	e490b7
+䐸	(non-classical form of 膕) the back of the knee, crooked feet (U+4438)	e490b8
+䐹	perserved and dried meat, (a dialect) fried; cooked small pieces of meat, meat broth (U+4439)	e490b9
+䐺	delicious; tasty food, (same as U+91B0 醰) of a fine flavour (U+443A)	e490ba
+䐻	big pieces of dried meat (U+443B)	e490bb
+䐼	thin membrane of the throat; bullet (U+443C)	e490bc
+䐽	U+443D (U+443D)	e490bd
+䐾	fat; plump (U+443E)	e490be
+䐿	gizzard, to store up meat, the five lowest pieces of bone of the spinal column (U+443F)	e490bf
+䑀	the navel, the bowels; the entrails; the viscera, (same as 癖) chronic swelling of the spleen (U+4440)	e49180
+䑁	fatty; greasy, ointment (U+4441)	e49181
+䑂	fat; plump (U+4442)	e49182
+䑃	dim moon, dark; obscure, stupid; ignorant, to cheat; to hide the truth, to cover up; to hide, plump; fleshy (U+4443)	e49183
+䑄	rich; abundant; big and strong; vigorous, husky, (same as 瘜) (nasal) polypus (U+4444)	e49184
+䑅	(non-classical form) dizzy and sleepy; slumberous (U+4445)	e49185
+䑆	feel like vomiting (U+4446)	e49186
+䑇	medicine for a sore; a boil (injure by a sword or a knief) (U+4447)	e49187
+䑈	meat to offer for worship (U+4448)	e49188
+䑉	excrement, shit; night soil (U+4449)	e49189
+䑊	fat; plump, physical disease; carnal (U+444A)	e4918a
+䑋	fat; obese (U+444B)	e4918b
+䑌	lwhat is left over of the food ( of birds and animals) (same as 爛) overripe; rotten, cooked soft; well cooked (U+444C)	e4918c
+䑍	(same as 咽) to swallow; the throat, (same as 癭) a reddish swelling on the neck, gnarl (U+444D)	e4918d
+䑎	soup of pig's intestines, meat soup; meat broth (U+444E)	e4918e
+䑏	ugly, a legendary animal (U+444F)	e4918f
+䑐	bright; light, clear, (same as 瞇) to close the eyes; to narrow the eyes (U+4450)	e49190
+䑑	(ancient form of 僕) a servant, a modest term referring to oneself (U+4451)	e49191
+䑒	a kind of farm tool used in ancient times (U+4452)	e49192
+䑓	(same as 臺) a lookout, a tower, a terrace, a platform, a stage (U+4453)	e49193
+䑔	to pound (grain) in order to remove the husk (U+4454)	e49194
+䑕	(a non-classical abbreviated form of 鼠) a rat, a mouse, squirrels, moles, etc., KangXi radical 208 (U+4455)	e49195
+䑖	U+4456 (U+4456)	e49196
+䑗	to pound (grain) in order to remove the husk (U+4457)	e49197
+䑘	to pound; to ram down, to polish; to grind barley or wheat (U+4458)	e49198
+䑙	put out the tongue; (same as U+3401 㐁) to lick; to taste (U+4459)	e49199
+䑚	(non-classical form of 甜) sweet; agreeable; pleasant (U+445A)	e4919a
+䑛	(standard form of 舐) to lick (U+445B)	e4919b
+䑜	to eat heavily, cooked rice, a meal, to drink, to swallow, to lick, the uvula, the ligule (U+445C)	e4919c
+䑝	(non-classical form of 斝) a small cup with ears, used in ancient times for libations (U+445D)	e4919d
+䑞	(same as 舜) Shun, name of a legendary Chinese ruler, said to have ruled from 2255-2205 B.C., wise; good (U+445E)	e4919e
+䑟	(same as 葟) luxuriant; exuberant; flourishing (said of grass and tress; vegetation; flora) (U+445F)	e4919f
+䑠	long and narrow boat, a small boat (U+4460)	e491a0
+䑡	(same as 艖) small boat (short and deep) (U+4461)	e491a1
+䑢	(non-classical form) (same as 舠) a knife shaped small boat (U+4462)	e491a2
+䑣	a sailing boat (U+4463)	e491a3
+䑤	a boat; a ship; vessel (U+4464)	e491a4
+䑥	a moving boat; a sailing boat, tools used on a boat, a speedy boat (U+4465)	e491a5
+䑦	a boat; a ship; vessel (U+4466)	e491a6
+䑧	a short, deep and small boat (U+4467)	e491a7
+䑨	(same as 舵) rudder; helm (U+4468)	e491a8
+䑩	a kind of inland rivers warship used in Qing Dynasty (U+4469)	e491a9
+䑪	a sailing; moving boat (U+446A)	e491aa
+䑫	tools for boat, name of a boat (U+446B)	e491ab
+䑬	boat, large boat, to dispel; to remove; to move, to stir up (U+446C)	e491ac
+䑭	war vessel; man-of-war; warship (U+446D)	e491ad
+䑮	U+446E (U+446E)	e491ae
+䑯	a boat; a ship; vessel (U+446F)	e491af
+䑰	small boat (U+4470)	e491b0
+䑱	a boat; a ship; vessel (U+4471)	e491b1
+䑲	(same as 棹 櫂) to row a boat, an oar, a scull, a boat (U+4472)	e491b2
+䑳	a horizontal bar in front of a boat, a boat (U+4473)	e491b3
+䑴	a boat; a ship; vessel (U+4474)	e491b4
+䑵	(corrupted form of 艒) a small boat (U+4475)	e491b5
+䑶	sprightly boat; light boat (U+4476)	e491b6
+䑷	U+4477 (U+4477)	e491b7
+䑸	a group of boats, boat; warship (U+4478)	e491b8
+䑹	(same as 艘) a numerary adjunct for ships, groove of a boat (U+4479)	e491b9
+䑺	(same as 帆) a sail (of a boat) (U+447A)	e491ba
+䑻	covering; curtain, or screen of a boat, to sail a boat (U+447B)	e491bb
+䑼	ocean-going liner, steamer, a boat; a ship; vessel (U+447C)	e491bc
+䑽	a large boat (U+447D)	e491bd
+䑾	U+447E (U+447E)	e491be
+䑿	small boat (U+447F)	e491bf
+䒀	short and deep boat (U+4480)	e49280
+䒁	a small boat connected to the back of a big boat; used to load the passengers, cargo or goods, warship, a kind of tools used to capsize (U+4481)	e49281
+䒂	an oar (U+4482)	e49282
+䒃	(same as U+8241 造) to build; to make; to do, to arrive at; to go to (U+4483)	e49283
+䒄	fully laden of a boat, name of a ship (U+4484)	e49284
+䒅	beautiful eyes, (dialect) a pair; two (U+4485)	e49285
+䒆	name of a ship, a sailing boat (U+4486)	e49286
+䒇	name of a ship, fully load of a boat (U+4487)	e49287
+䒈	(same as 橨) side beam of a boat (U+4488)	e49288
+䒉	a long, narrow boat (U+4489)	e49289
+䒊	a patient (of jaundice; icterus) facial complexion (U+448A)	e4928a
+䒋	air current; atmospheric current (U+448B)	e4928b
+䒌	dark blue color, without color, to close the eyes (U+448C)	e4928c
+䒍	without color, clear and lucid (U+448D)	e4928d
+䒎	without color, clear and lucid (U+448E)	e4928e
+䒏	disturbed in mind, not in good health, a fierce or ferocious appearance (U+448F)	e4928f
+䒐	disturbed in mind, not in good health, a fierce or ferocious appearance, a bad look (U+4490)	e49290
+䒑	(non-classical form of 艸) grass; straw; herbs; weeds (U+4491)	e49291
+䒒	(same as 芀) name of a plant (much used for making brooms); a reed (U+4492)	e49292
+䒓	to do violence, perverse; rebellious, calamities; tribulations; miseries; crime; sin (U+4493)	e49293
+䒔	name of a variety of grass (U+4494)	e49294
+䒕	a kind of herb medicine, luxuriant; flourishing of grass and trees (U+4495)	e49295
+䒖	a kind of herb medicine (plants of the mugwort or artemisia family) (U+4496)	e49296
+䒗	(same as 芞) fragrant herb, vanilla (U+4497)	e49297
+䒘	(same as 荾) parsley, (same as 葰) ginger, pistil (U+4498)	e49298
+䒙	U+4499 (U+4499)	e49299
+䒚	name of a variety of grass (U+449A)	e4929a
+䒛	name of a variety of grass (U+449B)	e4929b
+䒜	name of a variety of grass, a kind of herb (U+449C)	e4929c
+䒝	root of the thatch, straw or couch grass; a herb medicine to quench thirst (U+449D)	e4929d
+䒞	name of a variety of grass, hot (U+449E)	e4929e
+䒟	name of a variety of grass (U+449F)	e4929f
+䒠	(same as 丰) luxuriant; exuberant of the grass and trees, young shoots of the rape-turnip--Brassica rapa (U+44A0)	e492a0
+䒡	name of a variety of grass (U+44A1)	e492a1
+䒢	sweet flag; the calamus; its leaves are hung on the door lintels on the 5th of the5th lunar month, to avert evil influences (U+44A2)	e492a2
+䒣	(same as 苒) (of flowers and grass) lush or delicate (U+44A3)	e492a3
+䒤	name of a variety of grass (U+44A4)	e492a4
+䒥	corresponding; equivalent, considerable; to a great extent, appropriate (U+44A5)	e492a5
+䒦	grass floats on water (U+44A6)	e492a6
+䒧	a vessel or utensil made of straw, grass or weeds, a kind of grass (U+44A7)	e492a7
+䒨	a kind of vegetable, plants of the mugwort or artemisia family (U+44A8)	e492a8
+䒩	name of a variety of grass, (same as 莫) not (U+44A9)	e492a9
+䒪	name of a variety of grass (U+44AA)	e492aa
+䒫	grassy (U+44AB)	e492ab
+䒬	(ancient form of 莫) not, (standard form of 暮) sunset; dusk (U+44AC)	e492ac
+䒭	(same as 等) rank; grade, same; equal, to wait, and so on; etc. (U+44AD)	e492ad
+䒮	U+44AE (U+44AE)	e492ae
+䒯	U+44AF (U+44AF)	e492af
+䒰	to follow; to trace, to submit; to accord with, to accompany, a kind of grass (U+44B0)	e492b0
+䒱	(same as 蒸) twigs of hemp used fo fuel, to rise, as steam, steam (U+44B1)	e492b1
+䒲	a medical herb; a second name for ( 黃岑) Scutellaria baikalensis (U+44B2)	e492b2
+䒳	(same as U+6736 朵) a flower; a cluster of flowers; a bud, lobe of the ear (U+44B3)	e492b3
+䒴	name of a variety of grass (U+44B4)	e492b4
+䒵	name of a variety of grass (U+44B5)	e492b5
+䒶	(ancient form of 天) the sky; the heaven, Nature; God, day (U+44B6)	e492b6
+䒷	a kind of plant, a kind of herb; Chinese trichosanthes (Trichosanthes kirilowii); bryonia (U+44B7)	e492b7
+䒸	grass (U+44B8)	e492b8
+䒹	grassy, fruitful (U+44B9)	e492b9
+䒺	(ancient form of 堇) clay (U+44BA)	e492ba
+䒻	a medical herb; acrid taste; poisonless; harmless (U+44BB)	e492bb
+䒼	(same as 曲) a bamboo tray for raising silkworms (U+44BC)	e492bc
+䒽	Illicium anisatum, and kind of poisonous shrub (U+44BD)	e492bd
+䒾	U+44BE (U+44BE)	e492be
+䒿	U+44BF (U+44BF)	e492bf
+䓀	U+44C0 (U+44C0)	e49380
+䓁	U+44C1 (U+44C1)	e49381
+䓂	name of a variety of grass, last name (U+44C2)	e49382
+䓃	melancholy and sad, withered (said of grass and trees) (U+44C3)	e49383
+䓄	grassy, name of a variety of grass (U+44C4)	e49384
+䓅	(same as 芹) celery; a kind of watr plant (U+44C5)	e49385
+䓆	to cut the; to sever grass (U+44C6)	e49386
+䓇	luxuriant; lush of grass and trees, (same as 赫) bright; glowing, brilliant; glorious, (same as 嚇) angry, fear; dread; fright; scare (U+44C7)	e49387
+䓈	a kind of plant; chicken-head; Euryale ferox (U+44C8)	e49388
+䓉	name of a variety of grass, a kind of vegetable, (same as 椰) coconut; coconut palm; coconut tree (U+44C9)	e49389
+䓊	name of a variety of grass, (as moxa) (Perilla ocimoides) (U+44CA)	e4938a
+䓋	elm-seeds -- used as food (U+44CB)	e4938b
+䓌	polygala (a medical herb) (U+44CC)	e4938c
+䓍	cruciferous flowers; with acrid seeds; used as medicine (U+44CD)	e4938d
+䓎	name of a variety of grass (U+44CE)	e4938e
+䓏	flourishing; luxuriant; a lush growth of flowers (U+44CF)	e4938f
+䓐	name of a variety of grass (U+44D0)	e49390
+䓑	(same as 荓) name of a variety of grass (same as 萍) duckweeds (U+44D1)	e49391
+䓒	(same as 蒯) Scirpus cyperinus var, concolor, a rush, from which many things are weaved (U+44D2)	e49392
+䓓	(simplified form of 薵) name of a variety of grass, (same as 葤) use grass to wrap things, to cover; to put a cover over something (U+44D3)	e49393
+䓔	U+44D4 (U+44D4)	e49394
+䓕	polygala (a medical herb) (U+44D5)	e49395
+䓖	(simplified form of 藭) Cnidium officinale, a kind of medicinal herb (U+44D6)	e49396
+䓗	(same as 棣 蔥) scallions; leeks; onions (U+44D7)	e49397
+䓘	a kind of plant, name of a variety of grass (U+44D8)	e49398
+䓙	slanting; inclined; sloping (U+44D9)	e49399
+䓚	a kind of vegetable, a water-plant; the bulbs of which art used as food -- Sagittaria sagittifolia (U+44DA)	e4939a
+䓛	molecular formula (C18H12), to brush (U+44DB)	e4939b
+䓜	salted or pickled vegetables (U+44DC)	e4939c
+䓝	Chinese pennisetum) Pennisetum alopecuroides) (U+44DD)	e4939d
+䓞	a kind of plant, can be used as dyestuff, material for making paper and coir raincoat, edible, Chinese pennisetum, Pennisetum alopecuroides (U+44DE)	e4939e
+䓟	name of a variety of grass, (same as 茢) a broom (U+44DF)	e4939f
+䓠	the water plantain, the lotus floating on the water (U+44E0)	e493a0
+䓡	a medical herb ( 知母) (U+44E1)	e493a1
+䓢	name of a variety of grass (U+44E2)	e493a2
+䓣	name of a variety of grass (U+44E3)	e493a3
+䓤	vegetation (U+44E4)	e493a4
+䓥	sound of the wriggled insects on the grass (U+44E5)	e493a5
+䓦	(same as 典) a rule; a law, a tale or story, pawn; to mortgage, to take charge of (U+44E6)	e493a6
+䓧	(same as 亟) urgent; pressing (U+44E7)	e493a7
+䓨	(simplified form of 罃) long-necked bottle; an earthenware jar with a small mouth and two or four ears (U+44E8)	e493a8
+䓩	U+44E9 (U+44E9)	e493a9
+䓪	U+44EA (U+44EA)	e493aa
+䓫	name of a mountain, in Taiwan Province (U+44EB)	e493ab
+䓬	U+44EC (U+44EC)	e493ac
+䓭	weed or grass with narrow thick glades (as bamboo); water-pepper group (U+44ED)	e493ad
+䓮	lush growth; dense growth of silky grass; fine grass (U+44EE)	e493ae
+䓯	water-pepper (U+44EF)	e493af
+䓰	absinthin, Artemisia capillaris, a kind of medicinal herb (U+44F0)	e493b0
+䓱	a kind of herb medicine; Bupleurum (U+44F1)	e493b1
+䓲	fine; silky; new growth of grass (U+44F2)	e493b2
+䓳	name of a variety of grass (U+44F3)	e493b3
+䓴	edible fungus from trees (U+44F4)	e493b4
+䓵	to blossom; to flower (U+44F5)	e493b5
+䓶	(same as 藾) a kind of plant; a kind of herb (U+44F6)	e493b6
+䓷	(same as 莕 荇) Nymphoides peltalum; a kind of water plant, name of a variety of grass (U+44F7)	e493b7
+䓸	weed (U+44F8)	e493b8
+䓹	(same as 饐) to stuff full and to gulp down, cooked food which has become mouldy, sour (U+44F9)	e493b9
+䓺	name of a variety of grass (U+44FA)	e493ba
+䓻	U+44FB (U+44FB)	e493bb
+䓼	name of a variety of grass, grunting of hogs (U+44FC)	e493bc
+䓽	name of a variety of grass (U+44FD)	e493bd
+䓾	lush; luxuriant of grass and trees (U+44FE)	e493be
+䓿	a second name for lotus flower (U+44FF)	e493bf
+䔀	(same as 荽 葰) parsley (U+4500)	e49480
+䔁	name of a variety of grass (U+4501)	e49481
+䔂	vegetable soup, a kind of vegetable (U+4502)	e49482
+䔃	cordate houttuynia (Houttuynia cordata) (U+4503)	e49483
+䔄	name of a variety of grass; rushes, dodder (U+4504)	e49484
+䔅	name of a variety of trees, name of a variety of grass, fruit of the tree (U+4505)	e49485
+䔆	a kind of bean; edible (U+4506)	e49486
+䔇	a kind of plant, the root is used for food (U+4507)	e49487
+䔈	lush growth of grass, trees and fruits (U+4508)	e49488
+䔉	scattered or dispersed of grass and trees, (non-classical form of 蒜) the garlic (belongs to meat and fish diet) (U+4509)	e49489
+䔊	dense growth of grass (U+450A)	e4948a
+䔋	a kind of tree; very tall and its lieaves like bird's wings; edible (U+450B)	e4948b
+䔌	name of a variety of grass, (Pueraria thunbergiana); the white birch (U+450C)	e4948c
+䔍	U+450D (U+450D)	e4948d
+䔎	name of a variety of grass (U+450E)	e4948e
+䔏	a lush; dense growth of weeds, mixed; mingled roots of the grass, (same as 簉) deputy; a deputy; an attendant, an escorting vehicle (U+450F)	e4948f
+䔐	delicate, colorful and beautiful small piece of paper (U+4510)	e49490
+䔑	a white colored cluster grown at the tip of cogongrass, a kind of plants of the mugwort or artemisia family, an ear of grain (U+4511)	e49491
+䔒	name of a variety of grass (U+4512)	e49492
+䔓	herb medicine; teasel root (U+4513)	e49493
+䔔	name of a variety of grass (U+4514)	e49494
+䔕	chicken breast (U+4515)	e49495
+䔖	(same as 菱 蔆) water caltrop (U+4516)	e49496
+䔗	a kind of vegetable (U+4517)	e49497
+䔘	fish paste; fish cooked in soy sauce (U+4518)	e49498
+䔙	name of a variety of grass (U+4519)	e49499
+䔚	herb medicine; the water plantain (U+451A)	e4949a
+䔛	fibrous plant of which cloth, rope, bag are made (U+451B)	e4949b
+䔜	herb medicine; hellebore (U+451C)	e4949c
+䔝	name of a variety of grass (U+451D)	e4949d
+䔞	the beginning; to start, new growing of the grass (U+451E)	e4949e
+䔟	shake and wave of the grass (U+451F)	e4949f
+䔠	thin root (rhizome) of the lotus, (same as 梢) the tip of a branch, (same as U+77DF 槊) a long spear; a lance (U+4520)	e494a0
+䔡	name of a variety of grass; perilla ocimoides, whose seeds are a bird feed (U+4521)	e494a1
+䔢	(ancient form of 華) Cathay; China, splendid; gorgeous; colorful; beautiful; luxurious, a family name (U+4522)	e494a2
+䔣	a tribe in ancient times (U+4523)	e494a3
+䔤	the lush and luxuriant of the grass and flowers (U+4524)	e494a4
+䔥	(non-classical form of U+856D 蕭) common variety of artemisia (U+4525)	e494a5
+䔦	U+4526 (U+4526)	e494a6
+䔧	(same as 蔾) a kind of plant; the caltrop; caltrap (U+4527)	e494a7
+䔨	U+4528 (U+4528)	e494a8
+䔩	U+4529 (U+4529)	e494a9
+䔪	name of a variety of grass, scattered or dispersed of the grass and trees (U+452A)	e494aa
+䔫	U+452B (U+452B)	e494ab
+䔬	hemp, marijuana (female; pistillate), herbage (U+452C)	e494ac
+䔭	name of a variety of grass; poisonous herb (U+452D)	e494ad
+䔮	name of a variety of grass; growing in the water with edible flowers (U+452E)	e494ae
+䔯	salted; pickled leeks or scallions (U+452F)	e494af
+䔰	(variant of 葍) name of a variety of grass; perennial; creeping plants (U+4530)	e494b0
+䔱	name of a variety of grass (U+4531)	e494b1
+䔲	name of a variety of grass, (same as 橙) the orange (U+4532)	e494b2
+䔳	chickling (U+4533)	e494b3
+䔴	name of a variety of grass, growing grass, to weed (in farming); to mow grass or cut weed (U+4534)	e494b4
+䔵	(same as 葌 蕑) fragrant thoroughwort (Eupatorium fortunei) (U+4535)	e494b5
+䔶	name of a variety of grass, weed (in farming); to mow grass or cut weed (U+4536)	e494b6
+䔷	Cyperus rotundus, a kind of medicinal herb (U+4537)	e494b7
+䔸	name of a variety of grass, fragrant herb; vanilla, fragrant; delicious; balm; spice (U+4538)	e494b8
+䔹	a fungus which grows on rotten plants and is eaten when fresh (U+4539)	e494b9
+䔺	heading; earing; to flower; to blossom (of the smartweed group), Cyperus rotundus, a kind of medicinal herb, a peduncle or footstalk of a flower or fruit; a stem; a base, new growing leaves (U+453A)	e494ba
+䔻	name of a variety of grass, luxuriant; lush of the grass (U+453B)	e494bb
+䔼	sound of the grass; parsley (U+453C)	e494bc
+䔽	to cover; to put a cover over something, small, low, weak, pure; clean; clear (U+453D)	e494bd
+䔾	a kind of fragrant herb, a kind of vegetable (growing in the water; something like the bracken) (U+453E)	e494be
+䔿	lush growth; dense growth of trees and grass, to huddle together; to crowd together (U+453F)	e494bf
+䕀	name of a variety of grass, Compositae; chrysanthemum family, perennial herbage; to blossom in winter (U+4540)	e49580
+䕁	suddenly, name of a variety of grass (U+4541)	e49581
+䕂	U+4542 (U+4542)	e49582
+䕃	(same as 蔭) the shade of a tree, to cover up; to cover or screen (U+4543)	e49583
+䕄	meat in the form of paste; salted or pickled meat (U+4544)	e49584
+䕅	name of a variety of grass (U+4545)	e49585
+䕆	round straw quilt; bedding; cushion; mattress; mat for the chair, name of a variety of grass (U+4546)	e49586
+䕇	name of a variety of grass, a kind of vegetable (U+4547)	e49587
+䕈	name of a variety of grass, (same as U+5C5F 屧) the wooden sole of a shoe (U+4548)	e49588
+䕉	a kind of plant, Pueraria thunbergiana, a creeping, edible bean whose fibers can be made into linen-like cloth and whose roots are used in herbal medicine (U+4549)	e49589
+䕊	name of a variety of grass, grass that creep and spread luxuriantly (U+454A)	e4958a
+䕋	of elm group (U+454B)	e4958b
+䕌	(same as U+7A49 稚) young grain, tender; young, delicate; small (U+454C)	e4958c
+䕍	name of a variety of grass (U+454D)	e4958d
+䕎	(non-classical form) name of a variety of grass (corrupted form of 葍) perennial; creeping plants (U+454E)	e4958e
+䕏	Artemisia, a kind of plant with edible leaves (U+454F)	e4958f
+䕐	U+4550 (U+4550)	e49590
+䕑	(same as 葰) parsley (U+4551)	e49591
+䕒	name of a variety of grass (U+4552)	e49592
+䕓	name of a variety of grass; poisonous; used to kill fishes, valueless things; insignificant things (U+4553)	e49593
+䕔	name of a variety of grass, couch grass family (U+4554)	e49594
+䕕	name of a variety of grass (U+4555)	e49595
+䕖	(same as 蓀) fragrant herb, vanilla (U+4556)	e49596
+䕗	name of a variety of grass (U+4557)	e49597
+䕘	(same as 苓) a variety of fungus; tuckahoe, licorice, or liquorice, name of a variety of grass (U+4558)	e49598
+䕙	to set in order; to adjust and repair (U+4559)	e49599
+䕚	(same as 蕢) a straw basket, a vegetable with red stalk (U+455A)	e4959a
+䕛	name of a variety of grass (U+455B)	e4959b
+䕜	U+455C (U+455C)	e4959c
+䕝	medical herb; a second name for sesame (U+455D)	e4959d
+䕞	Henbane, poisonous, seeds for medical use, a plant which produces a brown dye (U+455E)	e4959e
+䕟	a kind of vegetable; rape (U+455F)	e4959f
+䕠	(non-classical form 蕟) coarse bamboo mat, a kind of ailment, probably of a rheumatic nature, which causes stiff neck and backbone (U+4560)	e495a0
+䕡	Compositae; chrysanthemum family; perennial herbage; herb medicine (U+4561)	e495a1
+䕢	weak, crude and coarse, careless; rash, bad behavior (U+4562)	e495a2
+䕣	water plant (U+4563)	e495a3
+䕤	(same as 蘄) name of a county in ancient times; today's south of Anhui Province, Suxian (U+4564)	e495a4
+䕥	(ancient form of 苨) herb medicine; Chinese bellflower family; Platycodon grandiforus (U+4565)	e495a5
+䕦	flower of the chrysanthemum; chrysanthemum (U+4566)	e495a6
+䕧	(same as U+832D 茭) Zizania latifolia, a kind of edible aquatic grass, rootstock (of the lotus), the joint of the sides of arms and the end of a bow (U+4567)	e495a7
+䕨	(same as 藤) rattan (U+4568)	e495a8
+䕩	dry fruit (e.g. nuts), dried fruit (U+4569)	e495a9
+䕪	the water plantain (U+456A)	e495aa
+䕫	(corrupted form of U+5914 夔) a one-legged monster; a walrus, name of a court musician in the reign of Emperor Shun (2255 B.C.) (U+456B)	e495ab
+䕬	(same as 薑) ginger (U+456C)	e495ac
+䕭	name of a variety of grass, a kind of vegetable, a variety of nettle, urtica (U+456D)	e495ad
+䕮	(interchangeable 菊) flower of the chrysanthemum; chrysanthemun (U+456E)	e495ae
+䕯	duckweed (U+456F)	e495af
+䕰	a second name for ( 知母) rhizome of wind-weed (Anemarrhena asphodeloides); herb medicine (U+4570)	e495b0
+䕱	name of a variety of grass (U+4571)	e495b1
+䕲	Artemisia, a kind of plant with edible leaves (U+4572)	e495b2
+䕳	name of a variety of grass (U+4573)	e495b3
+䕴	a second for monkshood ( 附子); Chinese herb medicine (U+4574)	e495b4
+䕵	name of a variety of grass; a second name for (葒草) polygonum orientale (U+4575)	e495b5
+䕶	name of a variety of grass (U+4576)	e495b6
+䕷	a kind of plant; putchuck, the root of a species of thistle found in Cashmere; roseleaf raspberry (Rubus rosaefolius var. Coronarius) (U+4577)	e495b7
+䕸	(same as U+7A2D 秸) wheat straw; the stem of hem (U+4578)	e495b8
+䕹	a curtain; a shade; screen; blinds (U+4579)	e495b9
+䕺	dense growth; lush growth or the grass, a tree; a numerary auxiliary for counting trees or similar things, roots that grow above ground (U+457A)	e495ba
+䕻	to adhere to; to stick together (U+457B)	e495bb
+䕼	name of a variety of grass (U+457C)	e495bc
+䕽	the rhododendron -- it is said to cause sheep to stagger and die, hence the name (U+457D)	e495bd
+䕾	(ancient form of 荶) a kind of vegetable; something like garlic; growing in the water, name of a variety of grass (U+457E)	e495be
+䕿	name of a variety of grass (U+457F)	e495bf
+䖀	(same as 虈) angelica; the root of Dahurian angelica (U+4580)	e49680
+䖁	number, to count; to enumerate (U+4581)	e49681
+䖂	an edible water-plant -- Brasenia purpurca (U+4582)	e49682
+䖃	the water is waving in the breeze, old and desolate; rags and rubbish (U+4583)	e49683
+䖄	(ancient standard form of 然 燃) to burn; to ignite; to light (U+4584)	e49684
+䖅	name of a variety of grass; nasturtium (U+4585)	e49685
+䖆	medicinal herb; a kind of vegetable, salted vegetables (U+4586)	e49686
+䖇	fragrant herb; fragrant plant; tulip (U+4587)	e49687
+䖈	(same as U+8650 虐) cruel; ferocious; atrocious (U+4588)	e49688
+䖉	(of tiger) to roar or howl (U+4589)	e49689
+䖊	tiger-like (U+458A)	e4968a
+䖋	(same as U+8650 虐) cruel; ferocious; atrocious (U+458B)	e4968b
+䖌	of tiger, to roar (U+458C)	e4968c
+䖍	(same as 虔) to act with reverence, devout; sincere (U+458D)	e4968d
+䖎	tiger (U+458E)	e4968e
+䖏	(same as U+8655 處) to dwell; to abide in; to stay on; to be at rest in; to occupy, a place; an office; a department (U+458F)	e4968f
+䖐	sound of a tiger (U+4590)	e49690
+䖑	a white tiger (U+4591)	e49691
+䖒	earthenware with the shape of a bean; used in ancient times (U+4592)	e49692
+䖓	of a walking tiger (U+4593)	e49693
+䖔	a kind of white tiger, an angry tiger, sound of a tiger (U+4594)	e49694
+䖕	a tiger (U+4595)	e49695
+䖖	(same as 狎) to show familiarity, intimacy, or disrespect (of a tiger) (U+4596)	e49696
+䖗	strong; great fighters or warriors -- the bear and the tiger (U+4597)	e49697
+䖘	a tiger (U+4598)	e49698
+䖙	a resting tiger; a tiger to lie down and take some rest (U+4599)	e49699
+䖚	a tiger (U+459A)	e4969a
+䖛	of tiger (U+459B)	e4969b
+䖜	the fighting sound made by two tigers (U+459C)	e4969c
+䖝	(corrupted form of 虫 蟲) insects; worms (U+459D)	e4969d
+䖞	a sea-insect; in the shape of a human's elbow (U+459E)	e4969e
+䖟	(non-classical form of U+8771 虻) a gadfly (U+459F)	e4969f
+䖠	(non-classical form of 螈) a kind of lizard found in damp places; Diemyctylus pyrrhogaster, a kind of amphibious reptile (U+45A0)	e496a0
+䖡	millipede (U+45A1)	e496a1
+䖢	first-born silkworm (U+45A2)	e496a2
+䖣	(same as U+86A4 蚤) flea, to scratch, the mortices in the hub for the spokes of the wheel (U+45A3)	e496a3
+䖤	(same as 蜿) to creep; to wriggle (U+45A4)	e496a4
+䖥	(same as 蟊) insects that are injurious to crops (U+45A5)	e496a5
+䖦	scorpion; a grub which bores into trees and destroys them, a kind of spider (U+45A6)	e496a6
+䖧	a poisonous insect; scorpion; to sting; prick of a poisonous insect; venomous sting, to ache (U+45A7)	e496a7
+䖨	mantis, (same as 蟅) ground beetle (Eupolyphage sinensis) (U+45A8)	e496a8
+䖩	a kind of bee; black bee (U+45A9)	e496a9
+䖪	(same as 蠀) grub ( a kind of larva); maggots, looper; inchworm; geometer (U+45AA)	e496aa
+䖫	(same as 蚌) oyster (U+45AB)	e496ab
+䖬	U+45AC (U+45AC)	e496ac
+䖭	grub (a kind of larva), second for spider, a variety of spider; octopus; a long-legged spider (U+45AD)	e496ad
+䖮	(same as 蠁) larvae; grubs (U+45AE)	e496ae
+䖯	poisonous insect, (same as 奎) one of the 28 constellations which ancient Chinese astrologers believed to control the literary trends of the world, (same as 蛙) frog (U+45AF)	e496af
+䖰	a kind of gnat; a small flying insect (U+45B0)	e496b0
+䖱	large shrimp in the sea (U+45B1)	e496b1
+䖲	a kind of insect (looks like cicada) (U+45B2)	e496b2
+䖳	jelly-fish; sea-blubber, (interchangeable 虴) looks like grasshopper but smaller (U+45B3)	e496b3
+䖴	a kind of insect, (non-classical form of 珧) scallops, found in abundance in the China Sea; the shells contain mother-of-pearl, and the compressor muscle or ligament is dried and imported into China as Compoy ( 干貝); also called ( 江瑤柱) it is highly esteemed as an article of food, both in China and Japan (U+45B4)	e496b4
+䖵	insects (U+45B5)	e496b5
+䖶	(of a hog:) to root (rout) earth with the snout; animal of the hedgehog family (U+45B6)	e496b6
+䖷	a kind of insect (U+45B7)	e496b7
+䖸	(same as 蛾) moth (U+45B8)	e496b8
+䖹	(interchangeable 蛘) weevil (U+45B9)	e496b9
+䖺	a legendary animal in ancient times (U+45BA)	e496ba
+䖻	ephemera; ephemerid; May fly, poison of the snake (U+45BB)	e496bb
+䖼	the dung beetle, scarabaeus; the scavenger beetle (U+45BC)	e496bc
+䖽	(same as 蜊) a kind of clam with thick white shells (U+45BD)	e496bd
+䖾	U+45BE (U+45BE)	e496be
+䖿	(same as 蜊) a kind of clam with thick white shells (U+45BF)	e496bf
+䗀	a kind of clam (U+45C0)	e49780
+䗁	a kind of cicada, long-legged spider (U+45C1)	e49781
+䗂	Diemyctylus pyrrhogaster, a kind of amphibious reptile, a kind of spider; a fly-eating spider (U+45C2)	e49782
+䗃	the millipede, a kind of cicada; big and with black color (U+45C3)	e49783
+䗄	a kind of insect; golden beetle (U+45C4)	e49784
+䗅	millipede, (of a road) winding; zigzag (U+45C5)	e49785
+䗆	a kind of insect, ant (U+45C6)	e49786
+䗇	the toad (especially in reference to the one supposed to live on the moon), earthworm (U+45C7)	e49787
+䗈	(non-classical form of U+8771 虻) a gadfly (U+45C8)	e49788
+䗉	a small solitary wasp (U+45C9)	e49789
+䗊	to put out the tongue (said of animal) (U+45CA)	e4978a
+䗋	a marine crab (U+45CB)	e4978b
+䗌	dragonfly (U+45CC)	e4978c
+䗍	(same as 蠡) wood-boring insect, (of insects) to bore or eat wood, a tribe of the huns (U+45CD)	e4978d
+䗎	a kind of insect (U+45CE)	e4978e
+䗏	name of a insect; a black insect with six legs, capable of ejecting poison for self-defense; the spider millipede (U+45CF)	e4978f
+䗐	a weevil found in rice, etc. (U+45D0)	e49790
+䗑	firefly (U+45D1)	e49791
+䗒	a kind of clam; long and narrow (U+45D2)	e49792
+䗓	dragonfly (U+45D3)	e49793
+䗔	a house-lizard or gecko, a kind of insect; living in the water (U+45D4)	e49794
+䗕	(same as 蜿) bends; turns; curves; turns and twists, to circle; to hover around, a name for the earthworm (U+45D5)	e49795
+䗖	rainbow (U+45D6)	e49796
+䗗	(same as 蚈) the millipede, firefly (U+45D7)	e49797
+䗘	a weevil (U+45D8)	e49798
+䗙	earthworm (U+45D9)	e49799
+䗚	eggs of mantis; chrysalis (U+45DA)	e4979a
+䗛	a kind of insect (U+45DB)	e4979b
+䗜	a mole-cricket, a kind of insect; (same as U+45BB 䖻) ephemera; ephemerid; mayfly; snake poison (U+45DC)	e4979c
+䗝	(non-classical form of 蠶) silkworm (U+45DD)	e4979d
+䗞	(same as 蠶) silkworm (U+45DE)	e4979e
+䗟	a kind of insect (U+45DF)	e4979f
+䗠	the larva of mosquitoes (U+45E0)	e497a0
+䗡	a kind of insect, name of a place recorded in ancient books (U+45E1)	e497a1
+䗢	(same as 蚤) flea (U+45E2)	e497a2
+䗣	insect of mulberry, insects that damage to the melons (U+45E3)	e497a3
+䗤	a kind of worm produced in water (U+45E4)	e497a4
+䗥	the solitary wasp, lice on cattle, a kind of gad-fly (U+45E5)	e497a5
+䗦	(same as 蜂) bee; wasp (U+45E6)	e497a6
+䗧	Libellulidae, a variety of dragonfly (U+45E7)	e497a7
+䗨	Lepsima saccharina, a kind of silvery worm that eats clothes, books, etc. (U+45E8)	e497a8
+䗩	toad (especially in reference to the one supposed to live on the moon), molluscs; mollusks generally (U+45E9)	e497a9
+䗪	a kind of worm; can be used in Chinese medicine (U+45EA)	e497aa
+䗫	(same as 蟆) a frog, a toad (U+45EB)	e497ab
+䗬	(same as U+882D 蜂) bee; wasp, hornets, wasps (U+45EC)	e497ac
+䗭	U+45ED (U+45ED)	e497ad
+䗮	a kind of insect (U+45EE)	e497ae
+䗯	a kind of insect, clam family (U+45EF)	e497af
+䗰	spiral shell; conch, spiral (U+45F0)	e497b0
+䗱	a kind of insect, snail family, snake family (U+45F1)	e497b1
+䗲	firefly (U+45F2)	e497b2
+䗳	U+45F3 (U+45F3)	e497b3
+䗴	U+45F4 (U+45F4)	e497b4
+䗵	a disease attacked silkworm, a dying silkworm (U+45F5)	e497b5
+䗶	(non-classical form of 蠟) wax (U+45F6)	e497b6
+䗷	a kind of wasp (U+45F7)	e497b7
+䗸	a kind of insect; a weevil found in rice, etc. (U+45F8)	e497b8
+䗹	(same as 蛓) hairy caterpillar (U+45F9)	e497b9
+䗺	creeping; wriggly, (same as 蜑), the boat people in the coastal areas of Fukien (Fugian) and Kwangtung (Guangdong); Southern tribes (U+45FA)	e497ba
+䗻	a kind of sea crab (U+45FB)	e497bb
+䗼	a kind of insect (U+45FC)	e497bc
+䗽	a small gadfly that suck blood of horse or cow; weevil found in rice, etc. (U+45FD)	e497bd
+䗾	(same as 蜆) Corbicula leana, a variety of bivalves (U+45FE)	e497be
+䗿	a kind of insect; mole cricket (U+45FF)	e497bf
+䘀	(same as 蛗) grasshoppers (U+4600)	e49880
+䘁	(same as 蠽) a blue-green colored cicada (U+4601)	e49881
+䘂	(same as U+460B 䘋) a kind of insect (U+4602)	e49882
+䘃	a kind of crab, (same as 蟔) a caterpillar (U+4603)	e49883
+䘄	cicada famiy; a poisonous insect (U+4604)	e49884
+䘅	(same as 螚) a small gadflies and mosquitoes, (non-classical form of 能) a bear like animal, turtle family, bee family (U+4605)	e49885
+䘆	earthworm (U+4606)	e49886
+䘇	(same as 蚊) mosquito; gnat (U+4607)	e49887
+䘈	(corrupted form of 蠣) oyster (U+4608)	e49888
+䘉	(standard form of 蠶) silkworm (U+4609)	e49889
+䘊	flies; small insects produced in damp places; a kind of gnat (U+460A)	e4988a
+䘋	a kind of insect (U+460B)	e4988b
+䘌	gadfly (U+460C)	e4988c
+䘍	(same as 蠆) a kind of scorpion, a poisonous insect (U+460D)	e4988d
+䘎	name of an insect (U+460E)	e4988e
+䘏	(same as 恤) sympathy, pity (U+460F)	e4988f
+䘐	(same as standard form 衄) the bleed at the nose, to damage; a setback; a failure (U+4610)	e49890
+䘑	(non-classical form of U+8108 脈) the pulse, the veins or arteries (U+4611)	e49891
+䘒	boy's reproductive organs, to fleece; to cut down; to scrape; to pare, to enfeeble (U+4612)	e49892
+䘓	thick blood of cattle and goat (U+4613)	e49893
+䘔	(same as 喀) to vomit; to throw up; to disgorge, coughs (U+4614)	e49894
+䘕	prostitute, a trade; an occupation; a profession (U+4615)	e49895
+䘖	U+4616 (U+4616)	e49896
+䘗	beautiful, exquisite; fine (U+4617)	e49897
+䘘	(same as 御) to drive; to control; to manage, imperial, to wait on, clean; pure (U+4618)	e49898
+䘙	(same as 衛) to guard; to protect, a keeper (U+4619)	e49899
+䘚	(same as U+5352 卒) a servant; an underling, a pawn in chess, abrupt; hurried (U+461A)	e4989a
+䘛	(Cant.) 卡䘛, khaki (U+461B)	e4989b
+䘜	(same as standard form 巾) a napkin; kerchief or towel, a headgear (U+461C)	e4989c
+䘝	a shirt; a garment; a gown, a black dress (U+461D)	e4989d
+䘞	U+461E (U+461E)	e4989e
+䘟	kind of silk woven with double threads and water proof; lining the coffin, leather lining of clothing (U+461F)	e4989f
+䘠	(corrupted form of 袚) greaves, knee-pads, buskins, dress; clothes of minority group in ancient times, children's garments, a mat for wrapping garment, (same as 帗)(in ancient China) a multicolored prop used in dancing rituals (U+4620)	e498a0
+䘡	the sleeve (U+4621)	e498a1
+䘢	old and shabby (said of clothes), to fill in or to pack clothes with cotton, to remain in a standstill for a long time (U+4622)	e498a2
+䘣	clothes that have no lining, stitches in the clothes, wrinkled; crinkled clothes, cotton clothes (U+4623)	e498a3
+䘤	a sword covering to protect the scabbard (U+4624)	e498a4
+䘥	the front of a Chinese gown, lapel of a Chinese dress-worn by the literati in former days, a short coat; a short top garment, neck-wears for babies, very fine silk fabric (U+4625)	e498a5
+䘦	a kind of head-dress wore in funeral rites in old days, fine clothes (U+4626)	e498a6
+䘧	U+4627 (U+4627)	e498a7
+䘨	short leggings drawn over the trousers, clothes for fisherman (U+4628)	e498a8
+䘩	collar, a throat-band to hold the hat, a tassel; a fringe, (same as 袨) in full dress, black colored ceremonial dress (U+4629)	e498a9
+䘪	clothes without hem; ragged garments; a garment without a lining, single (U+462A)	e498aa
+䘫	(same as 袽) old rags; old clothing, caulking (U+462B)	e498ab
+䘬	armour, military dress (U+462C)	e498ac
+䘭	the pleates on the lapel of a garment of thin silk (U+462D)	e498ad
+䘮	(same as 喪) to lose; death; funeral, to mourn, to destroy (U+462E)	e498ae
+䘯	the lapel or collar of a garment or robe, hat (U+462F)	e498af
+䘰	a hood; some kind of covering used on a carriage, towel; kerchief (U+4630)	e498b0
+䘱	(same as 裕) wealthy; abundance; plenty, generous (U+4631)	e498b1
+䘲	U+4632 (U+4632)	e498b2
+䘳	(interchangeable 襟) a garment of single thickness, lapel of a garment, collar of a robe formerly worn by the literati, therefore used for educated classes (U+4633)	e498b3
+䘴	(same as 衳) short pants; trousers; drawers (U+4634)	e498b4
+䘵	hissing sound of the clothes (U+4635)	e498b5
+䘶	sleeves, a piece of towel used to block up the ears (U+4636)	e498b6
+䘷	sleeves, old and meanly clothes (U+4637)	e498b7
+䘸	the lower front of a robe, gown, etc., sleeves, the opening on the lower front of a robe (U+4638)	e498b8
+䘹	clothes that have no lining (usually for summer wear) (U+4639)	e498b9
+䘺	a seam which has come unsewn; to mend (clothes, etc.), (same as U+8892 袒 U+7DBB 綻) to bare; to strip; bared, ripped seam; a crack, ripped; split (U+463A)	e498ba
+䘻	curtain on a carriage or car (U+463B)	e498bb
+䘼	stockings; socks, the sleeve (U+463C)	e498bc
+䘽	clothing and ornaments; an ornamental item; a decorative artical of a garment (U+463D)	e498bd
+䘾	legs of the trousers, a second name for the trousers, fur pants (U+463E)	e498be
+䘿	shirt or a jacket without any decorated hem (U+463F)	e498bf
+䙀	(same as U+7DB3 繃) a cloth to carry an iinfant on the back, to tie; to bind, to break open, to endure or bear (U+4640)	e49980
+䙁	children's garments, a mat for wrapping garments (U+4641)	e49981
+䙂	(non-classical form of 衳) short pants; trousers; drawers (U+4642)	e49982
+䙃	sleeveless clothes (U+4643)	e49983
+䙄	clothes with thick hem, to adjust, to regulate (U+4644)	e49984
+䙅	the waistline (in dress-making), a loop for button, a waist band or belt, pleat; a fold (U+4645)	e49985
+䙆	slits on the lower part of a gown for freedom of movement (U+4646)	e49986
+䙇	clothes of coarse fabric, seams; a fold; pleat of a garment, shirt; jacket (U+4647)	e49987
+䙈	a loose garment or cloak, shirt; jacket (U+4648)	e49988
+䙉	clothes, the central suture; seams on the back (said of clothes) (U+4649)	e49989
+䙊	arid; dry; parched (U+464A)	e4998a
+䙋	U+464B (U+464B)	e4998b
+䙌	(simplified form) a knot; a button, (dialect) to tie up; fastening; to wear; to slip on, to make a knot by a rope; a piece of string or a ribbon, (same as 繪) to draw (picture) (U+464C)	e4998c
+䙍	U+464D (U+464D)	e4998d
+䙎	sleeves, a piece of string; a ribbon; (shoe, boot, etc.) lace (U+464E)	e4998e
+䙏	short sleeves shirt, clothes that have no lining, (same as 薄) thin; light; slight (U+464F)	e4998f
+䙐	furs and linen garments, thin; light; slight, to pound; to beat, to attack, to hull or unhusk (U+4650)	e49990
+䙑	(same as 縗 衰) a piece of sackcloth worn on the breast in mourning, the frayed edges of mourning garments (U+4651)	e49991
+䙒	to store or save up; to hoard, to strip off; to deprive of, to undress forcibly (U+4652)	e49992
+䙓	the lower part of a garment; skirt; petticoat (U+4653)	e49993
+䙔	clothes made of poor fabric, head-dress for chidlren (or minority group), an infant's bib (U+4654)	e49994
+䙕	clothes that have no lining (U+4655)	e49995
+䙖	(same as U+7DB3 繃) a cloth to carry an iinfant on the back (U+4656)	e49996
+䙗	a swaddling cloth for infant; a broad bandage for carrying an infant on the back (U+4657)	e49997
+䙘	exquisite; fine, bright-colored clothes, clear white (U+4658)	e49998
+䙙	clothes (U+4659)	e49999
+䙚	(same as 裊 褭) curling up, as smoke, wavering gently; to sway enticingly; winding round and round, in ancient time to cast gold in the shape of horse's hoofs; fine horse (U+465A)	e4999a
+䙛	(same as 袞 渿) ceremonial dress of the emperor or very high officials (U+465B)	e4999b
+䙜	(corrupted form) legendary mountain deity, (interchangeable 逢) to meet; to come across, to happen; to fall in with (U+465C)	e4999c
+䙝	under garrments, intimate with, dirty; ragged, undress; thus -- to treat with irreverence (U+465D)	e4999d
+䙞	woolen string; ribbon or lace (U+465E)	e4999e
+䙟	heavy clothes (thickness), to hang down (U+465F)	e4999f
+䙠	short clothes, to lift up clothes and across a river (U+4660)	e499a0
+䙡	(simplified form) a knot; a button, (dialect) to tie up; fastening; to wear; to slip on, to make a knot by a rope; a piece of string or a ribbon, (same as 繪) to draw (picture) (U+4661)	e499a1
+䙢	short T-shirt, lined garments without padding (U+4662)	e499a2
+䙣	ragged garments or clothing (U+4663)	e499a3
+䙤	good; nice; fine, long and large clothes (U+4664)	e499a4
+䙥	shiny dresses (U+4665)	e499a5
+䙦	upper garments (U+4666)	e499a6
+䙧	red color; crimson (U+4667)	e499a7
+䙨	(non-classical form of 裹) to wrap or bind (U+4668)	e499a8
+䙩	clothes (U+4669)	e499a9
+䙪	(same as 襻) a loop for button (U+466A)	e499aa
+䙫	U+466B (U+466B)	e499ab
+䙬	plaits on the sides of a petticoat, pleates of a skirt, contrast of the mixed colors (U+466C)	e499ac
+䙭	(same as U+8930 褰) to lift or raise (one's dress, skirt, etc.), trousers; drawers; pants (U+466D)	e499ad
+䙮	strip of the clothes (U+466E)	e499ae
+䙯	exquisite; fine, sharp; distinct, bright-colored (U+466F)	e499af
+䙰	new feather; damp; moist and sticky, a thin-silk curtain (U+4670)	e499b0
+䙱	(same as 襡) a long coat; a long jacket, the connection of the top and bottom of clothes (U+4671)	e499b1
+䙲	(same as 遷) to move; to remove, to change (U+4672)	e499b2
+䙳	(same as 熛) spiting flames, flashed fire, to shine off and on, to cover; to hide, to seal, to build (U+4673)	e499b3
+䙴	to soar as a bird, (ancient form of U+9077 遷) to move, to change (U+4674)	e499b4
+䙵	rustic; low; mean, to despise, family name (U+4675)	e499b5
+䙶	U+4676 (U+4676)	e499b6
+䙷	(ancient form of 得) to obtain; to acquire; to gain, to effect; to attain, can; may; able to be done (U+4677)	e499b7
+䙸	(same as U+4677 䙷) to obtain; to acquire; to gain, to effect; to attain, can; may; able to be done (U+4678)	e499b8
+䙹	to vomit milk (said of baby), to vomit unwillingly (U+4679)	e499b9
+䙺	(corrupted form of 覝)(standard form of 廉) to observe; to watch; to examine (U+467A)	e499ba
+䙻	to steal a look; to steal a glance (U+467B)	e499bb
+䙼	to see; to observe, to appear, now; present, ready, to summon; to call up, far, deep; profound (U+467C)	e499bc
+䙽	to see; to observe (U+467D)	e499bd
+䙾	to wait for; to await (interchangeable 伺), (same as 施) to act; to do; to make, to grant; to give, to apply (U+467E)	e499be
+䙿	to see; to observe (U+467F)	e499bf
+䚀	(non-classical form) to see stealthily; to peek (U+4680)	e49a80
+䚁	(same as U+4680 䚀) to see, to see stealthily; to peek (U+4681)	e49a81
+䚂	to see; to observe or examine (U+4682)	e49a82
+䚃	to realize fully, to make a thorough examination (U+4683)	e49a83
+䚄	to make fun of, to having the same idea, feeling, etc. (U+4684)	e49a84
+䚅	to look after home or domestic affairs, to search one's own soul, to see; to observe (U+4685)	e49a85
+䚆	to see; to look at, to examine (U+4686)	e49a86
+䚇	to observe; to inspect carefully, leaking out, a measurement, (non-classical of 省) economical, a province, to save; to avoid (U+4687)	e49a87
+䚈	to see; to look at, to examine (U+4688)	e49a88
+䚉	to see; to look at, to examine, to spy upon, to wait upon (U+4689)	e49a89
+䚊	to look from a distance (U+468A)	e49a8a
+䚋	eyesight blurred; dim of sight; giddy or dizzy, (same as 鄖) name of a state (today's Hobei province) in ancient China, name of a place in today's Jiangsu province (U+468B)	e49a8b
+䚌	U+468C (U+468C)	e49a8c
+䚍	to look at; to observe or inspect; to see (U+468D)	e49a8d
+䚎	eyesight blurred; dim of sight, to look steadily at; (Cant.) to peep (through a crack) (U+468E)	e49a8e
+䚏	to love; intimate; near to; dear; parents; relatives, to see; to look at; to observe (U+468F)	e49a8f
+䚐	getting red in the eyes, to look from a distance (U+4690)	e49a90
+䚑	to steal a glance; to peep; to spy on (U+4691)	e49a91
+䚒	eyesight blurred; dim of sight, to look steadily at (U+4692)	e49a92
+䚓	(same as 瞫) to observe; to examine; to look deeply into (U+4693)	e49a93
+䚔	to look suddenly; to look shortly (U+4694)	e49a94
+䚕	to search out; to examine into, (Cant.) to give an angry glances at somebody (U+4695)	e49a95
+䚖	mountain deity; with human face and animal body (U+4696)	e49a96
+䚗	to lift; to raise (U+4697)	e49a97
+䚘	the long and upright horns of cattle (U+4698)	e49a98
+䚙	a spoon for cooked rice made of horn of an animal, uneven horns of cattle (U+4699)	e49a99
+䚚	horn of an animal (U+469A)	e49a9a
+䚛	regulate; polish ivory to make it more white (U+469B)	e49a9b
+䚜	cattle with crosswise horns, crosswise horns of a cattle (U+469C)	e49a9c
+䚝	new-growing horns, to clasp or hold under the arm, to bosom; to embrace (U+469D)	e49a9d
+䚞	the middle of the horn (U+469E)	e49a9e
+䚟	horns, middle of the horn, (same as 歹) bad; wicked; depraved; vicious (U+469F)	e49a9f
+䚠	(ancient form) unbroken firewood, complete; whole; general, round horn, animal's horns, a whole horn (U+46A0)	e49aa0
+䚡	bones in a horn of cattle and goat (U+46A1)	e49aa1
+䚢	horn, jewelry; ornaments used for woman in old days, an eyelet for the hook of a leather belt, a second for childhood (U+46A2)	e49aa2
+䚣	crooked horns of the animal (U+46A3)	e49aa3
+䚤	U+46A4 (U+46A4)	e49aa4
+䚥	to adjust a bow (U+46A5)	e49aa5
+䚦	slanted corners; curved corners, crooked horn (U+46A6)	e49aa6
+䚧	curved with angles; curved corner (U+46A7)	e49aa7
+䚨	a string fastened to an arrow to draw it back after shooting (U+46A8)	e49aa8
+䚩	high; curved; long horns (U+46A9)	e49aa9
+䚪	curved horns, (non-classical form of 鱞 鰥) Huge fish found in the Yellow River, said to be unable to close its eyes (U+46AA)	e49aaa
+䚫	ornamental articles made of horns used to decorate the top of a stick or horsewhip, to hit; to beat (U+46AB)	e49aab
+䚬	U+46AC (U+46AC)	e49aac
+䚭	U+46AD (U+46AD)	e49aad
+䚮	thicker, heavy, still; yet (U+46AE)	e49aae
+䚯	(ancient form of 討) to quell (uprising, rebellion, etc.) to punish (another nation, etc.) by force fo arms, sound; voice; tone (U+46AF)	e49aaf
+䚰	to prepare, all complete; all ready, (corrupted and abbreviated form of 訛) false; fake, errors; wrong (U+46B0)	e49ab0
+䚱	(ancient form of 信) honesty; good faith; to believe or trust; a letter (U+46B1)	e49ab1
+䚲	(non-classical form of 訕) to laugh at; to sneer, to slander; to abuse (U+46B2)	e49ab2
+䚳	do not know, to know nothing about, quickly; fast, sharp; keen (U+46B3)	e49ab3
+䚴	anger; rage; furious, to scold in a loud voice; to upbraid or revile (U+46B4)	e49ab4
+䚵	to induce; to lure; to allure; to attract; to entice; to tempt; to seduce (with speech; words; through talking) (U+46B5)	e49ab5
+䚶	to scold in a loud voice (U+46B6)	e49ab6
+䚷	to treat; to detain, according to one's wishes, good words; honest; sincere words, an echo, joke; witticism; pleasantry; jest; fun (U+46B7)	e49ab7
+䚸	good; virtuous (U+46B8)	e49ab8
+䚹	(same as 庀) to prepare, to prepare, all complete; all ready (U+46B9)	e49ab9
+䚺	(non-classical form of 謠) ballad; folk song; song, rumor (U+46BA)	e49aba
+䚻	(ancient form of 謠) to sing, a ballad, rumour; slander; a false report, from, to follow, to undertake; to attend to (U+46BB)	e49abb
+䚼	ashamed (U+46BC)	e49abc
+䚽	(interchangeable 耗) news; tidings; report; information; message (U+46BD)	e49abd
+䚾	to think of; to remember (someone), to read out aloud, (same as U+46D8 䛘) (U+46BE)	e49abe
+䚿	to shout in rage; angry shouts, angry speech, to cry continuously, to groan; to moan (U+46BF)	e49abf
+䛀	reasonable authority statements, (same as 呶) noise (especially from a brawling crowd); uproar; turmoil, abusive language, to boast (U+46C0)	e49b80
+䛁	(interchangeable 喃 諵) to murmur; in a low voice, to chatter; to gabble (U+46C1)	e49b81
+䛂	(same as 誃 謻) to separate from; to leave or depart; to break away, (same as 詑) to cheat; to swindle (U+46C2)	e49b82
+䛃	used in person's name (U+46C3)	e49b83
+䛄	to console; to comfort; to soothe; to show sympathy for, ill-will; enmity; animus (U+46C4)	e49b84
+䛅	loquacious (U+46C5)	e49b85
+䛆	(same as 咒 U+546A) to curse; to swear (U+46C6)	e49b86
+䛇	to laugh; to smile; to grin; to giggle; to titter; to chuckle, well-intentioned advice (U+46C7)	e49b87
+䛈	(interchangeable 誓) to vow; to swear; to teke an oath (U+46C8)	e49b88
+䛉	to induce by words (U+46C9)	e49b89
+䛊	cheerful all the time; without stopping, to tell; to say, to designated, to think (U+46CA)	e49b8a

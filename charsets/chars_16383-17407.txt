@@ -1,0 +1,1024 @@
+䛋	to scheme; to plan; to plot, to seek; to try to get (U+46CB)	e49b8b
+䛌	to provoke or arouse (ill-will, etc.) to cause disputes; to sow discord between two parties, to talk nonsense; to talk inconherently or unintelligibly; lies or wild talks (U+46CC)	e49b8c
+䛍	loquacious, to talk quickly (U+46CD)	e49b8d
+䛎	to shout in rage; to scold in anger (U+46CE)	e49b8e
+䛏	to call somebody, (same as 泥) to beg; to entreat; to implore, to be bigoted; to adhere to the letter of the law; bigoted and conservative, poor ( speech) (U+46CF)	e49b8f
+䛐	(same as 詞) an expression, words; phrases; a part of speech, tales; stroies, a form of poetry (U+46D0)	e49b90
+䛑	(same as 謐) silent; quiet; serene; still, cautious; careful (U+46D1)	e49b91
+䛒	(standard form of 辯) to argue; to dispute; to discuss; to explain (U+46D2)	e49b92
+䛓	(abbreviated form of 譼) (ancient form of 監) an official position in former times, a government establishment in former times (U+46D3)	e49b93
+䛔	to hold in hand; to grasp; to take, to arrest; to use, ( non-classical form of 誽) to spy; to find out secretly (U+46D4)	e49b94
+䛕	(non-classical form of 諛) to flatter, flattery (U+46D5)	e49b95
+䛖	(same as 詍) loquacious (U+46D6)	e49b96
+䛗	to pry into or expose another's secret; to gossip about a man's private affairs or about his faults, to accuse or charge (U+46D7)	e49b97
+䛘	to think of; to remember (someone), to read out aloud, loquacious, guttural sound, noise; uproar; turmoil (U+46D8)	e49b98
+䛙	to smell the fragrance (U+46D9)	e49b99
+䛚	to praise; to extol; to exalt; to glorify (U+46DA)	e49b9a
+䛛	(same as 8A6F) courage (U+46DB)	e49b9b
+䛜	(same as ancient form of 訊) to ask; to inquire; to question, information; news (U+46DC)	e49b9c
+䛝	to like, to puzzle (U+46DD)	e49b9d
+䛞	loquacity, boasting; hyperbole, to talk harshly; to shout angrily (U+46DE)	e49b9e
+䛟	(same as 唊) wild statements; deliberate lies (U+46DF)	e49b9f
+䛠	unable to talk, incapable; inefficient (U+46E0)	e49ba0
+䛡	(ancient form of 話) words; saying; talk, to speak (U+46E1)	e49ba1
+䛢	cunning; crafty; sly; sily; artful (U+46E2)	e49ba2
+䛣	speech; words, to say; to talk, negative, hesitate (U+46E3)	e49ba3
+䛤	urgently; hastily; hurriedly, a hasty speech (U+46E4)	e49ba4
+䛥	speech; word, a speech sound, tone (of one's speech), boasting (U+46E5)	e49ba5
+䛦	(ancient form of 訟) litigation, to argue over (U+46E6)	e49ba6
+䛧	(corrupted form of 謎) riddle; pubble; conundrum (U+46E7)	e49ba7
+䛨	U+46E8 (U+46E8)	e49ba8
+䛩	to slander; to defame, (same as 惡) to abominate; to detest, (same as 啞) to laugh; to grin (U+46E9)	e49ba9
+䛪	loquacity, to inquire; to ask; to make inquiry (U+46EA)	e49baa
+䛫	to deceive; to delude, careless; lax; heedless (U+46EB)	e49bab
+䛬	baby talk, to pray, to felicitate (U+46EC)	e49bac
+䛭	angry, reproof; scolding (U+46ED)	e49bad
+䛮	to destroy, to slander; to abuse; to defame, (non-classical form of 咎) a fault; a defect, an error, to blame; to censure (U+46EE)	e49bae
+䛯	the reasonable of speeking (U+46EF)	e49baf
+䛰	(non-classical) sketchy; not clear speech (U+46F0)	e49bb0
+䛱	to talk unremittingly (U+46F1)	e49bb1
+䛲	(same as 謾) to deceive, to scorn; to disdain (U+46F2)	e49bb2
+䛳	to malign, to hide; to conceal (U+46F3)	e49bb3
+䛴	joke; pleasantry, wild talk; a lie (U+46F4)	e49bb4
+䛵	(same as 授) to teach orally (U+46F5)	e49bb5
+䛶	(same as 誄) writings eulogizing adead person; a speech, ode, etc. in praise of the dead, to pray for the dead (U+46F6)	e49bb6
+䛷	(same as 婉) to obey; obedient; to comply, to console; to comfort; to soothe (U+46F7)	e49bb7
+䛸	(corrupted form of 詀) garrulous, to whisper, to joke (U+46F8)	e49bb8
+䛹	to accuse; to censure; to charge (U+46F9)	e49bb9
+䛺	(same as 誡) to warn; to admonish (U+46FA)	e49bba
+䛻	(same as 誘) to induce; to entice; to mislead; to lead on (U+46FB)	e49bbb
+䛼	(same as U+6BC0 毀) to slander; to defame (U+46FC)	e49bbc
+䛽	loquacious, to break into a conversation, an irrelevant episode (U+46FD)	e49bbd
+䛾	familiar with; skilled; versed in (U+46FE)	e49bbe
+䛿	cunning; craft; sly; wily; artful, bright; wise (U+46FF)	e49bbf
+䜀	to insult with words (U+4700)	e49c80
+䜁	(same as 謑) to abuse and insult, shame; disgrace (U+4701)	e49c81
+䜂	U+4702 (U+4702)	e49c82
+䜃	to blame; to reproach, to punish, to throw; to cast, (same as 堆) to pile; a heap (U+4703)	e49c83
+䜄	(same as 謘) slow on talking; incapable; obtuse; awkward (U+4704)	e49c84
+䜅	to follow; to comply with, to refute; to rebuke; to accuse (U+4705)	e49c85
+䜆	(same as 讘) hasty words, loquacity, for the sake of comparison (large to small; big to little, etc.) (U+4706)	e49c86
+䜇	to speak not in a clear way, (sama as 謴) to play jokes on; to fool (somebody) (U+4707)	e49c87
+䜈	(same as 勦) to speak on behalf of another, buzzing in the ears (U+4708)	e49c88
+䜉	to jest; to joke; to quip (same as 誺) unintelligible answering (U+4709)	e49c89
+䜊	(same as U+5608 嘈) noise; uproar; din (U+470A)	e49c8a
+䜋	to suspend; to interrupt, to become aware; to realize (U+470B)	e49c8b
+䜌	(ancient form) chaos; distraction; confusion, confused, continuous; uninterruptedto tie together, to manage (U+470C)	e49c8c
+䜍	sweet; artful words (U+470D)	e49c8d
+䜎	sound, noisy; full of confused noises; clamorous (U+470E)	e49c8e
+䜏	to withdraw; to decline, clever (U+470F)	e49c8f
+䜐	to libel; to slander, to make escuses; to shirk (responsibility, etc.) (U+4710)	e49c90
+䜑	(same as U+46E9 䛩) to slander; to defame; (same as U+60E1 惡) to hate; to hold a grudge against (U+4711)	e49c91
+䜒	expression; sentence, speech, to tell; to inform; to accuse; to report (U+4712)	e49c92
+䜓	a slip of the tongue (U+4713)	e49c93
+䜔	to speak on the ideas of someone else; to speak without much thought of ones own, to obey (U+4714)	e49c94
+䜕	to exaggerate; exaggeration, arrogant; to boast, to dispute with anger (U+4715)	e49c95
+䜖	(non-classical form) (same as 談) to talk; to converse; to chat (U+4716)	e49c96
+䜗	angry words (U+4717)	e49c97
+䜘	(same as 警) to guard; to keep watch; to warn; to alert, quick; agile (U+4718)	e49c98
+䜙	not clever, to make fun of; to poke fun at (U+4719)	e49c99
+䜚	to speak recklessly or without forethought; a wild talk, use words to investigate (U+471A)	e49c9a
+䜛	(non-classical form of 讒) to slander; to defame (U+471B)	e49c9b
+䜜	words of anger; words of dislike or hate (U+471C)	e49c9c
+䜝	uncertain (U+471D)	e49c9d
+䜞	a dose, prepared medicines or drugs, to prepare (medicines and drugs) (U+471E)	e49c9e
+䜟	(non-classical form of 讖) to verify; to fulful, a prophecy; a hint, an omen (U+471F)	e49c9f
+䜠	language of the savage or barbarian (U+4720)	e49ca0
+䜡	to smell the fragrants (U+4721)	e49ca1
+䜢	cruel and violent (U+4722)	e49ca2
+䜣	(simplified form of 訢) (same as 欣) joy; delight; happy (U+4723)	e49ca3
+䜤	U+4724 (U+4724)	e49ca4
+䜥	birthday; to be born, give birth to (U+4725)	e49ca5
+䜦	U+4726 (U+4726)	e49ca6
+䜧	to insult with words (U+4727)	e49ca7
+䜨	U+4728 (U+4728)	e49ca8
+䜩	(simplified form of 讌) to entertain; to feast (U+4729)	e49ca9
+䜪	name of a pavilion in old times (U+472A)	e49caa
+䜫	name of a valley in today's Hobei Province, (same as 谼) deep ditch; big valley (U+472B)	e49cab
+䜬	(same as 岫) a cavern; a cave, a mountain peak (U+472C)	e49cac
+䜭	(same as 濬 浚) to dredge; to dig or wash (a well, etc.), (same as 睿) wise and clever (U+472D)	e49cad
+䜮	deep valley (U+472E)	e49cae
+䜯	name of a valley in today's Shanxi Province (U+472F)	e49caf
+䜰	deep valley (U+4730)	e49cb0
+䜱	name of a pavilion in today's Shanxi Province (U+4731)	e49cb1
+䜲	name of a village in old China, name of a valley (U+4732)	e49cb2
+䜳	U+4733 (U+4733)	e49cb3
+䜴	brave; courageous; bold, for the good of, to manage; to handle, (same as 豉) fermented beans (U+4734)	e49cb4
+䜵	(non-classical form of 豉) fermented beans (U+4735)	e49cb5
+䜶	a small kidney bean; cowpea (U+4736)	e49cb6
+䜷	fermented and seasoned soybeans, (of beans) wild; undomesticated (U+4737)	e49cb7
+䜸	small pieces of bean-stalks, leaves under the bean-stalks (U+4738)	e49cb8
+䜹	U+4739 (U+4739)	e49cb9
+䜺	husking (smashed) beans for cake, congee or gruel (U+473A)	e49cba
+䜻	(same as 豉) fermented beans (U+473B)	e49cbb
+䜼	a kind of bean, bean-stalks (U+473C)	e49cbc
+䜽	a kind of bean, beans that changed the colors (U+473D)	e49cbd
+䜾	fermented beans; salted beans (U+473E)	e49cbe
+䜿	U+473F (U+473F)	e49cbf
+䝀	garden peas (Pisum sativum), a second name for beans (around Shanxi area) in ancient times (U+4740)	e49d80
+䝁	a kind of wild leguminous plants; wild green lentils (U+4741)	e49d81
+䝂	(same as 豎) to erect; upright (U+4742)	e49d82
+䝃	beans (U+4743)	e49d83
+䝄	cowpea (U+4744)	e49d84
+䝅	a pig (U+4745)	e49d85
+䝆	hog; pig (U+4746)	e49d86
+䝇	(standard form of 豗) grunting of pigs, to clash, sound of altercation (U+4747)	e49d87
+䝈	a large, very strong pig (five hands in height) (U+4748)	e49d88
+䝉	U+4749 (U+4749)	e49d89
+䝊	a sow; an aged sow (U+474A)	e49d8a
+䝋	a little of pigs; a little pig, a boar (U+474B)	e49d8b
+䝌	a pig seek for food through digging on the earth (U+474C)	e49d8c
+䝍	a wild boar, a hog; a pig (U+474D)	e49d8d
+䝎	a pig; a hog, a kind of fat animal looks like a pig (U+474E)	e49d8e
+䝏	a sow (U+474F)	e49d8f
+䝐	a castrated hog, a second name for pig (U+4750)	e49d90
+䝑	a local produced pig, a sucking pig (U+4751)	e49d91
+䝒	a sow, a small pig (U+4752)	e49d92
+䝓	(same as 鬣) long beard or whiskers, mane, fins (U+4753)	e49d93
+䝔	(same as 貛) the badger; a wild boar (U+4754)	e49d94
+䝕	good; fine pig, a second name for pig (in Liangzhou) in ancient China (U+4755)	e49d95
+䝖	reptiles without feet, a fabulous beast (U+4756)	e49d96
+䝗	(same as 貅) a kind of animal like a tiger; a fierce and courageous soldier (U+4757)	e49d97
+䝘	(same as 毅) firm; resolute; determined (U+4758)	e49d98
+䝙	a kind of animal like a tiger; fierce wild beasts (U+4759)	e49d99
+䝚	a kind of animal; fur can be used for clothes (U+475A)	e49d9a
+䝛	U+475B (U+475B)	e49d9b
+䝜	(same as U+72FB 狻) a Tibetan lion (U+475C)	e49d9c
+䝝	(same as 猗) an exclamation indicating admiration, an adverbial particle (U+475D)	e49d9d
+䝞	name of a immortal; with man's face and bird's body; be known as (禺號) (U+475E)	e49d9e
+䝟	a fierce man-eating animal in legend (U+475F)	e49d9f
+䝠	(same as 獂) a kind of wild boar (U+4760)	e49da0
+䝡	(same as 獌) an animal in old times; like fox but much bigger (U+4761)	e49da1
+䝢	(same as 獌) an animal in old times; like fox but much bigger, a second name for 貙 (U+4762)	e49da2
+䝣	a kind of animal (U+4763)	e49da3
+䝤	a primitive tribe in southwest China; also known as U+5937 夷; (same as U+7360 獠) nocturnal hunting (U+4764)	e49da4
+䝥	to roar or howl (of beasts) frantic barks of dogs or wolves (U+4765)	e49da5
+䝦	a kind of animal looks like leopard; with horns (U+4766)	e49da6
+䝧	capital (in business), to compute taxes (U+4767)	e49da7
+䝨	(non-classical form of 賢) virtuous; worthy; good, to esteem as worthy, excelling (U+4768)	e49da8
+䝩	(same as 賑) to relieve or give aid to the distressed; to support, rich; wealthy (U+4769)	e49da9
+䝪	to provide money or gift and to consult fortune-teller; pay for guidance from divination (U+476A)	e49daa
+䝫	money; currency and finances (U+476B)	e49dab
+䝬	a wealthy man (U+476C)	e49dac
+䝭	wages; salary, to redeem; to ransom (U+476D)	e49dad
+䝮	(same as 衒) to brag; to boast; to show off (U+476E)	e49dae
+䝯	(same as 貤) to change hands; to shift, a series, steps; grades, to promote; to reward; ennobled; to bestow, to extend; to prolong (U+476F)	e49daf
+䝰	to store or to accumulate riches or valuables (U+4770)	e49db0
+䝱	to trouble; to worry; to vex; to annoy (U+4771)	e49db1
+䝲	(abbreviated form 贐) farewell presents (U+4772)	e49db2
+䝳	to kill for money; to commit murder for money, deeply meaningful; deep and profound; deep and thick (U+4773)	e49db3
+䝴	(non-classical form of 齎) to present; to offer; to entertain; to have in one's mind (U+4774)	e49db4
+䝵	to thank with money or gifts (U+4775)	e49db5
+䝶	to levy taxes (U+4776)	e49db6
+䝷	securities; to assign something as security under an arrangement; to mortgage, to relieve or give aid to the distressed; to support (U+4777)	e49db7
+䝸	a kind of tool; instrument; apparatus; implement (U+4778)	e49db8
+䝹	fairly prosperous, well-to-do; not very rich (U+4779)	e49db9
+䝺	(non-classical form of 貫) to pierce through (U+477A)	e49dba
+䝻	to sell, to store up; to stockpile; to deposit (U+477B)	e49dbb
+䝼	to bestow, to confer upon; to grant to (U+477C)	e49dbc
+䝽	name of a person in old China (U+477D)	e49dbd
+䝾	to bestow; to give, natural endowment or gifts, tax; revenue, to spread; to diffuse, to compose or sing, one of the Chinese literary forms akin to poetry (U+477E)	e49dbe
+䝿	(ancient form of U+8CB4 貴) honorable, expensive; costly, prized, high-class, to hold in honour (U+477F)	e49dbf
+䞀	to desire for more money than one's rightful share (U+4780)	e49e80
+䞁	corresponding; equivalent, appropriate, to compare the length of two articles (U+4781)	e49e81
+䞂	fairly prosperous, well-to-do; not very rich (U+4782)	e49e82
+䞃	to relieve or give aid to the distressed; to support, shells; precious; valuable (U+4783)	e49e83
+䞄	(interchangeable 俵) to disperse; scattered, to distribute; to divide (U+4784)	e49e84
+䞅	(non-classical form of 貽) to give to; to present to, to hand down; to pass on to; to bequeath (U+4785)	e49e85
+䞆	bone, grease and oil (U+4786)	e49e86
+䞇	gifts to superiors or friends, offerings of ceremony (U+4787)	e49e87
+䞈	(ancient form of 貨) money; wealth, natural endowment or gifts, to aid or help, to gamble; to bet, to compete (U+4788)	e49e88
+䞉	(same as 賸) a surplus; an overplus, remains, superfluous (U+4789)	e49e89
+䞊	to increase; to add to; to augment, in a higher degree; more, benefit; profit; advantage (U+478A)	e49e8a
+䞋	to do alms for the Buddhist priests or monks in old times, to bestow; to present; to confer; to give; to donate (U+478B)	e49e8b
+䞌	to lose in trade; to lose in weight or measure (U+478C)	e49e8c
+䞍	(simplified form of U+477C 䝼) to bestow, to confer upon; to grant to (U+478D)	e49e8d
+䞎	U+478E (U+478E)	e49e8e
+䞏	U+478F (U+478F)	e49e8f
+䞐	plentiful, wealthy or rich; handsome (pay, gifts, etc.) (U+4790)	e49e90
+䞑	a red swelling of the skin (U+4791)	e49e91
+䞒	red color (U+4792)	e49e92
+䞓	(same as U+8D6C 赬) deep red, to blush, to dye red (U+4793)	e49e93
+䞔	deep red (U+4794)	e49e94
+䞕	color of the fire, color fading, (interchangeable 渝) to change mind, another name of Chongqing (U+4795)	e49e95
+䞖	name of a person (U+4796)	e49e96
+䞗	suspicion; to doubt, to go up, to start, to occur (U+4797)	e49e97
+䞘	to go straight forward; (Cant.) to raise up (U+4798)	e49e98
+䞙	to walk in hurriedly (U+4799)	e49e99
+䞚	to hang on a big tree, to walk ( the way of Alces machlis, a kind of deer) (U+479A)	e49e9a
+䞛	dancing of a eastern minority group in old China (U+479B)	e49e9b
+䞜	to reach; to arrive, to lie flat, stiff (U+479C)	e49e9c
+䞝	lame; crippled (U+479D)	e49e9d
+䞞	to walk, to jump; to leap; to bounce; to spring (U+479E)	e49e9e
+䞟	to press; to compel, to draw near, to excel; to surpass; to rise above; to transcend, to fly across; to jump over (U+479F)	e49e9f
+䞠	to walk (U+47A0)	e49ea0
+䞡	to walk (U+47A1)	e49ea1
+䞢	to walk (U+47A2)	e49ea2
+䞣	to resist; to hold out, angry, to break up; to split, half step, evil; wicked; mean; vicious (U+47A3)	e49ea3
+䞤	to walk, to use; to employ, to control (U+47A4)	e49ea4
+䞥	to walk (U+47A5)	e49ea5
+䞦	to lie flat, to be inactive; stiff; rigid, dead-locked (U+47A6)	e49ea6
+䞧	hard to walk, lame; crippled (U+47A7)	e49ea7
+䞨	(same as 跬) half a pace (U+47A8)	e49ea8
+䞩	lame; crippled (U+47A9)	e49ea9
+䞪	walking rapidly (U+47AA)	e49eaa
+䞫	to walk (U+47AB)	e49eab
+䞬	(same as 透) to pass through, to let out; to let through (U+47AC)	e49eac
+䞭	walking rapidly, to go ahead, to move quickly; to run; to hurry (U+47AD)	e49ead
+䞮	to crawl; to creep (U+47AE)	e49eae
+䞯	to walk, to move quickly; to run; to hurry, to reach the time-limit; to mature (U+47AF)	e49eaf
+䞰	walking rapidly (U+47B0)	e49eb0
+䞱	to fall over; to lie down (U+47B1)	e49eb1
+䞲	U+47B2 (U+47B2)	e49eb2
+䞳	(same as 踣) to stumble and fall (U+47B3)	e49eb3
+䞴	to jump; to leap; to hop, limping; walking unsteadily; limping (U+47B4)	e49eb4
+䞵	to jump (U+47B5)	e49eb5
+䞶	walking rapidly (U+47B6)	e49eb6
+䞷	(same as 趉) walking rapidly, to walk (U+47B7)	e49eb7
+䞸	(corrupted and non-classical form) to reach; to arrive, (same as 仆) to fall; to prostrate (U+47B8)	e49eb8
+䞹	to walk (U+47B9)	e49eb9
+䞺	to walk (U+47BA)	e49eba
+䞻	to walk (U+47BB)	e49ebb
+䞼	(same as 竄) to escape; to run away; to flee, to banish, to change or alter (the wording) (U+47BC)	e49ebc
+䞽	to lie flat, stiff; rigid; to be inactive, dead-locked (U+47BD)	e49ebd
+䞾	frivolous; contemptuous, to despise; to speak ill of (U+47BE)	e49ebe
+䞿	(interchangeable 蹇) lame; crippled, slow, weak; feeble, difficult; hard (U+47BF)	e49ebf
+䟀	to walk (U+47C0)	e49f80
+䟁	a foot-race (U+47C1)	e49f81
+䟂	slow; tardy (U+47C2)	e49f82
+䟃	to move or march swiftly; to walk quickly; to run, to go; to go to a meeting (U+47C3)	e49f83
+䟄	in a hurry, deceitful; cunning; swindling; wily, to walk quickly (U+47C4)	e49f84
+䟅	to go ahead; to proceed; to advance, to jump; to leap swiftly, brief; short period (U+47C5)	e49f85
+䟆	to keep persons off the route of the emperor, when on tour, imperial halting-place, worship of the kitchen god (performed on the 23rd day of the 12th moon) (U+47C6)	e49f86
+䟇	to walk (U+47C7)	e49f87
+䟈	to walk (U+47C8)	e49f88
+䟉	to walk, toddling, jump; leap (U+47C9)	e49f89
+䟊	short strides, with rapid strides, swiftly; quickly (U+47CA)	e49f8a
+䟋	to press forward; to go in haste; to run quickly (U+47CB)	e49f8b
+䟌	(standard form) diverging, to go, to walk (U+47CC)	e49f8c
+䟍	to walk; to travel, to go (U+47CD)	e49f8d
+䟎	U+47CE (U+47CE)	e49f8e
+䟏	to jump; to leap; to bounce; to spring, to run over; to oppress (U+47CF)	e49f8f
+䟐	to walk, agile; adroit, a method of wielding the brush in writing Chinese characters (U+47D0)	e49f90
+䟑	walking rapidly, (ancient form of 躍) to jump; to leap; to bound; to spring (U+47D1)	e49f91
+䟒	coiled; curled; not stretched; contracted (U+47D2)	e49f92
+䟓	to walk slowly, lame; crippled, long and thin legs, to walk alone, to insist on one's ways in doing things (U+47D3)	e49f93
+䟔	(same as 赴) to go to; to attend (same as 踣) to stumble and fall prone, stiff in death (U+47D4)	e49f94
+䟕	to step upon; to tread upon; to trample, a path branching out from the main road; a diverging road (U+47D5)	e49f95
+䟖	U+47D6 (U+47D6)	e49f96
+䟗	to stand for a long time, to accumulate; to amass; to store up (U+47D7)	e49f97
+䟘	to straighten; to stretch out (U+47D8)	e49f98
+䟙	to stagger; to fall; to drop; to stumble (U+47D9)	e49f99
+䟚	(same as 踑) to sit with the legs spread out; to squat with the legs crossed, traces; footsteps, to follow up; to search out (U+47DA)	e49f9a
+䟛	walking rapidly; in a hurry, to stride over; to step across (U+47DB)	e49f9b
+䟜	break; damage, wound of the foot, to walk (U+47DC)	e49f9c
+䟝	to walk right into (U+47DD)	e49f9d
+䟞	to falter; to hesitate (U+47DE)	e49f9e
+䟟	urgent; pressed for time (U+47DF)	e49f9f
+䟠	swift; walking rapidly, (same as 越) to go beyond; to go across; to transgress; to skip (U+47E0)	e49fa0
+䟡	to trample; to tread down, (same as 胝) callosities on the hands or feet (U+47E1)	e49fa1
+䟢	(non-classical form of 跈), (same as 踐) to step upon; to tread upon; to trample, (same as 趁) to take advantage, hard to proceeding (U+47E2)	e49fa2
+䟣	an animal in legend, traces or footprints of an animal (U+47E3)	e49fa3
+䟤	U+47E4 (U+47E4)	e49fa4
+䟥	(same as 髳) luxuriant; exuberant; lush of the grass, trees and vegetation (U+47E5)	e49fa5
+䟦	(non-classical of 跋) to walk; to travel, the heel (U+47E6)	e49fa6
+䟧	sound of treading or stepping (U+47E7)	e49fa7
+䟨	lame; crippled, to go across; to go beyond, hoofs of the animal (U+47E8)	e49fa8
+䟩	hard of walk forward (U+47E9)	e49fa9
+䟪	(same as 覂) repeatedly; over and over again (U+47EA)	e49faa
+䟫	(Cant.) to press down or push out with the foot; to pedal, kick, tread, step on (U+47EB)	e49fab
+䟬	to walk (U+47EC)	e49fac
+䟭	(non-classical form of 跳) to jump; to leap; to bounce; to spring, (same as 阼) the main steps; the throne; the steps leading to the eastern door (U+47ED)	e49fad
+䟮	(same as 匐) to crawl on hands and knees, to fall in ruins; to slip down (U+47EE)	e49fae
+䟯	to tread on, to kick (U+47EF)	e49faf
+䟰	to walk (U+47F0)	e49fb0
+䟱	(same as 迹) traces, footsteps, to follow up; to search out (U+47F1)	e49fb1
+䟲	U+47F2 (U+47F2)	e49fb2
+䟳	U+47F3 (U+47F3)	e49fb3
+䟴	to shake; to vibrate; to move, to be shocked or shaken (U+47F4)	e49fb4
+䟵	to tread on (U+47F5)	e49fb5
+䟶	(same as 蓌) to squat; to crouch, setback; defeat; failure; not doing well; disappointed; very discouraged; frustrated (U+47F6)	e49fb6
+䟷	to jump; to leap; to bounce; to spring, to pass over; to go beyond; to transgress; to exceed, lame; crippled (U+47F7)	e49fb7
+䟸	the calf; muscles; tissue of the part of leg between the knee and ankle, to stumble; to slip, the instep, to jump; to leap, a disease of the feet (U+47F8)	e49fb8
+䟹	to hop about; to fling oneself about in temper, to pass over; to go beyond; to exceed (U+47F9)	e49fb9
+䟺	walk slowly because of the wrong position of the feet, (same as 狽) a kind of wolf with shorter forelegs, lame; crippled (U+47FA)	e49fba
+䟻	bare feet; bare-footed, to walk in bare feet, hard to go forward (U+47FB)	e49fbb
+䟼	footprints; track, whereabout (U+47FC)	e49fbc
+䟽	(same as 疏) scattered or dispersed (U+47FD)	e49fbd
+䟾	to jump; to leap; to bounce; to spring, (same as U+47B5 䞵) (U+47FE)	e49fbe
+䟿	to reverence; to respect, (same as 蹗) to walk (U+47FF)	e49fbf
+䠀	to sit cross-legged like a Buddhist priest (U+4800)	e4a080
+䠁	(same as 躋) to go up; to rise; to ascend (U+4801)	e4a081
+䠂	(same as 楚) name of a powerful feudal state which existed 740-330 B.C. (U+4802)	e4a082
+䠃	to squat; to crouch (U+4803)	e4a083
+䠄	to walk, tracks or whereabouts, disease of the feet (U+4804)	e4a084
+䠅	hands and feet chapped from the cold (U+4805)	e4a085
+䠆	to kowtow; to kneel and make obeisance (U+4806)	e4a086
+䠇	strong; robust; healthy (U+4807)	e4a087
+䠈	hard to move forward, to trample; to tread upon (U+4808)	e4a088
+䠉	(same as 逭) to run away or escape from; to flee; to avoid (U+4809)	e4a089
+䠊	to cut off the feet (one of the five punishments in ancient times) (U+480A)	e4a08a
+䠋	bell shaped with large base, (ancient form of U+9AC0 髀) buttocks, hipbone; innominate bone; (Cant.) to stagger (U+480B)	e4a08b
+䠌	U+480C (U+480C)	e4a08c
+䠍	at the feet; to learn; now, shoes, (dialect) to take a stride, to sit astride on; to straddle; to ride, to stride over (a ditch, etc.) (U+480D)	e4a08d
+䠎	narrow; small, dirty (U+480E)	e4a08e
+䠏	feet; (same as U+47F8 䟸) the calf; muscles; tissue of the part of leg between the knee and ankle, a disease of the feet (U+480F)	e4a08f
+䠐	to squat; to crouch, to move elastically; to be easily bent and stretched; to be flexible: (firuratively) to submit or rise according to circumstances (U+4810)	e4a090
+䠑	between the buttocks; the stride made by a man (U+4811)	e4a091
+䠒	courtesy of a minority group in ancient times, to fall, drop, or go down, on one's knees; to kneel down (U+4812)	e4a092
+䠓	(same as 趥) to walk, to crawl on hands and knees (U+4813)	e4a093
+䠔	far and deep (U+4814)	e4a094
+䠕	rapid marching or running; to go quickly, to tread upon; to trample; to step upon (U+4815)	e4a095
+䠖	U+4816 (U+4816)	e4a096
+䠗	lame; crippled, to jump; to leap, to walk (U+4817)	e4a097
+䠘	one-legged, crippled; halt, a mate; to mate (U+4818)	e4a098
+䠙	urgent; hurriedly (U+4819)	e4a099
+䠚	to step on the ground with a bang, hard to go forward; limping, to scrape; to move along the side of (U+481A)	e4a09a
+䠛	to jump; to leap; to spring; to bounce (U+481B)	e4a09b
+䠜	to walk (U+481C)	e4a09c
+䠝	to stand up, to establish (U+481D)	e4a09d
+䠞	wrinkled; contracted; to draw together, urgent; imminent; sad; sorrowful (U+481E)	e4a09e
+䠟	to trip up; to be hindered; to stroll (U+481F)	e4a09f
+䠠	to go, to walk in one leg; leap; crippled, (ancient form of 逝) to pass; to be gone; to depart, (interchangeable 滯) in a standstill; stagnant; impeded; blocked (U+4820)	e4a0a0
+䠡	sound of footsteps; to tread on; to stamp, to stagger; to fall; to drop; to stumble, to stop up; to gag; blocked (U+4821)	e4a0a1
+䠢	weary; tired; fatigued, lime; crippled, to stumble and fall (U+4822)	e4a0a2
+䠣	net to trap the animals (U+4823)	e4a0a3
+䠤	toddle, to fall; fallen; prostrate (U+4824)	e4a0a4
+䠥	(same as U+8E69 蹩) to limp; lame (U+4825)	e4a0a5
+䠦	(non-classical form of 躓) to stumble; to trip, to be frustrated (U+4826)	e4a0a6
+䠧	hard to go forward, stop; to delay (U+4827)	e4a0a7
+䠨	walking rapidly, (said of a horse) (U+4828)	e4a0a8
+䠩	to urinate; to pass urine; to empty the bladder; to make water; weary, tired, fatigued (U+4829)	e4a0a9
+䠪	footprints; track, to trample, to walk far and fast (U+482A)	e4a0aa
+䠫	to succumb to the effect of alcohol; to walk unsteadily (said of drunkards) (U+482B)	e4a0ab
+䠬	insomnia, to exhaust; highest; farthest (U+482C)	e4a0ac
+䠭	lame; crippled, to stumble (U+482D)	e4a0ad
+䠮	(same as 騰) to prance; torear; to leap; to jump, to go up, to turn over (U+482E)	e4a0ae
+䠯	to ascend; to climb; to rise, to step on; totread on; to walk upon, to pull out; to uproot, to promote, to jump; to leap (U+482F)	e4a0af
+䠰	(same as 踡) coiled; curled; drawn together; not stretched, (dialect) to surround; to encircle; to enclose (U+4830)	e4a0b0
+䠱	(same as 蠋 躅) to walk slowly and cautiously; to limp (U+4831)	e4a0b1
+䠲	(non-classical form of 聆) to listen; to hear (U+4832)	e4a0b2
+䠳	to walk, (corrupted form of 邪 射) evil, to shoot (U+4833)	e4a0b3
+䠴	with a symmetric well-formed; upright; respectable; proper carriage (U+4834)	e4a0b4
+䠵	to wear clothes (U+4835)	e4a0b5
+䠶	(same as 射) to project; to shoot out, to aim at (U+4836)	e4a0b6
+䠷	the appearance of height in a person (U+4837)	e4a0b7
+䠸	obsequious; servile; fawning, to obey; obedient; to comply (U+4838)	e4a0b8
+䠹	(non-classical form of 骸) shinbone, skeleton (U+4839)	e4a0b9
+䠺	U+483A (U+483A)	e4a0ba
+䠻	to bend the body, to employ as a servant, (non-classical form of 竆) (same as 窮) poor (U+483B)	e4a0bb
+䠼	to wear; to put on clothes (U+483C)	e4a0bc
+䠽	height or stature of a person, tall; a tall trunk, (dialect) to sit down and take some rest (U+483D)	e4a0bd
+䠾	to dodge; to ward off (U+483E)	e4a0be
+䠿	name of a person, (non-classical form of 聵) deaf; born deaf (U+483F)	e4a0bf
+䡀	nude; naked; without a stitch on, to shake; to tremble or shiver; to vibrate (U+4840)	e4a180
+䡁	not well-formed figure, incorrect; unrespectable; improper physical build (U+4841)	e4a181
+䡂	the long wooden bumper at the rear of a cart or carriage (U+4842)	e4a182
+䡃	a tool for brushing the thread, ornamental; brilliant (U+4843)	e4a183
+䡄	U+4844 (U+4844)	e4a184
+䡅	something used to bind the frame work in a cart (compartment) of old times, (same as 輴) a hearse; a funeral carriage, (interchangeable 巡) to inspect (said of ranking officials) (U+4845)	e4a185
+䡆	a moving cart (U+4846)	e4a186
+䡇	(same as 軏) the cross-bar at the end of the pole of a carriage (U+4847)	e4a187
+䡈	the cross-bar at the sides of a carritage, (same as 較) to compare (U+4848)	e4a188
+䡉	a kind of cart (U+4849)	e4a189
+䡊	the protruded sides of a carriage (used in ancient times to screen off muddy dust) (U+484A)	e4a18a
+䡋	(same as 軝) decoration on the nave or hub of a wheel (U+484B)	e4a18b
+䡌	(same as 鞃) horizontal front bar on a cart or carriage, leaning board in a sedan chair (U+484C)	e4a18c
+䡍	the linch-pin of a sheel (U+484D)	e4a18d
+䡎	(non-classical of 轤) a windlass; a pulley; a capstan (U+484E)	e4a18e
+䡏	(same as 鞃) horizontal front bar on a cart or carriage, leaning board in a sedan chair (U+484F)	e4a18f
+䡐	to move swiftly; to dart; to fleet; to drive v ery fast (U+4850)	e4a190
+䡑	the rim or felloe of a wheel; a tire, a yoke, a collar (U+4851)	e4a191
+䡒	sound of moving carriages; noise of a number of vehicles (U+4852)	e4a192
+䡓	shake of a cart, awning in front of a cart, covering the horse or mule in the shafts, (same as 軒) high front of a chariot or carriage (U+4853)	e4a193
+䡔	to hinder; to impede; to interfere with, to obstruct (U+4854)	e4a194
+䡕	the rear platform of a light carriage, a subordinate cart (U+4855)	e4a195
+䡖	still, motionless (U+4856)	e4a196
+䡗	rim of a wheel; felly; felloe, (or a wheel) to run over, to oppress, the shafts of a cart or carriage (U+4857)	e4a197
+䡘	sound of moving carriages (U+4858)	e4a198
+䡙	an armed carriage; a military cart; cart used by the soldiers (U+4859)	e4a199
+䡚	implements; equipment to catch the birds and animals, to entice; to tempt, to exchange; to trade (U+485A)	e4a19a
+䡛	(corrupted form) name of a carriage (U+485B)	e4a19b
+䡜	car (of a train); compartment; the inside of a cart, axis; pivot; axle; an axletree (U+485C)	e4a19c
+䡝	a rear covering of a big carriage, an armed carriage; a military cart; cart used by the soldiers, name of a carriage (U+485D)	e4a19d
+䡞	leather that wind round on the shafts of a big carriage, (interchangeable 挶) a receptacle for earth (U+485E)	e4a19e
+䡟	a ring of the horizontal front bar on a carriage; to control the wheel (U+485F)	e4a19f
+䡠	strong and durable (U+4860)	e4a1a0
+䡡	to get up into a carriage (U+4861)	e4a1a1
+䡢	a small carriage (U+4862)	e4a1a2
+䡣	a piece of curved board; a crank -- of a ( plough) machine, etc., shafts (of a cart or carriage), to return, to avoid bumping against each other (U+4863)	e4a1a3
+䡤	a carriage, an evergreen oak (U+4864)	e4a1a4
+䡥	(same as U+4846 䡆) a moving cart (U+4865)	e4a1a5
+䡦	the empty space of a wheel, rim of a wheel; felly; felloe (U+4866)	e4a1a6
+䡧	a carriage; the head of a carriage (U+4867)	e4a1a7
+䡨	connected carts, back and park the cart, to block; to stop up (U+4868)	e4a1a8
+䡩	sound of carts or stones (big things) knocking together, cross-bar in the rear of a carriage (U+4869)	e4a1a9
+䡪	fan of a carriage (U+486A)	e4a1aa
+䡫	sound of moving carriages; noise of a number of vehicles (U+486B)	e4a1ab
+䡬	covering of a carriage, a tank (an armored vehicle), a chariot, a cover or shelter of a chariot (U+486C)	e4a1ac
+䡭	a hearse; a funeral carriage (U+486D)	e4a1ad
+䡮	(interchangeable 蹤 趿) trace of a wheel (U+486E)	e4a1ae
+䡯	sound of moving carriages; noise of a number of vehicles, a prison cart; a police van to transport prisoners, carts wheels (U+486F)	e4a1af
+䡰	strong and durable (same as 轂) hub (of a wheel), wheel (U+4870)	e4a1b0
+䡱	U+4871 (U+4871)	e4a1b1
+䡲	rim of a wheel; felly; felloe, a kind of carriage (U+4872)	e4a1b2
+䡳	cart, carriage etc. (U+4873)	e4a1b3
+䡴	carriage used in ancient times to take enemy position, (interchangeable 幢) a curtain for a carriage (U+4874)	e4a1b4
+䡵	decoration on carriage (U+4875)	e4a1b5
+䡶	vehicles and garments (commonloy used in feudal times to reward vassals), covering on the crossbar at the ends of carriage poles, crank axle of a shade (U+4876)	e4a1b6
+䡷	(same as 轄) noise of vehicles (U+4877)	e4a1b7
+䡸	U+4878 (U+4878)	e4a1b8
+䡹	(same as 輊) the low rear of a chariot, etc. (U+4879)	e4a1b9
+䡺	(same as 轊) the end of an axle-tree (U+487A)	e4a1ba
+䡻	(same as U+4851 䡑) shake of a cart, awning in front of a cart, covering the horse or mule in the shafts; (same as U+8ED2 軒) high front of a chariot or carriage (U+487B)	e4a1bb
+䡼	(same as 軨) frames on the sides and front of a carriage, wheels of a carriage (U+487C)	e4a1bc
+䡽	the shafts of a vehicle (U+487D)	e4a1bd
+䡾	high cartloads, (same as 轙) rings on the yokes (U+487E)	e4a1be
+䡿	(same as 軨) frames on the sides and front of a carriage, wheels of a carriage (U+487F)	e4a1bf
+䢀	(simpliied form) (U+4880)	e4a280
+䢁	(simplified form) tire of a wheel (U+4881)	e4a281
+䢂	(Cant.) an elevator (from the British 'lift') (U+4882)	e4a282
+䢃	to administer; to regulate; to manage; to govern, people to have both talent and virtue, quiet; calm; safe; secure; stable (U+4883)	e4a283
+䢄	U+4884 (U+4884)	e4a284
+䢅	(interchangeable 晨) daybreak (U+4885)	e4a285
+䢆	U+4886 (U+4886)	e4a286
+䢇	a son who is not so good as his father; good-for-nothing; a rotten apple, inferior; mean, busy with many different matters; no leisure, mixed; confused; miscellaneous (U+4887)	e4a287
+䢈	U+4888 (U+4888)	e4a288
+䢉	(same as 農) agriculture; farming, farmer (U+4889)	e4a289
+䢊	(ancient form of 遊) to travel; to roam; to saunter (U+488A)	e4a28a
+䢋	a marshal or herald; an offical rank in old times, indicating exclamation (same as 哉) (U+488B)	e4a28b
+䢌	to walk, rapid marching or running (U+488C)	e4a28c
+䢍	to hasten; to hurry to (U+488D)	e4a28d
+䢎	(same as U+488B 䢋) indicating exclamation (U+488E)	e4a28e
+䢏	U+488F (U+488F)	e4a28f
+䢐	(same as 徂) to go to; to go ahead; to advance (U+4890)	e4a290
+䢑	angry; furious, frightened; terrified; terror-stricken (U+4891)	e4a291
+䢒	to meet; to co-operate; interaction, to have friendly relations, interlocking; interchanging (U+4892)	e4a292
+䢓	bed, window (U+4893)	e4a293
+䢔	mixed; abundant; assorted, repeated (U+4894)	e4a294
+䢕	a group of people walking together (U+4895)	e4a295
+䢖	to be scattered (over an area); to spread, to give an account of; to explain; to expound, to follow (U+4896)	e4a296
+䢗	U+4897 (U+4897)	e4a297
+䢘	U+4898 (U+4898)	e4a298
+䢙	(same as 敗) to ruin; to destroy; to spoil, defeat; to be defeated, bad; as meat (U+4899)	e4a299
+䢚	a narrow path (for rabbit), (same as 迒) animal tracks, path; way; road (U+489A)	e4a29a
+䢛	(non-classical form of 迥) far; distant; different from; separated (U+489B)	e4a29b
+䢜	(same as 歸) the marriage of a woman, to return to; to revert to; to go back, to belong to, to restore, to send back (U+489C)	e4a29c
+䢝	(interchangeable 亞) the next in order; secondary; second (in excellence), inferior; lower (U+489D)	e4a29d
+䢞	(corrupted form U+48A4 䢤) rows and columns (U+489E)	e4a29e
+䢟	(same as 遊) to travel; to roam; to saunter, (interchangeable 游) to wander about (U+489F)	e4a29f
+䢠	(standard form of 送) to send; to deliver; to convey, to give (U+48A0)	e4a2a0
+䢡	to stamp the foot forward, to walk, to stop (U+48A1)	e4a2a1
+䢢	to pass; to pass through or by (U+48A2)	e4a2a2
+䢣	(same as 遙) distant; far; remote (U+48A3)	e4a2a3
+䢤	U+48A4 (U+48A4)	e4a2a4
+䢥	(corrupted form) (to walk) in harmony; in accord, to look after; to care for each other (U+48A5)	e4a2a5
+䢦	(interchangeable 率 帥) to lead the way; a guide; a forerunner; to head, model; a mentor; a teacher, to guide; to lead; to direct, to follow; to accord with; to obey (U+48A6)	e4a2a6
+䢧	to go forward; to depart (U+48A7)	e4a2a7
+䢨	to walk slowly; to walk in a leisurely manner, (same as 蹤) track; trace; vestige, to keep track; to follow up clues (U+48A8)	e4a2a8
+䢩	(same as 禦御) to forbid to prohibit; to ban, to resist; to sustain; to ward off (U+48A9)	e4a2a9
+䢪	(non-classical form of 橇) a sledge for transportation over mud or snow (U+48AA)	e4a2aa
+䢫	(same as 隨) to follow; to trace, to submit to; to accord with, to let, to come after (U+48AB)	e4a2ab
+䢬	(ancient form of 遷) to move; to remove; to change, to be banished (U+48AC)	e4a2ac
+䢭	to cover; to screen; to shade; to conceal; to shut off, to block, to shift; to move, to forward; to convey, to walk (U+48AD)	e4a2ad
+䢮	rapid marching or running (U+48AE)	e4a2ae
+䢯	(standard form of 遴) to choose or select careful, to desire for more than one's rightful share; to covet; greedy (U+48AF)	e4a2af
+䢰	(same as 趯) to jump; to leap; to hop (U+48B0)	e4a2b0
+䢱	to slight; to abuse; to insult; to blaspheme, to desecrate (U+48B1)	e4a2b1
+䢲	to go all the way forward; without stopping (U+48B2)	e4a2b2
+䢳	name of a place (U+48B3)	e4a2b3
+䢴	(interchangeable 邘) name of a place (U+48B4)	e4a2b4
+䢵	(same as 鄖) name of an old country in today's Hubei province, name of a place in today's Jiangsu province (U+48B5)	e4a2b5
+䢶	(same as 邦) a state; a country; a nation (U+48B6)	e4a2b6
+䢷	U+48B7 (U+48B7)	e4a2b7
+䢸	name of a county in today's Shanxi Province (U+48B8)	e4a2b8
+䢹	name of a pavilion in today's Hunan Province (U+48B9)	e4a2b9
+䢺	name of a place in today's Sichuan Province (U+48BA)	e4a2ba
+䢻	name of a place (U+48BB)	e4a2bb
+䢼	name of a state in old times, name of a pavilion (U+48BC)	e4a2bc
+䢽	(same as 巷) (interchangeable 衖) a lane; an alley (U+48BD)	e4a2bd
+䢾	(same as 姺) name of an ancient small State (U+48BE)	e4a2be
+䢿	name of a place in today's Hobei Province (U+48BF)	e4a2bf
+䣀	name of a mountain, name of a place, name of a state (U+48C0)	e4a380
+䣁	name of a pavilion (Han Dynasty) in today's Henan Province (U+48C1)	e4a381
+䣂	name of a county in today's Hunan Province (U+48C2)	e4a382
+䣃	U+48C3 (U+48C3)	e4a383
+䣄	name of a place in today's Shandong Province (U+48C4)	e4a384
+䣅	name of an ancient state, in today's Henan Province (U+48C5)	e4a385
+䣆	name of a county in Gaomi (U+48C6)	e4a386
+䣇	name of a place, name of a county in today's Henan Province (U+48C7)	e4a387
+䣈	(ancient form of 巷) (interchangeable 衖) a lane; an alley (U+48C8)	e4a388
+䣉	U+48C9 (U+48C9)	e4a389
+䣊	name of a place, (same as 黨) party; gang; clique (U+48CA)	e4a38a
+䣋	name of a place (U+48CB)	e4a38b
+䣌	(non-classical form of 邸) residence of a prince or nobility (U+48CC)	e4a38c
+䣍	(interchangeable 奄) name of an ancient state, name of a country in old times (U+48CD)	e4a38d
+䣎	name of county (a village) (U+48CE)	e4a38e
+䣏	(non-classical form of U+48BC 䢼) name of a state in old times, name of a pavilion (U+48CF)	e4a38f
+䣐	name of a place (U+48D0)	e4a390
+䣑	(same as 廛) living space for one family in ancient times, a store; a shop (abbreviated form of 鄽) (U+48D1)	e4a391
+䣒	U+48D2 (U+48D2)	e4a392
+䣓	name of a state, name of a county (U+48D3)	e4a393
+䣔	name of a pavilion in today's Henan Province (U+48D4)	e4a394
+䣕	name of a county in ancient times (U+48D5)	e4a395
+䣖	(same as U+48D5 䣕) name of a county in ancient times (U+48D6)	e4a396
+䣗	U+48D7 (U+48D7)	e4a397
+䣘	(ancient form of 堂) a hall, an office; a reception room, a court of justice (U+48D8)	e4a398
+䣙	name of a county in today's Shanxi Province, name of an ancient state in Inner Mongolia name of a place (U+48D9)	e4a399
+䣚	name of a village in today's Henan Province (U+48DA)	e4a39a
+䣛	name of a place in ancient times, (same as 5380 膝) the knee (U+48DB)	e4a39b
+䣜	(same as 酇) name of a county (in today's Henan Province) in ancient times (U+48DC)	e4a39c
+䣝	name of a place in today's Shanxi Province (U+48DD)	e4a39d
+䣞	(standard form of 鄂) name of an ancient State which occupied the site of the present province of Hubei, short for Hubei Province (U+48DE)	e4a39e
+䣟	name of pavilion in today's Shandong Province, to pierce; to stab; to irritate; to hurt (U+48DF)	e4a39f
+䣠	name of a village in today's Sichuan Province; (a corrupted form of U+48DF U+48E2 䣟䣢) name of pavilion (U+48E0)	e4a3a0
+䣡	name of a place in old times; in today's Anhui Province (U+48E1)	e4a3a1
+䣢	name of a place in ancient times, name of a river in ancient times (U+48E2)	e4a3a2
+䣣	(same as U+9EE8 黨) name of a place, party; gang; clique (U+48E3)	e4a3a3
+䣤	name of village in today's Shanxi Province (U+48E4)	e4a3a4
+䣥	a kind of wine (U+48E5)	e4a3a5
+䣦	to cut; to mince; to slice; to carve (U+48E6)	e4a3a6
+䣧	(interchangeable 黓) black, color of the wine, sweet; honeyed; or pleasing (U+48E7)	e4a3a7
+䣨	(same as U+48E9 䣩) rich; good; as wine, pure, unmixed; (same as U+7D14 純) beautiful; fine; pretty, net; pure; (same as U+9187 醇) rich wine; strong wine, gentle; gracious; jidicious, pure and fair (U+48E8)	e4a3a8
+䣩	(same as U+7D14 純) beautiful; fine; pretty, net, (same as U+9187 醇) rich; good; as wine, pure, unmixed (U+48E9)	e4a3a9
+䣪	color of the wine, smell of alcohol (U+48EA)	e4a3aa
+䣫	soured bean-curd; a milky preparation from beans (U+48EB)	e4a3ab
+䣬	the shiny colorful of the wine, sweet; color of the wine (U+48EC)	e4a3ac
+䣭	an organic compound; phtholein (U+48ED)	e4a3ad
+䣮	(non-classical of U+48EA 䣪) smell of alcohol (U+48EE)	e4a3ae
+䣯	wine or any thick fluid of the best quality; (corrupted form of 靦) ashamed (U+48EF)	e4a3af
+䣰	(same as 醵) to pool money (for a feast, etc.); to contribute to a feast (U+48F0)	e4a3b0
+䣱	(same as 酗) drunk; to lose temper when drunk (U+48F1)	e4a3b1
+䣲	to heat the wine over night, to generally indicate the wine, to sell or buy alcoholic drinks, (dialect) to change in color, wore out clothes, to get worse (U+48F2)	e4a3b2
+䣳	unstrained wine, vinegar (U+48F3)	e4a3b3
+䣴	(non classical form of 酗) to lose temper when drunk (U+48F4)	e4a3b4
+䣵	to brew the wine a second time, to get over a drinking bout (U+48F5)	e4a3b5
+䣶	unstrained wine, to offer plenty of food, to treat kindly and generously; to (same as 甜) pleasant to the taste -- as wine, sweet (U+48F6)	e4a3b6
+䣷	to pour (wine), unstrained wine (U+48F7)	e4a3b7
+䣸	tasteless, light, soybean sauce; soy, food in the form of paste, to eat to the full; satiated; surfeited, to dislike (U+48F8)	e4a3b8
+䣹	to brew 10 percent of the wine (U+48F9)	e4a3b9
+䣺	filtrated the wine (U+48FA)	e4a3ba
+䣻	color of the wine, dark red color of the face, (non-classical form of 酣) intoxicated, merry, as with drink (U+48FB)	e4a3bb
+䣼	mixed starch; one of the six drinks in old time, (interchangeable 涼) cold (U+48FC)	e4a3bc
+䣽	wine; rich wine, (same as 醍) a kind of reddish wine (U+48FD)	e4a3bd
+䣾	(non-classical form) cheese dregs; lees, cheese, drunken sound (U+48FE)	e4a3be
+䣿	to entertain; to feast, to drink within limits; to drink appropriately (U+48FF)	e4a3bf
+䤀	U+4900 (U+4900)	e4a480
+䤁	cooked or well-done; prepared or processed, to brew wine and store up for a long time, (interchangeable 酖) addicted to alcoholic drinks; to be imbibed or to indulge in (vices, etc.), to be infatuated with to be a slav e of (U+4901)	e4a481
+䤂	a second name for vinegar, (same as 酶) yeast or distiller's grains (U+4902)	e4a482
+䤃	drunken sound, drunk, to ferment; food made through the way of fermentation (U+4903)	e4a483
+䤄	flushed with drink; addicted to intoxicants (U+4904)	e4a484
+䤅	southerwood, bitter wine (U+4905)	e4a485
+䤆	a kind of rice wine; sake, wine used in ancestral worshipping or in offerings (U+4906)	e4a486
+䤇	white wine, a measure of wine containing about 3 pints (U+4907)	e4a487
+䤈	(same as 醯) vinegar (U+4908)	e4a488
+䤉	emptied the drink completely, bean sauce; salted preparations (U+4909)	e4a489
+䤊	wine, to brew a second time (U+490A)	e4a48a
+䤋	yellow-faced; emaciated look, (same as 聝) to cut off the ear; to cut off the left ears of the slain; to count the number of enemy troops one killed by the number of the left ears cut from the bodies (U+490B)	e4a48b
+䤌	a kind of wine be brewed from grains, a kind of daily drinks for a minority group (U+490C)	e4a48c
+䤍	rotten paste or soybean sauce; to grow mildewed (U+490D)	e4a48d
+䤎	soybean sauce; soy, food in the form of paste, oysters sauce (U+490E)	e4a48e
+䤏	(same as 圮) destroyed; ruined, wine and women -- sensual pleasures (U+490F)	e4a48f
+䤐	to drink; refreshment; to have a little drink sweet, delicious; tasty (U+4910)	e4a490
+䤑	wine (U+4911)	e4a491
+䤒	wine made from glutinous rice, a kind wine to drink after bathing, color of the rice wine, a kind of good wine, bubbles of the wine (U+4912)	e4a492
+䤓	U+4913 (U+4913)	e4a493
+䤔	dregs of wine, tasteless; insipid (U+4914)	e4a494
+䤕	vinegar, smell of vinegar, bitter wine (same as 嚛) (U+4915)	e4a495
+䤖	a kind of wine, a kind of wine that brew for one night (U+4916)	e4a496
+䤗	taste of strong drink, the bitterness of the wine (U+4917)	e4a497
+䤘	vinegar, smell of vinegar (U+4918)	e4a498
+䤙	dregs; lees of cheese, cheese (U+4919)	e4a499
+䤚	(same as 李) plums, a plum tree (U+491A)	e4a49a
+䤛	component parts of a cross-bow, (same as 銶) a single headed hatchet (U+491B)	e4a49b
+䤜	(same as 鈍) blunt, obtuse; dull-witted (U+491C)	e4a49c
+䤝	bracelet; armlet (U+491D)	e4a49d
+䤞	(corrupted form of 鈗) a kind of weapons held by the officials in attendance in old times, (same as 銳) a sharp-pointed weapon (U+491E)	e4a49e
+䤟	(standard form of 鈂) a spade, an iron bar for making hole, to dig, heavy (U+491F)	e4a49f
+䤠	(same as 鍺) chemical element, Germanium (U+4920)	e4a4a0
+䤡	iron (U+4921)	e4a4a1
+䤢	(same as 釛) metal, gold (U+4922)	e4a4a2
+䤣	(corrupted from of 鋝) a metal ring, an ancient weight of over six taels (U+4923)	e4a4a3
+䤤	implement; tool; instrument; utensil (U+4924)	e4a4a4
+䤥	agricultural implements; from tools, shining iron, a plectrum from stringed the teeth of a saw (U+4925)	e4a4a5
+䤦	(same as 鉞) a battle-axe; a halberd (U+4926)	e4a4a6
+䤧	U+4927 (U+4927)	e4a4a7
+䤨	to split; to slash or rip open (by means of a knife), jewels or ornaments on a sword, to analyze; to study; to investigate (U+4928)	e4a4a8
+䤩	an ornament at the end of a belt used in ancient times (U+4929)	e4a4a9
+䤪	short; imcomplete; deficient (same as 剁) to chop; to mince; to hash (U+492A)	e4a4aa
+䤫	(same as 鑱) a chisel, a coulter, mattock, sharp (U+492B)	e4a4ab
+䤬	a small gong, a sieve; a sifter; a strainer (U+492C)	e4a4ac
+䤭	to ornament; to decorate, to push (U+492D)	e4a4ad
+䤮	iron, golden ornaments (U+492E)	e4a4ae
+䤯	(same as 鉶) container for thick soup, sacrificical utensil, thick soup of meat and vegetables, (interchangeable 硎) a whetstone; grindstone (U+492F)	e4a4af
+䤰	to smelt; to fuse metals (U+4930)	e4a4b0
+䤱	(ancient form of 誓) a solemn pledge; a vow; an oath (U+4931)	e4a4b1
+䤲	chemical element; ( 鍶) old translation; Sr (U+4932)	e4a4b2
+䤳	a mirrow, lens; glass (U+4933)	e4a4b3
+䤴	armor; coat of mail, (interchangeable 函) a case; a small box, cup (U+4934)	e4a4b4
+䤵	a tiny needle; thin pin; one of the nine needles used in Chinese medicine, (same as 扉) a door leaf (U+4935)	e4a4b5
+䤶	a hammer; a mallet; a bludgeon, agricultural tools; farming implements, an iron (for pressing clothes) (U+4936)	e4a4b6
+䤷	a lance with three or two points, edge or margin of an utensil (U+4937)	e4a4b7
+䤸	short spear or lance (U+4938)	e4a4b8
+䤹	to engrave; to carve, rust (U+4939)	e4a4b9
+䤺	(same as 釿 斤) an ax; a hatchet, to cut off; to chop off (U+493A)	e4a4ba
+䤻	heavy iron part of a plough, the linch-pin of a wheel (U+493B)	e4a4bb
+䤼	metal wire (U+493C)	e4a4bc
+䤽	farm tools; agricultural implements; a tool used to till the lands; a spade or shovel (U+493D)	e4a4bd
+䤾	to contain; to envelop, a case a box (U+493E)	e4a4be
+䤿	(same as 鍥) to carve; to cut, a sickle (U+493F)	e4a4bf
+䥀	to pull out; to stretch (U+4940)	e4a580
+䥁	armor, (standard form 圅) to contain; to envelop, a sheath, a letter (U+4941)	e4a581
+䥂	the sharp edge of a shovel or a spade (U+4942)	e4a582
+䥃	a big hammer (U+4943)	e4a583
+䥄	to plaster with gold (U+4944)	e4a584
+䥅	(ancient form of 琴) a musical instrument (U+4945)	e4a585
+䥆	(ancient form of 琴) a musical instrument (U+4946)	e4a586
+䥇	chemical element; Sarmarium (Sm); old translation of ( 鋱) Tb, (same as 釤) a sickle with a long handle, to swing a sickle to cut (grass or wheat) (U+4947)	e4a587
+䥈	the symbol for Cobalt, an iron (for pressing clothes) (U+4948)	e4a588
+䥉	the curved iron part of a hoe (U+4949)	e4a589
+䥊	(non-classical of 錆) refined; polished; unmixed, the essence, fine and delicate, keen, very (U+494A)	e4a58a
+䥋	to smelt; to refine the gold; alchemy (U+494B)	e4a58b
+䥌	(ancient form of 證) evidence, proof, to give evidence, to testify (U+494C)	e4a58c
+䥍	(corrupted form) a whip, a farm tool used to regulate seedling and to weed (U+494D)	e4a58d
+䥎	instrument; implement; utensil; tool; apparatus (U+494E)	e4a58e
+䥏	unfitted for each other; irregular; unsuitable; not well-matched, a hoe, (same as 鋙) a musical instrument, pewter (U+494F)	e4a58f
+䥐	(corrupted form of 鍪) cooking utensils used in ancient times; an iron pan, a helmet; a metal cap (U+4950)	e4a590
+䥑	(corrupted form of 錽) a kind of decoration on the head of a horse; usually in a shape of an animal face, ornaments of a bridle or reins, to engrave incised inscriptions on copper or iron plate; to engrave on metal or wood (U+4951)	e4a591
+䥒	lead ( a metal) (U+4952)	e4a592
+䥓	a hoe (U+4953)	e4a593
+䥔	gold (U+4954)	e4a594
+䥕	(same as 鐅) the blade or edge of a spade, an open-lided shallow pan used to boil salt (U+4955)	e4a595
+䥖	(same as 鈿) silver of gold filagree, hairpin, inlaid work (U+4956)	e4a596
+䥗	a branding-iron, to solder (U+4957)	e4a597
+䥘	(same as 錯) wrong; mistake; error; a fault, a blunder, to mistake, to be confused (U+4958)	e4a598
+䥙	(same as 鐆) a speculum used in ancient times, to produce fire from the rays of the sun (U+4959)	e4a599
+䥚	(ancient form of 初) the beginning; the first (U+495A)	e4a59a
+䥛	a kind of sickle, chemical element; old translation of ( 鎳); Nickel Ni, to carve (U+495B)	e4a59b
+䥜	(same as 鐗,鐧) protective metal on the axis of a wheel, a kind of ancient weapon (U+495C)	e4a59c
+䥝	(standard form of 鏖) desperate fighting; to fight hard, (a stove) for keeping warm; to stew something until it's tender (U+495D)	e4a59d
+䥞	to cut with shears (U+495E)	e4a59e
+䥟	(non-classical form 楬) a metal marking- stake; a guidepost; a pile (U+495F)	e4a59f
+䥠	(same as 鍼 針) needle; pin; probe (U+4960)	e4a5a0
+䥡	(non-classical form of 鍱) thin plates of metal, to wrap with metal plates, iron of copper ore, ingots, bars of metal, a metal ring (U+4961)	e4a5a1
+䥢	sound of drums; loud music, to beat the drum and to keep the watches at night (U+4962)	e4a5a2
+䥣	(same as 鑿) an instrument for boring wood; to chisel, to bore or pierce through (U+4963)	e4a5a3
+䥤	the neck of a pestle; the neck part of a baton used to pound clothes in washing (U+4964)	e4a5a4
+䥥	a sickle, a reaping-hook, an angle of the arrowhead, medical instrument used in old times (U+4965)	e4a5a5
+䥦	U+4966 (U+4966)	e4a5a6
+䥧	(same as 璿 璇) a fine kind of jade (U+4967)	e4a5a7
+䥨	a file; a rasp; a polishing tool, to burnish, to polish, the handle of a lances and spear (U+4968)	e4a5a8
+䥩	hooks to hang; to suspend something (U+4969)	e4a5a9
+䥪	to cup; to pare; to trim; to shave (U+496A)	e4a5aa
+䥫	(ancient form of 鐵) iron, strong; firm (U+496B)	e4a5ab
+䥬	(interchangeable 鎛) a musical instrument in old times, a large bell suspended from a frame; a kind of ancient bell, a variety of hoe (U+496C)	e4a5ac
+䥭	(same as 證) evidence, proof, to give evidence, to testify) (U+496D)	e4a5ad
+䥮	to beat; to strike (U+496E)	e4a5ae
+䥯	a farm tool to crush the clod of earth into pieces and make the land flat, a big iron stick, to till lands; to plough; to cultivate; to harrow (U+496F)	e4a5af
+䥰	to melt, to sell, to fling a lance or a spear; to brandish spears as if they were flying (U+4970)	e4a5b0
+䥱	to melt or cast (metal) by using a mould, (non-classical form of 寫) to write; to draw (U+4971)	e4a5b1
+䥲	a chemical element; old translation of ( 銪) Eu (U+4972)	e4a5b2
+䥳	a chemical element; old translation of ( 銪) Eu (U+4973)	e4a5b3
+䥴	(same as 鐫) to engrave or carve; as a block for printing (U+4974)	e4a5b4
+䥵	lines; stripes; veins on an iron plate (U+4975)	e4a5b5
+䥶	(same as 鬲) cooking utensil used in old times, sacrificial vessel; a heavy three-legged caldron; huge tripod of bronze with two ears (U+4976)	e4a5b6
+䥷	(same as U+9358 鍘) a hinged shear or long knife for cutting fodder or hay; sheet-iron, etc., to cut up (U+4977)	e4a5b7
+䥸	a sickle (U+4978)	e4a5b8
+䥹	U+4979 (U+4979)	e4a5b9
+䥺	(same as 鋣) name of a double-edged sword, (simplified form 釾) a chemical element (鎄) (Es) (U+497A)	e4a5ba
+䥻	(simplified form) (U+497B)	e4a5bb
+䥼	(simplified form) (U+497C)	e4a5bc
+䥽	(simplified form of 鏺) farm tool; blade in both side with a long handle used to cut weeds, to exterminate; to settle disorders (U+497D)	e4a5bd
+䥾	(simplified form of U+4971 䥱) to melt or cast (metal) by using a mold; (non-classical form of U+5BEB 寫) to write; to draw (U+497E)	e4a5be
+䥿	U+497F (U+497F)	e4a5bf
+䦀	U+4980 (U+4980)	e4a680
+䦁	a broad hoe, a mattock (U+4981)	e4a681
+䦂	(simplified form of U+4947 䥇) sarmarium (Sm); old ideograph for U+92F1 鋱, terbium (Tb); (same as U+91E4 釤) a sickle with a long handle, to swing a sickle to cut (grass or wheat) (U+4982)	e4a682
+䦃	(simplified form) to dig with a hoe, a big hoe (U+4983)	e4a683
+䦄	(simplified form) (U+4984)	e4a684
+䦅	(simplified form of 鐥) a kind of weapon used in ancient times, (same as 釤) a sickle with a long handle, to swing a sickle to cut (grass or wheat) (U+4985)	e4a685
+䦆	(simplified form) a big hoe, to eliminate; to uproot; to clear; to dig; to excavate (U+4986)	e4a686
+䦇	(ancient form of 髻) dressed hair of a Chinese woman; a coiffure with a topknot (U+4987)	e4a687
+䦈	(ancient form of 嗟) to sigh in lamentation; to lament; an exclamation expressing grief or regret; to exclaim, name of a hill (U+4988)	e4a688
+䦉	U+4989 (U+4989)	e4a689
+䦊	an appliance for walking on the sands (as boat for river; car for highway) (U+498A)	e4a68a
+䦋	to grow; to increase or advance, to become (U+498B)	e4a68b
+䦌	the door is wide open; directly in the front (U+498C)	e4a68c
+䦍	to include; to embrace, to search for, intransigent; stubborn; obstinate (U+498D)	e4a68d
+䦎	(interchangeable 管) a mechanical device for lead ore, (non-classical form of 閌) high; tall and big; lofty (said of the door) (U+498E)	e4a68e
+䦏	wing of a door (U+498F)	e4a68f
+䦐	the bolt of a door; door latch, (non-classical form of 開) open (U+4990)	e4a690
+䦑	without a door; no family (U+4991)	e4a691
+䦒	the door is closed, to knock at the door; to beat or to strike lightly (U+4992)	e4a692
+䦓	to wait for something to happen immediately; (same as U+8998 覘) to spy on; to peep; to watch or see in secret (U+4993)	e4a693
+䦔	a peg; a stake; a door stopper, the bolt of a door; door latch (U+4994)	e4a694
+䦕	(same as 閛) bang of the door; the sound of opening or closing the door (U+4995)	e4a695
+䦖	sound of the door, the gate of the Zheng State city wall ( the Epoch of Spring and Autumn) (U+4996)	e4a696
+䦗	(same as 侐) quiet (house, surrounding, etc.) (U+4997)	e4a697
+䦘	(same as 限) a threshold; door-sill (U+4998)	e4a698
+䦙	(same as U+5BFA 寺) a government agency, the court, a eunuch (U+4999)	e4a699
+䦚	wide open of the door, (non-classical form of 闊) broad; wide; width (U+499A)	e4a69a
+䦛	to struggle; struggle; to strive (U+499B)	e4a69b
+䦜	(same as standard form 郚) name of a state in old times (U+499C)	e4a69c
+䦝	sound of the door, to open (U+499D)	e4a69d
+䦞	(same as 閏) extra; inserted between others, as a day or month, to intercalate (U+499E)	e4a69e
+䦟	to struggle; struggle; to strive, firm; stable; secure (U+499F)	e4a69f
+䦠	name of a river, door (U+49A0)	e4a6a0
+䦡	a door-keeper, an entrance of a palace, a secluded dweling (U+49A1)	e4a6a1
+䦢	(non-classical form of 闊) broad; wide; width (U+49A2)	e4a6a2
+䦣	open the door (U+49A3)	e4a6a3
+䦤	seed of grains (U+49A4)	e4a6a4
+䦥	to learn, habit; practice, ways of doing things, law; regulations (U+49A5)	e4a6a5
+䦦	(same as 琴) a musical instrument (U+49A6)	e4a6a6
+䦧	(same as 鬩) to quarrel; to conflict, contention; animosity; resentment; recriminations (U+49A7)	e4a6a7
+䦨	(corrupted form of 闌) a door curtain or screen, a fence, to separate; to block up, the end of; late (U+49A8)	e4a6a8
+䦩	U+49A9 (U+49A9)	e4a6a9
+䦪	sound of the door (U+49AA)	e4a6aa
+䦫	inside the door (U+49AB)	e4a6ab
+䦬	a vacancy; an opening (U+49AC)	e4a6ac
+䦭	to open; sweet-smelling; fragrant, delicious (U+49AD)	e4a6ad
+䦮	door of the center (U+49AE)	e4a6ae
+䦯	very dense; no break; to cluster together (U+49AF)	e4a6af
+䦰	(same as 鬮) lots, to draw lots (U+49B0)	e4a6b0
+䦱	open the door, the door is slanted (U+49B1)	e4a6b1
+䦲	eaves of a ancestral temple (of the ruling family), door of a shrine or a temple, small opening (of a door), to spy; to peep (U+49B2)	e4a6b2
+䦳	between steps, window (U+49B3)	e4a6b3
+䦴	open the door (U+49B4)	e4a6b4
+䦵	incapable, weak; feeble, narrow minded (U+49B5)	e4a6b5
+䦶	(simplified form of U+499B 䦛) to struggle; struggle; to strive (U+49B6)	e4a6b6
+䦷	(simplified form of U+499F 䦟) to struggle; struggle; to strive, firm; stable; secure (U+49B7)	e4a6b7
+䦸	U+49B8 (U+49B8)	e4a6b8
+䦹	name of a county in today's Sichuan Province (U+49B9)	e4a6b9
+䦺	name of a hill (U+49BA)	e4a6ba
+䦻	name of a place (U+49BB)	e4a6bb
+䦼	to dig a passage through a mountain or hill; to drill, collapsed in ruins; to crumble, the earth cracking up (U+49BC)	e4a6bc
+䦽	(same as 序) an east and west wall; side rooms, screen-walls to private rooms of the palace, ancient school which was also an asylum for aged scholars (U+49BD)	e4a6bd
+䦾	lofty, (same as U+9656 陖), rock; stone, name of a place (U+49BE)	e4a6be
+䦿	U+49BF (U+49BF)	e4a6bf
+䧀	U+49C0 (U+49C0)	e4a780
+䧁	to leave; to depart; to separate, distant from, a village in ancient times in Anyi (U+49C1)	e4a781
+䧂	to turn over the clod of the earth with a shovel or a spade, to plough the land for rotation of crops, a channel for irrigation in farmland (U+49C2)	e4a782
+䧃	name of a place (U+49C3)	e4a783
+䧄	name of a person (U+49C4)	e4a784
+䧅	dangerous; hazardous; difficult; trouble, disaster or distress, name of a place (U+49C5)	e4a785
+䧆	a pit; a hole; a gully (U+49C6)	e4a786
+䧇	name of a hillside, name of a village, name of tomb of an emperor; name of a high mound (U+49C7)	e4a787
+䧈	U+49C8 (U+49C8)	e4a788
+䧉	name of a pavilion in Han Dynasty, name of a county in ancient China (U+49C9)	e4a789
+䧊	a big mound, name of a mound in today's Shanxi Province (U+49CA)	e4a78a
+䧋	name of a place, boundary; a line (U+49CB)	e4a78b
+䧌	name of a place (U+49CC)	e4a78c
+䧍	(non-classical form of 隙) a crack; a crevice; a fissure (U+49CD)	e4a78d
+䧎	a pit; a hole; a gully (U+49CE)	e4a78e
+䧏	U+49CF (U+49CF)	e4a78f
+䧐	a mountain in Shanxi Province, name of a county in old times (U+49D0)	e4a790
+䧑	(ancient form of 隄 堤) a dike; levee or embankment (U+49D1)	e4a791
+䧒	steps leading up to a building (U+49D2)	e4a792
+䧓	a big mound, abundant; fertile (U+49D3)	e4a793
+䧔	to meet at the bank; shore; beach; coast (U+49D4)	e4a794
+䧕	(same as 域) boundary; a frontier, a region; a country, (ancient form of 城) a city; a town (U+49D5)	e4a795
+䧖	a small mound (U+49D6)	e4a796
+䧗	mountains collapsing; a land-slide (U+49D7)	e4a797
+䧘	a low wall on the road side, a wall, the space enclosed by a constellation (U+49D8)	e4a798
+䧙	(ancient form of 陵) a high mound, tomb of an emperor, to usurp; to abuse (U+49D9)	e4a799
+䧚	(same as 鄗) the name of a place in the south-west of Hebei Province (U+49DA)	e4a79a
+䧛	(same as 傍) beside; by the side of; near; close, sound of vehicles; wheels (U+49DB)	e4a79b
+䧜	(same as 塘) an embankment; a bund; a bank; a dike, to generally the roads, (interchangeable 唐) the Tand Dynasty, abrupt; rude (U+49DC)	e4a79c
+䧝	name of a place, name of a mountain (U+49DD)	e4a79d
+䧞	to increase; to profit; to augment, artful; clever; skillful, chips (in gambling, etc.), a number (for identification), abundant; rich; exuberant; flourishing; prosperous (U+49DE)	e4a79e
+䧟	(same as 陷) to skin, to involve; to beguile, to betray (U+49DF)	e4a79f
+䧠	(same as 鄟) name of a place (the Epoch of Spring and Autumn) in what is today's Shandong Province (U+49E0)	e4a7a0
+䧡	(same as 墉) a fortified wall, a wall (U+49E1)	e4a7a1
+䧢	a rough road, a rugged; steep mountain uneasy (U+49E2)	e4a7a2
+䧣	(same as 鄄 堙) to stop up; to gag; blocked (U+49E3)	e4a7a3
+䧤	(same as 濮) name of a river in Shandong Province, name of an ancient tribe in Hubei Province (U+49E4)	e4a7a4
+䧥	border; frontier (U+49E5)	e4a7a5
+䧦	name of a hillside; a slope in today's Henan Province (U+49E6)	e4a7a6
+䧧	(sama as 嶬) high mountains; steep; lofty (U+49E7)	e4a7a7
+䧨	precipitous; steep and lofty of a high mountain (U+49E8)	e4a7a8
+䧩	U+49E9 (U+49E9)	e4a7a9
+䧪	sissy; womanish, fawning manner; obsequiousness (U+49EA)	e4a7aa
+䧫	a trench (in warfare); a ditch, to soar; to fly, to roam (U+49EB)	e4a7ab
+䧬	(same as 瀕 濱) water's edge; to border on; to brink on, near at hand; close by (U+49EC)	e4a7ac
+䧭	U+49ED (U+49ED)	e4a7ad
+䧮	name of a place, (same as 顯) to manifest, to display, to be illustrious, evident, to seem; to appear (U+49EE)	e4a7ae
+䧯	name of a place, to skin, to involve; to beguile, to betray (U+49EF)	e4a7af
+䧰	a mound (U+49F0)	e4a7b0
+䧱	(same as 鳩) the pigeon, the turtle dove (U+49F1)	e4a7b1
+䧲	the magpie, jackdaw; jay and similar birds (U+49F2)	e4a7b2
+䧳	(same as 雌) female; feminine, a female bird, to dwell, to stop (U+49F3)	e4a7b3
+䧴	a bird, to map out or draw up (a plan); a plan or scheme; to calculate; to count; to consider (U+49F4)	e4a7b4
+䧵	(non-classical form of 鴆) a bird like the secretary falcon (U+49F5)	e4a7b5
+䧶	to care for; to concern about affectionately, (a corrupted form of 奊) slanting; not straight; curved (of the head) (U+49F6)	e4a7b6
+䧷	a kind of bird (U+49F7)	e4a7b7
+䧸	(same as 鴣) a kind of pigeon; partridge; francolin (U+49F8)	e4a7b8
+䧹	(same as U+9DF9 鷹) hawk; eagle; falcon (U+49F9)	e4a7b9
+䧺	(same as 雄) the male of birds (U+49FA)	e4a7ba
+䧻	(same as 鴿) dove; pigeon (U+49FB)	e4a7bb
+䧼	(same as 鵠) the the snow goose; swan, standing erect; standing quietly, target; bull's-eye (U+49FC)	e4a7bc
+䧽	(corrupted form) small, thin and slim neck (U+49FD)	e4a7bd
+䧾	a kind of bird; like wild duck (U+49FE)	e4a7be
+䧿	(same as 鵲) the magpie (U+49FF)	e4a7bf
+䨀	(same as 籴 糴) to lay in grain; to buy grain (U+4A00)	e4a880
+䨁	(same as 鶩) ducks; either wild or tame, a chick, a very young bird -- fledgling (U+4A01)	e4a881
+䨂	a chick (U+4A02)	e4a882
+䨃	U+4A03 (U+4A03)	e4a883
+䨄	(same as 鵪) quail (U+4A04)	e4a884
+䨅	(same as 鷯) small birds -- the wren, tit, etc. (U+4A05)	e4a885
+䨆	(same as 鷩) a kind of pheasant (U+4A06)	e4a886
+䨇	(same as 雙) a pair; a couple; a brace, two; both (U+4A07)	e4a887
+䨈	a small bird (U+4A08)	e4a888
+䨉	(same as 鸚) parrot (U+4A09)	e4a889
+䨊	a flock of birds (U+4A0A)	e4a88a
+䨋	(same as 虐) cruel; ferocious; atrocious (U+4A0B)	e4a88b
+䨌	(same as 雹) hail; hailstone (U+4A0C)	e4a88c
+䨍	deep pond; deep pool (U+4A0D)	e4a88d
+䨎	(same as 霐) deep and dark (U+4A0E)	e4a88e
+䨏	sound of raining, a great fall of rain; heavy rain; it rained large drops (U+4A0F)	e4a88f
+䨐	(same as 洽) to spread; to diffuse, harmony; agreement, name of a frontier pass; near today's Sichuan Province (U+4A10)	e4a890
+䨑	to stop raining; to clear up, dispersion, a clear sky after rain (U+4A11)	e4a891
+䨒	sound of the water drops, raining, acquired dialects, (interchangeable 羽) feather; plume (U+4A12)	e4a892
+䨓	(ancient form of U+9741 雷) thunder, mine (an explosive); fuse (U+4A13)	e4a893
+䨔	(same as U+96F9 雹) hail; hailstone (U+4A14)	e4a894
+䨕	(a variant) pouring with rain (U+4A15)	e4a895
+䨖	(non-classical form of 霽) to stop raining; to clear up; the sky clearing up (U+4A16)	e4a896
+䨗	excessive rain and snow (U+4A17)	e4a897
+䨘	(same as U+9730 霰) sleet (U+4A18)	e4a898
+䨙	(same as 霪) to rain cats and dogs for a long time, incessant rain (U+4A19)	e4a899
+䨚	to rain (U+4A1A)	e4a89a
+䨛	to rain, snowflakes, light rain; drizzle (U+4A1B)	e4a89b
+䨜	a pouring rain; to rain cats and dogs, completely, with leaving a trace, dull; stupid; doltish (U+4A1C)	e4a89c
+䨝	a pure woman; name of a goddess of frost and snow (U+4A1D)	e4a89d
+䨞	to rain, to stretch; to open; to r elax; to unfold, slow; unhurried; leisurely (U+4A1E)	e4a89e
+䨟	puddle (water in the hoof's track), (same as 窪) deep, a pit; a swamp; a hollow; a depression (U+4A1F)	e4a89f
+䨠	(same as 靄) cloudy sky, fair clouds; a beautiful sky, mild; amiable; peaceful (U+4A20)	e4a8a0
+䨡	rained for a long time; too much rain (U+4A21)	e4a8a1
+䨢	(same as 霮) a passing cloud; floating clouds, densely covered by clouds; gathering clouds (U+4A22)	e4a8a2
+䨣	leather to be moistened by rain (U+4A23)	e4a8a3
+䨤	rain, to rain (U+4A24)	e4a8a4
+䨥	a pouring rain; to rain hard; to rain cats and dogs, a pair; a couple, two; both, to rain (U+4A25)	e4a8a5
+䨦	(same as 雱) snowing heavily (U+4A26)	e4a8a6
+䨧	(standard form of 霠), (corrupted form of 霒) cloudy; dark and gloomy (U+4A27)	e4a8a7
+䨨	thunder, hidden; concealed; secret, (same as 頤) the chin; the jaws (U+4A28)	e4a8a8
+䨩	(same as 靈) the spirit; the soul, divine, super-natural (U+4A29)	e4a8a9
+䨪	(same as 霾) a dust-storm, misty; foggy; cloudy (U+4A2A)	e4a8aa
+䨫	(interchangeable 霢) drizzling rain (U+4A2B)	e4a8ab
+䨬	rained for a long time (U+4A2C)	e4a8ac
+䨭	(same as 霄) the skies, clouds or mists (U+4A2D)	e4a8ad
+䨮	(same as 雪) snow, to clean; to wash or wipe away (U+4A2E)	e4a8ae
+䨯	cloudy (U+4A2F)	e4a8af
+䨰	rain; to rain, (same as 濼) to dock; to lay anchor (U+4A30)	e4a8b0
+䨱	spilt water, to pour out water (U+4A31)	e4a8b1
+䨲	a small hare; a small rabbit (U+4A32)	e4a8b2
+䨳	the rain stopped (U+4A33)	e4a8b3
+䨴	gathering clouds (U+4A34)	e4a8b4
+䨵	rained for a long time (U+4A35)	e4a8b5
+䨶	(ancient form of 霣) thunderstorm, thunder, (interchangeable 隕 殞) to fall, to die (U+4A36)	e4a8b6
+䨷	(same as 霰) sleet (U+4A37)	e4a8b7
+䨸	cloudy (U+4A38)	e4a8b8
+䨹	swift; rapid; quick; fast (U+4A39)	e4a8b9
+䨺	cloudy (U+4A3A)	e4a8ba
+䨻	roar of thunders; thunderpeal, very loud sounds (U+4A3B)	e4a8bb
+䨼	dyestuff ( of dark green) (U+4A3C)	e4a8bc
+䨽	to resolve, to dissolve; to decompose, to analyze, to part, to differ, different, a bird ( like a legendary bird with man's face and one leg) (U+4A3D)	e4a8bd
+䨾	hidden; concealed; secret, narrow and small, ugly, low; mean, inferior (U+4A3E)	e4a8be
+䨿	bad; evil; wicked; vice; wickedness (U+4A3F)	e4a8bf
+䩀	U+4A40 (U+4A40)	e4a980
+䩁	thin hairs; fine hairs (U+4A41)	e4a981
+䩂	to come to the front; to take the lead; to bear responsibility, to make good or to succeed (said of people of humble origin) (U+4A42)	e4a982
+䩃	appearance; a person's features (U+4A43)	e4a983
+䩄	face to face; to blush; ashamed, embarrassed (U+4A44)	e4a984
+䩅	broad; wide; spacious; vast, to turn red from shame or embarrassment; to blush, to be ashamed (U+4A45)	e4a985
+䩆	old, wrinkles; creases, ashamed, shamed-faced look (U+4A46)	e4a986
+䩇	a small head, to come to the front; to take the lead; to bear responsibility, to make good or to succeed (said of people of humble origin), an ugly face (U+4A47)	e4a987
+䩈	a plumpy; fat face (U+4A48)	e4a988
+䩉	the face, the cheeks; the jaw (U+4A49)	e4a989
+䩊	(interchangeable 婉) good-looking; beautiful, with the eyes wide open (U+4A4A)	e4a98a
+䩋	a green face; to look aghast, (interchangeable with U+61E1 懡) ashamed (U+4A4B)	e4a98b
+䩌	to have a worn look; to look haggard, to suffer distress, worries, etc. (U+4A4C)	e4a98c
+䩍	to look pale or pallid (U+4A4D)	e4a98d
+䩎	U+4A4E (U+4A4E)	e4a98e
+䩏	a small face, small, young, (dialect) a junior (U+4A4F)	e4a98f
+䩐	tie it tightly, to lead an ox, a wart; a pustule; a pimple, a round lump (U+4A50)	e4a990
+䩑	(same as 鞃) horizontal front bar on a cart or carriage, leaning board in a sedan chair (U+4A51)	e4a991
+䩒	dressed leather; a large belt (U+4A52)	e4a992
+䩓	(a non-classical form) boots, the leather belts that connect a cart with the horse, etc., the leather decorations on the ends of the hub (of a wheel) (U+4A53)	e4a993
+䩔	the hem; margin of the heel of a shoe, weeping sash or cord on a saddle, a leather rope, fringes of pearls on crowns, a pennant, (same as 鞶) a large belt (U+4A54)	e4a994
+䩕	clogs; pattens, (same as 硬) hard; strong; sturdy; firm (U+4A55)	e4a995
+䩖	shoes; boots (U+4A56)	e4a996
+䩗	(same as 霸) to rule by might rather than right; a feudal lord (U+4A57)	e4a997
+䩘	(same as U+976A 靪) to mend the soles of shoes, patchings; (same as U+97AE 鞮) leather shoes (U+4A58)	e4a998
+䩙	a scabbard, reins or traces (U+4A59)	e4a999
+䩚	(interchangeable 靪) to mend the soles of shoes, patchings, (same as 鞮) leather shoes (U+4A5A)	e4a99a
+䩛	leather belt used to bind or restrain a cart, (same as 轡) reins and bit; a bridle (U+4A5B)	e4a99b
+䩜	(same as 冑) descendants; posterity, a helmet; a head-gear in ancient battles for protection (U+4A5C)	e4a99c
+䩝	(non-classical form of 鞄) to tan and soften leather, (same as 匏) a bottle-gourd, one of the eight kinds of musical sounds, a kind of musical instrument, (interchangeable 枹) a drum-stick (interchangeable 包) handbag or purse (expecially one made of leather) (U+4A5D)	e4a99d
+䩞	a saddle-flap, trappings (U+4A5E)	e4a99e
+䩟	leather; processed hides, trappings, known together as saddle; a saddle-like terrain or thing and rein, etc. (U+4A5F)	e4a99f
+䩠	(same as 鞓) a girdle; a leather waistband, a leather belt, silk ribbons, sash, etc. attached to an official seal or medal; cordon (as a badge of honor) (U+4A60)	e4a9a0
+䩡	a kind of boots in old times, heel of a shoe, (same as 鞈) a leather made breast-plate, to guard; defend (U+4A61)	e4a9a1
+䩢	a scabbard; a sheath, a fine mats made from bamboo, (non-classical form of 靼) dressed leather; soft leather (U+4A62)	e4a9a2
+䩣	shoe-cushions (U+4A63)	e4a9a3
+䩤	to lead an ox, tie it tightly, quick, urgent; hurried; hasty (U+4A64)	e4a9a4
+䩥	a belt for horse, horses without saddle or rein, leather shoes (U+4A65)	e4a9a5
+䩦	the reins, a small bronze ring used to connect the reins (U+4A66)	e4a9a6
+䩧	to tie up hurriedly (U+4A67)	e4a9a7
+䩨	(same as 韔) a wrapper or case for bow, to pull an arrow (U+4A68)	e4a9a8
+䩩	a measure of capacity, a tool used to take out the mud from a well, back covering or shelter of a large carriage, military vehicles (U+4A69)	e4a9a9
+䩪	known together as saddle; rein and bridle, etc. (U+4A6A)	e4a9aa
+䩫	(same as 緉) a unit to count shoes in ancient times; a pair (U+4A6B)	e4a9ab
+䩬	an ornamental item on a scabbard, leather shoes, weapons; arms (interchangeable 鞛) (U+4A6C)	e4a9ac
+䩭	(same as 羈) halter; to restrain (U+4A6D)	e4a9ad
+䩮	a quiver (U+4A6E)	e4a9ae
+䩯	(interchangeable 革) urgent; anxious, hard, solid and durable leather, a leather whip (U+4A6F)	e4a9af
+䩰	(corrupted form of 鞙) a scabbard, reins or traces (U+4A70)	e4a9b0
+䩱	a scabbard; a sheath, remaining; overplus; surplus, sin; evil, the front of a cutting strip of cloth (U+4A71)	e4a9b1
+䩲	a tool used to cut leather, an ox to tow, drag or pull a boat (U+4A72)	e4a9b2
+䩳	tanning, soft leather (U+4A73)	e4a9b3
+䩴	a quiver (U+4A74)	e4a9b4
+䩵	(same as 韗) tanner who made the leather drum in ancient times (U+4A75)	e4a9b5
+䩶	saddle and rein etc. for the imperial carriage; or for the two outside horses of a team of four abreast, equipments used to saddle a horse (U+4A76)	e4a9b6
+䩷	(same as 幫) the sides of a shoe (U+4A77)	e4a9b7
+䩸	fine woolen blanket on top of a saddle; used as some decoration, (same as 氄) fine; soft fur (U+4A78)	e4a9b8
+䩹	to repair shoes, the front part of a shoe, (same as 鞹 U+979F) leather; hides with the hair removed (U+4A79)	e4a9b9
+䩺	boots; cotton boots (U+4A7A)	e4a9ba
+䩻	(same as U+9738 霸) to be chief, to rule by might rather than by right, a tyrant; a usurper; the strong the fierce ones (U+4A7B)	e4a9bb
+䩼	stitches on a coverlet, to drum, drum beat (U+4A7C)	e4a9bc
+䩽	a quiver (for bows and arrows) one a horse, to store; to keep and collect, a lance; a spear; a trident (U+4A7D)	e4a9bd
+䩾	herb medicine; dendrobium (U+4A7E)	e4a9be
+䩿	(same as 鼖) a big drum used in the army (in ancient times) (U+4A7F)	e4a9bf
+䪀	(same as U+4A6A 䩪) saddle; rein and bridle (U+4A80)	e4aa80
+䪁	a halter (U+4A81)	e4aa81
+䪂	reins; a halter, (interchangeable 革) hides stripped of hair; leather, the target, to force; to compel, to carve, to stop (U+4A82)	e4aa82
+䪃	wine container used by minority tribe in ancient times (U+4A83)	e4aa83
+䪄	(ancient form of 煌) great blaze; luminous; glittering, as the stars; bright and brilliant (U+4A84)	e4aa84
+䪅	(same as 韣) a quiver; bow case (U+4A85)	e4aa85
+䪆	soft; tender, weak; feeble, gentle; mild (U+4A86)	e4aa86
+䪇	cushioned seat on a vehicle, a leather wrapped collar or yoke of a carriage (U+4A87)	e4aa87
+䪈	a leather belt; a leather waistband (U+4A88)	e4aa88
+䪉	metal decoration on a halter (U+4A89)	e4aa89
+䪊	a halter (U+4A8A)	e4aa8a
+䪋	silk cordage; twine; rope (U+4A8B)	e4aa8b
+䪌	cushion for saddle, (same as 縿) the weeping decorations of banners and flags; the ends of banners and flags; the weeping decorations of saddles (U+4A8C)	e4aa8c
+䪍	a container for bows and arrows (U+4A8D)	e4aa8d
+䪎	strings of a cap, decorations for saddle, a sash; a band; a cord, a flag (U+4A8E)	e4aa8e
+䪏	weak; feeble; tender; delicate; soft, (dialect) to hang down the head and sleepy (U+4A8F)	e4aa8f
+䪐	something made of bamboo put in the bow case to pretect from damage (U+4A90)	e4aa90
+䪑	to stick; to paste leather to shoes (U+4A91)	e4aa91
+䪒	leather pants, a kind of military uniform, gaiters and leggings (U+4A92)	e4aa92
+䪓	a metal ornament on some kind of belt (clothing of the Northern barbarians) (U+4A93)	e4aa93
+䪔	cross-bar of wood under the carriage, under garments (U+4A94)	e4aa94
+䪕	to wrap or band, (same as 鞠) to nourish, to inform, a ball a child (U+4A95)	e4aa95
+䪖	(same as U+4A99 䪙) leather wrapped collar for a draft animal of a carriage, bags used on a carriage; (same as U+4A94 䪔) undergarments (U+4A96)	e4aa96
+䪗	shoes (U+4A97)	e4aa97
+䪘	(same as 韙) right; proper; propriety, official in charge of music (U+4A98)	e4aa98
+䪙	leather wrapped collar for a draft animal of a carriage, bags used on a carriage; (same as U+4A94 䪔) undergarments (U+4A99)	e4aa99
+䪚	hot; burning, fur clothing, weapons, drum (U+4A9A)	e4aa9a
+䪛	group; crowd; swarm; a flock, a square of leather, leather wrapped (U+4A9B)	e4aa9b
+䪜	a shield; a screen, (same as 襜) the low front of a robe, gown, etc., a short coat that have no lining, a small mud guard, or fender, a leather garment worn during sacrificial rituals in ancient times (U+4A9C)	e4aa9c
+䪝	leather cord that winding on the handle of a knife (U+4A9D)	e4aa9d
+䪞	bad; evil; wicked; vice, last name written in the seal type (U+4A9E)	e4aa9e
+䪟	U+4A9F (U+4A9F)	e4aa9f
+䪠	(same as U+97F2 齏) pulverized; powdered; crumbs; bits (U+4AA0)	e4aaa0
+䪡	(same as 齏) to fall down; to sink (U+4AA1)	e4aaa1
+䪢	smashed; pickled vegetable (U+4AA2)	e4aaa2
+䪣	(same as 䪢) smashed; pickled vegetable (U+4AA3)	e4aaa3
+䪤	garlic (U+4AA4)	e4aaa4
+䪥	shallots or scallions, small (piece of land); narrow (minded) (U+4AA5)	e4aaa5
+䪦	loud (U+4AA6)	e4aaa6
+䪧	ancient music; Chinese classical music (U+4AA7)	e4aaa7
+䪨	U+4AA8 (U+4AA8)	e4aaa8
+䪩	(same as 吟) to chant; to intone; to sing; to recite; to moan; to sigh (U+4AA9)	e4aaa9
+䪪	U+4AAA (U+4AAA)	e4aaaa
+䪫	ancient music; Chinese classical music (U+4AAB)	e4aaab
+䪬	sound of pressing something down (U+4AAC)	e4aaac
+䪭	a kind of musical instrument (U+4AAD)	e4aaad
+䪮	beautiful sound, appealing to the ear; fascinating to listen to (said of music), noise or uproar of the crowd (U+4AAE)	e4aaae
+䪯	sound, whisper, to groan; to moan (U+4AAF)	e4aaaf
+䪰	(same as 噫) (in grammar) interjection, to exclaim (U+4AB0)	e4aab0
+䪱	(same as 胲) cheek; face, ugly (same as 孩) a child (U+4AB1)	e4aab1
+䪲	(interchangeable 頑 髡) ancient punishment of shaving the head (U+4AB2)	e4aab2
+䪳	slanted face causing by the paralyzed of the facial nerve (U+4AB3)	e4aab3
+䪴	the occiput, or occipital bone, to hang down one's head, ugly, silly; foolish; stupid; idiotic; crazy; insane (U+4AB4)	e4aab4
+䪵	U+4AB5 (U+4AB5)	e4aab5
+䪶	the chin; the jaws (U+4AB6)	e4aab6
+䪷	to toil or labor sedulously (U+4AB7)	e4aab7
+䪸	strong; powerful; vigorous, (same as 頢) a short face, a small head (U+4AB8)	e4aab8
+䪹	a large face (U+4AB9)	e4aab9
+䪺	(non-classical form) teethridge; gum; the jaw bone, the skull, the top of the skull (U+4ABA)	e4aaba
+䪻	a cap, a slanting cap, face, bald head (U+4ABB)	e4aabb
+䪼	the cheek-bone; the malar bone; the malar (U+4ABC)	e4aabc
+䪽	hoary-haired person (U+4ABD)	e4aabd
+䪾	to deal with affairs cautiously, head with less hair, ashamed; humiliated (U+4ABE)	e4aabe
+䪿	(same as 囟) the top of the head, the skull (U+4ABF)	e4aabf
+䫀	the lower end of the jaws, high cheek-bone, to bend (or lower) one's head (U+4AC0)	e4ab80
+䫁	the first son; a dog's first pup (U+4AC1)	e4ab81
+䫂	ugly (U+4AC2)	e4ab82
+䫃	(ancient form of 脣 唇) the lips, to move one's head (U+4AC3)	e4ab83
+䫄	better than, small head, short face (U+4AC4)	e4ab84
+䫅	to shake one's head (U+4AC5)	e4ab85
+䫆	the front and back of the neck (U+4AC6)	e4ab86
+䫇	(same as 髯) the whiskers; the beard (U+4AC7)	e4ab87
+䫈	ugly, to bend (or lower) of one's head (U+4AC8)	e4ab88
+䫉	(ancient form of U+7683 貌) facial appearance, manner; bearing (U+4AC9)	e4ab89
+䫊	(same as U+4AB9 䪹) chin; the jaws; the cheeks (U+4ACA)	e4ab8a

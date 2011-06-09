@@ -1,0 +1,1024 @@
+囕	U+56D5 (U+56D5)	e59b95
+囖	(Cant.) final particle for pointing out the obvious (U+56D6)	e59b96
+囗	erect, proud; upright; bald (U+56D7)	e59b97
+囘	return, turn around; a time (U+56D8)	e59b98
+囙	U+56D9 (U+56D9)	e59b99
+囚	prisoner, convict; confine (U+56DA)	e59b9a
+四	four (U+56DB)	e59b9b
+囜	U+56DC (U+56DC)	e59b9c
+囝	baby, infant (U+56DD)	e59b9d
+回	return, turn around; a time (U+56DE)	e59b9e
+囟	top of the head; skull (U+56DF)	e59b9f
+因	cause, reason; by; because (of) (U+56E0)	e59ba0
+囡	one's daughter; to filch; to secrete (U+56E1)	e59ba1
+团	sphere, ball, circle; mass, lump (U+56E2)	e59ba2
+団	sphere, ball, circle; mass, lump (U+56E3)	e59ba3
+囤	grain basket, bin for grain (U+56E4)	e59ba4
+囥	hide (U+56E5)	e59ba5
+囦	U+56E6 (U+56E6)	e59ba6
+囧	U+56E7 (U+56E7)	e59ba7
+囨	U+56E8 (U+56E8)	e59ba8
+囩	U+56E9 (U+56E9)	e59ba9
+囪	chimney, funnel (U+56EA)	e59baa
+囫	entire, whole (U+56EB)	e59bab
+囬	to return to or from (U+56EC)	e59bac
+园	garden; park, orchard (U+56ED)	e59bad
+囮	inveigle, decoy; cheat (U+56EE)	e59bae
+囯	variant of U+56FD 国, nation, country, nation-state (U+56EF)	e59baf
+困	to surround, beseige; to be surrounded; difficult (U+56F0)	e59bb0
+囱	chimney (U+56F1)	e59bb1
+囲	surround, encircle, corral; whip (U+56F2)	e59bb2
+図	diagram; chart, map, picture (U+56F3)	e59bb3
+围	surround, encircle, corral (U+56F4)	e59bb4
+囵	all, complete, entire (U+56F5)	e59bb5
+囶	U+56F6 (U+56F6)	e59bb6
+囷	round-shaped storage bin for grain (U+56F7)	e59bb7
+囸	U+56F8 (U+56F8)	e59bb8
+囹	prison, enclosure (U+56F9)	e59bb9
+固	to become solid, solidify; strength (U+56FA)	e59bba
+囻	U+56FB (U+56FB)	e59bbb
+囼	U+56FC (U+56FC)	e59bbc
+国	nation, country, nation-state (U+56FD)	e59bbd
+图	diagram; chart, map, picture (U+56FE)	e59bbe
+囿	pen up; limit, constrain (U+56FF)	e59bbf
+圀	nation, country, nation-state (U+5700)	e59c80
+圁	U+5701 (U+5701)	e59c81
+圂	pig-sty; privy (U+5702)	e59c82
+圃	garden, cultivated field (U+5703)	e59c83
+圄	prison, jail (U+5704)	e59c84
+圅	correspondence; a case; a box (U+5705)	e59c85
+圆	circle; round, circular; complete (U+5706)	e59c86
+圇	all, complete, entire (U+5707)	e59c87
+圈	to circle; a circle; corral (U+5708)	e59c88
+圉	stable, corral, enclosure; frontier, border (U+5709)	e59c89
+圊	rest room (U+570A)	e59c8a
+國	nation, country, nation-state (U+570B)	e59c8b
+圌	fence (U+570C)	e59c8c
+圍	surround, encircle, corral (U+570D)	e59c8d
+圎	circle; round, circular; complete (U+570E)	e59c8e
+圏	to circle; a circle; corral (U+570F)	e59c8f
+圐	U+5710 (U+5710)	e59c90
+圑	U+5711 (U+5711)	e59c91
+園	garden; park, orchard (U+5712)	e59c92
+圓	circle; round, circular; complete (U+5713)	e59c93
+圔	U+5714 (U+5714)	e59c94
+圕	library (U+5715)	e59c95
+圖	diagram; chart, map, picture (U+5716)	e59c96
+圗	diagram; chart, map, picture (U+5717)	e59c97
+團	sphere, ball, circle; mass, lump (U+5718)	e59c98
+圙	U+5719 (U+5719)	e59c99
+圚	U+571A (U+571A)	e59c9a
+圛	used in place names; stratus (U+571B)	e59c9b
+圜	circle, surround; encircle (U+571C)	e59c9c
+圝	entire (U+571D)	e59c9d
+圞	entire, complete; round (U+571E)	e59c9e
+土	soil, earth; items made of earth (U+571F)	e59c9f
+圠	U+5720 (U+5720)	e59ca0
+圡	U+5721 (U+5721)	e59ca1
+圢	paths between fields (U+5722)	e59ca2
+圣	holy, sacred (U+5723)	e59ca3
+圤	U+5724 (U+5724)	e59ca4
+圥	mushroom (U+5725)	e59ca5
+圦	(kokuji) water gate, spout (U+5726)	e59ca6
+圧	same as 壓 U+58D3, to press; to oppress; to crush; pressure (U+5727)	e59ca7
+在	be at, in, on; consist in, rest (U+5728)	e59ca8
+圩	dike, embankment (U+5729)	e59ca9
+圪	U+572A (U+572A)	e59caa
+圫	U+572B (U+572B)	e59cab
+圬	plaster over with layer of mud (U+572C)	e59cac
+圭	jade pointed at top (U+572D)	e59cad
+圮	destroyed, ruined; to subvert to injure (U+572E)	e59cae
+圯	bridge, bank (U+572F)	e59caf
+地	earth; soil, ground; region (U+5730)	e59cb0
+圱	U+5731 (U+5731)	e59cb1
+圲	U+5732 (U+5732)	e59cb2
+圳	furrow in field, small drainage ditch (U+5733)	e59cb3
+圴	U+5734 (U+5734)	e59cb4
+圵	U+5735 (U+5735)	e59cb5
+圶	U+5736 (U+5736)	e59cb6
+圷	U+5737 (U+5737)	e59cb7
+圸	U+5738 (U+5738)	e59cb8
+圹	tomb, grave: prairie; open wilderness (U+5739)	e59cb9
+场	open space, field, market (U+573A)	e59cba
+圻	border, boundary (U+573B)	e59cbb
+圼	U+573C (U+573C)	e59cbc
+圽	U+573D (U+573D)	e59cbd
+圾	garbage, rubbish; shaking; danger (U+573E)	e59cbe
+圿	U+573F (U+573F)	e59cbf
+址	site, location, land for house (U+5740)	e59d80
+坁	U+5741 (U+5741)	e59d81
+坂	hillside, inconvenient places (U+5742)	e59d82
+坃	U+5743 (U+5743)	e59d83
+坄	U+5744 (U+5744)	e59d84
+坅	U+5745 (U+5745)	e59d85
+坆	a grave, tomb (U+5746)	e59d86
+均	equal, even, fair; all, also (U+5747)	e59d87
+坈	U+5748 (U+5748)	e59d88
+坉	U+5749 (U+5749)	e59d89
+坊	neighborhood, urban subdivision; (J) priest's residence; (Buddhist) priest; boy (U+574A)	e59d8a
+坋	dust, earth; a bank of earth; to dig; to bring together (U+574B)	e59d8b
+坌	dust, earth; a bank of earth; to dig; to bring together (U+574C)	e59d8c
+坍	collapse; landslide (U+574D)	e59d8d
+坎	pit, hole; snare, trap; crisis (U+574E)	e59d8e
+坏	rotten, spoilt, bad, broken down (U+574F)	e59d8f
+坐	sit; seat; ride, travel by (U+5750)	e59d90
+坑	pit, hole; bury, trap; harry (U+5751)	e59d91
+坒	to compare; to match; to equal (U+5752)	e59d92
+坓	U+5753 (U+5753)	e59d93
+坔	U+5754 (U+5754)	e59d94
+坕	U+5755 (U+5755)	e59d95
+坖	U+5756 (U+5756)	e59d96
+块	piece, lump; dollar (U+5757)	e59d97
+坘	U+5758 (U+5758)	e59d98
+坙	U+5759 (U+5759)	e59d99
+坚	hard, strong, firm; resolute (U+575A)	e59d9a
+坛	altar; arena, examination hall (U+575B)	e59d9b
+坜	a hole, pit (U+575C)	e59d9c
+坝	embankment; dam (U+575D)	e59d9d
+坞	entrenchment, bank, low wall (U+575E)	e59d9e
+坟	grave, mound; bulge; bulging (U+575F)	e59d9f
+坠	fall down, drop, sink, go to ruin (U+5760)	e59da0
+坡	slope, bank, hillside (U+5761)	e59da1
+坢	U+5762 (U+5762)	e59da2
+坣	U+5763 (U+5763)	e59da3
+坤	earth; feminine, female (U+5764)	e59da4
+坥	U+5765 (U+5765)	e59da5
+坦	flat, smooth; self-possessed (U+5766)	e59da6
+坧	U+5767 (U+5767)	e59da7
+坨	a lump, heap (U+5768)	e59da8
+坩	earthenware, earthenware vessel (U+5769)	e59da9
+坪	level ground; Japanese measure (U+576A)	e59daa
+坫	a stand on which to replace goblets after drinking (U+576B)	e59dab
+坬	U+576C (U+576C)	e59dac
+坭	mud, mire; to paste, to plaster (U+576D)	e59dad
+坮	platform; unit; term of address (U+576E)	e59dae
+坯	dam, embankment; weir (U+576F)	e59daf
+坰	wilds (U+5770)	e59db0
+坱	dust (U+5771)	e59db1
+坲	U+5772 (U+5772)	e59db2
+坳	a hollow in the ground, a cavity, depression; undulating, depressed (U+5773)	e59db3
+坴	a clod of earth; land (U+5774)	e59db4
+坵	earthenware, earthenware vessel (U+5775)	e59db5
+坶	U+5776 (U+5776)	e59db6
+坷	clod of earth, lump of soil (U+5777)	e59db7
+坸	U+5778 (U+5778)	e59db8
+坹	U+5779 (U+5779)	e59db9
+坺	(Cant.) classifier for soft masses (U+577A)	e59dba
+坻	an islet, a rock in a river; an embankment; to stop (U+577B)	e59dbb
+坼	split, tear, open (U+577C)	e59dbc
+坽	U+577D (U+577D)	e59dbd
+坾	U+577E (U+577E)	e59dbe
+坿	mound; used in place names (U+577F)	e59dbf
+垀	U+5780 (U+5780)	e59e80
+垁	U+5781 (U+5781)	e59e81
+垂	let down; suspend, hand; down (U+5782)	e59e82
+垃	garbage, refuse, waste (U+5783)	e59e83
+垄	grave, mound; ridge in field (U+5784)	e59e84
+垅	mound, grave; ridge in field (U+5785)	e59e85
+垆	black clods of earth; shop, hut (U+5786)	e59e86
+垇	U+5787 (U+5787)	e59e87
+垈	used in place names; Japanese -nuta; Korean -dae (U+5788)	e59e88
+垉	U+5789 (U+5789)	e59e89
+垊	U+578A (U+578A)	e59e8a
+型	pattern, model, type; law; mold (U+578B)	e59e8b
+垌	a field; used in place names (U+578C)	e59e8c
+垍	U+578D (U+578D)	e59e8d
+垎	U+578E (U+578E)	e59e8e
+垏	U+578F (U+578F)	e59e8f
+垐	U+5790 (U+5790)	e59e90
+垑	U+5791 (U+5791)	e59e91
+垒	rampart, military wall (U+5792)	e59e92
+垓	border, boundary, frontier (U+5793)	e59e93
+垔	to restrain; to dam a stream and change its direction; a mound (U+5794)	e59e94
+垕	used in place names (U+5795)	e59e95
+垖	U+5796 (U+5796)	e59e96
+垗	sacrifice (U+5797)	e59e97
+垘	U+5798 (U+5798)	e59e98
+垙	U+5799 (U+5799)	e59e99
+垚	mound, roundish mass (U+579A)	e59e9a
+垛	heap, pile; pile up, heap up (U+579B)	e59e9b
+垜	heap; buttress; battlements (U+579C)	e59e9c
+垝	dilapidated, ruined (U+579D)	e59e9d
+垞	small mound; place name; hillock (U+579E)	e59e9e
+垟	U+579F (U+579F)	e59e9f
+垠	boundary, bank of stream or river (U+57A0)	e59ea0
+垡	plow soil; place name (U+57A1)	e59ea1
+垢	dirt, filth, stains; dirty (U+57A2)	e59ea2
+垣	low wall (U+57A3)	e59ea3
+垤	ant-hill, small mound; hill (U+57A4)	e59ea4
+垥	U+57A5 (U+57A5)	e59ea5
+垦	cultivate, reclaim, to farm land (U+57A6)	e59ea6
+垧	variable unit of land measure (U+57A7)	e59ea7
+垨	U+57A8 (U+57A8)	e59ea8
+垩	holy, sacred, sage; simplification of 堊 chalk; daub with chalk (U+57A9)	e59ea9
+垪	U+57AA (U+57AA)	e59eaa
+垫	advance money, pay for another (U+57AB)	e59eab
+垬	U+57AC (U+57AC)	e59eac
+垭	character used in place names (U+57AD)	e59ead
+垮	be defeated, fail, collapse (U+57AE)	e59eae
+垯	U+57AF (U+57AF)	e59eaf
+垰	U+57B0 (U+57B0)	e59eb0
+垱	U+57B1 (U+57B1)	e59eb1
+垲	high and dry place (U+57B2)	e59eb2
+垳	U+57B3 (U+57B3)	e59eb3
+垴	small, head shaped hill, used in place names (U+57B4)	e59eb4
+垵	cover with earth; a pit; a hole (U+57B5)	e59eb5
+垶	U+57B6 (U+57B6)	e59eb6
+垷	U+57B7 (U+57B7)	e59eb7
+垸	a dyke, embankment (U+57B8)	e59eb8
+垹	U+57B9 (U+57B9)	e59eb9
+垺	U+57BA (U+57BA)	e59eba
+垻	an embankment; a slope over which boat pass (U+57BB)	e59ebb
+垼	U+57BC (U+57BC)	e59ebc
+垽	(Cant.) sediment, precipitate (U+57BD)	e59ebd
+垾	U+57BE (U+57BE)	e59ebe
+垿	U+57BF (U+57BF)	e59ebf
+埀	let down; suspend, hand; down (U+57C0)	e59f80
+埁	U+57C1 (U+57C1)	e59f81
+埂	ditches for irrigation; hole (U+57C2)	e59f82
+埃	fine dust, dirt (U+57C3)	e59f83
+埄	whirling of dust in the wind (U+57C4)	e59f84
+埅	U+57C5 (U+57C5)	e59f85
+埆	stony (U+57C6)	e59f86
+埇	name of bridge (U+57C7)	e59f87
+埈	high, steep, towering; stern (U+57C8)	e59f88
+埉	U+57C9 (U+57C9)	e59f89
+埊	U+57CA (U+57CA)	e59f8a
+埋	bury, secrete, conceal (U+57CB)	e59f8b
+埌	waste (U+57CC)	e59f8c
+埍	U+57CD (U+57CD)	e59f8d
+城	castle; city, town; municipality (U+57CE)	e59f8e
+埏	a boundary, a limit (U+57CF)	e59f8f
+埐	U+57D0 (U+57D0)	e59f90
+埑	U+57D1 (U+57D1)	e59f91
+埒	enclosure, dike, embankment (U+57D2)	e59f92
+埓	enclosure, dike, embankment (U+57D3)	e59f93
+埔	plain, arena; port, market (U+57D4)	e59f94
+埕	a large, pear-shaped earthenware jar (U+57D5)	e59f95
+埖	U+57D6 (U+57D6)	e59f96
+埗	(same as U+5E70 埠) a wharf, dock, jetty; a trading center, port; place name (e.g., 深水埗 in Hong Kong) (U+57D7)	e59f97
+埘	roost (U+57D8)	e59f98
+埙	instrument (U+57D9)	e59f99
+埚	crucible (U+57DA)	e59f9a
+埛	U+57DB (U+57DB)	e59f9b
+埜	open country, field; wilderness (U+57DC)	e59f9c
+埝	bank, dike; purtuberance from (U+57DD)	e59f9d
+埞	(Cant.) place (U+57DE)	e59f9e
+域	district, region, boundary; land (U+57DF)	e59f9f
+埠	port city (U+57E0)	e59fa0
+埡	character used in place names (U+57E1)	e59fa1
+埢	U+57E2 (U+57E2)	e59fa2
+埣	U+57E3 (U+57E3)	e59fa3
+埤	add, increase, attach; low fence (U+57E4)	e59fa4
+埥	U+57E5 (U+57E5)	e59fa5
+埦	a bowl (U+57E6)	e59fa6
+埧	dam (U+57E7)	e59fa7
+埨	U+57E8 (U+57E8)	e59fa8
+埩	U+57E9 (U+57E9)	e59fa9
+埪	U+57EA (U+57EA)	e59faa
+埫	U+57EB (U+57EB)	e59fab
+埬	U+57EC (U+57EC)	e59fac
+埭	a dam, a jock; inclined plane on a canal, where boats can be hauled up or down (U+57ED)	e59fad
+埮	U+57EE (U+57EE)	e59fae
+埯	cover with earth; a pit; a hole (U+57EF)	e59faf
+埰	fief (U+57F0)	e59fb0
+埱	U+57F1 (U+57F1)	e59fb1
+埲	(Cant.) classifier for walls (U+57F2)	e59fb2
+埳	a pit, a hole, a snare, a danger; a crisis; a mortar (U+57F3)	e59fb3
+埴	soil with large clay content (U+57F4)	e59fb4
+埵	hardened dirt or clay; cluster (U+57F5)	e59fb5
+埶	art (U+57F6)	e59fb6
+執	hold in hand; keep; carry out (U+57F7)	e59fb7
+埸	a border; a limit; a dike; a frontier; a boundary (U+57F8)	e59fb8
+培	bank up with dirt; cultivate (U+57F9)	e59fb9
+基	foundation, base (U+57FA)	e59fba
+埻	U+57FB (U+57FB)	e59fbb
+埼	headland (U+57FC)	e59fbc
+埽	broom; to sweep, clear away (U+57FD)	e59fbd
+埾	U+57FE (U+57FE)	e59fbe
+埿	U+57FF (U+57FF)	e59fbf
+堀	cave, hole (U+5800)	e5a080
+堁	U+5801 (U+5801)	e5a081
+堂	hall; government office (U+5802)	e5a082
+堃	compliance; obedience; female (U+5803)	e5a083
+堄	parapet (U+5804)	e5a084
+堅	hard, strong, firm; resolute (U+5805)	e5a085
+堆	heap, pile, crowd; pile up (U+5806)	e5a086
+堇	yellow loam; clay; season; few (U+5807)	e5a087
+堈	earthen jug, crock, cistern (U+5808)	e5a088
+堉	ground, fertile land (U+5809)	e5a089
+堊	white earth; to daub with white mud (U+580A)	e5a08a
+堋	bury (U+580B)	e5a08b
+堌	dam, dike; used in place names (U+580C)	e5a08c
+堍	U+580D (U+580D)	e5a08d
+堎	character used for place names (U+580E)	e5a08e
+堏	U+580F (U+580F)	e5a08f
+堐	U+5810 (U+5810)	e5a090
+堑	moat, trench, pit, cavity (U+5811)	e5a091
+堒	U+5812 (U+5812)	e5a092
+堓	U+5813 (U+5813)	e5a093
+堔	U+5814 (U+5814)	e5a094
+堕	fall, sink, let fall; degenerate (U+5815)	e5a095
+堖	small, head shaped hill, used in place names (U+5816)	e5a096
+堗	U+5817 (U+5817)	e5a097
+堘	a raised path between field which acts as a dyke (U+5818)	e5a098
+堙	bury; dam, block up (U+5819)	e5a099
+堚	U+581A (U+581A)	e5a09a
+堛	U+581B (U+581B)	e5a09b
+堜	U+581C (U+581C)	e5a09c
+堝	crucible (U+581D)	e5a09d
+堞	plate (U+581E)	e5a09e
+堟	U+581F (U+581F)	e5a09f
+堠	battlements, battlemented walls (U+5820)	e5a0a0
+堡	fort, fortress; town, village (U+5821)	e5a0a1
+堢	U+5822 (U+5822)	e5a0a2
+堣	U+5823 (U+5823)	e5a0a3
+堤	dike (U+5824)	e5a0a4
+堥	U+5825 (U+5825)	e5a0a5
+堦	stairs; a flight of steps; a degree, a class, a rank or step (U+5826)	e5a0a6
+堧	adjoin (U+5827)	e5a0a7
+堨	daub (U+5828)	e5a0a8
+堩	U+5829 (U+5829)	e5a0a9
+堪	adequately capable of, worthy of (U+582A)	e5a0aa
+堫	U+582B (U+582B)	e5a0ab
+堬	U+582C (U+582C)	e5a0ac
+堭	a dry moat outside a city wall; a dry ditch (U+582D)	e5a0ad
+堮	a boundary; a border (U+582E)	e5a0ae
+堯	a legendary ancient emperor-sage (U+582F)	e5a0af
+堰	dam; embankment, dike, bank (U+5830)	e5a0b0
+報	report, tell, announce (U+5831)	e5a0b1
+堲	hate (U+5832)	e5a0b2
+堳	land allotment feudal noble; alta (U+5833)	e5a0b3
+場	open space, field, market (U+5834)	e5a0b4
+堵	wall; stop, prevent; stop up (U+5835)	e5a0b5
+堶	U+5836 (U+5836)	e5a0b6
+堷	U+5837 (U+5837)	e5a0b7
+堸	U+5838 (U+5838)	e5a0b8
+堹	U+5839 (U+5839)	e5a0b9
+堺	person's name (U+583A)	e5a0ba
+堻	U+583B (U+583B)	e5a0bb
+堼	U+583C (U+583C)	e5a0bc
+堽	mound; used in place names (U+583D)	e5a0bd
+堾	U+583E (U+583E)	e5a0be
+堿	salty (U+583F)	e5a0bf
+塀	wall, fence (U+5840)	e5a180
+塁	rampart, military wall (U+5841)	e5a181
+塂	U+5842 (U+5842)	e5a182
+塃	U+5843 (U+5843)	e5a183
+塄	elevated bank in field (U+5844)	e5a184
+塅	U+5845 (U+5845)	e5a185
+塆	U+5846 (U+5846)	e5a186
+塇	U+5847 (U+5847)	e5a187
+塈	paint, decorate (U+5848)	e5a188
+塉	U+5849 (U+5849)	e5a189
+塊	piece, lump; dollar (U+584A)	e5a18a
+塋	grave, tomb, cemetery (U+584B)	e5a18b
+塌	fall in ruins, collapse (U+584C)	e5a18c
+塍	a raised path between fields, a dike (U+584D)	e5a18d
+塎	U+584E (U+584E)	e5a18e
+塏	high and dry place (U+584F)	e5a18f
+塐	model in clay, sculpt; plastics (U+5850)	e5a190
+塑	model in clay, sculpt; plastics (U+5851)	e5a191
+塒	roost (U+5852)	e5a192
+塓	plaster (U+5853)	e5a193
+塔	tower, spire, tall building (U+5854)	e5a194
+塕	a gust of wind (U+5855)	e5a195
+塖	U+5856 (U+5856)	e5a196
+塗	smear, daub, apply, spread; paint (U+5857)	e5a197
+塘	pond; tank; dike, embankment (U+5858)	e5a198
+塙	truly (U+5859)	e5a199
+塚	cemetery; tomb, burial mound (U+585A)	e5a19a
+塛	U+585B (U+585B)	e5a19b
+塜	dusty, dirt (U+585C)	e5a19c
+塝	flat bank, plateau (U+585D)	e5a19d
+塞	stop up, block, seal, cork; pass, frontier; fortress (U+585E)	e5a19e
+塟	to bury (U+585F)	e5a19f
+塠	U+5860 (U+5860)	e5a1a0
+塡	fill in, fill up; make good (U+5861)	e5a1a1
+塢	entrenchment, bank, low wall (U+5862)	e5a1a2
+塣	U+5863 (U+5863)	e5a1a3
+塤	instrument (U+5864)	e5a1a4
+塥	U+5865 (U+5865)	e5a1a5
+塦	U+5866 (U+5866)	e5a1a6
+塧	U+5867 (U+5867)	e5a1a7
+塨	U+5868 (U+5868)	e5a1a8
+塩	salt (U+5869)	e5a1a9
+塪	U+586A (U+586A)	e5a1aa
+填	fill in, fill up; make good (U+586B)	e5a1ab
+塬	plateau (U+586C)	e5a1ac
+塭	fish farm (U+586D)	e5a1ad
+塮	U+586E (U+586E)	e5a1ae
+塯	U+586F (U+586F)	e5a1af
+塰	U+5870 (U+5870)	e5a1b0
+塱	place name in Guangdong province (U+5871)	e5a1b1
+塲	open space, field, market (U+5872)	e5a1b2
+塳	(Cant.) classifier for walls; covered (with dust); to scatter (like dust) (U+5873)	e5a1b3
+塴	U+5874 (U+5874)	e5a1b4
+塵	dust, dirt, ashes, cinders (U+5875)	e5a1b5
+塶	U+5876 (U+5876)	e5a1b6
+塷	U+5877 (U+5877)	e5a1b7
+塸	U+5878 (U+5878)	e5a1b8
+塹	moat, trench, pit, cavity (U+5879)	e5a1b9
+塺	U+587A (U+587A)	e5a1ba
+塻	U+587B (U+587B)	e5a1bb
+塼	brick (U+587C)	e5a1bc
+塽	plateau (U+587D)	e5a1bd
+塾	village school; private tutorage (U+587E)	e5a1be
+塿	small mound (U+587F)	e5a1bf
+墀	porch; courtyard; steps leading (U+5880)	e5a280
+墁	to plaster; to pave (U+5881)	e5a281
+墂	U+5882 (U+5882)	e5a282
+境	boundary, frontier; area, region (U+5883)	e5a283
+墄	the steps of a stairway (U+5884)	e5a284
+墅	villa, country house (U+5885)	e5a285
+墆	U+5886 (U+5886)	e5a286
+墇	U+5887 (U+5887)	e5a287
+墈	cliff (U+5888)	e5a288
+墉	wall; fortified wall; small wall (U+5889)	e5a289
+墊	advance money, pay for another (U+588A)	e5a28a
+墋	U+588B (U+588B)	e5a28b
+墌	U+588C (U+588C)	e5a28c
+墍	paint, decorate (U+588D)	e5a28d
+墎	U+588E (U+588E)	e5a28e
+墏	U+588F (U+588F)	e5a28f
+墐	to build with soil, plaster over with mud (U+5890)	e5a290
+墑	U+5891 (U+5891)	e5a291
+墒	wet tilth (U+5892)	e5a292
+墓	grave, tomb (U+5893)	e5a293
+墔	U+5894 (U+5894)	e5a294
+墕	U+5895 (U+5895)	e5a295
+墖	pagoda, dagoba, tower (U+5896)	e5a296
+増	increase (U+5897)	e5a297
+墘	(Cant.) halfway (U+5898)	e5a298
+墙	wall (U+5899)	e5a299
+墚	mountain range (U+589A)	e5a29a
+墛	U+589B (U+589B)	e5a29b
+墜	fall down, drop, sink, go to ruin (U+589C)	e5a29c
+墝	stony (U+589D)	e5a29d
+增	increase, add to, augment (U+589E)	e5a29e
+墟	high mound; hilly countryside; wasteland (U+589F)	e5a29f
+墠	smooth, hard spot made level for sacrificial altar (U+58A0)	e5a2a0
+墡	chalk (U+58A1)	e5a2a1
+墢	U+58A2 (U+58A2)	e5a2a2
+墣	U+58A3 (U+58A3)	e5a2a3
+墤	to fall in ruins, to collapse, to overthrow; decayed, ruined, lost (U+58A4)	e5a2a4
+墥	U+58A5 (U+58A5)	e5a2a5
+墦	tomb (U+58A6)	e5a2a6
+墧	U+58A7 (U+58A7)	e5a2a7
+墨	ink; writing (U+58A8)	e5a2a8
+墩	heap, mound, block of stone (U+58A9)	e5a2a9
+墪	U+58AA (U+58AA)	e5a2aa
+墫	cup (U+58AB)	e5a2ab
+墬	to fall, sink (U+58AC)	e5a2ac
+墭	U+58AD (U+58AD)	e5a2ad
+墮	fall, sink, let fall; degenerate (U+58AE)	e5a2ae
+墯	U+58AF (U+58AF)	e5a2af
+墰	an earthenware jar; a jug (U+58B0)	e5a2b0
+墱	U+58B1 (U+58B1)	e5a2b1
+墲	U+58B2 (U+58B2)	e5a2b2
+墳	grave, mound; bulge; bulging (U+58B3)	e5a2b3
+墴	U+58B4 (U+58B4)	e5a2b4
+墵	U+58B5 (U+58B5)	e5a2b5
+墶	U+58B6 (U+58B6)	e5a2b6
+墷	U+58B7 (U+58B7)	e5a2b7
+墸	U+58B8 (U+58B8)	e5a2b8
+墹	U+58B9 (U+58B9)	e5a2b9
+墺	four walls (U+58BA)	e5a2ba
+墻	wall (U+58BB)	e5a2bb
+墼	U+58BC (U+58BC)	e5a2bc
+墽	U+58BD (U+58BD)	e5a2bd
+墾	cultivate, reclaim, to farm land (U+58BE)	e5a2be
+墿	U+58BF (U+58BF)	e5a2bf
+壀	U+58C0 (U+58C0)	e5a380
+壁	partition wall; walls of a house (U+58C1)	e5a381
+壂	U+58C2 (U+58C2)	e5a382
+壃	U+58C3 (U+58C3)	e5a383
+壄	U+58C4 (U+58C4)	e5a384
+壅	to obstruct (U+58C5)	e5a385
+壆	stiff, hard clay or rocky strata; crack in a jar (U+58C6)	e5a386
+壇	altar; arena, examination hall (U+58C7)	e5a387
+壈	disappointed (U+58C8)	e5a388
+壉	U+58C9 (U+58C9)	e5a389
+壊	bad, spoil(ed), ruin, destroy (U+58CA)	e5a38a
+壋	U+58CB (U+58CB)	e5a38b
+壌	soil, loam, earth; rich (U+58CC)	e5a38c
+壍	moat around a city. a channel (U+58CD)	e5a38d
+壎	instrument (U+58CE)	e5a38e
+壏	U+58CF (U+58CF)	e5a38f
+壐	the Imperial signet; the great seal (U+58D0)	e5a390
+壑	bed of torrent, narrow ravine (U+58D1)	e5a391
+壒	dust (U+58D2)	e5a392
+壓	press; oppress; crush; pressure (U+58D3)	e5a393
+壔	a mound, a tumulus (U+58D4)	e5a394
+壕	trench, ditch, channel, moat (U+58D5)	e5a395
+壖	open space along water (U+58D6)	e5a396
+壗	U+58D7 (U+58D7)	e5a397
+壘	rampart, military wall (U+58D8)	e5a398
+壙	tomb, grave: prairie; open wilderness (U+58D9)	e5a399
+壚	black clods of earth; shop, hut (U+58DA)	e5a39a
+壛	U+58DB (U+58DB)	e5a39b
+壜	earthen jar or jug (U+58DC)	e5a39c
+壝	a mound, an embankment the earthen altar to the god of the soil (U+58DD)	e5a39d
+壞	bad, spoil(ed), ruin, destroy (U+58DE)	e5a39e
+壟	grave, mound; ridge in field (U+58DF)	e5a39f
+壠	mound, grave; ridge in field (U+58E0)	e5a3a0
+壡	U+58E1 (U+58E1)	e5a3a1
+壢	a hole, pit (U+58E2)	e5a3a2
+壣	U+58E3 (U+58E3)	e5a3a3
+壤	soil, loam, earth; rich (U+58E4)	e5a3a4
+壥	U+58E5 (U+58E5)	e5a3a5
+壦	U+58E6 (U+58E6)	e5a3a6
+壧	U+58E7 (U+58E7)	e5a3a7
+壨	U+58E8 (U+58E8)	e5a3a8
+壩	embankment; dam (U+58E9)	e5a3a9
+壪	U+58EA (U+58EA)	e5a3aa
+士	scholar, gentleman; soldier (U+58EB)	e5a3ab
+壬	9th heavenly stem (U+58EC)	e5a3ac
+壭	kwukyel (U+58ED)	e5a3ad
+壮	big, large; robust; name of tribe (U+58EE)	e5a3ae
+壯	big, large; robust; name of tribe (U+58EF)	e5a3af
+声	sound, voice, noise; tone; music (U+58F0)	e5a3b0
+壱	number one (U+58F1)	e5a3b1
+売	sell; [NOT casing, shell, husk] (U+58F2)	e5a3b2
+壳	casing, shell, husk (U+58F3)	e5a3b3
+壴	U+58F4 (U+58F4)	e5a3b4
+壵	U+58F5 (U+58F5)	e5a3b5
+壶	jar, pot, jug, vase; surname (U+58F6)	e5a3b6
+壷	jar, pot, jug, vase; surname (U+58F7)	e5a3b7
+壸	palace corridor or passageway (U+58F8)	e5a3b8
+壹	number one (U+58F9)	e5a3b9
+壺	jar, pot, jug, vase; surname (U+58FA)	e5a3ba
+壻	son-in-law; husband (U+58FB)	e5a3bb
+壼	palace corridor or passageway (U+58FC)	e5a3bc
+壽	old age, long life; lifespan (U+58FD)	e5a3bd
+壾	U+58FE (U+58FE)	e5a3be
+壿	U+58FF (U+58FF)	e5a3bf
+夀	life; length of life; longevity (U+5900)	e5a480
+夁	U+5901 (U+5901)	e5a481
+夂	go; KangXi radical 34 (U+5902)	e5a482
+夃	U+5903 (U+5903)	e5a483
+处	place, locale; department (U+5904)	e5a484
+夅	to descend; to come down from heaven. to send down (U+5905)	e5a485
+夆	resist (U+5906)	e5a486
+备	prepare, ready, perfect (U+5907)	e5a487
+夈	U+5908 (U+5908)	e5a488
+変	change, transform, alter; rebel (U+5909)	e5a489
+夊	KangXi radical 35; go slowly (U+590A)	e5a48a
+夋	to dawdle; the emperor Yao's father (U+590B)	e5a48b
+夌	to dawdle; the name of the father of the Emperor Yao (U+590C)	e5a48c
+复	return; repeat; repeatedly (U+590D)	e5a48d
+夎	U+590E (U+590E)	e5a48e
+夏	summer; great, grand, big (U+590F)	e5a48f
+夐	long, faraway; pre-eminent (U+5910)	e5a490
+夑	U+5911 (U+5911)	e5a491
+夒	U+5912 (U+5912)	e5a492
+夓	U+5913 (U+5913)	e5a493
+夔	one-legged monster; walrus (U+5914)	e5a494
+夕	evening, night, dusk; slanted (U+5915)	e5a495
+外	out, outside, external; foreign (U+5916)	e5a496
+夗	to turn over when asleep (U+5917)	e5a497
+夘	4th of Earth Branches; period from 5-7 a.m. (U+5918)	e5a498
+夙	early in morning, dawn; previous (U+5919)	e5a499
+多	much, many; more than, over (U+591A)	e5a49a
+夛	much, many; more than, over (U+591B)	e5a49b
+夜	night, dark; in night; by night (U+591C)	e5a49c
+夝	U+591D (U+591D)	e5a49d
+夞	U+591E (U+591E)	e5a49e
+够	enough, adequate (U+591F)	e5a49f
+夠	enough, adequate (U+5920)	e5a4a0
+夡	U+5921 (U+5921)	e5a4a1
+夢	dream; visionary; wishful (U+5922)	e5a4a2
+夣	a dream; to dream visionary; stupid (U+5923)	e5a4a3
+夤	distant place; remote; deep (U+5924)	e5a4a4
+夥	companion; partner; assistant (U+5925)	e5a4a5
+夦	U+5926 (U+5926)	e5a4a6
+大	big, great, vast, large, high (U+5927)	e5a4a7
+夨	U+5928 (U+5928)	e5a4a8
+天	sky, heaven; god, celestial (U+5929)	e5a4a9
+太	very, too, much; big; extreme (U+592A)	e5a4aa
+夫	man, male adult, husband; those (U+592B)	e5a4ab
+夬	parted; fork; certain (U+592C)	e5a4ac
+夭	young, fresh-looking; die young (U+592D)	e5a4ad
+央	center, conclude, run out; beg (U+592E)	e5a4ae
+夯	heavy load, burden; lift up (U+592F)	e5a4af
+夰	U+5930 (U+5930)	e5a4b0
+失	lose; make mistake, neglect (U+5931)	e5a4b1
+夲	advance quickly; to go back and forth; origin, source (U+5932)	e5a4b2
+夳	U+5933 (U+5933)	e5a4b3
+头	head; top; chief, first; boss (U+5934)	e5a4b4
+夵	U+5935 (U+5935)	e5a4b5
+夶	U+5936 (U+5936)	e5a4b6
+夷	ancient barbarian tribes (U+5937)	e5a4b7
+夸	extravagant, luxurious; handsome (U+5938)	e5a4b8
+夹	be wedged or inserted between (U+5939)	e5a4b9
+夺	take by force, rob, snatch (U+593A)	e5a4ba
+夻	fish name (U+593B)	e5a4bb
+夼	U+593C (U+593C)	e5a4bc
+夽	U+593D (U+593D)	e5a4bd
+夾	be wedged or inserted between (U+593E)	e5a4be
+夿	U+593F (U+593F)	e5a4bf
+奀	(Cant.) skinny, tiny; to jerk, dangle (U+5940)	e5a580
+奁	lady's vanity case; trousseau (U+5941)	e5a581
+奂	be numerous, brilliant (U+5942)	e5a582
+奃	U+5943 (U+5943)	e5a583
+奄	ere long; remain, tarry; feeble (U+5944)	e5a584
+奅	U+5945 (U+5945)	e5a585
+奆	U+5946 (U+5946)	e5a586
+奇	strange, unusual, uncanny, occult (U+5947)	e5a587
+奈	but, how; bear, stand, endure (U+5948)	e5a588
+奉	offer; receive; serve; respect (U+5949)	e5a589
+奊	U+594A (U+594A)	e5a58a
+奋	strive, exert effort; arouse (U+594B)	e5a58b
+奌	dot, speck, spot; point, degree (U+594C)	e5a58c
+奍	U+594D (U+594D)	e5a58d
+奎	stride of man; one of the twenty-eight lunar mansions (U+594E)	e5a58e
+奏	memorialize emperor; report (U+594F)	e5a58f
+奐	be numerous, brilliant (U+5950)	e5a590
+契	deed, contract, bond; engrave (U+5951)	e5a591
+奒	U+5952 (U+5952)	e5a592
+奓	extravagant (U+5953)	e5a593
+奔	run fast, flee; rush about; run (U+5954)	e5a594
+奕	in sequence, orderly; abundant (U+5955)	e5a595
+奖	prize, reward; give award to (U+5956)	e5a596
+套	case, cover, wrapper, envelope (U+5957)	e5a597
+奘	large, powerful, stout, thick (U+5958)	e5a598
+奙	U+5959 (U+5959)	e5a599
+奚	where? what? how? why?; servant (U+595A)	e5a59a
+奛	opening, radiant (U+595B)	e5a59b
+奜	big (U+595C)	e5a59c
+奝	large (U+595D)	e5a59d
+奞	the stride made by a man (U+595E)	e5a59e
+奟	U+595F (U+595F)	e5a59f
+奠	pay respect; settle (U+5960)	e5a5a0
+奡	arrogant (U+5961)	e5a5a1
+奢	extravagant, wasteful; exaggerate (U+5962)	e5a5a2
+奣	U+5963 (U+5963)	e5a5a3
+奤	U+5964 (U+5964)	e5a5a4
+奥	mysterious, obscure, profound (U+5965)	e5a5a5
+奦	U+5966 (U+5966)	e5a5a6
+奧	mysterious, obscure, profound (U+5967)	e5a5a7
+奨	prize, reward; give award to (U+5968)	e5a5a8
+奩	lady's vanity case; trousseau (U+5969)	e5a5a9
+奪	take by force, rob, snatch (U+596A)	e5a5aa
+奫	deep and broad (expanse of water); abyss (U+596B)	e5a5ab
+奬	prize, reward; give award to (U+596C)	e5a5ac
+奭	red; anger; ire; surname (U+596D)	e5a5ad
+奮	strive, exert effort; arouse (U+596E)	e5a5ae
+奯	U+596F (U+596F)	e5a5af
+奰	anger (U+5970)	e5a5b0
+奱	U+5971 (U+5971)	e5a5b1
+奲	U+5972 (U+5972)	e5a5b2
+女	woman, girl; feminine; rad. 38 (U+5973)	e5a5b3
+奴	slave, servant (U+5974)	e5a5b4
+奵	U+5975 (U+5975)	e5a5b5
+奶	milk; woman's breasts; nurse (U+5976)	e5a5b6
+奷	U+5977 (U+5977)	e5a5b7
+奸	crafty, villainous, false (U+5978)	e5a5b8
+她	she, her (U+5979)	e5a5b9
+奺	U+597A (U+597A)	e5a5ba
+奻	U+597B (U+597B)	e5a5bb
+奼	beautiful, colorful; girl (U+597C)	e5a5bc
+好	good, excellent, fine; well (U+597D)	e5a5bd
+奾	U+597E (U+597E)	e5a5be
+奿	U+597F (U+597F)	e5a5bf
+妀	U+5980 (U+5980)	e5a680
+妁	act as go-between (U+5981)	e5a681
+如	if, supposing; as if; like, as (U+5982)	e5a682
+妃	wife, spouse; imperial concubine (U+5983)	e5a683
+妄	absurd, foolish, reckless; false (U+5984)	e5a684
+妅	U+5985 (U+5985)	e5a685
+妆	to adorn oneself, dress up, use make-up (U+5986)	e5a686
+妇	married women; woman; wife (U+5987)	e5a687
+妈	mother, mama (U+5988)	e5a688
+妉	U+5989 (U+5989)	e5a689
+妊	conceive, be pregnant (U+598A)	e5a68a
+妋	U+598B (U+598B)	e5a68b
+妌	U+598C (U+598C)	e5a68c
+妍	beautiful, handsome; seductive (U+598D)	e5a68d
+妎	U+598E (U+598E)	e5a68e
+妏	U+598F (U+598F)	e5a68f
+妐	U+5990 (U+5990)	e5a690
+妑	U+5991 (U+5991)	e5a691
+妒	jealous, envious (U+5992)	e5a692
+妓	prostitute (U+5993)	e5a693
+妔	U+5994 (U+5994)	e5a694
+妕	U+5995 (U+5995)	e5a695
+妖	strange, weird, supernatural (U+5996)	e5a696
+妗	wife of mother's brother (U+5997)	e5a697
+妘	U+5998 (U+5998)	e5a698
+妙	mysterious, subtle; exquisite (U+5999)	e5a699
+妚	U+599A (U+599A)	e5a69a
+妛	U+599B (U+599B)	e5a69b
+妜	U+599C (U+599C)	e5a69c
+妝	to adorn oneself, dress up, use make-up (U+599D)	e5a69d
+妞	girl (U+599E)	e5a69e
+妟	U+599F (U+599F)	e5a69f
+妠	(Cant.) to collect, seize, grab (U+59A0)	e5a6a0
+妡	U+59A1 (U+59A1)	e5a6a1
+妢	U+59A2 (U+59A2)	e5a6a2
+妣	one's deceased mother (U+59A3)	e5a6a3
+妤	beautiful, fair, handsome (U+59A4)	e5a6a4
+妥	satisfactory, appropriate (U+59A5)	e5a6a5
+妦	U+59A6 (U+59A6)	e5a6a6
+妧	U+59A7 (U+59A7)	e5a6a7
+妨	interfere with, impede, obstruct (U+59A8)	e5a6a8
+妩	charming, enchanting (U+59A9)	e5a6a9
+妪	old woman, hag (U+59AA)	e5a6aa
+妫	family name (U+59AB)	e5a6ab
+妬	jealous, envious (U+59AC)	e5a6ac
+妭	U+59AD (U+59AD)	e5a6ad
+妮	maid, servant girl; cute girl (U+59AE)	e5a6ae
+妯	wives of one's brothers; sister-i (U+59AF)	e5a6af
+妰	U+59B0 (U+59B0)	e5a6b0
+妱	U+59B1 (U+59B1)	e5a6b1
+妲	concubine of last ruler of the Shang dynasty (U+59B2)	e5a6b2
+妳	you (f.) (U+59B3)	e5a6b3
+妴	U+59B4 (U+59B4)	e5a6b4
+妵	person's name (U+59B5)	e5a6b5
+妶	U+59B6 (U+59B6)	e5a6b6
+妷	U+59B7 (U+59B7)	e5a6b7
+妸	person (U+59B8)	e5a6b8
+妹	younger sister (U+59B9)	e5a6b9
+妺	wife of the last ruler of the Xia dynasty (U+59BA)	e5a6ba
+妻	wife (U+59BB)	e5a6bb
+妼	U+59BC (U+59BC)	e5a6bc
+妽	U+59BD (U+59BD)	e5a6bd
+妾	concubine (U+59BE)	e5a6be
+妿	U+59BF (U+59BF)	e5a6bf
+姀	U+59C0 (U+59C0)	e5a780
+姁	beauty (U+59C1)	e5a781
+姂	U+59C2 (U+59C2)	e5a782
+姃	U+59C3 (U+59C3)	e5a783
+姄	U+59C4 (U+59C4)	e5a784
+姅	woman at time of menstruation (U+59C5)	e5a785
+姆	child's governess; matron (U+59C6)	e5a786
+姇	U+59C7 (U+59C7)	e5a787
+姈	U+59C8 (U+59C8)	e5a788
+姉	elder sister (U+59C9)	e5a789
+姊	elder sister (U+59CA)	e5a78a
+始	begin, start; then, only then (U+59CB)	e5a78b
+姌	U+59CC (U+59CC)	e5a78c
+姍	slander; ridicule; proceed slowly (U+59CD)	e5a78d
+姎	U+59CE (U+59CE)	e5a78e
+姏	U+59CF (U+59CF)	e5a78f
+姐	elder sister, young lady (U+59D0)	e5a790
+姑	father's sister; husband's mother (U+59D1)	e5a791
+姒	wife of elder brother (U+59D2)	e5a792
+姓	one's family name; clan, people (U+59D3)	e5a793
+委	appoint, send, commission (U+59D4)	e5a794
+姕	U+59D5 (U+59D5)	e5a795
+姖	U+59D6 (U+59D6)	e5a796
+姗	slander; ridicule; proceed slowly (U+59D7)	e5a797
+姘	illicit sexual relations (U+59D8)	e5a798
+姙	conceive, be pregnant (U+59D9)	e5a799
+姚	handsome, elegant; surname (U+59DA)	e5a79a
+姛	U+59DB (U+59DB)	e5a79b
+姜	surname; ginger (U+59DC)	e5a79c
+姝	a beautiful girl (U+59DD)	e5a79d
+姞	concubine (U+59DE)	e5a79e
+姟	U+59DF (U+59DF)	e5a79f
+姠	U+59E0 (U+59E0)	e5a7a0
+姡	U+59E1 (U+59E1)	e5a7a1
+姢	beautiful, graceful (U+59E2)	e5a7a2
+姣	beautiful, handsome, pretty (U+59E3)	e5a7a3
+姤	mate; copulate; good (U+59E4)	e5a7a4
+姥	maternal grandmother; midwife (U+59E5)	e5a7a5
+姦	adultery, debauchery; debauch (U+59E6)	e5a7a6
+姧	U+59E7 (U+59E7)	e5a7a7
+姨	mother/wife's sister; concubine (U+59E8)	e5a7a8
+姩	(Cant.) breast (U+59E9)	e5a7a9
+姪	niece (U+59EA)	e5a7aa
+姫	beauty; imperial concubine (U+59EB)	e5a7ab
+姬	beauty; imperial concubine (U+59EC)	e5a7ac
+姭	U+59ED (U+59ED)	e5a7ad
+姮	lady (U+59EE)	e5a7ae
+姯	U+59EF (U+59EF)	e5a7af
+姰	U+59F0 (U+59F0)	e5a7b0
+姱	beautiful, handsome, elegant (U+59F1)	e5a7b1
+姲	U+59F2 (U+59F2)	e5a7b2
+姳	U+59F3 (U+59F3)	e5a7b3
+姴	U+59F4 (U+59F4)	e5a7b4
+姵	U+59F5 (U+59F5)	e5a7b5
+姶	U+59F6 (U+59F6)	e5a7b6
+姷	U+59F7 (U+59F7)	e5a7b7
+姸	beautiful (U+59F8)	e5a7b8
+姹	beautiful, colorful; girl (U+59F9)	e5a7b9
+姺	name of an ancient state (U+59FA)	e5a7ba
+姻	relatives by marriage (U+59FB)	e5a7bb
+姼	U+59FC (U+59FC)	e5a7bc
+姽	good (U+59FD)	e5a7bd
+姾	U+59FE (U+59FE)	e5a7be
+姿	one's manner, carriage, bearing (U+59FF)	e5a7bf
+娀	name of a concubine of Di Ku, father of the mythical Yao (U+5A00)	e5a880
+威	pomp, power; powerful; dominate (U+5A01)	e5a881
+娂	U+5A02 (U+5A02)	e5a882
+娃	baby; doll; pretty girl (U+5A03)	e5a883
+娄	surname; a constellation; to wear (U+5A04)	e5a884
+娅	mutual term of address used by sons-in-law; a brother-in-law (U+5A05)	e5a885
+娆	graceful, charming, fascinating (U+5A06)	e5a886
+娇	seductive and loveable; tender (U+5A07)	e5a887
+娈	lovely, beautiful; docile, obedie (U+5A08)	e5a888
+娉	beautiful, attractive, charming, graceful (U+5A09)	e5a889
+娊	U+5A0A (U+5A0A)	e5a88a
+娋	U+5A0B (U+5A0B)	e5a88b
+娌	brother's wife (U+5A0C)	e5a88c
+娍	U+5A0D (U+5A0D)	e5a88d
+娎	U+5A0E (U+5A0E)	e5a88e
+娏	U+5A0F (U+5A0F)	e5a88f
+娐	U+5A10 (U+5A10)	e5a890
+娑	dance, frolic; lounge; saunter (U+5A11)	e5a891
+娒	matron (U+5A12)	e5a892
+娓	comply; complying, agreeable (U+5A13)	e5a893
+娔	U+5A14 (U+5A14)	e5a894
+娕	U+5A15 (U+5A15)	e5a895
+娖	U+5A16 (U+5A16)	e5a896
+娗	U+5A17 (U+5A17)	e5a897
+娘	mother; young girl; woman; wife (U+5A18)	e5a898
+娙	U+5A19 (U+5A19)	e5a899
+娚	U+5A1A (U+5A1A)	e5a89a
+娛	pleasure, enjoyment, amusement (U+5A1B)	e5a89b
+娜	elegant, graceful, delicate (U+5A1C)	e5a89c
+娝	U+5A1D (U+5A1D)	e5a89d
+娞	U+5A1E (U+5A1E)	e5a89e
+娟	beautiful, graceful (U+5A1F)	e5a89f
+娠	pregnant (U+5A20)	e5a8a0
+娡	U+5A21 (U+5A21)	e5a8a1
+娢	U+5A22 (U+5A22)	e5a8a2
+娣	younger sister, sister-in-law (U+5A23)	e5a8a3
+娤	U+5A24 (U+5A24)	e5a8a4
+娥	be beautiful; good; surname (U+5A25)	e5a8a5
+娦	U+5A26 (U+5A26)	e5a8a6
+娧	U+5A27 (U+5A27)	e5a8a7
+娨	U+5A28 (U+5A28)	e5a8a8
+娩	give birth child; complaisant (U+5A29)	e5a8a9
+娪	U+5A2A (U+5A2A)	e5a8aa
+娫	U+5A2B (U+5A2B)	e5a8ab
+娬	lovely; attractive (U+5A2C)	e5a8ac
+娭	U+5A2D (U+5A2D)	e5a8ad
+娮	U+5A2E (U+5A2E)	e5a8ae
+娯	pleasure, enjoyment, amusement (U+5A2F)	e5a8af
+娰	U+5A30 (U+5A30)	e5a8b0
+娱	pleasure, enjoyment, amusement (U+5A31)	e5a8b1
+娲	a goddess, the mythological sister and successor to Fuxi (U+5A32)	e5a8b2
+娳	U+5A33 (U+5A33)	e5a8b3
+娴	elegant, refined; skillful (U+5A34)	e5a8b4
+娵	star (U+5A35)	e5a8b5
+娶	marry, take wife (U+5A36)	e5a8b6
+娷	U+5A37 (U+5A37)	e5a8b7
+娸	ugly (U+5A38)	e5a8b8
+娹	U+5A39 (U+5A39)	e5a8b9
+娺	U+5A3A (U+5A3A)	e5a8ba
+娻	U+5A3B (U+5A3B)	e5a8bb
+娼	prostitute, harlot (U+5A3C)	e5a8bc
+娽	U+5A3D (U+5A3D)	e5a8bd
+娾	U+5A3E (U+5A3E)	e5a8be
+娿	U+5A3F (U+5A3F)	e5a8bf
+婀	be beautiful, be graceful (U+5A40)	e5a980
+婁	surname; a constellation; to wear (U+5A41)	e5a981
+婂	U+5A42 (U+5A42)	e5a982
+婃	U+5A43 (U+5A43)	e5a983
+婄	(Cant.) soft, weak; to soak; unreliable (U+5A44)	e5a984
+婅	U+5A45 (U+5A45)	e5a985
+婆	old woman; grandmother (U+5A46)	e5a986
+婇	U+5A47 (U+5A47)	e5a987
+婈	U+5A48 (U+5A48)	e5a988
+婉	amiable, congenial; restrained (U+5A49)	e5a989
+婊	whore, prostitute (U+5A4A)	e5a98a
+婋	U+5A4B (U+5A4B)	e5a98b
+婌	U+5A4C (U+5A4C)	e5a98c
+婍	U+5A4D (U+5A4D)	e5a98d
+婎	U+5A4E (U+5A4E)	e5a98e
+婏	U+5A4F (U+5A4F)	e5a98f
+婐	maid (U+5A50)	e5a990
+婑	U+5A51 (U+5A51)	e5a991
+婒	U+5A52 (U+5A52)	e5a992
+婓	U+5A53 (U+5A53)	e5a993
+婔	U+5A54 (U+5A54)	e5a994
+婕	handsome (U+5A55)	e5a995
+婖	U+5A56 (U+5A56)	e5a996
+婗	a new-born child the whimper of an infant (U+5A57)	e5a997
+婘	U+5A58 (U+5A58)	e5a998
+婙	U+5A59 (U+5A59)	e5a999
+婚	get married; marriage, wedding (U+5A5A)	e5a99a
+婛	U+5A5B (U+5A5B)	e5a99b
+婜	U+5A5C (U+5A5C)	e5a99c
+婝	U+5A5D (U+5A5D)	e5a99d
+婞	hate (U+5A5E)	e5a99e
+婟	U+5A5F (U+5A5F)	e5a99f
+婠	U+5A60 (U+5A60)	e5a9a0
+婡	U+5A61 (U+5A61)	e5a9a1
+婢	servant girl; your servant (U+5A62)	e5a9a2
+婣	marriage connections, a bride (U+5A63)	e5a9a3
+婤	lovely (U+5A64)	e5a9a4
+婥	beautiful (U+5A65)	e5a9a5
+婦	married women; woman; wife (U+5A66)	e5a9a6
+婧	modest; supple (U+5A67)	e5a9a7
+婨	U+5A68 (U+5A68)	e5a9a8
+婩	U+5A69 (U+5A69)	e5a9a9
+婪	covet; covetous, avaricious (U+5A6A)	e5a9aa
+婫	U+5A6B (U+5A6B)	e5a9ab
+婬	obscene, licentious, lewd (U+5A6C)	e5a9ac
+婭	mutual term of address used by sons-in-law; a brother-in-law (U+5A6D)	e5a9ad
+婮	U+5A6E (U+5A6E)	e5a9ae
+婯	U+5A6F (U+5A6F)	e5a9af
+婰	U+5A70 (U+5A70)	e5a9b0
+婱	U+5A71 (U+5A71)	e5a9b1
+婲	U+5A72 (U+5A72)	e5a9b2
+婳	tranquil (U+5A73)	e5a9b3
+婴	baby, infant; bother (U+5A74)	e5a9b4
+婵	beautiful, lovely, pretty, graceful (U+5A75)	e5a9b5
+婶	wife of father's younger brother (U+5A76)	e5a9b6
+婷	pretty; attractive; graceful (U+5A77)	e5a9b7
+婸	U+5A78 (U+5A78)	e5a9b8
+婹	U+5A79 (U+5A79)	e5a9b9
+婺	name of a star (U+5A7A)	e5a9ba
+婻	U+5A7B (U+5A7B)	e5a9bb
+婼	person (U+5A7C)	e5a9bc
+婽	U+5A7D (U+5A7D)	e5a9bd
+婾	handsome (U+5A7E)	e5a9be
+婿	son-in-law; husband (U+5A7F)	e5a9bf
+媀	U+5A80 (U+5A80)	e5aa80
+媁	U+5A81 (U+5A81)	e5aa81
+媂	U+5A82 (U+5A82)	e5aa82
+媃	U+5A83 (U+5A83)	e5aa83
+媄	beautiful (U+5A84)	e5aa84
+媅	U+5A85 (U+5A85)	e5aa85
+媆	young, tender, soft, delicate (U+5A86)	e5aa86
+媇	U+5A87 (U+5A87)	e5aa87
+媈	U+5A88 (U+5A88)	e5aa88
+媉	U+5A89 (U+5A89)	e5aa89
+媊	star (U+5A8A)	e5aa8a
+媋	U+5A8B (U+5A8B)	e5aa8b
+媌	U+5A8C (U+5A8C)	e5aa8c
+媍	woman, wife (U+5A8D)	e5aa8d
+媎	U+5A8E (U+5A8E)	e5aa8e
+媏	U+5A8F (U+5A8F)	e5aa8f
+媐	U+5A90 (U+5A90)	e5aa90
+媑	U+5A91 (U+5A91)	e5aa91
+媒	go-between, matchmaker; medium (U+5A92)	e5aa92
+媓	U+5A93 (U+5A93)	e5aa93
+媔	U+5A94 (U+5A94)	e5aa94
+媕	undecided (U+5A95)	e5aa95
+媖	beauty; beautiful (U+5A96)	e5aa96
+媗	U+5A97 (U+5A97)	e5aa97
+媘	U+5A98 (U+5A98)	e5aa98
+媙	U+5A99 (U+5A99)	e5aa99
+媚	charming, attractive; flatter (U+5A9A)	e5aa9a
+媛	beauty, beautiful woman (U+5A9B)	e5aa9b
+媜	U+5A9C (U+5A9C)	e5aa9c
+媝	U+5A9D (U+5A9D)	e5aa9d
+媞	at ease (U+5A9E)	e5aa9e
+媟	lust after, act indecently; lewd (U+5A9F)	e5aa9f
+媠	U+5AA0 (U+5AA0)	e5aaa0
+媡	U+5AA1 (U+5AA1)	e5aaa1
+媢	be jealous of, be envious (U+5AA2)	e5aaa2
+媣	U+5AA3 (U+5AA3)	e5aaa3
+媤	husband's family (U+5AA4)	e5aaa4
+媥	U+5AA5 (U+5AA5)	e5aaa5
+媦	U+5AA6 (U+5AA6)	e5aaa6
+媧	mythological snail goddess (U+5AA7)	e5aaa7
+媨	U+5AA8 (U+5AA8)	e5aaa8
+媩	U+5AA9 (U+5AA9)	e5aaa9
+媪	old woman; lower-class woman (U+5AAA)	e5aaaa
+媫	U+5AAB (U+5AAB)	e5aaab
+媬	governess; nurse (U+5AAC)	e5aaac
+媭	U+5AAD (U+5AAD)	e5aaad
+媮	handsome, cheerful; steal (U+5AAE)	e5aaae
+媯	family name (U+5AAF)	e5aaaf
+媰	U+5AB0 (U+5AB0)	e5aab0
+媱	U+5AB1 (U+5AB1)	e5aab1
+媲	marry off, pair, match; compare (U+5AB2)	e5aab2
+媳	daughter-in-law (U+5AB3)	e5aab3
+媴	U+5AB4 (U+5AB4)	e5aab4
+媵	a maid who accompanies bride to her new home; to escort; a concubine (U+5AB5)	e5aab5
+媶	U+5AB6 (U+5AB6)	e5aab6
+媷	U+5AB7 (U+5AB7)	e5aab7
+媸	an ugly woman (U+5AB8)	e5aab8
+媹	U+5AB9 (U+5AB9)	e5aab9
+媺	beautiful (U+5ABA)	e5aaba
+媻	to move (U+5ABB)	e5aabb
+媼	old woman; lower-class woman (U+5ABC)	e5aabc
+媽	mother, mama (U+5ABD)	e5aabd
+媾	marry; be on friendly terms with (U+5ABE)	e5aabe
+媿	ashamed, conscience-stricken (U+5ABF)	e5aabf
+嫀	U+5AC0 (U+5AC0)	e5ab80
+嫁	to marry, give a daughter in marriage (U+5AC1)	e5ab81
+嫂	sister-in-law, elder brother's wife (U+5AC2)	e5ab82
+嫃	U+5AC3 (U+5AC3)	e5ab83
+嫄	an ancient emperor's mother's name, Qiang Yuan, consort to Gu (U+5AC4)	e5ab84
+嫅	U+5AC5 (U+5AC5)	e5ab85
+嫆	U+5AC6 (U+5AC6)	e5ab86
+嫇	U+5AC7 (U+5AC7)	e5ab87
+嫈	lady (U+5AC8)	e5ab88
+嫉	jealousy; be jealous of (U+5AC9)	e5ab89
+嫊	U+5ACA (U+5ACA)	e5ab8a
+嫋	slender and delicate (U+5ACB)	e5ab8b
+嫌	hate, detest; suspect; criticize (U+5ACC)	e5ab8c
+嫍	U+5ACD (U+5ACD)	e5ab8d
+嫎	U+5ACE (U+5ACE)	e5ab8e
+嫏	the place where the supreme stores his books; library (U+5ACF)	e5ab8f
+嫐	frolic, play with; flirt with (U+5AD0)	e5ab90
+嫑	U+5AD1 (U+5AD1)	e5ab91
+嫒	(your) daughter (U+5AD2)	e5ab92
+嫓	U+5AD3 (U+5AD3)	e5ab93
+嫔	court lady; palace maid (U+5AD4)	e5ab94

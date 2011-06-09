@@ -1,0 +1,1024 @@
+㫋	(non-classical form of 旃) a silken banner hanging from a staff bent over at the top (U+3ACB)	e3ab8b
+㫌	U+3ACC (U+3ACC)	e3ab8c
+㫍	the scallops along the lower edge of a flag; the hanging decorations (ribbons, etc.) of a flag used in ancient times, a kind of flag (U+3ACD)	e3ab8d
+㫎	(same as 徽 揮) mark; sign; indication; flags; pennants, streamers, etc., to prance, to brandish, to shake; to rattle, name of a flag (U+3ACE)	e3ab8e
+㫏	a kind of flag, flags; streamers (U+3ACF)	e3ab8f
+㫐	distant and indistinguishable (U+3AD0)	e3ab90
+㫑	(same as 旨) (non-classical form 時) purpose; will; intention; objective, good; excellent, a season; an era; time (U+3AD1)	e3ab91
+㫒	(same as 廾) hands joined, to support; to aid; to help, to lean upon (U+3AD2)	e3ab92
+㫓	(ancient form of 氣) air; vapor, breath, spirit; character, bearing; manner (U+3AD3)	e3ab93
+㫔	(same as 艮) one of the Eight Diagrams for divination (U+3AD4)	e3ab94
+㫕	(same as 光) light; brightness, glossy; glory; glorious (U+3AD5)	e3ab95
+㫖	U+3AD6 (U+3AD6)	e3ab96
+㫗	(same as 厚) thick, deep friendship, to treat kindly; generous (U+3AD7)	e3ab97
+㫘	disappeared, not supported by, to avoid, unable to see (U+3AD8)	e3ab98
+㫙	the sun (U+3AD9)	e3ab99
+㫚	early morning, daylight (U+3ADA)	e3ab9a
+㫛	light; bright; brilliant, clear, intelligent; day dawn (U+3ADB)	e3ab9b
+㫜	light; bright; brilliant, clear, intelligent; day dawn (U+3ADC)	e3ab9c
+㫝	the sun (U+3ADD)	e3ab9d
+㫞	of look of the sun, the look of the weather (U+3ADE)	e3ab9e
+㫟	day after day; daily, time, moving of the sun (U+3ADF)	e3ab9f
+㫠	a kind of water (U+3AE0)	e3aba0
+㫡	(same as 冬) winter, (in lunar calendar) the period from the 10th to the 12th moon (U+3AE1)	e3aba1
+㫢	U+3AE2 (U+3AE2)	e3aba2
+㫣	U+3AE3 (U+3AE3)	e3aba3
+㫤	(a variant of 昶) a long day, bright, extended, clear (U+3AE4)	e3aba4
+㫥	(non-classical form of 冥) dark; obscure; dim (U+3AE5)	e3aba5
+㫦	of look of the sun, the look of the weather (U+3AE6)	e3aba6
+㫧	(non-classical form of 暴) violent; fierce; atrocious; cruel, sudden (U+3AE7)	e3aba7
+㫨	U+3AE8 (U+3AE8)	e3aba8
+㫩	(same as 春) the first of the four season -- spring, lustful, alive, joyful, youth (U+3AE9)	e3aba9
+㫪	(non-classical form of 舂) to pound (grain) in order to remove the husk (U+3AEA)	e3abaa
+㫫	(non-classical form of 顯) clear; evident; eminent; prominent; renowned; famed; to expose; to make known (U+3AEB)	e3abab
+㫬	U+3AEC (U+3AEC)	e3abac
+㫭	U+3AED (U+3AED)	e3abad
+㫮	U+3AEE (U+3AEE)	e3abae
+㫯	in contravention of; to offend (a superior, elder, etc.) (same as 冒) incautious; rash; imprudent (U+3AEF)	e3abaf
+㫰	light; bright; brilliant; clean; clever, to expose to sunlight, to dry something in an opening for ventilation area or a cool place (U+3AF0)	e3abb0
+㫱	mild, damp and moist, red color (U+3AF1)	e3abb1
+㫲	dark; dull (U+3AF2)	e3abb2
+㫳	(same as 晨) morning; daybreak (U+3AF3)	e3abb3
+㫴	(corrupted form of 哮) to roar; to pant; to howl (U+3AF4)	e3abb4
+㫵	white color, (corrupted form of 腓) the calf of the legs (U+3AF5)	e3abb5
+㫶	light; bright (U+3AF6)	e3abb6
+㫷	behind; the back of; afterwards; to come after (same as 期) period; time, to expect; to hope (U+3AF7)	e3abb7
+㫸	sunset (U+3AF8)	e3abb8
+㫹	light; bright, warm, genial (U+3AF9)	e3abb9
+㫺	(same as 昔) bygone; of old; formerly; ancient, at night, the end (U+3AFA)	e3abba
+㫻	sunlight (U+3AFB)	e3abbb
+㫼	(same as 晢) clear, bright; glorious; to be sharp and perspicacious; able to examine the tiniest things (U+3AFC)	e3abbc
+㫽	darkness; the sun is dimmed (U+3AFD)	e3abbd
+㫾	U+3AFE (U+3AFE)	e3abbe
+㫿	U+3AFF (U+3AFF)	e3abbf
+㬀	U+3B00 (U+3B00)	e3ac80
+㬁	the sun is shining on the water (U+3B01)	e3ac81
+㬂	used in person's name (U+3B02)	e3ac82
+㬃	sunrise (U+3B03)	e3ac83
+㬄	warm and damp (moist; humid), a little warm (U+3B04)	e3ac84
+㬅	(non-classical form of 曼) long, extended, large (U+3B05)	e3ac85
+㬆	(same as 湣) posthumous title conferred upon emperors and eminent officials (U+3B06)	e3ac86
+㬇	name of a state in ancient China, sharp, bright-colored; brightness; bright; radiance; light (U+3B07)	e3ac87
+㬈	the sun was shining and it's warm (U+3B08)	e3ac88
+㬉	(a variant of 暖) warm, genial, of weather, soft and tender, pleasant and genial (U+3B09)	e3ac89
+㬊	light; bright, clear, intelligent; clever (U+3B0A)	e3ac8a
+㬋	name of a star (U+3B0B)	e3ac8b
+㬌	sunshine; sunlight (U+3B0C)	e3ac8c
+㬍	fierce; cruel, sudden, a scorching heat (U+3B0D)	e3ac8d
+㬎	(an ancient form of 顯) motes in a sunbeam, bright, fibrous, to manifest; to display, to be illustrious, evident, to seem; to appear, cocoons; chrysalis, will not have a pleasant conversation (U+3B0E)	e3ac8e
+㬏	light; bright, clear, intelligent; clever (U+3B0F)	e3ac8f
+㬐	(same as 晉) a state during the period of Spring and Autumn, (same as 鄑) name of a place in today's Shandong Province (U+3B10)	e3ac90
+㬑	U+3B11 (U+3B11)	e3ac91
+㬒	the sun are dimmed; darkness (U+3B12)	e3ac92
+㬓	to expose to sunlight; to sun (U+3B13)	e3ac93
+㬔	to defy; to disobey; to disregard, to contradict, perverse; recalcitrant; irregular; abnormal (U+3B14)	e3ac94
+㬕	(corrupted form) light; bright, clear (U+3B15)	e3ac95
+㬖	U+3B16 (U+3B16)	e3ac96
+㬗	(same as 晛) sunshine; light; bright, warm; genial (weather), very hot (U+3B17)	e3ac97
+㬘	arid; dry; parched, impatient; restless, fierce; cruel, sudden, a scorching heat (U+3B18)	e3ac98
+㬙	sunshine; light of the sun (U+3B19)	e3ac99
+㬚	light; bright, clear (U+3B1A)	e3ac9a
+㬛	to dry in the sun (U+3B1B)	e3ac9b
+㬜	(same as 晉) to advance; to increase; to flourish (U+3B1C)	e3ac9c
+㬝	obscure; not bright; poor visibility, white; clear; bright; pure; plain (U+3B1D)	e3ac9d
+㬞	(non-classical form of 暍) sunstroke, hot; feverish (U+3B1E)	e3ac9e
+㬟	(a dialect), an adverb, negative expression; never before; tohave not happened before (U+3B1F)	e3ac9f
+㬠	(non-classical form of 曬) to expose to sunlight; to dry in the sun (interchangeable 煞) very; much; extremely; a fierce god; a malignant deity, to conclude (U+3B20)	e3aca0
+㬡	(same as 昤) sunshine; light of the sun (U+3B21)	e3aca1
+㬢	sunshine; sunlight; the light of day (U+3B22)	e3aca2
+㬣	luxuriant; exuberant; lush; flourishing (U+3B23)	e3aca3
+㬤	wet clothes not completely dry; to dry in the sun or use sand to dry up on the ground (U+3B24)	e3aca4
+㬥	(an ancient form of 曝) to sun to air; to expose to sunlight, to expose or be exposed; exposure, a tree with scatter or dispersed leaves (U+3B25)	e3aca5
+㬦	brave; courageous; bold; valiant; intrepid; fearless; heroic (U+3B26)	e3aca6
+㬧	(standard form) a collar, the neck, to connect collars to the clothes (U+3B27)	e3aca7
+㬨	U+3B28 (U+3B28)	e3aca8
+㬩	a tiny star, numerous stars (U+3B29)	e3aca9
+㬪	(a variant of 疊) to fold up, to repeat, to duplicate (U+3B2A)	e3acaa
+㬫	clear sky, a fine day (U+3B2B)	e3acab
+㬬	a family name (U+3B2C)	e3acac
+㬭	(same as, non-classical form of 皭) pure white; clean; bright, usually used for person's name in ancient times (U+3B2D)	e3acad
+㬮	gentle; mild; temperate, tender; loving; caressing (U+3B2E)	e3acae
+㬯	sunset (U+3B2F)	e3acaf
+㬰	(non-classical form of 臾) a moment; an instant; a little while; a short time (U+3B30)	e3acb0
+㬱	(same as 替) to replace; to substitute; to decay; to decline, (a variant 朁) if, supposing, nevertheless (U+3B31)	e3acb1
+㬲	to increase; to add to; to augment, to a greater extent; more, benefit; profit; advantage (U+3B32)	e3acb2
+㬳	light; bright, clear (U+3B33)	e3acb3
+㬴	the moon is dimmed; darkness, the word used especially by Triad Society ( a secret society during the Ching Dynasty dedicated to the overthrow of the Manchus and the restoration the Manchus and the restoration of the Ming Dynasty, the character means the same as 月 (U+3B34)	e3acb4
+㬵	the shinbone, or tibia, (same as 交) to intersect, the sun and the moon in the sky, (simpfied form 膠) glue; gum, resin; sap, anything sticky (U+3B35)	e3acb5
+㬶	flesh; meat of animals, (same as 浩) great; vast, many; much (U+3B36)	e3acb6
+㬷	U+3B37 (U+3B37)	e3acb7
+㬸	a kind of services or ceremonies of offering sacrifices (U+3B38)	e3acb8
+㬹	tendons of the heel of the foot; (Cant.) elbow, heel (U+3B39)	e3acb9
+㬺	U+3B3A (U+3B3A)	e3acba
+㬻	in between of the flesh, a state of a minority ethnic group in southen China, the moon is dimmed (U+3B3B)	e3acbb
+㬼	to have; to be present; to exist; there is (U+3B3C)	e3acbc
+㬽	U+3B3D (U+3B3D)	e3acbd
+㬾	U+3B3E (U+3B3E)	e3acbe
+㬿	moonlight (U+3B3F)	e3acbf
+㭀	U+3B40 (U+3B40)	e3ad80
+㭁	a kind of tree, a kind of lumber used to stop a carriage (U+3B41)	e3ad81
+㭂	height of the end-point; the tip of a small branch; (Cant.) slender, thin (U+3B42)	e3ad82
+㭃	(ancient form of 綱) the large rope of a net, main points; outline; principle (U+3B43)	e3ad83
+㭄	a king of tree (U+3B44)	e3ad84
+㭅	U+3B45 (U+3B45)	e3ad85
+㭆	U+3B46 (U+3B46)	e3ad86
+㭇	a kind of tree, (corrupted form of 杬) a kind of plant; (non-classical form 欖) the olive tree (U+3B47)	e3ad87
+㭈	a basin; a bowl (U+3B48)	e3ad88
+㭉	farm tools; a spade or shovel (U+3B49)	e3ad89
+㭊	(non-classical of 析) to split; to rip or break apart; to divide; to separate, to interpret; to explain; to analyse (U+3B4A)	e3ad8a
+㭋	(same as 棒) a club; a stick, to hit with a club, good; strong; wonderful (U+3B4B)	e3ad8b
+㭌	(same as 桙) a basin; a bathtub, a kind of tool or utensil, (interchangeable 模) form or shape of a thing; style; pattern; appearance; look, a sample (U+3B4C)	e3ad8c
+㭍	(a variant 七) capital form of seven (U+3B4D)	e3ad8d
+㭎	(simplified form of 棡) a tall tree; a large tree, (interchangeable 扛) to carry on the shoulders of two of more men (U+3B4E)	e3ad8e
+㭏	(simplfied form of 椲) a kind of wood ( used as a kind of material to make basin and bowl, etc.) (same as 楎) a peg for handing things on, a clothes-horse (U+3B4F)	e3ad8f
+㭐	U+3B50 (U+3B50)	e3ad90
+㭑	a kind of tree (U+3B51)	e3ad91
+㭒	(same as non-classical form 耜) a farming instrument; a spade; a shovel (U+3B52)	e3ad92
+㭓	a pillar arch (U+3B53)	e3ad93
+㭔	a kind of tree (U+3B54)	e3ad94
+㭕	a board (on the back of a donkey) for carrying things; saddle (U+3B55)	e3ad95
+㭖	U+3B56 (U+3B56)	e3ad96
+㭗	U+3B57 (U+3B57)	e3ad97
+㭘	a scabbard; a sheath; a case for sword, a tree like the acacia (U+3B58)	e3ad98
+㭙	a hammer (U+3B59)	e3ad99
+㭚	a kind of tree, a tray for carrying sacrificial meats and wine (U+3B5A)	e3ad9a
+㭛	a kind of climbing plants; rattan; bark can be used to weave cloth, a component parts of a loom (U+3B5B)	e3ad9b
+㭜	a kind of tree (like locust tree; similar to the ash; acacia) (U+3B5C)	e3ad9c
+㭝	name of a pavilion, in Xinshi, name of a place in Jingling (U+3B5D)	e3ad9d
+㭞	a kind inferior wood (U+3B5E)	e3ad9e
+㭟	torture used in ancient times (U+3B5F)	e3ad9f
+㭠	U+3B60 (U+3B60)	e3ada0
+㭡	name of a mountain, a component parts of a loom (U+3B61)	e3ada1
+㭢	mechanics, opportunity, urgent (U+3B62)	e3ada2
+㭣	U+3B63 (U+3B63)	e3ada3
+㭤	(simplified form) (same as 蔦) the convolvulus; a kind of creeping plant, partridge; francolin, in Japan, the pole out side of a building used to post the public notice (U+3B64)	e3ada4
+㭥	U+3B65 (U+3B65)	e3ada5
+㭦	U+3B66 (U+3B66)	e3ada6
+㭧	U+3B67 (U+3B67)	e3ada7
+㭨	(same as U+6930 椰) the cocoa-nut palm (U+3B68)	e3ada8
+㭩	a kind of tree can be used as dye-stuff, the mast of a boat (U+3B69)	e3ada9
+㭪	a shrub (plant); dense growth of trees (U+3B6A)	e3adaa
+㭫	a fruit tree ( plum), (same as 菆) hemp stalks, a mat (U+3B6B)	e3adab
+㭬	(corrupted form of 椓) to beat; to tap; to thrash, castration as a punishment in ancient times, a castrate man, to accuse or charge (U+3B6C)	e3adac
+㭭	a kind of tree, a harrow; a drag, a written contract or agreement; a bond; a deed, handles of spears or lances used in ancient times (U+3B6D)	e3adad
+㭮	(corrupted form of 桚) a kind of liquor container, to squeeze; to press, an instrument of torture for squeezing the fingers of prisoners or witnesses in order to extort evidence or confession (U+3B6E)	e3adae
+㭯	tree with small leaves, mushroom; fungus, mould, ror mildew (U+3B6F)	e3adaf
+㭰	to know; to recognize, to hide; to conceal, (same as 嘴) beak (of a bird), stone probe (U+3B70)	e3adb0
+㭱	(same as 匣) a case; a small box (U+3B71)	e3adb1
+㭲	(same as 极) a wooden frame (on the back of a donkey) for carrying things, (simplified form of 極) to exhaust, extreme; highest; topmost (U+3B72)	e3adb2
+㭳	U+3B73 (U+3B73)	e3adb3
+㭴	(simplified form) the oscines (U+3B74)	e3adb4
+㭵	U+3B75 (U+3B75)	e3adb5
+㭶	U+3B76 (U+3B76)	e3adb6
+㭷	U+3B77 (U+3B77)	e3adb7
+㭸	(same as 梌) the branches to spread out in all directions, the catalpa; a kind of hard wood used for making chessboard (U+3B78)	e3adb8
+㭹	name of a county in today's Shandong Province, a kind of fabric produced in Donglai (U+3B79)	e3adb9
+㭺	the cherry-apple, a kind of tree (U+3B7A)	e3adba
+㭻	(same as 棠) the crab-apple; the wild plum (U+3B7B)	e3adbb
+㭼	a rectangle shaped peg or short post between the beans and the roof timbers; the square peck-shaped box half-way up a Chinese flagstaff (U+3B7C)	e3adbc
+㭽	(non-classical form of 柢) root; foundation; base, eaves of a house; brim (U+3B7D)	e3adbd
+㭾	to cut the timber apart; to cut a tree; (Cant.) to blunt (U+3B7E)	e3adbe
+㭿	oblique angle, a post to tie cattle and horses to (U+3B7F)	e3adbf
+㮀	tool to clear out ( as a drain) the water, (same as 函) a case; a small box (U+3B80)	e3ae80
+㮁	gardenia; a plant of which the nuts produces a yellow dye (U+3B81)	e3ae81
+㮂	an appliance used to lift food; something like a narrow, long table, to carry; to transport (U+3B82)	e3ae82
+㮃	farm tool, (same as 桵) a kind of tree (U+3B83)	e3ae83
+㮄	(non-classical form of 榜) publicly posted roll of successful examinees (U+3B84)	e3ae84
+㮅	a kind of tree (U+3B85)	e3ae85
+㮆	(an ancient form) (same as 瓾) eaves sprouting from the stump of a tree; shoots from an old stump, a large (a species of oak) from the bark of which a yellow dye is produced (U+3B86)	e3ae86
+㮇	(standard form of 掭) (same as 栝) a builder's frame for measuring, juniper, a poker (for stirring fire, a cylinder part on the old style of wooden doors (U+3B87)	e3ae87
+㮈	(non-classical form of 奈) but; how; what, a remedy; a resource, to bear, to endure (U+3B88)	e3ae88
+㮉	U+3B89 (U+3B89)	e3ae89
+㮊	U+3B8A (U+3B8A)	e3ae8a
+㮋	(non-classical form of 栯) a kind of tree, a fruit tree (U+3B8B)	e3ae8b
+㮌	(same as U+68C9 棉) cotton; (Cant.) a kind of fruit (U+3B8C)	e3ae8c
+㮍	(ancient form of 牋 箋) amemorandum tablet, slip of paper, fancy note-paper, a note, a document, comments (U+3B8D)	e3ae8d
+㮎	(non-classical form of U+76C3 盃 U+676F 杯) cup; a tumbler; a glass (U+3B8E)	e3ae8e
+㮏	(same as 柰) a fruit tree; a crab-apple, for which the second from is strictly used, leaves sprouting from the stump of a tree; shoots from an old stump (U+3B8F)	e3ae8f
+㮐	a rack or a stand with three sticks to cross each other, a chopping board (U+3B90)	e3ae90
+㮑	sound of broken sticks; crack of a wooden stick, a forest; wooded land (U+3B91)	e3ae91
+㮒	wood, (same as 禋) to worship with sincerity and reverence, to offer sacrifices to the Heaven (U+3B92)	e3ae92
+㮓	(same as 亙 堥) an extreme limit, to fill, universal, connected, revolve (U+3B93)	e3ae93
+㮔	vegetable, (non-classical, abbreviated from, same as 橦) a tree which grows in Yunnan, from the flowers ofwhich a cloth is made (U+3B94)	e3ae94
+㮕	fruit, plant, (same as 檽) a fruit tree; black date (U+3B95)	e3ae95
+㮖	to lay; to put, drums, to rap, to quiver, to stir up (U+3B96)	e3ae96
+㮗	(same as 矜) the handle of a spear (U+3B97)	e3ae97
+㮘	a tree; winter peach (U+3B98)	e3ae98
+㮙	a pitfall; a hole (U+3B99)	e3ae99
+㮚	(an ancient form of 栗) the chestnut tree, a kind of metalwork in ancient times (U+3B9A)	e3ae9a
+㮛	(same as 匙) a spoon, (same as 椸) (a dialect) a small table in front of the bed, a rack for clothes; a clothes-horse (U+3B9B)	e3ae9b
+㮜	a blocks engraved for holding things (U+3B9C)	e3ae9c
+㮝	angle steel, legs of a table (U+3B9D)	e3ae9d
+㮞	the square peck-shaped box half-way up a Chinese flagstaff (U+3B9E)	e3ae9e
+㮟	a whetstone, (a dialect) a corner; a nook; a crack; an opening; a cleft (U+3B9F)	e3ae9f
+㮠	U+3BA0 (U+3BA0)	e3aea0
+㮡	(same as 爟) to light a fire; to set fire to (U+3BA1)	e3aea1
+㮢	fruit (U+3BA2)	e3aea2
+㮣	(a variant of 概) a piece of wood used to strike off grain in a measure, thus:--all, to level, to adjust, generally, for the most part, (interchangeable 慨) emotional excitement, (interchangeable 溉) to wash; to cleanse; to rinse (U+3BA3)	e3aea3
+㮤	pine; fir, (same as 松 鬆) loose; lax; slack (U+3BA4)	e3aea4
+㮥	sails, the mat-covering of small boats, (interchangeable 軬) the covering of a carriage (U+3BA5)	e3aea5
+㮦	branches growing upwards, the tip of a branch or things of similar shape, (interchangeable 索) to importune (U+3BA6)	e3aea6
+㮧	a tree, a fruit (U+3BA7)	e3aea7
+㮨	Codium macronatum (U+3BA8)	e3aea8
+㮩	a tree (U+3BA9)	e3aea9
+㮪	a small boat (U+3BAA)	e3aeaa
+㮫	a wooden artical to be used to adjust a bow, a tiger shaped wooden artical used to stop the music in ancient times (U+3BAB)	e3aeab
+㮬	a fruit tree (U+3BAC)	e3aeac
+㮭	(same as 椷) a casket; a box; a bowl; a cup, to allow, an envelope (U+3BAD)	e3aead
+㮮	a well sweep (U+3BAE)	e3aeae
+㮯	whole piece of or unbroken firewoods, complete; whole; undamaged; general, (same as 梡) a kind of tree (U+3BAF)	e3aeaf
+㮰	the small beam supporting the rafters at the eaves (U+3BB0)	e3aeb0
+㮱	(said of grass, trees, vegetation and flora), (non-classical form of 森) luxuriant; exubertant; lush; flourishing (U+3BB1)	e3aeb1
+㮲	a small ring or a small piece of board attached to the muzzle of an ox; to thread through a halter (U+3BB2)	e3aeb2
+㮳	a tree, (same as 栚) a piece of cross-wise board used for frame on which silkworms spin (U+3BB3)	e3aeb3
+㮴	(same as 艘) a numerary adjunct for ships (U+3BB4)	e3aeb4
+㮵	common sandalwood (U+3BB5)	e3aeb5
+㮶	(same as 槊) a tree, a fence; a palisade; a railing (U+3BB6)	e3aeb6
+㮷	a tree (as maple tree) (U+3BB7)	e3aeb7
+㮸	(corrupted form of 送) to send; to deliver; to present; to give, to send off (U+3BB8)	e3aeb8
+㮹	a tree (U+3BB9)	e3aeb9
+㮺	(ancient form of 本) stem; source; foundation; origin; basis, a book (U+3BBA)	e3aeba
+㮻	(same as 搔) to scratch lightly, to irritate; to annoy (U+3BBB)	e3aebb
+㮼	U+3BBC (U+3BBC)	e3aebc
+㮽	U+3BBD (U+3BBD)	e3aebd
+㮾	a place in today's Hunan Province (U+3BBE)	e3aebe
+㮿	a tree (U+3BBF)	e3aebf
+㯀	bonds and fetters for falcons and dogs used in hunting (U+3BC0)	e3af80
+㯁	household registers, printing plate, supporting boards used in building walls, (non-classical form 棓) to strike, a flail, a club, planks (U+3BC1)	e3af81
+㯂	pillar or post of a frame on which silkworms spin (U+3BC2)	e3af82
+㯃	(same as U+687C 桼 U+6F06 漆) the varnish tree, paint, lacquer, varinish, to paint or varinish, black, sticky (U+3BC3)	e3af83
+㯄	(of trees) luxuriant; exuberant; lush (U+3BC4)	e3af84
+㯅	the branches growing downwards; small trees; saplings; cuttings of trees for planting (U+3BC5)	e3af85
+㯆	a tree, a mattress (U+3BC6)	e3af86
+㯇	(same as 梐) a stockade; a cheval de frise, a pen; a cage (U+3BC7)	e3af87
+㯈	(non-classical form) small trees; saplings (U+3BC8)	e3af88
+㯉	(same as 檴) a tree; material for cups, a kind of birch found in Manchuria (U+3BC9)	e3af89
+㯊	even measuring board for pecks and bushels (U+3BCA)	e3af8a
+㯋	a chest; a box, footstool; footrest, a tree, handle of an awl, ring of a knife or a sword, a round pillow that roused the sleeper when he moved (U+3BCB)	e3af8b
+㯌	to operate or manage (U+3BCC)	e3af8c
+㯍	(same as 槳) an oar (U+3BCD)	e3af8d
+㯎	stupid; dull, foolish; idiotic (U+3BCE)	e3af8e
+㯏	(same as 穀) grains; corns; cereals (U+3BCF)	e3af8f
+㯐	tubular, oval, elliptical (U+3BD0)	e3af90
+㯑	U+3BD1 (U+3BD1)	e3af91
+㯒	U+3BD2 (U+3BD2)	e3af92
+㯓	(same as 榻) a couch; a bed, window; shutters (U+3BD3)	e3af93
+㯔	to hull heavily, to pound heavily (U+3BD4)	e3af94
+㯕	sticks or frames; a wooden device used to torture the fingers by squeezing, the branches growing downwards; small trees; saplings; cuttings of trees for planting (U+3BD5)	e3af95
+㯖	a tree, a hammer, to beat with a hammer (U+3BD6)	e3af96
+㯗	a kind of tree (U+3BD7)	e3af97
+㯘	(same as 梡) a small wooden stand having four legs; it was used in sacrifice, faggots (U+3BD8)	e3af98
+㯙	the buckthorn or jujube (tree); dates (U+3BD9)	e3af99
+㯚	a kind of tree (as plum) (U+3BDA)	e3af9a
+㯛	gourd shaped dates (U+3BDB)	e3af9b
+㯜	(same as 椊) decayed wood (U+3BDC)	e3af9c
+㯝	paulownia (U+3BDD)	e3af9d
+㯞	a kind of tree; material for making clothes (U+3BDE)	e3af9e
+㯟	(ancient form of 麓) foot of a hill or mountain (U+3BDF)	e3af9f
+㯠	a cross-beam; an axle, etc. (U+3BE0)	e3afa0
+㯡	to lacquer some kind of ashes on wooden articals or furniture, after drying out, smooth them and then paint, black lacquer (U+3BE1)	e3afa1
+㯢	(same as 栚) (same as 㮳) a piece of cross-wise board used for frame on which silkworms spin (U+3BE2)	e3afa2
+㯣	(same as 棻) a kind of fragrant tree used to produce perfume by burning it (U+3BE3)	e3afa3
+㯤	(same as 棘) the jujube tree, thorny brambles, a kind of date (with a sour taste) (U+3BE4)	e3afa4
+㯥	(same as 曹) a Chinese family name, surrounded, a whole day; a revolution of the sun (U+3BE5)	e3afa5
+㯦	(same as 棋) the game of chess, draughts and oter similar games (U+3BE6)	e3afa6
+㯧	U+3BE7 (U+3BE7)	e3afa7
+㯨	U+3BE8 (U+3BE8)	e3afa8
+㯩	to put the growing up silkworms in different frames according to their sizes (U+3BE9)	e3afa9
+㯪	(same as 櫺) carved or patterned window-railings; sills, the wooden planks which join eaves with a house (U+3BEA)	e3afaa
+㯫	a wattle or bamboo fence (U+3BEB)	e3afab
+㯬	achievements; merit (U+3BEC)	e3afac
+㯭	(a variant of 櫓) a lookout turret on a city wall, moveable wooden tower for archers, a scull a sweep, an oar, (in ancient warfare) a big shield; a long spear (U+3BED)	e3afad
+㯮	a kind of tree (as willow) with big leaves and in red color (U+3BEE)	e3afae
+㯯	small cup, chest; box, a kind of container usually put on one's head to carry things (U+3BEF)	e3afaf
+㯰	(same as 植) to plant; to set up, to erect, plants (U+3BF0)	e3afb0
+㯱	an enlarged bag, to wrap up, a parcel; a bundle; a package (U+3BF1)	e3afb1
+㯲	a wooden (bamboo) framework; a wooden pole; used as an obstacle to impede the door, a frame (U+3BF2)	e3afb2
+㯳	(same as 檠) a kind of tool to adjust bow; lamp holder, a tray with base (U+3BF3)	e3afb3
+㯴	U+3BF4 (U+3BF4)	e3afb4
+㯵	U+3BF5 (U+3BF5)	e3afb5
+㯶	the coir palm tree (U+3BF6)	e3afb6
+㯷	dates, a kind of oak; Quercus dentata, (same as 樸) a shrub (plant); thicket, strong and durable, a county in ancient times (U+3BF7)	e3afb7
+㯸	a basin (U+3BF8)	e3afb8
+㯹	(corrupted form of 檦) to show; to exhibit, to manifest, a kind of supporting post (U+3BF9)	e3afb9
+㯺	a cabinet; a wardrobe; a cupboard, (same as 壏) hard ground (U+3BFA)	e3afba
+㯻	to bind; to tie up; a bundle; a bondage; restrictions; restraints (U+3BFB)	e3afbb
+㯼	U+3BFC (U+3BFC)	e3afbc
+㯽	(a variant of U+6AB3 檳) the areca-nut; the betel-nut (U+3BFD)	e3afbd
+㯾	a tree, (same as 槽) with both flowers and fruits; half and half (U+3BFE)	e3afbe
+㯿	handle of a ladle, a plant; wistaria, or wisteria, a certain trees in Sichuan; material for candle (U+3BFF)	e3afbf
+㰀	a kind of tree (U+3C00)	e3b080
+㰁	a tree with slanted branches (U+3C01)	e3b081
+㰂	a kind of tree; the juice of which is used to make wine (U+3C02)	e3b082
+㰃	(same as 檰) a tree, the bark of which is used in medicine-- Eucommia ulmoides, an awning of the house (U+3C03)	e3b083
+㰄	(non-classical form) a small chestnut tree, a kind of fruit; mountain plum (U+3C04)	e3b084
+㰅	(same as 樀) eaves of a house; brim, part of a loom, the cross beams on the frame on which silkworms spin, a bookcase, to abandon or give up (U+3C05)	e3b085
+㰆	(same as 韛) an instrument to blow a fire; a bellows for forge, etc. (U+3C06)	e3b086
+㰇	(a variant of 櫼) the square peck-shaped box half-way up a Chinese flagstaff (U+3C07)	e3b087
+㰈	nice and pretty (U+3C08)	e3b088
+㰉	(same as 榛) the hazel nut or filbert tree, a thorny tree (U+3C09)	e3b089
+㰊	a kind of tree; thin leaves (U+3C0A)	e3b08a
+㰋	a kind of fruit tree; betel-nut; the areca-nut (U+3C0B)	e3b08b
+㰌	(non-classical form of 榷) to monopolize, to levy taxes (U+3C0C)	e3b08c
+㰍	a cage, a pen, a grating, bars, window; window frame (U+3C0D)	e3b08d
+㰎	(same as 檇) a wooden pestle or rammer, ancient name of a place in Zhejiang province; southwest of Jiaxing, a kind of fruit (U+3C0E)	e3b08e
+㰏	(same as 篙) a bamboo pole; a pole for punting a boat (U+3C0F)	e3b08f
+㰐	(same as 橢) oval; oblong; elliptical (U+3C10)	e3b090
+㰑	fruit tree (U+3C11)	e3b091
+㰒	U+3C12 (U+3C12)	e3b092
+㰓	U+3C13 (U+3C13)	e3b093
+㰔	a kind of edible mushroom (U+3C14)	e3b094
+㰕	a ladle (often made of dried calabash or gourd) (U+3C15)	e3b095
+㰖	(same as 欖) the olive (U+3C16)	e3b096
+㰗	(same as 槭) a kind of maple (Acer palmatum) (U+3C17)	e3b097
+㰘	a kind of tree; often used to make instruments for sacrificial ceremonies in ancient times (U+3C18)	e3b098
+㰙	weak, feeble and tender branches (U+3C19)	e3b099
+㰚	(same as 籬) a bamboo fence; a hedge (U+3C1A)	e3b09a
+㰛	name of a county (U+3C1B)	e3b09b
+㰜	U+3C1C (U+3C1C)	e3b09c
+㰝	to cough; cough (U+3C1D)	e3b09d
+㰞	(same as 蚩 嗤) to laugh at; to make fun of; to deride; to ridicule (U+3C1E)	e3b09e
+㰟	(same as 冀) hope; wish; to hope and scheme for, to stammer; to stutter; stuttering, to give (U+3C1F)	e3b09f
+㰠	to covet; greedy (U+3C20)	e3b0a0
+㰡	rash; impatient, very angry (U+3C21)	e3b0a1
+㰢	cough (U+3C22)	e3b0a2
+㰣	to vomit; to throw up; to disgorge, hiccough; shortwindedness, supposed upward motion of the spirit (in Chinese herb medicine), to sigh with grief or regret; to lament; to deplore (U+3C23)	e3b0a3
+㰤	to laugh hertily; to roar with laughter, to breath (U+3C24)	e3b0a4
+㰥	laugh (U+3C25)	e3b0a5
+㰦	to breath with mouth open (U+3C26)	e3b0a6
+㰧	to drink, to swallow (U+3C27)	e3b0a7
+㰨	to take breath or rest (after strenuous exercise), hiccough; shortwindedness (U+3C28)	e3b0a8
+㰩	sound of laughter (U+3C29)	e3b0a9
+㰪	sound, wicked; mean; vicious (U+3C2A)	e3b0aa
+㰫	glad; joyful; happy, avaricious; greedy, cold (U+3C2B)	e3b0ab
+㰬	shortwindedness; hiccough, supposed upward motion of the spirit (in Chinese herb medicine), honesty; good faith; trust (U+3C2C)	e3b0ac
+㰭	pleasure; joy (U+3C2D)	e3b0ad
+㰮	to laugh at (U+3C2E)	e3b0ae
+㰯	the way of speaking; to spit at and not agree about something, to spit (same as 否) negative, to deny, cruel; savage; wicked; coarse; rustic (U+3C2F)	e3b0af
+㰰	asthmatic breathing, supposed upward motion of the spirit (in Chinese herb medicine), to long for; to covet, to hum over; to moan; to groan (U+3C30)	e3b0b0
+㰱	(same as 歃) to smear the mouth with the blood of a victim when taking an oath, to taste; to try (U+3C31)	e3b0b1
+㰲	to blow off, to blow; to puff (U+3C32)	e3b0b2
+㰳	asses braying, shortwindedness; hiccough, asthmatic breathing, supposed upward motion of the spirit (in Chinese herb medicine), to exhaust; extreme (U+3C33)	e3b0b3
+㰴	(of statement) to grate on the ear; earnest and faithful remonstrance (U+3C34)	e3b0b4
+㰵	to suck, to drink, to swallow (U+3C35)	e3b0b5
+㰶	to wrinkle the nose with sorrowful (when sob or weep), (same as 嘔) to vomit; to throw up (U+3C36)	e3b0b6
+㰷	resurrection; to come to life again, sick (U+3C37)	e3b0b7
+㰸	(a abbreviated form of 歛 斂) to collect; to gather; to hold together, to desire (U+3C38)	e3b0b8
+㰹	(same as 欦) to laugh; to smile, greed; avarice, to cry, to shout, overbear; arrogant (U+3C39)	e3b0b9
+㰺	to drink; to swallow, disease of the throat; disease of the larynx (U+3C3A)	e3b0ba
+㰻	asses braying, to be happy suddenly, cruel; malignant; coarse, rude (U+3C3B)	e3b0bb
+㰼	greed; avarice, to blow off (U+3C3C)	e3b0bc
+㰽	to exert oneself to yell; to yell loudly; to shout, overbearing; arrogant, vigorous (U+3C3D)	e3b0bd
+㰾	songs of the people of 楚, a kind of music instrument in ancient times (U+3C3E)	e3b0be
+㰿	to sigh in lamentation; to lament, to exclaim (U+3C3F)	e3b0bf
+㱀	(same as 欼) to bite; to gnaw, (same as 嘬) to swallow a big mouthful without mastication (U+3C40)	e3b180
+㱁	to ask; to inquire; to investigate, (same as 款) sincerity; article, item, etc., to entertain, slowly (U+3C41)	e3b181
+㱂	hungry; starving, a poor harvest of grains (U+3C42)	e3b182
+㱃	(ancient form of 飲) to drink; to swallow (U+3C43)	e3b183
+㱄	to spit, to cough, keep quiet; to keep silence; speechless; wordless (U+3C44)	e3b184
+㱅	(ancient form of 懿) virtuous; fine; good (U+3C45)	e3b185
+㱆	to smile at each other (U+3C46)	e3b186
+㱇	fear; dread; fright; scare, sad; sorrowful; mournful (U+3C47)	e3b187
+㱈	name of a person (U+3C48)	e3b188
+㱉	moving of the mouth (U+3C49)	e3b189
+㱊	asthmatic breathing; shortwindedness; hiccough; husky voice, (same as 嗄) (of voice) hoarse (U+3C4A)	e3b18a
+㱋	(same as 塙 確) high; lofty; noble, sure; certain; firm; real; true (U+3C4B)	e3b18b
+㱌	to take, to select, to get angry; to lose the temper (U+3C4C)	e3b18c
+㱍	to owe, deficient, confused; puzzled (U+3C4D)	e3b18d
+㱎	cannot be known; agnostic (U+3C4E)	e3b18e
+㱏	(ancient form of 正) the right side, proper, pure, honest and virtuous, original, exactly (U+3C4F)	e3b18f
+㱐	U+3C50 (U+3C50)	e3b190
+㱑	U+3C51 (U+3C51)	e3b191
+㱒	(ancient form of 訶) to scold or blame in a loud voice (U+3C52)	e3b192
+㱓	U+3C53 (U+3C53)	e3b193
+㱔	(same as 些) a small quantity or number; a little; a few; some (U+3C54)	e3b194
+㱕	(large seal type 歸) the marriage of a woman, to return to; to revert to; to go back, to belong to, to restore, to send back (U+3C55)	e3b195
+㱖	to stay; to stop (at a certain stage); to desist, to detain, to prohibit; to end, to come to; to stop at, still; calm, later (U+3C56)	e3b196
+㱗	a breath, news; tidings, to stop; to end (U+3C57)	e3b197
+㱘	(same as 魘) nightmare (U+3C58)	e3b198
+㱙	(same as 朽) rotten, decayed, useless, (same as 咼 剮) a wry mouth, to cut a criminal in pieces; to hack (U+3C59)	e3b199
+㱚	(same as 殘) to destroy; to injure; to damage; to spoil, cruel and fierce, crippled (U+3C5A)	e3b19a
+㱛	(non-classical form) to destroy; to injure; to damage, to exhaust, to complete; to finish, (ancient form 布) cloth; textiles (U+3C5B)	e3b19b
+㱜	pestilence (U+3C5C)	e3b19c
+㱝	U+3C5D (U+3C5D)	e3b19d
+㱞	danger; precarious; perilous, lofty; high, to decay; to break; to snap (U+3C5E)	e3b19e
+㱟	to rip open the flesh, to break; to snap (U+3C5F)	e3b19f
+㱠	withered; dry, calamity; disaster, (ancient form 辜) sin; crime; guilt (U+3C60)	e3b1a0
+㱡	the soul out of one's body; as good as dead (U+3C61)	e3b1a1
+㱢	the dead (U+3C62)	e3b1a2
+㱣	uneven, weak; feeble (U+3C63)	e3b1a3
+㱤	to exhaust; extreme; topmost, to die (U+3C64)	e3b1a4
+㱥	the evil spirits come out, sick and poor, stupid; rude, inattentive; absent-minded; careless (U+3C65)	e3b1a5
+㱦	to discard, to abandon, to die; death (U+3C66)	e3b1a6
+㱧	stinking smell, expression of a dead person (U+3C67)	e3b1a7
+㱨	(same as 殮) to prepare a body for the coffin (U+3C68)	e3b1a8
+㱩	an abortion; stillborn (U+3C69)	e3b1a9
+㱪	(standard form of 殙) stupid and confused; muddled and delirious; unconcious; in a state of coma, to breathe one's last (U+3C6A)	e3b1aa
+㱫	destroyed or ruined; to rot or decay; to disintegrate or decompose (U+3C6B)	e3b1ab
+㱬	cannot recognize people (U+3C6C)	e3b1ac
+㱭	(same as 毈) an infertile egg (U+3C6D)	e3b1ad
+㱮	(simplified form of 殨) to open, as an ulcer or sore; bursting of an abscess; inflamed; inflammation (U+3C6E)	e3b1ae
+㱯	get the unborn baby goat by killng the mother goat (U+3C6F)	e3b1af
+㱰	to destroy; to ruin, to put off (U+3C70)	e3b1b0
+㱱	uneven; unconcious, to know nothing about... (U+3C71)	e3b1b1
+㱲	withered; faded; to die, a minor illness (of foot and hand) (U+3C72)	e3b1b2
+㱳	lonely; lonesome (U+3C73)	e3b1b3
+㱴	sick, a dead animal, skeleton (U+3C74)	e3b1b4
+㱵	to die, to open, as an ulcer or sore (U+3C75)	e3b1b5
+㱶	a swellen corpse, swell (U+3C76)	e3b1b6
+㱷	U+3C77 (U+3C77)	e3b1b7
+㱸	to exhaust; extreme; highest; farthest, to die (U+3C78)	e3b1b8
+㱹	to die from disease (U+3C79)	e3b1b9
+㱺	(interchangeable 臚) the skin; the belly (U+3C7A)	e3b1ba
+㱻	diseases of dumb creatures, diseases of animals, illness; disease; ailment (U+3C7B)	e3b1bb
+㱼	a kind of ornaments, people wore in ancient time in order to avoid evil spirits or influences (U+3C7C)	e3b1bc
+㱽	(same as 抌) to hit or to strikeheavily, to dip, to administer; to control, to govern; to treat; to cure, to punish (U+3C7D)	e3b1bd
+㱾	a kind of ornaments, people wore in ancient time in order to avoid evil spirits or influences, sound of laughter (U+3C7E)	e3b1be
+㱿	(same as 殼) the husk, skin or shell of fruits; the shell of snakes, insects, etc., the shells of molluscas, a bag or case made of leather for weapons, (interchangeable 慤) prudent; cautious, (same as 嗀) to vomit; to throw up, strong; durable; solid; firm; stable (U+3C7F)	e3b1bf
+㲀	to beat; to strike; to attack, to move with happiness; excited, (a corrupted form) to laugh at (U+3C80)	e3b280
+㲁	to beat; to strike; to attack, to control, to charge; to sue, to kill all (U+3C81)	e3b281
+㲂	to push, unceremoniously; impudently (U+3C82)	e3b282
+㲃	smooth and curved, to strike or beat heavily (U+3C83)	e3b283
+㲄	unburnt bricks or tiles (U+3C84)	e3b284
+㲅	to bind, to exhaust; to use up; to complete; to finish, to slay (U+3C85)	e3b285
+㲆	noise (U+3C86)	e3b286
+㲇	(non-classical form of 鼕) the rattle of drums (U+3C87)	e3b287
+㲈	(same as 韶) the name of the music of the legendary Emperor, harmonious, (large seal type 鞀 婸) hand-drum used by pedlars; it is sounded by twirling it backwards in the hand, so that two swinging knobs can strike the face of the drum (U+3C88)	e3b288
+㲉	egg shells (U+3C89)	e3b289
+㲊	(corrupted form of 叡) to understand thoroughly; quick or keen of perception, wise and clever, the profoundest; the divine sagacity of sages (U+3C8A)	e3b28a
+㲋	a kind of animals (like rabbit, it is blue colored and much bigger) (U+3C8B)	e3b28b
+㲌	dog's hair (U+3C8C)	e3b28c
+㲍	woolen textiles; fine cloth (U+3C8D)	e3b28d
+㲎	(non-classical form of 氀) woolen textiles; (non-classical form of 毹) woolen blanket, a kind of dresses wear by monority, stupid and vulgar (U+3C8E)	e3b28e
+㲏	flying feather, soft; light (U+3C8F)	e3b28f
+㲐	U+3C90 (U+3C90)	e3b290
+㲑	U+3C91 (U+3C91)	e3b291
+㲒	(same as U+83E2 菢) to incubate; to brood; to hatch; to sit on a nest, a woolen blanket (U+3C92)	e3b292
+㲓	(a variant of 絨) fine, soft fur or hair; down, felt, camel's hair (U+3C93)	e3b293
+㲔	woolen textiles; fine cloth (U+3C94)	e3b294
+㲕	variegated; woolen fabric of different colors (U+3C95)	e3b295
+㲖	fur; feather; soft and light (U+3C96)	e3b296
+㲗	to smooth the hair, woolen textiles; fine cloth (U+3C97)	e3b297
+㲘	(corrupted form of 氍) fine woolen cloth, a mat used by the emperor in worshipping (U+3C98)	e3b298
+㲙	(same as 毹) woolen blanket with decorative design or pattern, to waste; to destroy (U+3C99)	e3b299
+㲚	long hair (U+3C9A)	e3b29a
+㲛	hairy animals (U+3C9B)	e3b29b
+㲜	(non-classical form of 毯) rugs; carpets (U+3C9C)	e3b29c
+㲝	(corrupt form of 氄) fine hair of birds and animals (U+3C9D)	e3b29d
+㲞	short hair, growing hair (U+3C9E)	e3b29e
+㲟	hair (U+3C9F)	e3b29f
+㲠	(non-classical, abbreviated form of 氂) horse tail, long hair; thick hair, (variant of 膧) a wild yak (U+3CA0)	e3b2a0
+㲡	thick coat of hair ( of the animals), hairy (U+3CA1)	e3b2a1
+㲢	hair knots in a mess (U+3CA2)	e3b2a2
+㲣	woolen blanket with decorative design or pattern (U+3CA3)	e3b2a3
+㲤	long hair, a few thin hair hangging down (U+3CA4)	e3b2a4
+㲥	a kind of woolen textiles with curved pattern, a decorative ornament on an official hat (U+3CA5)	e3b2a5
+㲦	long hair; mane (U+3CA6)	e3b2a6
+㲧	hairy (U+3CA7)	e3b2a7
+㲨	a decorative fine blanket on the top of a saddle, petty; trifling (U+3CA8)	e3b2a8
+㲩	U+3CA9 (U+3CA9)	e3b2a9
+㲪	woolen blanket with decorative design or pattern, a kind of animal (U+3CAA)	e3b2aa
+㲫	hair knots in a mess (U+3CAB)	e3b2ab
+㲬	hair decorations on a helmet used in ancient times, weak and weary; weak from exhaustion; tired looking of a bird's feather (U+3CAC)	e3b2ac
+㲭	(corrupted form of 毯) rug; carpet; blanket (U+3CAD)	e3b2ad
+㲮	U+3CAE (U+3CAE)	e3b2ae
+㲯	long hairy (U+3CAF)	e3b2af
+㲰	a hairy dog (U+3CB0)	e3b2b0
+㲱	(same as 鬣) long beard or whiskers, a mane; bristles, as on a hog; dorsal fins (U+3CB1)	e3b2b1
+㲲	fine cotton cloth; fine woolen cloth (U+3CB2)	e3b2b2
+㲳	to touch; to ram, to pull with hands (U+3CB3)	e3b2b3
+㲴	mind; disposition; temper (U+3CB4)	e3b2b4
+㲵	(same as 霄) the skies, night, to exhaust; to dissolve, clouds or mists (U+3CB5)	e3b2b5
+㲶	(old translated form) chlorine (symbol Cl) (U+3CB6)	e3b2b6
+㲷	(old translated form) nitrogen (symbol N) (U+3CB7)	e3b2b7
+㲸	dried up ( of waterway; the channel of a river; a pond, etc.) (U+3CB8)	e3b2b8
+㲹	(non-classical form of 氿) the dry soil on the river side, spring water from the hole of mountain side, a small fountain, shore; bank; beach, name of a lake in today's Jiangsu Province Yixing county (U+3CB9)	e3b2b9
+㲺	to wash; to rinse; to clean; to spurt; to blow out (U+3CBA)	e3b2ba
+㲻	(ancient form of U+6EBA 溺) sunk; perished, drawned; infatuated (U+3CBB)	e3b2bb
+㲼	name of a river, (same as 汊) a branching stream; branching creeks (U+3CBC)	e3b2bc
+㲽	name of a river in today's southwest of Shanxi Province, the wet things attach or stick up to each other, dirty and muddy (U+3CBD)	e3b2bd
+㲾	(same as 雨) rain, to rain down; to pour down (U+3CBE)	e3b2be
+㲿	extensive body of water; broad and deep of water; momentum of moving water deep and wide (U+3CBF)	e3b2bf
+㳀	a river in ancient times (U+3CC0)	e3b380
+㳁	water flow; water current; momentum of moving water (U+3CC1)	e3b381
+㳂	(same as 沿) to follow a course; to go along; to coast, to hand down; to continue; to conseve, along or by, as a road or a coast (U+3CC2)	e3b382
+㳃	(non-classical of 淬) to temper iron, or steel for making swords, etc. (also used figuratively), to dip into water; to soak; to dye (U+3CC3)	e3b383
+㳄	(a variant of 涎) spittle, saliva (U+3CC4)	e3b384
+㳅	(ancient form of 流) to flow, to drift, to circulate, a current, to descend, unstable; weak (U+3CC5)	e3b385
+㳆	name of a place in ancient times (U+3CC6)	e3b386
+㳇	name of a place in today's Jiangsu Province Yixing county, to float; to waft; to swim (U+3CC7)	e3b387
+㳈	(standard form of 沛) a great flow of water; flowing copiously, quickly; rapidly; sudden, flourishing; luxuriant; prosperous or abundant, marsh; swamp (U+3CC8)	e3b388
+㳉	U+3CC9 (U+3CC9)	e3b389
+㳊	(same as 攸) the flowing of the water, name of a river (U+3CCA)	e3b38a
+㳋	a river in ancient times (U+3CCB)	e3b38b
+㳌	marshy; swampy, damp; moist (U+3CCC)	e3b38c
+㳍	a place in ancient times (U+3CCD)	e3b38d
+㳎	guide or lead to make the water flowing smoothly (U+3CCE)	e3b38e
+㳏	a river in ancient times; in Henan Province (U+3CCF)	e3b38f
+㳐	flowing of the water, sound of the flowing water (U+3CD0)	e3b390
+㳑	(abbreviaded form of 溢) to flow over; to brim over, excessive (U+3CD1)	e3b391
+㳒	(a variant of 法) statutes, laws, regulations, a rule, legal standard, plan or methods, etc. (U+3CD2)	e3b392
+㳓	U+3CD3 (U+3CD3)	e3b393
+㳔	to soak or be soaked; to dip; to immerse (U+3CD4)	e3b394
+㳕	(simplified form of 灡) water in which rice has been washed, (interchangeable 瀾) a great wave; a huge billow (U+3CD5)	e3b395
+㳖	name of a river (U+3CD6)	e3b396
+㳗	bank of a river, (same as 汊) a branching stream (U+3CD7)	e3b397
+㳘	a fountain or spring flows downwards, sound of the flowing water (U+3CD8)	e3b398
+㳙	(non-classical form of 涓) a brook, the smallest drop of water, to expel evil influences; to eliminate; rid off, to clean up, to select, atributary (or a river), the flowing of a spring, (interchangeable 泫) to glisten; to sparkle, to weep (U+3CD9)	e3b399
+㳚	flowing of the water (U+3CDA)	e3b39a
+㳛	dirty; filthy, corrupt, soap, black, to unravel silk threads (U+3CDB)	e3b39b
+㳜	the flowing water (U+3CDC)	e3b39c
+㳝	(corrupted form of U+6D2D 洭) a river in ancient times; a part of Huangjiang, Lianjiang and Beijiang in today's north-west of Guangdong Province (U+3CDD)	e3b39d
+㳞	(same as 浺) deep and far; profound and abstruse (of the sea) (U+3CDE)	e3b39e
+㳟	U+3CDF (U+3CDF)	e3b39f
+㳠	(simplified form of 澾) slippery ( as a road) (U+3CE0)	e3b3a0
+㳡	(simplified form of 濄) (same as 渦) name of a river, to whirl, an eddy (U+3CE1)	e3b3a1
+㳢	U+3CE2 (U+3CE2)	e3b3a2
+㳣	U+3CE3 (U+3CE3)	e3b3a3
+㳤	(non-classical form of 淑) good; pure; virtuous, beautiful or charming (women), clear (U+3CE4)	e3b3a4
+㳥	a river in ancient times (U+3CE5)	e3b3a5
+㳦	a river (U+3CE6)	e3b3a6
+㳧	the water flowing from ..., the current of a stream (U+3CE7)	e3b3a7
+㳨	to splash (of water) (U+3CE8)	e3b3a8
+㳩	great billows; large waves; the waves swelling up (U+3CE9)	e3b3a9
+㳪	a river (U+3CEA)	e3b3aa
+㳫	(corrupted form of 沓) repeated; joined, crowded together, a family name (U+3CEB)	e3b3ab
+㳬	an eddy; a whirlpool (U+3CEC)	e3b3ac
+㳭	(non-classical form of U+6D8E 涎) spittle, saliva (U+3CED)	e3b3ad
+㳮	(interchangeable 尿) urine, to urinate (U+3CEE)	e3b3ae
+㳯	goddess of an ink-slab (U+3CEF)	e3b3af
+㳰	(same as 溝) ditch; waterway; moat, groove (U+3CF0)	e3b3b0
+㳱	U+3CF1 (U+3CF1)	e3b3b1
+㳲	U+3CF2 (U+3CF2)	e3b3b2
+㳳	U+3CF3 (U+3CF3)	e3b3b3
+㳴	mud; quagmire (U+3CF4)	e3b3b4
+㳵	name of a river (U+3CF5)	e3b3b5
+㳶	name of a river, to give suck to, (same as 醹) vintage wine, (same as 乳) milk; breasts (U+3CF6)	e3b3b6
+㳷	dark blue color, to combine; to unite, to close; to shut, the water is exhausted, to get the color away by soaking in the water (U+3CF7)	e3b3b7
+㳸	name of a river (U+3CF8)	e3b3b8
+㳹	flood; a great flood; massive water, name a river, name of a place in today's Shanxi Province east of Yin county, (same as 汪) deep and extensive (said of water) (U+3CF9)	e3b3b9
+㳺	(non-classical form of 游) to swim; to float, to roam; to travel (U+3CFA)	e3b3ba
+㳻	a bank of earth or an embankment to block the current of the water, to stop (or block) up the flowing water (U+3CFB)	e3b3bb
+㳼	(same as 滭) bubbling of fountain; copious of spring (same as 淢) swift currents (interchangeable 洫) a ditch; a moat, to overflow (U+3CFC)	e3b3bc
+㳽	(non-classical abbreviated form of 瀰) a watery expanse, to be cover with, to disseminate every where, currents of the water (U+3CFD)	e3b3bd
+㳾	(standard form of 羌) name of a river (U+3CFE)	e3b3be
+㳿	(same as 渫) rolling billows, to get rid of; to scatter, muddy, to ooze (U+3CFF)	e3b3bf
+㴀	deep (U+3D00)	e3b480
+㴁	to add to; to increase; increase; full, plentiful; abundant, saliva (U+3D01)	e3b481
+㴂	great billows; great upheavals; boisterous breakers (U+3D02)	e3b482
+㴃	(same as 淚) tears (U+3D03)	e3b483
+㴄	the water flowing in a turned, crooked or winding and revolving way; an eddy (U+3D04)	e3b484
+㴅	(ancient form of 消) to melt; to thaw, to disperse; to dissipate, to cancel; to annul (U+3D05)	e3b485
+㴆	(same as 浸) to dip; to immerse; to soak; to permeate; to percolate, gradual; gradually (U+3D06)	e3b486
+㴇	(same as 涉) to wade, to experience, to involve; to implicate (U+3D07)	e3b487
+㴈	(same as 垽) sediment; dregs; precipitate; lees (U+3D08)	e3b488
+㴉	(ancient form of 濟) various; varied; numerous, elegant and dignified (U+3D09)	e3b489
+㴊	(same as U+6E06 淵) an abyss; a gulf, to be deep (U+3D0A)	e3b48a
+㴋	(simplified form of 潚) deep and clear (said of water) (same as 溲) to urinate, to immerse; to soak; to drench, to wash rice (same as 瀟) rushing rain and wind; roar of gust (U+3D0B)	e3b48b
+㴌	U+3D0C (U+3D0C)	e3b48c
+㴍	U+3D0D (U+3D0D)	e3b48d
+㴎	U+3D0E (U+3D0E)	e3b48e
+㴏	the pond water is still (U+3D0F)	e3b48f
+㴐	great current, flood, flowing water (U+3D10)	e3b490
+㴑	(same as U+6CDD 泝) to trace up to a source, to go against the srteam, water (U+3D11)	e3b491
+㴒	water current; water flow (U+3D12)	e3b492
+㴓	to wash rice (U+3D13)	e3b493
+㴔	(same as 潝) the noise of flowing water, swift flowing water (same as non-classical form of 澀) rough; harsh; not smooth, a slightly bitter taste (U+3D14)	e3b494
+㴕	to boil away; to boil over, boiling sound, sound of the flowing water, etc., (interchangeable 渫) rolling billows (U+3D15)	e3b495
+㴖	( same as 濼) name of a stream in Shandong Province southwest of Jinan, ( same as 泊) lakes, a hot spring; a mineral spring (U+3D16)	e3b496
+㴗	deep (U+3D17)	e3b497
+㴘	to ooze out; to well out; to spring out, to well up; flood tide; the water is rising (U+3D18)	e3b498
+㴙	water dripping; a drip-tile (same as 炸 煠 爚) to fry in fat or oil, to scald (U+3D19)	e3b499
+㴚	the small ditch in the field (U+3D1A)	e3b49a
+㴛	damp; wet; moist; humid (U+3D1B)	e3b49b
+㴜	(same as 遍) everywhere; all over, a time (U+3D1C)	e3b49c
+㴝	(a variant of U+9ECE 黎) many; numerous, black; dark (U+3D1D)	e3b49d
+㴞	(same as 滔) fluent, to fill; to prevail (U+3D1E)	e3b49e
+㴟	U+3D1F (U+3D1F)	e3b49f
+㴠	U+3D20 (U+3D20)	e3b4a0
+㴡	U+3D21 (U+3D21)	e3b4a1
+㴢	U+3D22 (U+3D22)	e3b4a2
+㴣	U+3D23 (U+3D23)	e3b4a3
+㴤	U+3D24 (U+3D24)	e3b4a4
+㴥	great billows; heavy seas rollling in (U+3D25)	e3b4a5
+㴦	(corrupted form of 涫) (interchangeable 盥) to wash hands, to wash, to boil (U+3D26)	e3b4a6
+㴧	of flowing water, a river (U+3D27)	e3b4a7
+㴨	water current; water flow (U+3D28)	e3b4a8
+㴩	(same as 灉) name of a stream in Shandong Province, the flowing back of flooding waters, a sluice (U+3D29)	e3b4a9
+㴪	name of a river (U+3D2A)	e3b4aa
+㴫	great flowing; big flood, name of a county in ancient times (U+3D2B)	e3b4ab
+㴬	a river in ancient times; head of source from today's Henan Province Xinanxian; and flowing south to Luoshui (U+3D2C)	e3b4ac
+㴭	immeasurable depth or profundity; extremely abstruse; unfathomable (U+3D2D)	e3b4ad
+㴮	water current; water flow (U+3D2E)	e3b4ae
+㴯	water current; water flow, name of a stream (U+3D2F)	e3b4af
+㴰	a river in ancient times (U+3D30)	e3b4b0
+㴱	(ancient form of 深) deep, profound, far, very; extremely (U+3D31)	e3b4b1
+㴲	a river in ancient time; today's Baiquanhe, water's edge; water-front; a bank; a limit (U+3D32)	e3b4b2
+㴳	(corrupted form) to smear; to spread, to paint, to blot out, mud; mire, ignorant (said of a child) innocent (U+3D33)	e3b4b3
+㴴	(ancient form of 湛) (interchangeable 沈 沉) sink, deep; profound, joy; delight, happy; peaceful (interchangeable 潭) deep water; deep pool, leisurely; relaxed, dewy, full; filled, wet; damp; moist, clear (interchangeable 浸) to dip; to immerse; to soak, swellings; roaring waves and billows, flowing water, (same as 霪 淫) to rain cats and dogs for a long time, a river in ancient times in Henan province Jiyuanxian (blocked) (U+3D34)	e3b4b4
+㴵	water current; water flow (U+3D35)	e3b4b5
+㴶	to water; to pour water; to irrigate, to wet; to moisten; to soak in, to wash (U+3D36)	e3b4b6
+㴷	wet; moist; damp, incessanty rains, flood; great current (U+3D37)	e3b4b7
+㴸	swift currents; swift flow of water (U+3D38)	e3b4b8
+㴹	U+3D39 (U+3D39)	e3b4b9
+㴺	U+3D3A (U+3D3A)	e3b4ba
+㴻	U+3D3B (U+3D3B)	e3b4bb
+㴼	wet; moist; damp (U+3D3C)	e3b4bc
+㴽	water current, water flow (U+3D3D)	e3b4bd
+㴾	(same as 渤) (of water) swelling or rising; an inland sea among today's Liaoning, Hebei and Shandong Provinces (U+3D3E)	e3b4be
+㴿	(same as 濎) (water etc.) boiling (U+3D3F)	e3b4bf
+㵀	water flow; water current (U+3D40)	e3b580
+㵁	vast and boundless of flowing water, a water waste, to reach (U+3D41)	e3b581
+㵂	name of a river (U+3D42)	e3b582
+㵃	name of a stream (U+3D43)	e3b583
+㵄	(same as 漢) name of a dynasty, belonging to China, the Milky Way the Han River, (interchangeable 域) a frontier; a boundary; a region; a country, to live; to stay (U+3D44)	e3b584
+㵅	a river, in today's northeast of Sichuan Province, between Bazhong and Tongjiang (U+3D45)	e3b585
+㵆	(same as 澔 浩) radiance of gems, great currents; vast water flow (U+3D46)	e3b586
+㵇	U+3D47 (U+3D47)	e3b587
+㵈	U+3D48 (U+3D48)	e3b588
+㵉	U+3D49 (U+3D49)	e3b589
+㵊	moving image; moving shadow, flowing water (U+3D4A)	e3b58a
+㵋	(variant of 汨) name of a river in Hunan Province (U+3D4B)	e3b58b
+㵌	to flow; to move; to stray (U+3D4C)	e3b58c
+㵍	filled with water; full of water, annoyed; vexed; depressed; bored, to make tea by boiling water and then put the lid on to cover it (U+3D4D)	e3b58d
+㵎	a mountain stream or torrent, a measurement used in ancient times; a hundred million waterways (ditches) equal to a mountain stream, a river in ancient, head source in south of Henan Province, flowing east then north to conbine with Gushui (today's Jianhe) (U+3D4E)	e3b58e
+㵏	(same as 漼) having the appearance of depth, to shed tears; tocry or weep, sharp, bright-colored, a river in ancient times; Guishui, (interchangeable 摧) to destroy; to injure; to damage, to store up; to accumulate (U+3D4F)	e3b58f
+㵐	name of a river in Hubei Province, name of a state in ancient times (U+3D50)	e3b590
+㵑	name of a river (U+3D51)	e3b591
+㵒	(same as U+6CB8 沸) boiling (water, etc.) to gush; bubbling up, (sane as U+6E43 湃) the roaring of billows, name of a person (U+3D52)	e3b592
+㵓	(same as 湜) the water is clear, transparent (of water) (U+3D53)	e3b593
+㵔	not clear; not pure (U+3D54)	e3b594
+㵕	(same as 滲) to permeate; to seep; to ooze; to leak; to soak through (U+3D55)	e3b595
+㵖	damp; moist; wet (U+3D56)	e3b596
+㵗	turbulent (said of water) (U+3D57)	e3b597
+㵘	great currents (U+3D58)	e3b598
+㵙	(corrupted form of 清) pure; clear, brief; virtuous; to place in order, simple and easily understandable (U+3D59)	e3b599
+㵚	U+3D5A (U+3D5A)	e3b59a
+㵛	U+3D5B (U+3D5B)	e3b59b
+㵜	U+3D5C (U+3D5C)	e3b59c
+㵝	moving, as in ripples; moving to and fro (said of water) (interchangeable 裔) the hem of a robe, a border, a frontier, border bribes (U+3D5D)	e3b59d
+㵞	bellied in water-gas, belch; burp (U+3D5E)	e3b59e
+㵟	(non-classical form of 溦) light rain; drizzle (U+3D5F)	e3b59f
+㵠	to gush forth; to well out; to spring out, deep water (U+3D60)	e3b5a0
+㵡	(said of flow of water) swift and torrential; turbulent flow of water (U+3D61)	e3b5a1
+㵢	a marsh in ancient times; in today's Shandong Province; betweem Heze and Yun Cheng (U+3D62)	e3b5a2
+㵣	(same as 渴) thirsty, to thirst, urgent; anxiously (awaiting, etc.), (interchangeable 愒) to rest; to stop, to idle away (time) (U+3D63)	e3b5a3
+㵤	to overflow; to spread (U+3D64)	e3b5a4
+㵥	(a variant) water currents; flow water (U+3D65)	e3b5a5
+㵦	(same as 瀡) slippery (U+3D66)	e3b5a6
+㵧	name of a river, clear, pure; to cover; to hide (U+3D67)	e3b5a7
+㵨	a dry land in a river; an islet, tributary stream; an affluent stream (U+3D68)	e3b5a8
+㵩	many; flourishing; uxuriant growth (of vegetation) (U+3D69)	e3b5a9
+㵪	(same as 涎) saliva, overflowing water, to rise, to board, a region; an area; a place (U+3D6A)	e3b5aa
+㵫	water gushing out; bubbling up, waves sweeping over the flowing water (U+3D6B)	e3b5ab
+㵬	used in person's name (U+3D6C)	e3b5ac
+㵭	(same as 渚) an islet, a bank; water's edge; water-front, island (in the sea), (interchangeable 劌) a pool; a pond or small lake, a stream in ancient times (U+3D6D)	e3b5ad
+㵮	clear (fresh) water (U+3D6E)	e3b5ae
+㵯	sound of water flowing; flowing water (U+3D6F)	e3b5af
+㵰	(same as 潊) name of a stream; Xushui (or Shuanglongjiang) in ancient times, waterside; shore (U+3D70)	e3b5b0
+㵱	flowing water (U+3D71)	e3b5b1
+㵲	(same as 潕) name of a river (U+3D72)	e3b5b2
+㵳	(same as non-classical form of 漻) crystal-clear (water), fluent, name of stream; in today's Hubei Province Xiaoganshi (U+3D73)	e3b5b3
+㵴	to sink (U+3D74)	e3b5b4
+㵵	swift currents of the stream, sound of water flowing; flowing water (U+3D75)	e3b5b5
+㵶	full; filled up (U+3D76)	e3b5b6
+㵷	turbulent flowing of the water, swift currents (U+3D77)	e3b5b7
+㵸	(same as non-classical abbreviated form of 瀹) to boil, to wash; to cleanse; to soak, to cook; to stew; to decoct, to channel, to enlighten, to clean or dredge (a waterway), water currents (U+3D78)	e3b5b8
+㵹	waves; breakers; billows, dense; thick (U+3D79)	e3b5b9
+㵺	name of a stream in ancient times; in Danyang, to plant; to sow (U+3D7A)	e3b5ba
+㵻	(interchangeable 膄) to perspire from embarrassment or shame (U+3D7B)	e3b5bb
+㵼	U+3D7C (U+3D7C)	e3b5bc
+㵽	(same as abbreviated form of 灅) the strength of a current, flowing water, name of a stream; at Yoybeiping (U+3D7D)	e3b5bd
+㵾	cold; chilly, (ancient form of 凈) clean; pure; to purify (U+3D7E)	e3b5be
+㵿	endlessly long or vast water currents (U+3D7F)	e3b5bf
+㶀	deep and vast of the flowing water, name of a stream (U+3D80)	e3b680
+㶁	after blocking the water flow takes different waterway, sound of the flowing water (U+3D81)	e3b681
+㶂	U+3D82 (U+3D82)	e3b682
+㶃	U+3D83 (U+3D83)	e3b683
+㶄	to stain, dirty; filth, water flows forward (U+3D84)	e3b684
+㶅	(same as 澩) dried up mountain creeks, a tributary of Weishui (in ancient times), sound of the roaring waves and billows (U+3D85)	e3b685
+㶆	name of a stream in Hebei Province Hengshan, name of a river ( same as 涂水) (U+3D86)	e3b686
+㶇	a ferry, to across the river in a boat, a ferry boat, a raft (U+3D87)	e3b687
+㶈	(same as 濙 U+6FD9) creeks (U+3D88)	e3b688
+㶉	Mandarin duck, Aix galericulata (U+3D89)	e3b689
+㶊	U+3D8A (U+3D8A)	e3b68a
+㶋	U+3D8B (U+3D8B)	e3b68b
+㶌	name of a stream; head source from Henan Province jiyuanxian Wangwushan (U+3D8C)	e3b68c
+㶍	name of a stream (U+3D8D)	e3b68d
+㶎	(same as 澴) swift and torrential (said of flow of water), name of a stream in Hubei Province (U+3D8E)	e3b68e
+㶏	an ancient name of a river in Henan Province Dengfengxian (U+3D8F)	e3b68f
+㶐	U+3D90 (U+3D90)	e3b690
+㶑	(same as 瀲) overflowing (water), the edge of a large body of water (U+3D91)	e3b691
+㶒	the current of a stream, brave; courageous; decision with courage; (a person) of determination, swift flowing of the water currents, to float; to waft, to overflow (U+3D92)	e3b692
+㶓	to sink; to drown; to be submerged (U+3D93)	e3b693
+㶔	(said of flow of water) swift and torrential, name of a stream (U+3D94)	e3b694
+㶕	to wash rice (U+3D95)	e3b695
+㶖	rapid; turbulent of the waves and billows (U+3D96)	e3b696
+㶗	well up; spring out of a fountain or geyser, name of a fountain in today's Henan Pronice (U+3D97)	e3b697
+㶘	full of water (U+3D98)	e3b698
+㶙	U+3D99 (U+3D99)	e3b699
+㶚	(a variant of 灞) name of a river in Shanxi (U+3D9A)	e3b69a
+㶛	name of a river, moving; swinging as in ripples (U+3D9B)	e3b69b
+㶜	(same as 淵) deep water; vast, profound (U+3D9C)	e3b69c
+㶝	U+3D9D (U+3D9D)	e3b69d
+㶞	(same as 瀼) water currents; flowing of water, name of a river in Sichuan Province, heavily bedewed (U+3D9E)	e3b69e
+㶟	an ancient name for a river in Shanxi and Hebei (U+3D9F)	e3b69f
+㶠	water currents; flowing of water (U+3DA0)	e3b6a0
+㶡	(ancient form of 火) bright lights and illuminations of the fire, fire sounds (U+3DA1)	e3b6a1
+㶢	U+3DA2 (U+3DA2)	e3b6a2
+㶣	to burn; to heat, to burn over a wider and wider area; to glow; to shine, light; brightness (U+3DA3)	e3b6a3
+㶤	(non-classical form of 炒) to fry; to roast; to cook (U+3DA4)	e3b6a4
+㶥	U+3DA5 (U+3DA5)	e3b6a5
+㶦	ashes; embers, remnants of (U+3DA6)	e3b6a6
+㶧	warm (U+3DA7)	e3b6a7
+㶨	(same as 炋) fire (U+3DA8)	e3b6a8
+㶩	U+3DA9 (U+3DA9)	e3b6a9
+㶪	U+3DAA (U+3DAA)	e3b6aa
+㶫	(corrupted form of 燎) to burn, to illuminate; a signal light; brilliant (U+3DAB)	e3b6ab
+㶬	bright lights and illuminations of the fire, flames (U+3DAC)	e3b6ac
+㶭	almost dry; not completely dried (U+3DAD)	e3b6ad
+㶮	(same as 燒) to burn, to roast, to boil; to heat (U+3DAE)	e3b6ae
+㶯	fire (U+3DAF)	e3b6af
+㶰	flame; fire, light; brightness (U+3DB0)	e3b6b0
+㶱	U+3DB1 (U+3DB1)	e3b6b1
+㶲	measuring unit for thermodynamics (U+3DB2)	e3b6b2
+㶳	(same as 燼) ashes; ember (U+3DB3)	e3b6b3
+㶴	a very great fire; flourishing flames, rich; exuberant; grand; prosperous (U+3DB4)	e3b6b4
+㶵	(same as U+9901 飪) to cook food thoroughly (U+3DB5)	e3b6b5
+㶶	scorched, burned (U+3DB6)	e3b6b6
+㶷	U+3DB7 (U+3DB7)	e3b6b7
+㶸	U+3DB8 (U+3DB8)	e3b6b8
+㶹	fire; flames (U+3DB9)	e3b6b9
+㶺	the light or glow of fire (U+3DBA)	e3b6ba
+㶻	(same as 烽) a conical brick-structure in which to light a beacon; (in ancient China) a tall structure (on a city wall, etc.) where fire was made to signal enemy invasion or presence of bandits (U+3DBB)	e3b6bb
+㶼	very hot, to burn, to heat, to roast, dazzling; bright; shining, a very great fire; flourishing flames (U+3DBC)	e3b6bc
+㶽	(Cant.) 火㶽, to instant-boil thin slices of meat and vegetables in a chafing dish at the dining table (U+3DBD)	e3b6bd
+㶾	(non-classical abbreviated form of 熛) tough and honest; upright, flames burst into a blaze (U+3DBE)	e3b6be
+㶿	the smoke went up; giving forth smoke; smoking; misty (U+3DBF)	e3b6bf
+㷀	(same as 焭,煢,惸) solitary; alone; single; brotherless; friendless; helpless, dice; a kind of gambling game played in ancient times (U+3DC0)	e3b780
+㷁	U+3DC1 (U+3DC1)	e3b781
+㷂	bright; light; brilliant (U+3DC2)	e3b782
+㷃	long-burning fire (U+3DC3)	e3b783
+㷄	fire; flames (U+3DC4)	e3b784
+㷅	(same as 炒) to cook; to stew or simmer; to fry; to roast; to broil (rice) (U+3DC5)	e3b785
+㷆	thriving; flourishing (U+3DC6)	e3b786
+㷇	(same as 恢) great; immense; enormous; vast; extensive (U+3DC7)	e3b787
+㷈	embers kept for starting a new fire, or any burning object (covered by ashes) which causes a fire disaster, the farm products getting heated with piling up and closing completely (U+3DC8)	e3b788
+㷉	(a variant of U+71A8 熨) to iron, an iron for smoothing garments (same as 尉) to still; to quiet, a military official (U+3DC9)	e3b789
+㷊	(non-classical form of 焚) to burn; to set fire to (U+3DCA)	e3b78a
+㷋	embers (U+3DCB)	e3b78b
+㷌	U+3DCC (U+3DCC)	e3b78c
+㷍	a chemical term; known formerly as benzene (U+3DCD)	e3b78d
+㷎	(same as 暍) sunstroke, hot; feverish (U+3DCE)	e3b78e
+㷏	used in person's name (U+3DCF)	e3b78f
+㷐	(same as 燬) fire; blaze, to destroy by fire; to burn down (U+3DD0)	e3b790
+㷑	(same as 煙 捈) smoke; fumes, tabacco; opium; cigarette, mist; vapor (U+3DD1)	e3b791
+㷒	to cook meals; to cook food; to prepare a dinner (U+3DD2)	e3b792
+㷓	(same as 熜) a torch (formed by binding the stem of the hemp), chimney; stack (U+3DD3)	e3b793
+㷔	(same as non-classical form of 焰) flame; blaze; glowing; brilliant (U+3DD4)	e3b794
+㷕	hearing sound (U+3DD5)	e3b795
+㷖	(same as 照) to shine upon; to light or illumine (U+3DD6)	e3b796
+㷗	(a corrupted form) used in person's name (U+3DD7)	e3b797
+㷘	coal; charcoal (U+3DD8)	e3b798
+㷙	(same as 煎) to fry in fat or oil, to cook (U+3DD9)	e3b799
+㷚	U+3DDA (U+3DDA)	e3b79a
+㷛	to boil, cook; a pot, kettle (U+3DDB)	e3b79b
+㷜	U+3DDC (U+3DDC)	e3b79c
+㷝	U+3DDD (U+3DDD)	e3b79d
+㷞	U+3DDE (U+3DDE)	e3b79e
+㷟	(same as non-classical form of 嬯) to scald the bristles off a pig or the feathers off a bird (U+3DDF)	e3b79f
+㷠	A will-o'-the-wisp; a flitting light  (U+3DE0)	e3b7a0
+㷡	to startle; to amaze; to astound (U+3DE1)	e3b7a1
+㷢	bundle of charcoal, to dry in the sun (U+3DE2)	e3b7a2
+㷣	red; the color of fire (U+3DE3)	e3b7a3
+㷤	rosy clouds of dawn; rosy dawn, sounds of the fire (U+3DE4)	e3b7a4
+㷥	(same as 烝) steam, to cook by steaming (U+3DE5)	e3b7a5
+㷦	(non-classical form of 瞁) to open the eyes with astonishment (U+3DE6)	e3b7a6
+㷧	U+3DE7 (U+3DE7)	e3b7a7
+㷨	U+3DE8 (U+3DE8)	e3b7a8
+㷩	(a variant of 熙) bright, splendid. Intelligent, prosperous (U+3DE9)	e3b7a9
+㷪	(a variant) fat; rich, a stew of fish (U+3DEA)	e3b7aa
+㷫	to bake or dry by fire (U+3DEB)	e3b7ab
+㷬	fire (U+3DEC)	e3b7ac
+㷭	(same as 烽) a conical brick-structure in which to light a beacon; (in ancient China) a tall structure (on a city wall, etc.) where fire was made to signal enemy invasion or presence of bandits (U+3DED)	e3b7ad
+㷮	scorched or burned wood, to burn; to heat, to destroy in fire, to roast or bake (U+3DEE)	e3b7ae
+㷯	smoke and dust everywhere; air pollution (U+3DEF)	e3b7af
+㷰	flames (U+3DF0)	e3b7b0
+㷱	U+3DF1 (U+3DF1)	e3b7b1
+㷲	U+3DF2 (U+3DF2)	e3b7b2
+㷳	color of the flame (U+3DF3)	e3b7b3
+㷴	(same as 爏) fire (U+3DF4)	e3b7b4
+㷵	(same as 爅) fire; flame; light (U+3DF5)	e3b7b5
+㷶	to dry or warm ( grains) near a fire (U+3DF6)	e3b7b6
+㷷	(same as 臇) thick soup; broth, fat; rich, a stew of fish (U+3DF7)	e3b7b7
+㷸	(a variant of 燁) blaze of fire, splendid, glorious (U+3DF8)	e3b7b8
+㷹	intense heat, to fry in intensive fire (U+3DF9)	e3b7b9
+㷺	U+3DFA (U+3DFA)	e3b7ba
+㷻	(same as 無) without, none, a negative (a variant 嬭) to burn food in cocking; singed; burnt (U+3DFB)	e3b7bb
+㷼	(standard form of 燕) a swallow, comfort; ease; to soothe (interchangeable 晏) to feast; to enjoy, name of a certain feudal States (U+3DFC)	e3b7bc
+㷽	U+3DFD (U+3DFD)	e3b7bd
+㷾	blaze of fire; burning vigorously (U+3DFE)	e3b7be
+㷿	flame; fire, bitter; acrid taste (U+3DFF)	e3b7bf
+㸀	(non-classical form of 炱) blackened with soot (U+3E00)	e3b880
+㸁	(corrupted form of 熯) dry; freely burning; to burn; to roast (dialect) to dry or heat near a fire; consume by fire, to expose to sunlight (same as 焊) to weld; to join with solder, respectful; reverent; deferential (U+3E01)	e3b881
+㸂	U+3E02 (U+3E02)	e3b882
+㸃	(same as 點) a dot; a spot; a speck, a point, a little; a mite, to count; to check on by one, to punctuate (U+3E03)	e3b883
+㸄	(same as 齌) a raging fire (U+3E04)	e3b884
+㸅	ashes; candle end (U+3E05)	e3b885
+㸆	U+3E06 (U+3E06)	e3b886
+㸇	U+3E07 (U+3E07)	e3b887
+㸈	(same as 焦) scorched or burned, worried and anxious (U+3E08)	e3b888
+㸉	(non-classcial form of 燮) to adapt; to adjust; to blend; to harmonize (U+3E09)	e3b889
+㸊	fierce of fire, cruel; malicious, fire; flame (U+3E0A)	e3b88a
+㸋	(interchangeable 膰) meats used in sacrifice (U+3E0B)	e3b88b
+㸌	to twinkle; bright light in glimpses; flashing (U+3E0C)	e3b88c
+㸍	to burn, to roast, to boil; to heat (U+3E0D)	e3b88d
+㸎	warm, fire; flame (U+3E0E)	e3b88e
+㸏	(same as 爢) cooked or well-done; cooked soft, (interchangeable 糜) mashed (U+3E0F)	e3b88f
+㸐	(an ancient form of 然) to burn; to light a fire (U+3E10)	e3b890
+㸑	(same as 爨) a cooking-stove; to cook, a mess, a kind of theatrical composition (U+3E11)	e3b891
+㸒	to absurd pursuit or desire; to wish wildly; to desire to long for (usually more than one's rightful share), to knit; to weave (U+3E12)	e3b892
+㸓	to have disappeared, avoid, not at all, not supporting by (U+3E13)	e3b893
+㸔	U+3E14 (U+3E14)	e3b894
+㸕	(same as 攫) to seize; to take hold of; to snatch (U+3E15)	e3b895
+㸖	hide or to keep in store the vegetable in cold winter days (U+3E16)	e3b896
+㸗	not a real father or a nature father (as distinct from foster father) (U+3E17)	e3b897
+㸘	(ancient form of 萬) ten thousand, all, very; extremely; absolutely (U+3E18)	e3b898
+㸙	(dialect) father, husband of a wet nurse (addressed in ancient times) (U+3E19)	e3b899
+㸚	scattered or dispersed and clear, to stop, to detain, a conncetion, lineage (U+3E1A)	e3b89a
+㸛	U+3E1B (U+3E1B)	e3b89b
+㸜	to get through the space enclosed by a constellation; to go out of (U+3E1C)	e3b89c
+㸝	(same as 杴) a shovel, a trough to carry off water, a wood-board; a plank (U+3E1D)	e3b89d
+㸞	blocks for printing, supporting boards used in building walls (U+3E1E)	e3b89e
+㸟	to cover; to close; to shut (U+3E1F)	e3b89f
+㸠	thick stick; stout carrying pole, beam of a bed (U+3E20)	e3b8a0
+㸡	board to block the water current, to across a river by a closs-beam (U+3E21)	e3b8a1
+㸢	cross-beam of a bed, window, a mould; a pattern (U+3E22)	e3b8a2
+㸣	(same as 業) in ancient China, big piece of board (plank) on a music rack with the carving of the shape of saw's teeth; used to hang clock (musical stone, drum, etc.), instruction (U+3E23)	e3b8a3
+㸤	broken leather (U+3E24)	e3b8a4
+㸥	household registers, printing plate, supporting boards used in building walls, (same as 欃) sandalwood, water gate; sluice; floodgate (U+3E25)	e3b8a5
+㸦	(non-classical form same as 互) mutually; together; each other (dialect) scratching or clawing to and fro (U+3E26)	e3b8a6
+㸧	(interchangeable 啃) to bite; to gnaw, a gnashing sound, (standard form 齦) gums (of the teeth), erosion; to erode (U+3E27)	e3b8a7
+㸨	a big bull (U+3E28)	e3b8a8
+㸩	to desist an ox (止牛) (U+3E29)	e3b8a9
+㸪	an ox walking slowly (U+3E2A)	e3b8aa
+㸫	(same as 犍) castrated bull; ox, name of a political division in ancient China; today's Sichuan Province, a kind of animal (looks like an ox) (U+3E2B)	e3b8ab
+㸬	a two-years-old ox, ox with a long body, ox with long and big feet (U+3E2C)	e3b8ac
+㸭	the opposite; contrary of the cattle's horns (U+3E2D)	e3b8ad
+㸮	bull; bulllock; ox (castrated), a four years old ox (U+3E2E)	e3b8ae
+㸯	a fine breed of cattle (cow, bull or ox), hornless cattle (U+3E2F)	e3b8af
+㸰	(same as 犐) hornless cattle (U+3E30)	e3b8b0
+㸱	(same as 㸰,犐) hornless cattle (U+3E31)	e3b8b1
+㸲	a kind of mountain cattle; big and heavy (U+3E32)	e3b8b2
+㸳	a kind of cattle (U+3E33)	e3b8b3
+㸴	U+3E34 (U+3E34)	e3b8b4
+㸵	the lowing of an ox (U+3E35)	e3b8b5
+㸶	color of the oxtail; a flat yellow (U+3E36)	e3b8b6
+㸷	(same as 觢) a kind of cattle with two horns straight up (U+3E37)	e3b8b7
+㸸	calf, bull; bullock; ox (castrated), (a variant) domesticated animals (U+3E38)	e3b8b8
+㸹	cattle with white stripe on the back, variegated; parti-colored, mixed; impure (U+3E39)	e3b8b9
+㸺	a cow; female of certain animals (U+3E3A)	e3b8ba
+㸻	a kind of cattle, an one year old cattle (U+3E3B)	e3b8bb
+㸼	(same as 犎) the zebu; or humped-ox (U+3E3C)	e3b8bc
+㸽	a two-years-old ox, ox with long and big feet (U+3E3D)	e3b8bd
+㸾	(same as 牣) to filled up; full of; filled with; replete with (interchangeable 韌) soft but tough; elastic (U+3E3E)	e3b8be
+㸿	(abbreviated form of 犢) a calf (U+3E3F)	e3b8bf
+㹀	a cow; female of an animal (U+3E40)	e3b980
+㹁	generally called the animals (cattle, sheep etc.) with mixed color of white and black (U+3E41)	e3b981
+㹂	untamed and indocility cattle, huge; big; large (U+3E42)	e3b982
+㹃	two brindled cows to plough face to each other, to cultivate; to plant after the second time of ploughing; (Cant.) to push lightly, flick off (U+3E43)	e3b983
+㹄	a kind of cattle; a cattle of short statured (U+3E44)	e3b984
+㹅	(same as 總) all; general (U+3E45)	e3b985
+㹆	the coulter of a plough; head of a brindled cow, a kind of cattle (U+3E46)	e3b986
+㹇	(same as standard form 犍) a kind of cattle, castrated bull; ox (U+3E47)	e3b987
+㹈	(same as 膧 犛) a black ox, a yak, name of a state in old times (U+3E48)	e3b988
+㹉	a legendary animal (some kind looks like a cow) with three feet, a wild ox; the bison (U+3E49)	e3b989
+㹊	a cattle of white color (U+3E4A)	e3b98a
+㹋	a cow; ox; bull; cattle, a cow with no tail (U+3E4B)	e3b98b
+㹌	cattle; domestic animals, a cow; female of an animal (U+3E4C)	e3b98c
+㹍	bull; bullock; ox (castrated) (U+3E4D)	e3b98d
+㹎	bull; bullock; ox (castrated), 求子牛 (U+3E4E)	e3b98e
+㹏	good; virtuous, a tamed, gental and yielding cow (U+3E4F)	e3b98f
+㹐	to tow a boat against the current in swift stream from the bank; to track a boat in the shallow area (U+3E50)	e3b990
+㹑	(same as large seal type form of 牭) four-year old cattle; two and a half year-old cattle (U+3E51)	e3b991
+㹒	bull; bullock, a calf (U+3E52)	e3b992
+㹓	a kind of animal, cattles and horses to prance; to be lively (U+3E53)	e3b993
+㹔	cattle with long back, a white cattle; a cattle having white color on the back (U+3E54)	e3b994
+㹕	inferior; mean, minor (U+3E55)	e3b995
+㹖	(same as 豢) to feed animals with grains, to feed; to rear; to raise; to support (U+3E56)	e3b996
+㹗	cattle and sheep have no children (U+3E57)	e3b997
+㹘	shinbone of a cattle, a kind of cattle (U+3E58)	e3b998
+㹙	sound of calling to a calf, calf, the lowing of an ox (U+3E59)	e3b999
+㹚	(same as 㹙) sound of calling to a calf, calf, the lowing of an ox (U+3E5A)	e3b99a
+㹛	a tamed, gental and yielding cow, good; virtuous (U+3E5B)	e3b99b
+㹜	(same as 犾) two dogs barking at each other, rude spoken language; rude talk; unpolished; rustic and coarse (U+3E5C)	e3b99c
+㹝	a legendary wild animal, snake; serpent (U+3E5D)	e3b99d
+㹞	(same as 狺) to bark (said of a dog), (same as 齗) gums (of the teeth), (same as 啀) dogs to fight with gnashing and grinning; looks very angry (U+3E5E)	e3b99e
+㹟	a kind of animal, the animals to run about wildly, wild; mad; crazy, (same as 獪) cunning; artful; crafty (U+3E5F)	e3b99f
+㹠	(same as 豚) a small big; a sucking pig, to shuffle along without lifting the feet (U+3E60)	e3b9a0
+㹡	a rush and impatient disposition, (non-classical form 狷) rash; quick-tempered; narro-minded, honest and straightforward (U+3E61)	e3b9a1
+㹢	a large ape found in Western China, a precious mammal found in Africa (U+3E62)	e3b9a2
+㹣	a kind of dog (U+3E63)	e3b9a3
+㹤	(same as 怯) lacking in courage; cowardly, nervous; socially timid; fright (U+3E64)	e3b9a4
+㹥	a yellow dog with black head (U+3E65)	e3b9a5
+㹦	dog with a short tail, (same as non-classical form 貂) the sable; the marten; mink (U+3E66)	e3b9a6
+㹧	(non-classical abbreviated form) fox-like animal (U+3E67)	e3b9a7
+㹨	(same as 貁 non-classical form 狖) a kind of animal (looks like weasel), an ape with black color and long tail (U+3E68)	e3b9a8
+㹩	U+3E69 (U+3E69)	e3b9a9
+㹪	(same as 狦) a fierce dog, a kind of animal (looks like a wolf) (U+3E6A)	e3b9aa
+㹫	a kind of animal (same as 夷) generally called for minority groups in old China (U+3E6B)	e3b9ab
+㹬	a kind of animal (of dog tribe) (U+3E6C)	e3b9ac
+㹭	a kind of monkey, fox (U+3E6D)	e3b9ad
+㹮	a kind of animal ( of mule tribe) (same as 貘) tapir (U+3E6E)	e3b9ae
+㹯	(same as 貅) a kind of animal like a tiger, a fabulous fierce beast -- thus -- fierce; valiant; heroic; brave (U+3E6F)	e3b9af
+㹰	U+3E70 (U+3E70)	e3b9b0
+㹱	name of a dog in the period of Warring States (usually known as the magpie, jacklaw), generally called for dogs (U+3E71)	e3b9b1
+㹲	a frightened pig or dog, bark, a running pig (U+3E72)	e3b9b2
+㹳	a kind of ape (gibbon) (U+3E73)	e3b9b3
+㹴	a kind of animal, fierce dog; small and cute (U+3E74)	e3b9b4
+㹵	a hunting-dog, to hunt in winter, imperial tour (U+3E75)	e3b9b5
+㹶	a kind of wild animal ( monkey tribe) (U+3E76)	e3b9b6
+㹷	(same as 狶 豨) swine; pig; hog; big wild pig, sound used in calling pigs, a legendary appellation of an emperor in ancient times (U+3E77)	e3b9b7
+㹸	(same as 猊) the lion, a wild beast or wild horse which can do 500 li in a day (U+3E78)	e3b9b8
+㹹	a kind of dog (U+3E79)	e3b9b9
+㹺	dog to take food, a biter (said of a dog) (U+3E7A)	e3b9ba
+㹻	(same as 猧) puppy, of dog tribe (U+3E7B)	e3b9bb
+㹼	a kind of animal (U+3E7C)	e3b9bc
+㹽	to bite (said of a dog), dog to take food (U+3E7D)	e3b9bd
+㹾	cunning; crafty; sly; wily; artful, vigorous; strong (U+3E7E)	e3b9be
+㹿	a fierce dog, bite fiercely (said of dog), hunting in winter, a kind of beast (U+3E7F)	e3b9bf
+㺀	(same as 猱) a monkey with yellow hair, crocodile; alligator (U+3E80)	e3ba80
+㺁	a kind of beast (U+3E81)	e3ba81
+㺂	big and strong sheep, a ewe or she-goat, kind of dog, a dog barking loudly (U+3E82)	e3ba82
+㺃	(same as 狗) a dog; canine (U+3E83)	e3ba83
+㺄	(same as 狳) (a variant of 貐) a kind of beast (U+3E84)	e3ba84
+㺅	(same as 猴) the monkey (U+3E85)	e3ba85
+㺆	U+3E86 (U+3E86)	e3ba86
+㺇	a warden; (in ancient China) minister of public works, to observe; to watch (U+3E87)	e3ba87
+㺈	to go hunting; to go on a hunting expedition (U+3E88)	e3ba88
+㺉	a fierce animal of the dog tribe; with dog's head and horse tail; with yellow and black colors (U+3E89)	e3ba89
+㺊	a beast (looks like lion) (U+3E8A)	e3ba8a
+㺋	pig; hog (U+3E8B)	e3ba8b
+㺌	endless barking, two dogs are fighting (U+3E8C)	e3ba8c
+㺍	a kind of otter (U+3E8D)	e3ba8d
+㺎	fierce beast; the zebu; or humped-ox (U+3E8E)	e3ba8e
+㺏	(same as 貗) the badger; a wild bear (U+3E8F)	e3ba8f
+㺐	(same as U+7360 獠) generally called for minority groups (southwest area) in old China, to hunt at night by torches, lascivious, weird, allurements (U+3E90)	e3ba90
+㺑	dogs wormed through a narrow place, to oppress cruelly; to injure heartlessly, dogs biting, dog's hair, legendary monster (looks like a dwarf), bark (U+3E91)	e3ba91
+㺒	barking of a frightened dog, to confuse; disorder; disturbance, cunning; artful; crafty, to fail and be exposed (U+3E92)	e3ba92
+㺓	(same as 蹟) footprints; traces (interchangeable 僄) agile; adroit; nimble, frivolous; playful; flippant (U+3E93)	e3ba93
+㺔	a kind of beast, a legendary monster (U+3E94)	e3ba94
+㺕	the fighting sound of dogs, agile; sprightly (U+3E95)	e3ba95
+㺖	dogs barking, little dog; a puppy, name of a place in today's Henan Province Xinyexian (U+3E96)	e3ba96
+㺗	to bite; to gnaw; dogs bite (U+3E97)	e3ba97
+㺘	a kind of animal (U+3E98)	e3ba98
+㺙	U+3E99 (U+3E99)	e3ba99
+㺚	(same as 獺) an otter (U+3E9A)	e3ba9a
+㺛	name of a village in Henan Province, name of a pavilion (U+3E9B)	e3ba9b
+㺜	fierce dog with long shaggy hair, an old -time name for ta part of Miao people (in southwestern China) (U+3E9C)	e3ba9c
+㺝	sound of a tiger, a fierce dog barking endlessly, a fierce dog, sound of a dog's biting (U+3E9D)	e3ba9d
+㺞	to sign in lamentation, crying of a piggy, a kind of beast (U+3E9E)	e3ba9e
+㺟	a kind of beast; looks like a deer; white-tailed (same as 蠗) a kind of animal (of monkey tribe) (U+3E9F)	e3ba9f
+㺠	a black ape with long tail, (same as 貁) a kind of animal (of weasel tribe) (U+3EA0)	e3baa0
+㺡	a kind of beast (U+3EA1)	e3baa1
+㺢	a kind of animal; body is smaller than a giraffe; two short horns on the head; back and legs with black and white stripes spaced in-between (U+3EA2)	e3baa2
+㺣	a kind of animal; pig hog (U+3EA3)	e3baa3
+㺤	a kind of beast (U+3EA4)	e3baa4
+㺥	bark, ( same as 毚) a cunning hare; a wily rabbit (U+3EA5)	e3baa5
+㺦	a running animal, monkey climbing along the trees, a rutted dog (U+3EA6)	e3baa6
+㺧	a white-yellow dog, a yellow dog, a mad dog, a group of dogs bark wildly (U+3EA7)	e3baa7
+㺨	fine stone like jade (U+3EA8)	e3baa8
+㺩	jade articles, (same as 玌) a kind of jade (U+3EA9)	e3baa9
+㺪	(same as 璞) an uncarved of unpolished jade or gem (U+3EAA)	e3baaa
+㺫	(same as 玌) a kind of jade (U+3EAB)	e3baab
+㺬	(same as 珙) a large piece of jade-stone (U+3EAC)	e3baac
+㺭	a kind of jade (U+3EAD)	e3baad
+㺮	(same as 玗) fine stone like jade (U+3EAE)	e3baae
+㺯	U+3EAF (U+3EAF)	e3baaf
+㺰	(same as 瑡) a kind of jade (U+3EB0)	e3bab0
+㺱	a kind of jade (U+3EB1)	e3bab1
+㺲	(ancient form of 鈕) buttons (U+3EB2)	e3bab2
+㺳	(same as 玫) black mica (a sparkling red gem) (U+3EB3)	e3bab3
+㺴	name of a spirit; a god, a kind of jade (U+3EB4)	e3bab4
+㺵	(corrupted form of 玖) black jade-stone (U+3EB5)	e3bab5
+㺶	U+3EB6 (U+3EB6)	e3bab6
+㺷	(same as 珬) a kind of jade (jade decorative article for a horse) (U+3EB7)	e3bab7
+㺸	a kind of jade (U+3EB8)	e3bab8
+㺹	a kind of jade, a conical cap (wore on ceremonious occasions in ancient times) decorated with jade (U+3EB9)	e3bab9
+㺺	(ancient abbreviated form of 瑁) a very precious piece of jade worn by ancient emperors to match tables borne by the nobles (U+3EBA)	e3baba
+㺻	U+3EBB (U+3EBB)	e3babb
+㺼	U+3EBC (U+3EBC)	e3babc
+㺽	U+3EBD (U+3EBD)	e3babd
+㺾	U+3EBE (U+3EBE)	e3babe
+㺿	a jade-like stone, a kind of jade (U+3EBF)	e3babf
+㻀	fine stone which is little less valuable than jade (U+3EC0)	e3bb80
+㻁	(non-classical form of 瓌) (variant of 瑰) a kind of jasper; stone which is little less valuable than jade, extraordinary; fabulous or admirable (U+3EC1)	e3bb81
+㻂	a kind of jade, (non-classical form of 玭) pearls (U+3EC2)	e3bb82
+㻃	crooked; to bend; to twist, involved; indirect (U+3EC3)	e3bb83
+㻄	(same as 寶) treasure, precious; valuable, respectable; honorable (U+3EC4)	e3bb84
+㻅	(si mplified form of 璯) jade decorated cap, used in person's name (U+3EC5)	e3bb85
+㻆	U+3EC6 (U+3EC6)	e3bb86
+㻇	U+3EC7 (U+3EC7)	e3bb87
+㻈	U+3EC8 (U+3EC8)	e3bb88
+㻉	fine jade (U+3EC9)	e3bb89
+㻊	(same as non-classical form of 璊) a red colored jade (U+3ECA)	e3bb8a

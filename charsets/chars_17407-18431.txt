@@ -1,0 +1,1024 @@
+䫋	female attendants or servants, (same as 隤) to fall in ruins; to collapse (U+4ACB)	e4ab8b
+䫌	bowed one's head (U+4ACC)	e4ab8c
+䫍	(corrupted form of 頫) (interchangeable 俯) to bow one's head; chin down, to wash oneself, to view; to watch (U+4ACD)	e4ab8d
+䫎	short (U+4ACE)	e4ab8e
+䫏	(same as U+9B4C 魌) ugly, phycial or moral deformity, the mask wearing by one who is driven away spirits (U+4ACF)	e4ab8f
+䫐	to bend (or lower) one's head; to bow (usually refer to submission or admission of a wrong doing) (U+4AD0)	e4ab90
+䫑	good; nice; fine; (same as U+4ACF 䫏; standard form of U+9B4C 魌) ugly, physical or moral deformity, the mask wearing by one who is driven away spirits (U+4AD1)	e4ab91
+䫒	disease, in a coma; apoplexy; unconscious; stupor (U+4AD2)	e4ab92
+䫓	(corrupted form) large head (U+4AD3)	e4ab93
+䫔	a servant, to fear, short; a short person, angry, small headed (U+4AD4)	e4ab94
+䫕	small headed (U+4AD5)	e4ab95
+䫖	timid; weak and dulll (U+4AD6)	e4ab96
+䫗	reckless; unrestrained; without limit (said of speech; words, etc.), hard to tell (U+4AD7)	e4ab97
+䫘	healthy; strong, hair-less (U+4AD8)	e4ab98
+䫙	(non-classical of 顙) the forehead (U+4AD9)	e4ab99
+䫚	short headed (U+4ADA)	e4ab9a
+䫛	reckless; unrestrained; without limit (said of speech; words, etc.) (U+4ADB)	e4ab9b
+䫜	sunken eyes, a hollow (U+4ADC)	e4ab9c
+䫝	(same as 馥) fragrance; aroma (U+4ADD)	e4ab9d
+䫞	large head, a wide forehead, numerous; crowd, (interchangeable 頒) a fish with a large head (U+4ADE)	e4ab9e
+䫟	facial complexion (yellowish because of worrying), a round skull and face (U+4ADF)	e4ab9f
+䫠	short hair and beard (U+4AE0)	e4aba0
+䫡	a long shape of head and face, the cheeks; the jaw, ugly, a long face (U+4AE1)	e4aba1
+䫢	good; fine; excellent, pleasing, a wry neck (U+4AE2)	e4aba2
+䫣	a wry neck (U+4AE3)	e4aba3
+䫤	between the eyebrows and eyes; general facial appearance (U+4AE4)	e4aba4
+䫥	a wry neck, a large head (U+4AE5)	e4aba5
+䫦	the lower jawbone, the cranium (U+4AE6)	e4aba6
+䫧	U+4AE7 (U+4AE7)	e4aba7
+䫨	tall and big; colossal (U+4AE8)	e4aba8
+䫩	to shake one's head (U+4AE9)	e4aba9
+䫪	ugly; repulsive (U+4AEA)	e4abaa
+䫫	(same as 髏) human skeleton, (interchangeable 鏤) to engrave; to carve (U+4AEB)	e4abab
+䫬	to bow; to lower the head in shame, long and sharp of the head, weak and dull (U+4AEC)	e4abac
+䫭	bald-headed (U+4AED)	e4abad
+䫮	to bend or lower of one's head; to bow (usually refer to submission or admission of a wrong doing), to take, to choose, to dwell, to stop (U+4AEE)	e4abae
+䫯	(abbreviated form) to take a casual look at, to look sideways, female beauty; handsome (U+4AEF)	e4abaf
+䫰	sparse hair (U+4AF0)	e4abb0
+䫱	(same as 顬) a part of the skull (U+4AF1)	e4abb1
+䫲	thin and sickly in appearance; emaciated look, to move one's head (U+4AF2)	e4abb2
+䫳	(same as 髑) human skull (U+4AF3)	e4abb3
+䫴	weak and dull, to gnash the teeth (in anger or hatred) (U+4AF4)	e4abb4
+䫵	twins (U+4AF5)	e4abb5
+䫶	ugly (U+4AF6)	e4abb6
+䫷	(same as 顎) the jowl; the cheek bones, high cheek-boned (U+4AF7)	e4abb7
+䫸	to blow, hot wind; wind of heat (U+4AF8)	e4abb8
+䫹	(non-classical form) the sound of the wind, a typhoon; great gale of wind (U+4AF9)	e4abb9
+䫺	a typhoon; great gale of wind (U+4AFA)	e4abba
+䫻	a typhoon; great gale of wind (U+4AFB)	e4abbb
+䫼	breeze; light wind, sound of the wind (U+4AFC)	e4abbc
+䫽	breeze; light wind (U+4AFD)	e4abbd
+䫾	breeze; light wind, cold or flu (U+4AFE)	e4abbe
+䫿	a cool breeze; cold wind from the north; cold wind from the south-west (U+4AFF)	e4abbf
+䬀	sound of the wind (U+4B00)	e4ac80
+䬁	a light cyclone; a whirlwind (U+4B01)	e4ac81
+䬂	breeze; light wind (U+4B02)	e4ac82
+䬃	(same as 颯) the sound of wind, a gust; suddenly (U+4B03)	e4ac83
+䬄	breeze; light wind (U+4B04)	e4ac84
+䬅	a gale; a gust of swift wind, timely wind (U+4B05)	e4ac85
+䬆	a blustering gale; violent storm (U+4B06)	e4ac86
+䬇	breeze; light wind (U+4B07)	e4ac87
+䬈	breeze; light wind (U+4B08)	e4ac88
+䬉	hot wind; wind of heat (U+4B09)	e4ac89
+䬊	a gale; a gust of swift wind (U+4B0A)	e4ac8a
+䬋	violent wind; strong wind (U+4B0B)	e4ac8b
+䬌	the wind blows, blown by the wind (U+4B0C)	e4ac8c
+䬍	the sound of wind, a gale; a typhoon (U+4B0D)	e4ac8d
+䬎	hot air; hot vapor, wind of the heat (U+4B0E)	e4ac8e
+䬏	wind; light breezes (U+4B0F)	e4ac8f
+䬐	breeze (U+4B10)	e4ac90
+䬑	a gale; a typhoon, the sound of wind (U+4B11)	e4ac91
+䬒	to blow chilly; (same as U+98BC 颼) a whizzing sound, a cool breeze; the south-west wind (U+4B12)	e4ac92
+䬓	hurricane; gale; cyclone (U+4B13)	e4ac93
+䬔	hurricane; gale; cyclone (U+4B14)	e4ac94
+䬕	sound of the wind, degenerate social customs and practices (U+4B15)	e4ac95
+䬖	(same as U+4B1D 䬝) a storm; a tempest (U+4B16)	e4ac96
+䬗	(non-classical form of 颺) blown or tossed about by the wind, to fly or blow away, to scatter; to spread (U+4B17)	e4ac97
+䬘	the wind blows, blown by the wind (U+4B18)	e4ac98
+䬙	(same as 颻) to dance and toss about in the wind; waving and drifting with the wind, unsteady (U+4B19)	e4ac99
+䬚	(same as 颿) to move fast; to hasten, a swift horse, (same as 帆) a sail (of a boat) (U+4B1A)	e4ac9a
+䬛	the roaring of the wind, cold wind (U+4B1B)	e4ac9b
+䬜	(same as standard form 魑) evil spirits; a mountain demon resembling a tiger; a mountain elf (U+4B1C)	e4ac9c
+䬝	(same as U+4B16 䬖) a storm; a tempest (U+4B1D)	e4ac9d
+䬞	wind; strom, sound of the wind (U+4B1E)	e4ac9e
+䬟	sound of wind (U+4B1F)	e4ac9f
+䬠	(ancient form of 霏) the falling of snow and rain, driving sleet (U+4B20)	e4aca0
+䬡	to soar; to take off (U+4B21)	e4aca1
+䬢	(same as 饕) gluttonous; rapacious; covetous; greedy, name of a legendary ferocious animal, a fierce person; a greedy and gluttonous person (U+4B22)	e4aca2
+䬣	(same as 餼) a sacrificial victim, explained as used of the living beast, to bite; to gnaw, to eat to the full; surfeited, a wart; a pimple; a pustule (U+4B23)	e4aca3
+䬤	(ancient form of 饡) to put the thick soup or broth on top of the rice (same as 饘) thick congee or porridge (U+4B24)	e4aca4
+䬥	(ancient form of 饐) cooked food which has become mouldy, sour (U+4B25)	e4aca5
+䬦	food items merely arranged for display purpose only; not to ber eaten; to set out fruit, etc., in plates arranged only for show (U+4B26)	e4aca6
+䬧	round shaped cakes (U+4B27)	e4aca7
+䬨	to eat to the full; surfeited (U+4B28)	e4aca8
+䬩	(same as 齋) to abstain from meat, wine, etc., to fast; penance (U+4B29)	e4aca9
+䬪	(same as 餺) a kind of cooked noodle (U+4B2A)	e4acaa
+䬫	clarfied butter (regarded as symbol of Buddhist wisdom or truth), cream cheese, to sponge on others; to board (U+4B2B)	e4acab
+䬬	to eat to the full; surfeited, well-stacked (figure, etc.); plump (U+4B2C)	e4acac
+䬭	(non-classical form of 饕) name of a legendary ferocious animal, a fierce person; a greedy and gluttonous person; wild; fierce; furious (U+4B2D)	e4acad
+䬮	(ancient form of 飴) syrup; jelly-like sugar made from grains (U+4B2E)	e4acae
+䬯	to have congee (wheat gruel) with friends in old times, (interchageable 餂) to obtain by hook (U+4B2F)	e4acaf
+䬰	light refreshment, (dialect) animal feeds; fodder; forage made of wild vegetables, rice bran and water from washing rice (U+4B30)	e4acb0
+䬱	coarse grains such as corn, millet, etc.; simple food (U+4B31)	e4acb1
+䬲	to eat to the half full, (corrupted and abbreviated form of 饇) to eat to much; surfeited (U+4B32)	e4acb2
+䬳	cakes made of rice flour (U+4B33)	e4acb3
+䬴	(same as 秣) fodder for animals, to nourish; horse feed; horse grains; fodder, to feed a horse (U+4B34)	e4acb4
+䬵	syrup; jelly-like sugar made from grains, to hiccough; to hiccup, (same as 餲) cooked food which has turned sour (U+4B35)	e4acb5
+䬶	to strave; hungry, famished, feeble, decay of decomposition of fish (U+4B36)	e4acb6
+䬷	well-feed., to glut; to eat to one's heart's content (U+4B37)	e4acb7
+䬸	(corrupted form of 餐) a meal, to eat, food (U+4B38)	e4acb8
+䬹	(same as 銍) a sickle (U+4B39)	e4acb9
+䬺	same as 䭐; cakes; pastry (U+4B3A)	e4acba
+䬻	(non-classical of 餞) to entertain a departing friend, a parting present of food or money (U+4B3B)	e4acbb
+䬼	satiated; to dislike (U+4B3C)	e4acbc
+䬽	wine poured in a libation, a little drink or a few drinks, cakes; pastry (U+4B3D)	e4acbd
+䬾	cakes and biscuits (U+4B3E)	e4acbe
+䬿	small; little, congee; rice gruel (U+4B3F)	e4acbf
+䭀	food (of the Taoist) (U+4B40)	e4ad80
+䭁	stinking smell (U+4B41)	e4ad81
+䭂	damp; humid, to eat to the full (U+4B42)	e4ad82
+䭃	to eat to the fool, (same as 飪) to cook food thoroughly, cakes (U+4B43)	e4ad83
+䭄	gluttonous; to eat piggishly (U+4B44)	e4ad84
+䭅	cakes, (same as 餬) congee; porridge; gruel (U+4B45)	e4ad85
+䭆	small children eat less, tired of eating, baked cakes (U+4B46)	e4ad86
+䭇	(same as 噎) to choke on food, (ancient form of 饐) decayed; rotten and smelly (U+4B47)	e4ad87
+䭈	(same as 餰) congee; rice gruel, (same as 饘) thick congee or porridge (U+4B48)	e4ad88
+䭉	mashed beans, sugared cakes (U+4B49)	e4ad89
+䭊	(same as U+4B58 䭘) well-stacked (figure, etc.); full; plump, food, cakes (U+4B4A)	e4ad8a
+䭋	(same as 飽) to eat to the full; surfeited (U+4B4B)	e4ad8b
+䭌	(same as 餬 糊) congee; porridge; gruel, paste (U+4B4C)	e4ad8c
+䭍	(non-classical form of 餬) to live with another at his expense; to live by eating at another's table; to be parasite, congee; porridge; gruel, paste, to erase; to obliterate, to scribble, to use a fake in place of a genuine article; to deceive and swindle, to whitewash; to make up; to touch up (U+4B4D)	e4ad8d
+䭎	cakes (U+4B4E)	e4ad8e
+䭏	U+4B4F (U+4B4F)	e4ad8f
+䭐	cakes; pastry; biscuits, a bait; food (U+4B50)	e4ad90
+䭑	incorruptable; honest; clean, (same as 歉) deficient, poor crop or harvest, to regret; sorry, (same as 餡) anything serving as stuffing for dumplings, etc. (U+4B51)	e4ad91
+䭒	breath, to grow; to thrive, to eat, food (U+4B52)	e4ad92
+䭓	food (wheat gruel, etc.) to welcome the guest in old times, to eat to the full; surfeited (U+4B53)	e4ad93
+䭔	steamed dumplings; cakes (U+4B54)	e4ad94
+䭕	tasteless; without enough salt; insipid; dull; not interesting, to taste food before royalty partook (U+4B55)	e4ad95
+䭖	animal feeds; fodder; forage (U+4B56)	e4ad96
+䭗	(same as 䭘) well-stacked (figure, etc.); full; plump, cakes (U+4B57)	e4ad97
+䭘	well-stacked (figure, etc.); full; plump, food, cakes (U+4B58)	e4ad98
+䭙	exquisite; fine, sweet; taste a little sweet, to taste, diseases (of the lips) (U+4B59)	e4ad99
+䭚	(same as standard form 噇) to eat, to eat heavily; to eat without limits (U+4B5A)	e4ad9a
+䭛	(same as 饏) tasteless; without enough salt; insipid; dull, (non-classical of standard form 澉) to wash (U+4B5B)	e4ad9b
+䭜	U+4B5C (U+4B5C)	e4ad9c
+䭝	to eat, ((non-classical form of 膾) minced meat (U+4B5D)	e4ad9d
+䭞	(same as 繹) a kind of sacrifices offered to gods or the deceased, rotten food, food, cakes and biscuits (U+4B5E)	e4ad9e
+䭟	(same as 䭎) cakes (U+4B5F)	e4ad9f
+䭠	a snack, supplementary dishes, (corrupted form of U+4B51 䭑) incorruptable; honest; clean, (same as U+6B49 歉) deficient, poor crop or harvest, to regret; sorry; (same as U+9921 餡) anything serving as stuffing for dumplings, etc. (U+4B60)	e4ada0
+䭡	food (wheat gruel, etc.) to welcome the guest in old times, to eat to the full; surfeited (U+4B61)	e4ada1
+䭢	rich; abundance, to eat, to eat without spontaneity; to eat reluctantly (U+4B62)	e4ada2
+䭣	(same as 餈 粢 躄) rice cakes, rice to offered as sacrifice, the grains (U+4B63)	e4ada3
+䭤	to chew; to eat, to roll round with the hand, cakes; biscuits (U+4B64)	e4ada4
+䭥	(non-classical form) a bait, food, cakes and biscuits (U+4B65)	e4ada5
+䭦	cakes; biscuits; pastry, (same as 餺) cooked food made of rice flour (U+4B66)	e4ada6
+䭧	to feed a baby, (non-classical form of 糜) congee; porridge; rice gruel (U+4B67)	e4ada7
+䭨	(same as 䬽) wine poured in a libation, to have a little drink or a few drinks (U+4B68)	e4ada8
+䭩	to feed a baby, to eat, food (U+4B69)	e4ada9
+䭪	(simplified form) (same as 糧) grains; foodstuff; provisions; rations (U+4B6A)	e4adaa
+䭫	(interchangeable 稽) to kowtow; to bow to the ground (U+4B6B)	e4adab
+䭬	(same as 䭫) (interchangeable 稽) to kowtow; to bow to the ground (U+4B6C)	e4adac
+䭭	the eldest son, to give birth to the first child (U+4B6D)	e4adad
+䭮	jewelry; ornaments; trinkets (for the forehead of a woman) (U+4B6E)	e4adae
+䭯	(same as 馞) strong sweet smell; strong fragrance (U+4B6F)	e4adaf
+䭰	strong sweet smell; strong fragrance; (Cant.) classifier for odors (U+4B70)	e4adb0
+䭱	a little; slightly sweet-smelling (U+4B71)	e4adb1
+䭲	sweet-smelling; fragrant, tasty; delicious (U+4B72)	e4adb2
+䭳	a kind of herb; Asafoetida (U+4B73)	e4adb3
+䭴	an one-year-old horse (U+4B74)	e4adb4
+䭵	(same as standard form 颿) a swift horse (U+4B75)	e4adb5
+䭶	(ancient form of 騏) dark-blue horse; a piebald horse; fine horse, dark blue, spotted (U+4B76)	e4adb6
+䭷	horse with long mane (U+4B77)	e4adb7
+䭸	a stallion; a male horse (U+4B78)	e4adb8
+䭹	movement of a horse, a horse with enormous speed and staying power, a horse with white abdominal region (U+4B79)	e4adb9
+䭺	a horse to raise its head high, (same as 䭹) movement of a horse, an angry horse, a scared horse (U+4B7A)	e4adba
+䭻	a swifty horse (U+4B7B)	e4adbb
+䭼	(ancient form of 騏) dark-blue horse; a piebald horse; fine horse, dark blue, spotted (U+4B7C)	e4adbc
+䭽	(same as U+7FA3 群) group; multitude; crowd; swarm; a flock (U+4B7D)	e4adbd
+䭾	(same as U+99B1 馱) to carry (a load) on the back (U+4B7E)	e4adbe
+䭿	a swift horse, to summon; to ask; to solicit; to request; to seek for (U+4B7F)	e4adbf
+䮀	a kind of animal; with a horse shape; the tail of an ox and with only one horn (U+4B80)	e4ae80
+䮁	(same as 駢) a pair of horses, to stand, lie or go side by side (U+4B81)	e4ae81
+䮂	horse with long hair (U+4B82)	e4ae82
+䮃	(same as 驅) to go before others, to drive; tourge, to expel (U+4B83)	e4ae83
+䮄	an one-year-old horse, a black horse (U+4B84)	e4ae84
+䮅	U+4B85 (U+4B85)	e4ae85
+䮆	(same as 駓) a horse with mixed color of yellow and white (U+4B86)	e4ae86
+䮇	(same as 驈) black horse with white thigh (U+4B87)	e4ae87
+䮈	(same as 馳) to go swiftly; to fleet; to rush; to speed (U+4B88)	e4ae88
+䮉	horses kept at a courier station in former times (U+4B89)	e4ae89
+䮊	name of a horse (U+4B8A)	e4ae8a
+䮋	name of a horse, horses in an ordered line; to travel quickly; to move fast; to hasten, tame, well-bred, to put under control (U+4B8B)	e4ae8b
+䮌	fine horse, swift horse, swift; speedy (U+4B8C)	e4ae8c
+䮍	(same as 褭 裊) curling up, as smoke; wavering gently, around; all around (U+4B8D)	e4ae8d
+䮎	a running horse (U+4B8E)	e4ae8e
+䮏	name of a horse (U+4B8F)	e4ae8f
+䮐	(non-classical form of 駉) in good condition; as a horse (U+4B90)	e4ae90
+䮑	a gray horse, a kind of grain (U+4B91)	e4ae91
+䮒	name of a horse (U+4B92)	e4ae92
+䮓	a walking horse, a horse not moving forward, a swift horse (U+4B93)	e4ae93
+䮔	a young and fleet-footed horse; foal, a horse with a heavy load and hard to move forward (U+4B94)	e4ae94
+䮕	horse with white forehead, ( 的盧) (U+4B95)	e4ae95
+䮖	name of a horse (U+4B96)	e4ae96
+䮗	white from forehead to lips of a horse, reddish (of a horse head), horse head (U+4B97)	e4ae97
+䮘	young horse, stallion; male horse (U+4B98)	e4ae98
+䮙	name of a horse, a traveling horse (U+4B99)	e4ae99
+䮚	diseases of horse, horse eat grains (U+4B9A)	e4ae9a
+䮛	(same as 駙) extra horse harnessed by the side of the team, swift (U+4B9B)	e4ae9b
+䮜	(same as 䮢) to gallop, swift, to walk lightly ( said of a horse) (U+4B9C)	e4ae9c
+䮝	a legendary animal, a wild horse; mustang (U+4B9D)	e4ae9d
+䮞	a piebald horse, particoloured, miscellaneous, confused and disorderly, a stupid horse (U+4B9E)	e4ae9e
+䮟	big and tall (said of horse), (same as 搜) to search; to reconnoiter, (same as 駷) a walking horse, by a riding-whip to keep the horse walking fast (U+4B9F)	e4ae9f
+䮠	a kind of animal (U+4BA0)	e4aea0
+䮡	a supernatural horse, (same as 駜) a strong; husky horse, (same as 駁) color of a horse, variegated; parti-colored, mixed; impure (U+4BA1)	e4aea1
+䮢	a walking horse, to gallop, swift (U+4BA2)	e4aea2
+䮣	a yellow with a white tail (U+4BA3)	e4aea3
+䮤	one of the 36 gardens in Han Dynasty, (same as 馰) horse with white forehead; fine horse (U+4BA4)	e4aea4
+䮥	color of the horse (U+4BA5)	e4aea5
+䮦	(non-classical form of 驕) untamed; intractable; disobedient, proud; haughty; arrogant (U+4BA6)	e4aea6
+䮧	long-hair horse (U+4BA7)	e4aea7
+䮨	a piebald horse, particoloured (U+4BA8)	e4aea8
+䮩	a kind of animal (from Beihai) (U+4BA9)	e4aea9
+䮪	(corrupted form) (same as 騬) to geld a horse or ass, etc. (U+4BAA)	e4aeaa
+䮫	a big mule (same as 驢) an ass; a donkey (U+4BAB)	e4aeab
+䮬	name of a horse, (same as 驀) sudden; abrupt, to mount the horse (U+4BAC)	e4aeac
+䮭	to look at in surprise, to gnaw; to bite (said of a horse) (U+4BAD)	e4aead
+䮮	a kind of mule; a kind of beast (U+4BAE)	e4aeae
+䮯	(same as 驁) fine horse, untamed horse, vicious horse (U+4BAF)	e4aeaf
+䮰	a kind of beast, a kind of mule (U+4BB0)	e4aeb0
+䮱	a kind of beast, a flock of horse to chase each other (U+4BB1)	e4aeb1
+䮲	(same as 騜) horse with mixed colors of yellow and white, chestnut color mixed with white (U+4BB2)	e4aeb2
+䮳	to give birth to, to bring and to rear (interchangeable 蕃) to increase; to multiply; to propagate (U+4BB3)	e4aeb3
+䮴	unstable walking, fall, disease of the horse (U+4BB4)	e4aeb4
+䮵	name of a horse, a young horse (U+4BB5)	e4aeb5
+䮶	(same as 驫) flock of horses stampeding (U+4BB6)	e4aeb6
+䮷	movement of a horse, a traveling horse (U+4BB7)	e4aeb7
+䮸	to move slowly and then swiftly (said of a horse), a swift horse, to neigh (U+4BB8)	e4aeb8
+䮹	an angry horse, a hot-tempered; an evil horse (U+4BB9)	e4aeb9
+䮺	luxuriant of the grass; the grass growing densely, horses traveling in line order and swiftly (U+4BBA)	e4aeba
+䮻	(same as 禂) to pray, to offer livestock for sacrifice (U+4BBB)	e4aebb
+䮼	(standard form of 驎) (of horse) piebald; fine horse; white horse with black back, name of a fabulous, auspicious animal, horse with black lips, horse with pattern of scales (U+4BBC)	e4aebc
+䮽	(same as 鑣) bit for a horse, to ride on a horse (U+4BBD)	e4aebd
+䮾	(same as 龐) huge, rich; abundance, to fill up; full of (same as 龍) a legendary; miraculous; marvelous animal; the dragon, associated with rain, floods, and geomancy, an emblem of imperialism (U+4BBE)	e4aebe
+䮿	(same as 蹇) lame; crippled, slow, weak; feeble; a vicious horse; a feeble donkey (U+4BBF)	e4aebf
+䯀	a swift horse (U+4BC0)	e4af80
+䯁	(same as abbreviated form U+9A58 騾) a mule; the offspring of an ass and a mare (U+4BC1)	e4af81
+䯂	numerous; very many, large group of horses traveling in a line (U+4BC2)	e4af82
+䯃	(same as U+978D 鞍) saddle; a saddle-like terrain or thing (U+4BC3)	e4af83
+䯄	a piebald horse; a yellow horse with black mouth (U+4BC4)	e4af84
+䯅	a swift horse (U+4BC5)	e4af85
+䯆	(same as 骮) small and thin piece of bones (U+4BC6)	e4af86
+䯇	to exert oneself; to make an effort; diligent; sedulous (U+4BC7)	e4af87
+䯈	the pelvis (髂=䯊) (U+4BC8)	e4af88
+䯉	to choke; the throat chocked and unable to breath smoothly (U+4BC9)	e4af89
+䯊	the pelvis, bone stuck in the throat, the kneecap; patella; the five lowest pieces of bone of the spinal column (U+4BCA)	e4af8a
+䯋	the shoulder blade; scapula (U+4BCB)	e4af8b
+䯌	the sacrum; the coccyx; the end of the spine; the rump; the buttocks (U+4BCC)	e4af8c
+䯍	bones, the pelvis; the five lowest pieces of bone of the spinal column (U+4BCD)	e4af8d
+䯎	(same as 骭) shinbone; tibia, the ribs, calf bone (the part of leg between the knee and ankle) (U+4BCE)	e4af8e
+䯏	the shoulder blade; scapula (U+4BCF)	e4af8f
+䯐	(non-classical form of 骸) shinbone; skeleton (U+4BD0)	e4af90
+䯑	the pelvis, bone stuck in the throat, the kneecap; patella; the five lowest pieces of bone of the spinal column (U+4BD1)	e4af91
+䯒	(same as 胻) the upper part of the shinbone, or tibia (U+4BD2)	e4af92
+䯓	the head bone of livestock, the shoulder blade; scapula (U+4BD3)	e4af93
+䯔	to incline; to turn on one side (U+4BD4)	e4af94
+䯕	bony; skinny (U+4BD5)	e4af95
+䯖	the muscles of the thigh, the hips, the haunches (U+4BD6)	e4af96
+䯗	(same as 髀) buttocks, hipbone; innominate bone (U+4BD7)	e4af97
+䯘	the kneecap; patella, (same as 垸) to smear with varnishes and ashes (U+4BD8)	e4af98
+䯙	(same as 髆) the five lowest pieces of bone of the spinal column (U+4BD9)	e4af99
+䯚	the ribs (U+4BDA)	e4af9a
+䯛	the knee bones; the carpus of the knee, (same as 腕) the wrist (U+4BDB)	e4af9b
+䯜	marrow; fluid of yellow color, between the waist bones (U+4BDC)	e4af9c
+䯝	(same as 髓) marrow; pith; essence (U+4BDD)	e4af9d
+䯞	bone (the lowest pieces of bone of the spinal column and sides of the abdominal region) (U+4BDE)	e4af9e
+䯟	bone, stupid; dull (U+4BDF)	e4af9f
+䯠	the five lowest pieces of bone of the spinal column (U+4BE0)	e4afa0
+䯡	U+4BE1 (U+4BE1)	e4afa1
+䯢	partial paralysis; hemiplegia -- paralysis of half of one's body, very small; diminutive; minute (U+4BE2)	e4afa2
+䯣	the kneecap; patella, the cranium (U+4BE3)	e4afa3
+䯤	boneware used to comb the hair, to bind the hair, (same as 鬠) hair tied in a knot for the mourning rites (U+4BE4)	e4afa4
+䯥	with a high skull, dried meat strips (U+4BE5)	e4afa5
+䯦	tiny bone (U+4BE6)	e4afa6
+䯧	(same as 廎) a small hall, store-room for melon (U+4BE7)	e4afa7
+䯨	(ancient form of 敲) to rap; to tap; to beat, big; great; large; tall; high (U+4BE8)	e4afa8
+䯩	U+4BE9 (U+4BE9)	e4afa9
+䯪	big head (U+4BEA)	e4afaa
+䯫	(same as 顥) bright; luminous; hoary; white (U+4BEB)	e4afab
+䯬	(same as 嚲) to hang down; to let fall (U+4BEC)	e4afac
+䯭	of nice and good hair (U+4BED)	e4afad
+䯮	dishevelled hair (U+4BEE)	e4afae
+䯯	(same as 髿) hang down of the hair; dishevelled hair (U+4BEF)	e4afaf
+䯰	use a hair-pin to set and dress the hair (U+4BF0)	e4afb0
+䯱	(said of wild beasts) the hair stands up, walk with one's hair hang down, hairy, hair (U+4BF1)	e4afb1
+䯲	a coiffure with a topknot, dishevelled hair (U+4BF2)	e4afb2
+䯳	(same as 鬆) (said of hair) loosely arranged, dishevelled hair (U+4BF3)	e4afb3
+䯴	a coiffure with a topknot (U+4BF4)	e4afb4
+䯵	hair style for little children (U+4BF5)	e4afb5
+䯶	(non-classical form of 鬘) fair of hair, to blacken eyebrows (U+4BF6)	e4afb6
+䯷	fine hair (U+4BF7)	e4afb7
+䯸	a wig (U+4BF8)	e4afb8
+䯹	hair (U+4BF9)	e4afb9
+䯺	(standard form of 髺) the hair dishevelled, as in mourning (U+4BFA)	e4afba
+䯻	dressesd hair (U+4BFB)	e4afbb
+䯼	a coiffure with a topknot; a wig (U+4BFC)	e4afbc
+䯽	fine hair; beautiful hair, short hair, a coiffure with a topknot (U+4BFD)	e4afbd
+䯾	hairy; with lots of hair, to let the hair grow, as children do (U+4BFE)	e4afbe
+䯿	a coiffure with a topknot, hairy, dishevelled hair (U+4BFF)	e4afbf
+䰀	dressed hair of a Chinese woman (U+4C00)	e4b080
+䰁	to meet; to run into suddenly; unexpectedly (U+4C01)	e4b081
+䰂	a coiffure with a topknot, a turban; a kerchief (U+4C02)	e4b082
+䰃	dishevelled hair, (same as 碰) to meet unexpectedly, to collide; to hit; to touch (U+4C03)	e4b083
+䰄	short hair, bearded; with lots of beard, whiskers (U+4C04)	e4b084
+䰅	(same as 須 鬚) beard; whiskers (U+4C05)	e4b085
+䰆	beautiful and hairy mane, yellow hair; the hoary hair of the aged (U+4C06)	e4b086
+䰇	(same as 鬐) mane, fins (U+4C07)	e4b087
+䰈	fine hair, hairy (U+4C08)	e4b088
+䰉	dressed hair in a horizontal way, variegated; grey-of hair (U+4C09)	e4b089
+䰊	hair, sparse hair (U+4C0A)	e4b08a
+䰋	(same as 髮 鬘) hair, fair of hair (U+4C0B)	e4b08b
+䰌	to bind the hair in a knot on the top of the head, mane, dishevelled hair (U+4C0C)	e4b08c
+䰍	(same as U+9AE4 髹) a kind of dark-red paint, to paint or lacquer (articles) (U+4C0D)	e4b08d
+䰎	to twist the hair in a knot on the top of the head (U+4C0E)	e4b08e
+䰏	sparse hair on a knot on the top of the head, hair dressed without ornaments (U+4C0F)	e4b08f
+䰐	long hair, hairy, sparse hair (U+4C10)	e4b090
+䰑	(non-classical form of 䰅) (same as 須 鬚) beard; whiskers (U+4C11)	e4b091
+䰒	vague; ambiguous; dim; hazy, mane (U+4C12)	e4b092
+䰓	hair, (in old times) to burn a certain stick and then to blacken the eyebrows (U+4C13)	e4b093
+䰔	(non-classical of 䰉) dressed hair in a horizontal way, variegated; grey (of hair) (U+4C14)	e4b094
+䰕	mane (U+4C15)	e4b095
+䰖	fine hair; luster of hair; smooth and glossy of the hair, the woman's hair in a knot on the top of the head, hairy (U+4C16)	e4b096
+䰗	(non-classical) a lot; a ticket, to draw lots (U+4C17)	e4b097
+䰘	to kill by hanging or to strangulation, kill, to lower the grade of mourning garments, when wearing the sackcloth with the edges evenly bound (U+4C18)	e4b098
+䰙	an ancient unit of capacity with three feet and a big opening, a container used to wash rice (U+4C19)	e4b099
+䰚	the top part of the rice gruel, to chafe; to scour; to rub; to wipe with hand (U+4C1A)	e4b09a
+䰛	(same as 鬲) a large earthen pot, a large iron cauldron (U+4C1B)	e4b09b
+䰜	(ancient form of 鬲) a large earthen pot, a large iron cauldron (U+4C1C)	e4b09c
+䰝	a large earthen pot for cooking, a large iron cauldron used to cook in old times (U+4C1D)	e4b09d
+䰞	(same as U+7151 煮) to cook; to boil; to stew (U+4C1E)	e4b09e
+䰟	(same as 魂) the soul, the spiritual part of man that ascends to heaven, the wits; the spiritual faculties (U+4C1F)	e4b09f
+䰠	god; spirit; immortal, mountain deity (U+4C20)	e4b0a0
+䰡	a fierce ghost; a malicious spirit; evil spirits (U+4C21)	e4b0a1
+䰢	ghost; a star (U+4C22)	e4b0a2
+䰣	(same as 魍) an elf, a sprite, an animal which is said to eat the brains of the dead under ground; a monster (U+4C23)	e4b0a3
+䰤	ugly, monster; ghost (U+4C24)	e4b0a4
+䰥	(same as 魊) a cyclone; a whirlwind, a fabulous creature which supposedly hurts human beings by casting sand out of its mouth; ghost (U+4C25)	e4b0a5
+䰦	ugly, ghost; evil spirits; bogy; goblin; demons and monsters (U+4C26)	e4b0a6
+䰧	sinister, evil and shrewd (U+4C27)	e4b0a7
+䰨	(same as U+9B3D 魅) mischievous spirit; goblin; elf, a demon with a man's face and four legs, and exhalation of the mountains and forests, to charm; to mislead (U+4C28)	e4b0a8
+䰩	ugly; repulsive, mountain ghosts (U+4C29)	e4b0a9
+䰪	(corrupted form of 魅) mischievous spirit; goblin; elf, a demon with a man's face and four legs, and exhalation of the mountains and forests, to charm; to mislead (U+4C2A)	e4b0aa
+䰫	nimble and active ghost, to move swiftly, strong, crafty; cunning; wily, smart; clever; shrewd (U+4C2B)	e4b0ab
+䰬	wild ghost; ghost without head; a demon (U+4C2C)	e4b0ac
+䰭	(same as 䰰) dreary cries of ghosts; sound of monsters (U+4C2D)	e4b0ad
+䰮	U+4C2E (U+4C2E)	e4b0ae
+䰯	to fear; to dread; to be afraid of (U+4C2F)	e4b0af
+䰰	(same as 䰭) dreary cries of ghosts; sound of monsters (U+4C30)	e4b0b0
+䰱	name of a god; a legendary spirits having the face of a man and the body of a beast (U+4C31)	e4b0b1
+䰲	the sheat-fish (U+4C32)	e4b0b2
+䰳	U+4C33 (U+4C33)	e4b0b3
+䰴	a wafting fish, a fish, to cut a fish (U+4C34)	e4b0b4
+䰵	(a second name for 鯔) looks like common carp, blackfish or mullet fish, a second name for anchovy, a fish (U+4C35)	e4b0b5
+䰶	U+4C36 (U+4C36)	e4b0b6
+䰷	a fish, (same as 蚌) oyster, a kind of clam, a pretty pearl (U+4C37)	e4b0b7
+䰸	(interchangeable 魟 same as 鰩) the nautilus; the ray, a fish; looks like crab or king crab (U+4C38)	e4b0b8
+䰹	(non-classical and abbreviated form of 鱡) (same as 鰂) the cuttlefish; the inkfish (U+4C39)	e4b0b9
+䰺	(corrupted form of 魪) a flatfish; a sole (U+4C3A)	e4b0ba
+䰻	(same as 漁) to catch fish, to fish, to seize (U+4C3B)	e4b0bb
+䰼	a condiment made from minced fish salted, preserved fish; salted fish; fish cured in distiller's grains, a fish (U+4C3C)	e4b0bc
+䰽	the globefish; flowfish; puffer (U+4C3D)	e4b0bd
+䰾	a kind of fish; a bonito, (same as U+9B81 鮁) shark (U+4C3E)	e4b0be
+䰿	(non-classical of 鮀) a kind of small fish grown in fresh water (U+4C3F)	e4b0bf
+䱀	a kind of small fish (U+4C40)	e4b180
+䱁	a kind of medium sized fish grown in the sea, long and flat; with a big mouth (U+4C41)	e4b181
+䱂	a fish; common carp (U+4C42)	e4b182
+䱃	a fish (U+4C43)	e4b183
+䱄	(non-classical and corrupted form of 魪) a flatfish; a sole (U+4C44)	e4b184
+䱅	(same as 鱴 鮆) the mullet, a kind of fish grown in the sea; like abalone; a salted fish (U+4C45)	e4b185
+䱆	(same as 鱦) small fish, spawn, or roe, frog group (U+4C46)	e4b186
+䱇	(same as 鱔) the eel (U+4C47)	e4b187
+䱈	(ancient form of 鮨) fish pulp; mashed fish, fine-cut meat, something like the large amphibious creature; newt but very much larger, small fish, (same as 鰭) fins (U+4C48)	e4b188
+䱉	(corrupted form of 䱇) (same as 鱓,鱔) an eel (U+4C49)	e4b189
+䱊	roe or spawn, a fish (U+4C4A)	e4b18a
+䱋	spawn; roe, a kind of legendary fish said to be thousands of miles long, (interchangeable 魟) the nautils; the ray (U+4C4B)	e4b18b
+䱌	a second name for the globefish; blowfish; puffer (U+4C4C)	e4b18c
+䱍	tuna, something like sturgeon (U+4C4D)	e4b18d
+䱎	(same as 䱍) tuna, something like sturgeon (U+4C4E)	e4b18e
+䱏	a fish (U+4C4F)	e4b18f
+䱐	a kind of black fish, a second name for the globefish; blowfish; puffer (U+4C50)	e4b190
+䱑	a fish; something like crab grown in the sea (U+4C51)	e4b191
+䱒	salted fish, globefish; blowfish; puffer (U+4C52)	e4b192
+䱓	a kind of fish, something like the sheat-fish (U+4C53)	e4b193
+䱔	(same as 鰷) a long narrow and silver colored fish; Trichiurus armatus (U+4C54)	e4b194
+䱕	labrus, moving fish (U+4C55)	e4b195
+䱖	(same as 鰡) shark (U+4C56)	e4b196
+䱗	a long narrow fish Trichiurus armatus (U+4C57)	e4b197
+䱘	U+4C58 (U+4C58)	e4b198
+䱙	(same as 鮛) a small kind of tuna or sturgeon (U+4C59)	e4b199
+䱚	a kind of fish (U+4C5A)	e4b19a
+䱛	a kind of fish; small fish; fry, a large amphibious creature, something like the newt but very much larger (U+4C5B)	e4b19b
+䱜	shark (U+4C5C)	e4b19c
+䱝	black carp (U+4C5D)	e4b19d
+䱞	a kind of fish (U+4C5E)	e4b19e
+䱟	(an ancient name) a kind of silver fish, a kind of insect (U+4C5F)	e4b19f
+䱠	a kind of fish (U+4C60)	e4b1a0
+䱡	the globefish; blowfish; puffer (U+4C61)	e4b1a1
+䱢	a kind of fish (U+4C62)	e4b1a2
+䱣	a long narrow fish, a second name for tuna (U+4C63)	e4b1a3
+䱤	(a second name for 鱤) a kind of fish (U+4C64)	e4b1a4
+䱥	a kind of fish; silver-gray color with black dots; with small mouth and no teeth (U+4C65)	e4b1a5
+䱦	the globefish; blowfish; puffer (U+4C66)	e4b1a6
+䱧	(record in an antique books) a kind of fish (same as 鱔) eels (U+4C67)	e4b1a7
+䱨	(same as 䱥) a kind of fish; silver-gray color with black dots; with small mouth and no teeth (U+4C68)	e4b1a8
+䱩	U+4C69 (U+4C69)	e4b1a9
+䱪	U+4C6A (U+4C6A)	e4b1aa
+䱫	(same as 鯻) a kind of fish (U+4C6B)	e4b1ab
+䱬	a kind of fish (U+4C6C)	e4b1ac
+䱭	tuna (U+4C6D)	e4b1ad
+䱮	a kind of fish; skin for making arms or weapons (U+4C6E)	e4b1ae
+䱯	(corrupted form) a kind of fish (U+4C6F)	e4b1af
+䱰	(same as 鮦 鯉 鱧) a kind of fish; black fish (U+4C70)	e4b1b0
+䱱	a kind of slippery long fish; with four feet; black color; a second name for Parasilurus asotus, small fish; fry, large carp (U+4C71)	e4b1b1
+䱲	a kind of fish (U+4C72)	e4b1b2
+䱳	(same as 鱣) a kind of sturgeon; Acipenser mikadoi, (interchangeable 鱔) eels (U+4C73)	e4b1b3
+䱴	(same as 䱭) tuna (U+4C74)	e4b1b4
+䱵	a kind of fish; live in the ocean (U+4C75)	e4b1b5
+䱶	a male crab, cod oil (U+4C76)	e4b1b6
+䱷	(same as 魚 漁) to fish, to seize (U+4C77)	e4b1b7
+䱸	a family name, (same as 緧) a crupper (U+4C78)	e4b1b8
+䱹	(standard form) (same as 鮓) a condiment made from minced fish salted, preserved fish (U+4C79)	e4b1b9
+䱺	a male crab (U+4C7A)	e4b1ba
+䱻	a kind of fish; a flashing fly-fish in legend (U+4C7B)	e4b1bb
+䱼	a kind of fish; seven inchs long; good for soup (U+4C7C)	e4b1bc
+䱽	(same as U+9BE7 鯧) the pomfret (U+4C7D)	e4b1bd
+䱾	a carp-like savory fish (U+4C7E)	e4b1be
+䱿	a kind of fish (U+4C7F)	e4b1bf
+䲀	a kind of fish (U+4C80)	e4b280
+䲁	general term of a kind of fish, a snake-like fish (U+4C81)	e4b281
+䲂	a kind of fish (U+4C82)	e4b282
+䲃	a carp-like fish with chicken feet, spawn or roe (U+4C83)	e4b283
+䲄	(same as 鮸) an ocean fish with long flat body, big mouth, sharp teeth (a cod, same as 鰵) (U+4C84)	e4b284
+䲅	the globefish; blowfish; puffer (U+4C85)	e4b285
+䲆	U+4C86 (U+4C86)	e4b286
+䲇	U+4C87 (U+4C87)	e4b287
+䲈	U+4C88 (U+4C88)	e4b288
+䲉	a kind of fish; a second name for tuna (U+4C89)	e4b289
+䲊	fry (of fish), crab, get rid of the scales of a fish (U+4C8A)	e4b28a
+䲋	(non-classical form) a kind of fish (U+4C8B)	e4b28b
+䲌	a fish, the sound of touching the fish net (U+4C8C)	e4b28c
+䲍	(standard form of 鰧) a perch-like fish with white body and red tail (U+4C8D)	e4b28d
+䲎	(corrupted form of U+9BD8 鯘; same as U+9BBE 鮾) to spoil, to go down, to corrupt; spoiled fish-meat (U+4C8E)	e4b28e
+䲏	a kind of fish (U+4C8F)	e4b28f
+䲐	a kind of fish (U+4C90)	e4b290
+䲑	spawn, or roe, a kind of fish (U+4C91)	e4b291
+䲒	(same as 蟹) crab (U+4C92)	e4b292
+䲓	a kind of fish, the mouth of a fish at surface of the water; gasping for breath (U+4C93)	e4b293
+䲔	a whale, huge (U+4C94)	e4b294
+䲕	the Yangtze porpoise (U+4C95)	e4b295
+䲖	big fish (U+4C96)	e4b296
+䲗	a kind of fish; with long and flat body; small mouth and pointed lips (U+4C97)	e4b297
+䲘	a kind of fish; with a long cylinder body (U+4C98)	e4b298
+䲙	a kind of fish; grown in fresh water; with flat body; orange color or blue colored pattern (U+4C99)	e4b299
+䲚	a second name for shad (with a head like a sturgeon) (U+4C9A)	e4b29a
+䲛	an ancient name for tuna, a kind of sturgeon (U+4C9B)	e4b29b
+䲜	lots of fish (U+4C9C)	e4b29c
+䲝	(same as U+9BE7 鯧) the pomfret (U+4C9D)	e4b29d
+䲞	a general name for perch, etc. (U+4C9E)	e4b29e
+䲟	(simplified form of 鮣) a kind of fish, live in the ocean, dark brown color with two white vertical marks; flat shaped head (U+4C9F)	e4b29f
+䲠	(simplified form 鰆) a kind of fish; long and flat; silver-gray with dark color dots and cross-grained strips (U+4CA0)	e4b2a0
+䲡	(simplified form U+9C0C 鰍) loach (U+4CA1)	e4b2a1
+䲢	(simplified form of 鰧) a kind of fish; stout; bluish gray color; big flat head; big mouth and small eyes; usually stay in the bottom of the shallow sea; half bured in the muddy sand (U+4CA2)	e4b2a2
+䲣	(simplified form) to fish; to seize (U+4CA3)	e4b2a3
+䲤	(simplified form) (U+4CA4)	e4b2a4
+䲥	(same as 鳩) the pigeon; the turtle dove (U+4CA5)	e4b2a5
+䲦	a legendary bird (U+4CA6)	e4b2a6
+䲧	cuckoo; goatsucker or nightjar (U+4CA7)	e4b2a7
+䲨	(same as 鴻) wild swan, a wild goose, vast; profound (U+4CA8)	e4b2a8
+䲩	(same as 鳲) the cuckoo; the wood-pigeon or the turtle-dove (U+4CA9)	e4b2a9
+䲪	a kind of bird (U+4CAA)	e4b2aa
+䲫	(corrupted form of 鳩) the pigeon; the turtle dove (U+4CAB)	e4b2ab
+䲬	chicken, a second name for a pheasant, the wild goose (U+4CAC)	e4b2ac
+䲭	kite, owl, wine cups (U+4CAD)	e4b2ad
+䲮	a kind of bird (U+4CAE)	e4b2ae
+䲯	a kind of black small bird (U+4CAF)	e4b2af
+䲰	a second name for the pigeon or the turtle dove (U+4CB0)	e4b2b0
+䲱	(same as 鶭) a kind of black bird; most of the time stay by the marsh; where water gathers (U+4CB1)	e4b2b1
+䲲	a hawk-like bird; much smaller (U+4CB2)	e4b2b2
+䲳	birds flying up and down (U+4CB3)	e4b2b3
+䲴	(same as 鴆) a kind of venomous bird, poisoned wine (U+4CB4)	e4b2b4
+䲵	(same as 雀) a general name of small birds, as sparrows, chickadees, etc. (U+4CB5)	e4b2b5
+䲶	U+4CB6 (U+4CB6)	e4b2b6
+䲷	U+4CB7 (U+4CB7)	e4b2b7
+䲸	a kind of bird (U+4CB8)	e4b2b8
+䲹	ospery; water hawk (U+4CB9)	e4b2b9
+䲺	birds singing; chirps (U+4CBA)	e4b2ba
+䲻	the swallow, (same as 鳶) kite (a bird), kite ( a toy) (U+4CBB)	e4b2bb
+䲼	a kind of bird, (same as 鼪) weasel (U+4CBC)	e4b2bc
+䲽	a kind of bird; suspended rocks (U+4CBD)	e4b2bd
+䲾	the tailor bird; a second name for wren (U+4CBE)	e4b2be
+䲿	(non-classical form of 鶿 U+9DC0) cormorant (U+4CBF)	e4b2bf
+䳀	the cuckoo, a kind of pigeon, a kind of water bird (U+4CC0)	e4b380
+䳁	a wild duck-like water bird, a pheasant like bird (U+4CC1)	e4b381
+䳂	a kind of small bird, sound of birds, the feathered; birds (U+4CC2)	e4b382
+䳃	a kind of phoenix-like bird (U+4CC3)	e4b383
+䳄	(same as 鴜) a kind of water bird; with black color, (same as 雌) female; woman-like (U+4CC4)	e4b384
+䳅	a kind of bird which shares its nest with rats, sound of birds (U+4CC5)	e4b385
+䳆	a kind of species of myna (or mynah); a grackle (U+4CC6)	e4b386
+䳇	(same as 鵡) parrot (U+4CC7)	e4b387
+䳈	(same as 鴇) a bird resembling the wild goose; Otis dybowskii (U+4CC8)	e4b388
+䳉	a kind of water bird, (same as 鴆) a kind of venomous bird (U+4CC9)	e4b389
+䳊	(same as 䳁) a wild duck-like water bird, a pheasant like bird (U+4CCA)	e4b38a
+䳋	a pheasant-like bird with black and body and red feet, a kind of bird, (same as 蟂) an otter-like animal (U+4CCB)	e4b38b
+䳌	(non-classical form of 鵑) the cuckoo (U+4CCC)	e4b38c
+䳍	a kind of pheasant-like bird (U+4CCD)	e4b38d
+䳎	a pigeon-like bird; with a comb or crest (U+4CCE)	e4b38e
+䳏	cuckoo, pelican, (same as 鴃) a shrike; butcherbird (U+4CCF)	e4b38f
+䳐	an owl-like bird (U+4CD0)	e4b390
+䳑	a pheasant-like bird (U+4CD1)	e4b391
+䳒	a kind of bird, a hawk; sparrow hawk (U+4CD2)	e4b392
+䳓	a kind of water bird, a vulture; a condor (U+4CD3)	e4b393
+䳔	a pigeon-like bird; with a comb or crest, a shrike; butcherbird (U+4CD4)	e4b394
+䳕	the pigeon, the turtle dove (U+4CD5)	e4b395
+䳖	flying birds, a kind of bird (U+4CD6)	e4b396
+䳗	(ancient form of 鵝) goose; gander (U+4CD7)	e4b397
+䳘	(same as 䳗,鵝) goose; gander (U+4CD8)	e4b398
+䳙	a egret-like bird, a kind of water bird (U+4CD9)	e4b399
+䳚	a sort of nightingale which is said to sing for the dawn; also the name for a large bat with awing-spread of two feet, a sort of pheasant (U+4CDA)	e4b39a
+䳛	(same as 鷃) a small brown speckled bird like the quail (U+4CDB)	e4b39b
+䳜	(same as 鵌) a kind of bird which shares its nest with rats (U+4CDC)	e4b39c
+䳝	a kind of small birds, a kind of bird (U+4CDD)	e4b39d
+䳞	birds flying all directions (U+4CDE)	e4b39e
+䳟	a legendary bird, divine birds; the phoenix (U+4CDF)	e4b39f
+䳠	owl, kite, hawk; sparrow hawk, stop flying (said of bird) (U+4CE0)	e4b3a0
+䳡	(same as 鵻) a kind of bird in ancient books; a wood-pigeon; a hawk (U+4CE1)	e4b3a1
+䳢	(same as 鶀) small wild goose (U+4CE2)	e4b3a2
+䳣	(non-classical form of 鳶) kite (bird), kite (toy), owl, to soar; to fly (U+4CE3)	e4b3a3
+䳤	a kind of strange; weird; legendary bird, second name for an owl (U+4CE4)	e4b3a4
+䳥	U+4CE5 (U+4CE5)	e4b3a5
+䳦	wren; the tailorbird, a kind of small bird (U+4CE6)	e4b3a6
+䳧	an eagle; a hawk (U+4CE7)	e4b3a7
+䳨	(same as 凰) the female phoenix, a legendary bird in Chinese mythology, (standard form of 皇) beautiful; brilliant, royal (U+4CE8)	e4b3a8
+䳩	a kind of bird; a pheasant-like bird; red body and with a long tail (U+4CE9)	e4b3a9
+䳪	(non-classical form of 鷒) a kind of bird, a kind of stork-like bird (U+4CEA)	e4b3aa
+䳫	(standard form) a small pigeon (U+4CEB)	e4b3ab
+䳬	(same as 鷊) a kind of bird, a kind of grass, (same as U+9D83) a fabulous sea bird (U+4CEC)	e4b3ac
+䳭	wagtail (U+4CED)	e4b3ad
+䳮	to look at in surprise (said of bird) (U+4CEE)	e4b3ae
+䳯	a kind of bird, small bird flying, a general name of small birds (U+4CEF)	e4b3af
+䳰	(same as 鴇) a bird resembling the wild goose; Otis dybowskii (U+4CF0)	e4b3b0
+䳱	(non-classical form of 鶩) ducks (U+4CF1)	e4b3b1
+䳲	a swarm of flying birds; birds soar in groups (U+4CF2)	e4b3b2
+䳳	a kind of small bird, strange; weird bird (U+4CF3)	e4b3b3
+䳴	a kind of bird, a flying young bird (U+4CF4)	e4b3b4
+䳵	a kind of water bird with colorful feather (U+4CF5)	e4b3b5
+䳶	(same as 㶉) a kind of water bird, (same as 雞) chickens (U+4CF6)	e4b3b6
+䳷	a second name for chicken (U+4CF7)	e4b3b7
+䳸	the wild goose, sparrow; the house-sparrow (U+4CF8)	e4b3b8
+䳹	a kind dove-like bird, (same as 鵽鳩) (U+4CF9)	e4b3b9
+䳺	(same as 鵪) the quail (U+4CFA)	e4b3ba
+䳻	an eagle; a hawk, second name for osprey or water hawk, a kind of eagle-like bird with white pattern (U+4CFB)	e4b3bb
+䳼	(standard form of 鷗) gull, water bird (U+4CFC)	e4b3bc
+䳽	(non-classical form of 鸖) (same as 鶴) crane (U+4CFD)	e4b3bd
+䳾	an owl, the rail (a bird) (U+4CFE)	e4b3be
+䳿	a kind of bird (U+4CFF)	e4b3bf
+䴀	a kind of water bird (U+4D00)	e4b480
+䴁	a kind of rat-like bird, a vulture or a condor-like bird (U+4D01)	e4b481
+䴂	a kind of water bird, (a second name for 䴀) (U+4D02)	e4b482
+䴃	wren; the tailorbird, the golden oriole (U+4D03)	e4b483
+䴄	a kind of bird (U+4D04)	e4b484
+䴅	a legendary bird; like magpie; with white body, red tail and six feet (U+4D05)	e4b485
+䴆	a kind of bird, a kind of bird good at casting lots or divining (U+4D06)	e4b486
+䴇	a second name for crane, a small swan, (non-classical form of 鴒) a second name for wagtail (U+4D07)	e4b487
+䴈	(non-classical form) a kind of water bird (U+4D08)	e4b488
+䴉	general term for a group of bird (looks like egret), to fly in a circle (U+4D09)	e4b489
+䴊	(same as 鸃) the crow-pheasant (U+4D0A)	e4b48a
+䴋	a kind of water bird; deep eyed, general term for a group of bird (U+4D0B)	e4b48b
+䴌	a kind of water bird; a big gray-white colored body with hairy tail (U+4D0C)	e4b48c
+䴍	a kind of strange and weird bird (U+4D0D)	e4b48d
+䴎	(same as 鸓) flying squirrel; bats (U+4D0E)	e4b48e
+䴏	(same as 燕) a swallow (U+4D0F)	e4b48f
+䴐	a kind of bird, (same as 鴇) a bird resembling the wild goose; Otis dybowskii (U+4D10)	e4b490
+䴑	a legendary weird bird; resembling the magpie; dark red color; with two heads and four feet, (corrupted form of 鸓) flying squirrel; bats (U+4D11)	e4b491
+䴒	(same as 鴒) wagtail (U+4D12)	e4b492
+䴓	general term for a group of small birds (U+4D13)	e4b493
+䴔	the fishing cormorant (U+4D14)	e4b494
+䴕	a woodpecker (U+4D15)	e4b495
+䴖	a kind of water bird (U+4D16)	e4b496
+䴗	a shrike (U+4D17)	e4b497
+䴘	a kind of bird (U+4D18)	e4b498
+䴙	a kind of bird resembling the duck; much smaller (U+4D19)	e4b499
+䴚	saltpond; salty marshes (U+4D1A)	e4b49a
+䴛	to make decoction of salt (U+4D1B)	e4b49b
+䴜	salt; a certain minority group in ancient times used as a second name for salt (U+4D1C)	e4b49c
+䴝	salt, soybean sauce; soy (U+4D1D)	e4b49d
+䴞	salty; briny; salted (U+4D1E)	e4b49e
+䴟	an one-year old deer, a three-year old deer (U+4D1F)	e4b49f
+䴠	a young tailed deer (U+4D20)	e4b4a0
+䴡	(same as 麗) beautiful; elegant; fair; fine (U+4D21)	e4b4a1
+䴢	(same as 麋) a kind of deer; Alces machlis (U+4D22)	e4b4a2
+䴣	a kind of animal (U+4D23)	e4b4a3
+䴤	an animal as big as a rabbit, a two-year old deer (U+4D24)	e4b4a4
+䴥	(same as 麚) a stag (U+4D25)	e4b4a5
+䴦	a legendary animal; a fox-like animal and with a man's eyes (U+4D26)	e4b4a6
+䴧	venison (U+4D27)	e4b4a7
+䴨	U+4D28 (U+4D28)	e4b4a8
+䴩	a kind of deer (U+4D29)	e4b4a9
+䴪	a fabulous creature, something like a deer, with a single horn (U+4D2A)	e4b4aa
+䴫	(same as U+9EA2 羚) antelope (U+4D2B)	e4b4ab
+䴬	crumbs of barley; bran; chaff (U+4D2C)	e4b4ac
+䴭	distiller's grains or yeast; ferment for brewing (U+4D2D)	e4b4ad
+䴮	cakes pf leaven; yeast, ferment for brewing, crumbs of barley (U+4D2E)	e4b4ae
+䴯	a kind of cake (U+4D2F)	e4b4af
+䴰	a family name, (same as 䴬) crumbs of barley; bran; chaff (U+4D30)	e4b4b0
+䴱	cakes and biscuits (U+4D31)	e4b4b1
+䴲	flour, rice flour (U+4D32)	e4b4b2
+䴳	distiller's grains or yeast (U+4D33)	e4b4b3
+䴴	a kind of cake, a kind of herb medicine, (same as 黏) to stick, glutinous; adhesive (U+4D34)	e4b4b4
+䴵	(same as 餅) cakes; biscuits; pastry (U+4D35)	e4b4b5
+䴶	(same as 麷) to boil or stew wheat, to simmer ferment for brewing (U+4D36)	e4b4b6
+䴷	use the whole piece of barley to ferment for brewing (U+4D37)	e4b4b7
+䴸	(non-classical form of 麩) bran; refuse (U+4D38)	e4b4b8
+䴹	cakes; biscuits; pastry, distiller's grains or yeast, (interchangeable 稞) grains ready for grinding; healthy grains, flour, (same as 䴷) use the whole piece of barley to ferment for brewing (U+4D39)	e4b4b9
+䴺	cakes; cookies; biscuits; pastries; dumplings (U+4D3A)	e4b4ba
+䴻	dry food (U+4D3B)	e4b4bb
+䴼	to extirpate; to level off; to pare barley (U+4D3C)	e4b4bc
+䴽	a small round piece of distiller's grains or yeast (U+4D3D)	e4b4bd
+䴾	to grind barley (U+4D3E)	e4b4be
+䴿	grains from the distillery, crumbs of barley, crumbs of rice (U+4D3F)	e4b4bf
+䵀	coarse crumbs of barley, unrefined or unpolished wheat (U+4D40)	e4b580
+䵁	decayed dough; rotten noodle (U+4D41)	e4b581
+䵂	to grind wheat to powder; with bran and flour mixed together (U+4D42)	e4b582
+䵃	a kind of barley, dust of ferment for brewing; small crumbs of grains from the distillery (U+4D43)	e4b583
+䵄	(same as 麷) to boil or stew wheat, to simmer ferment for brewing, (interchangeable 豐) various kinds of rush from which mats, bags, etc. are made; vines of the rushes (U+4D44)	e4b584
+䵅	(same as 熬) to extract by applying heat, to cook; to stew or simmer (U+4D45)	e4b585
+䵆	(same as 䴿) grains from the distillery, crumbs of barley, crumbs of rice (U+4D46)	e4b586
+䵇	to dislike; to reject; to hate, a house; a building (U+4D47)	e4b587
+䵈	unsmelted hemp and silk, unspinned hemp, raw silk (U+4D48)	e4b588
+䵉	Abutilon, grassy plant with fabres from which clothe is made (U+4D49)	e4b589
+䵊	(same as 䵍) yellow, used in person's name (U+4D4A)	e4b58a
+䵋	yellow, greenish yellow (U+4D4B)	e4b58b
+䵌	reddish yellow (U+4D4C)	e4b58c
+䵍	yellow, used in person's name (U+4D4D)	e4b58d
+䵎	dark yellow, yellow, bright; well-illuminated (U+4D4E)	e4b58e
+䵏	yellow; straw colord (U+4D4F)	e4b58f
+䵐	yellow, (dialect) yellowish black; dark yellow (U+4D50)	e4b590
+䵑	(same as 䵒 U+4D52) glue, a kind of cement made of hemp, lime and oil (U+4D51)	e4b591
+䵒	glue, a kind of cement made of hemp, lime and oil (U+4D52)	e4b592
+䵓	the mole (U+4D53)	e4b593
+䵔	to turn on the heel, not moving forward (U+4D54)	e4b594
+䵕	a varietyof millet, to stick, sticky; glutinous (U+4D55)	e4b595
+䵖	panicled millet, congee; porridge; rice gruel, ripening of paddy or rice; a harvest (U+4D56)	e4b596
+䵗	to clean the withered; dried and decayed leaves of the bottom part of millets, grains, beans or peas, a variety of millet, beans and peas collectively, to paste up, to attach to, to stick up; to glue (U+4D57)	e4b597
+䵘	dosen't t stick to each other; hard to adhesive, (same as 曬) to dry in the sun; to expose to sunlight (U+4D58)	e4b598
+䵙	sticky; to append; padding; cushioning, to paste on something (U+4D59)	e4b599
+䵚	(dialect) kaoliang; sorghum (U+4D5A)	e4b59a
+䵛	(non-classical form of 䵖) panicled millet, congee; porridge; rice gruel, ripening of paddy or rice; a harvest (U+4D5B)	e4b59b
+䵜	to plough and sow, a kind of fruit (U+4D5C)	e4b59c
+䵝	dark black, black (U+4D5D)	e4b59d
+䵞	(ancient form of 黥) ancient punishment of tattooing the face (U+4D5E)	e4b59e
+䵟	(same as 皯) black, black moles or black birthmarks on the face (U+4D5F)	e4b59f
+䵠	rushes used form making mats, face decorations (for women), to ornament on the face of a woman (U+4D60)	e4b5a0
+䵡	(non-classical form of 䵤) (of the black skin) to crack or chap, black skin (U+4D61)	e4b5a1
+䵢	light black, dark black (U+4D62)	e4b5a2
+䵣	white with black; black and beautiful, name of a county in ancient times (U+4D63)	e4b5a3
+䵤	(non-classical form of 䵤) (of the black skin) to crack or chap, black skin (U+4D64)	e4b5a4
+䵥	black, dark; deep (U+4D65)	e4b5a5
+䵦	(non-classical form of 汙 污) to stain; to mess up, dirty; filthy (U+4D66)	e4b5a6
+䵧	to dye (U+4D67)	e4b5a7
+䵨	dark; dim; obscure, personal secrets (U+4D68)	e4b5a8
+䵩	(non-classical form of 黧) dark yellow, black mark, light yellow; sallow (U+4D69)	e4b5a9
+䵪	pure black, to omit, to forget, to wonder about doing nothing (U+4D6A)	e4b5aa
+䵫	(same as 纁) light red (same as 黦) yellowish black (U+4D6B)	e4b5ab
+䵬	black (corrupted form of 濌) sound of the flowing water (U+4D6C)	e4b5ac
+䵭	black (U+4D6D)	e4b5ad
+䵮	red-and-black color, light green; light blue (U+4D6E)	e4b5ae
+䵯	(same as 畽) a village; a farmstead, a hamlet, the land outside a city (U+4D6F)	e4b5af
+䵰	black color, red-and-black color (U+4D70)	e4b5b0
+䵱	red-and-black color, blue-and-black color, black color (U+4D71)	e4b5b1
+䵲	raw hemp, mildewed hemp; freckles (U+4D72)	e4b5b2
+䵳	light black (U+4D73)	e4b5b3
+䵴	black color, black specks; mottles on the face, black face, (same as 暈) to faint; giddy and dizzy (U+4D74)	e4b5b4
+䵵	yellowish black and white, short and black, over-fatigued; weary; tired (U+4D75)	e4b5b5
+䵶	a kind of frog; a kind of sea turtle; with two horns; and pattern on the tortoise shell (U+4D76)	e4b5b6
+䵷	(same as U+9F03 蛙) frog; (same as U+54C7 哇) to make the noise of vomiting (U+4D77)	e4b5b7
+䵸	(same as 鼀) the toad that lives in the moon (U+4D78)	e4b5b8
+䵹	(standard form 鼅) insects that are injurious to crops, spider (U+4D79)	e4b5b9
+䵺	(same as 圢 町) boundary between agricultural lands, (in Japan) a street; a city block, ant hill; formicary, vacant land by the side of a house; a paddock, deer trace; deer track (U+4D7A)	e4b5ba
+䵻	a small tripod of bronze with two ears (standard form 鏏) tripod of bronze with two ears; heavy three-legged caldron or sacrificial vessel (U+4D7B)	e4b5bb
+䵼	to boil; to cook; to stew (U+4D7C)	e4b5bc
+䵽	sound of drums, to beat the side of a drum (U+4D7D)	e4b5bd
+䵾	sound of drums, loud noise of the military drums, (same as 拊) to pat; to touch with hand lightly or tenderly, to slap; to tap; to clap hands (U+4D7E)	e4b5be
+䵿	a silent drum, spacious (U+4D7F)	e4b5bf
+䶀	sound of drums; image of the sound (U+4D80)	e4b680
+䶁	noises; disorderly or confused sound of the drums (U+4D81)	e4b681
+䶂	a squirrel-like animal, a flying squirrel, a rat-like animal; much smaller (U+4D82)	e4b682
+䶃	a kind of rat, lizard (U+4D83)	e4b683
+䶄	striped mottled rat; mountain rat; short and red-brown colored with spots (U+4D84)	e4b684
+䶅	a marmot-like rat with a big head (U+4D85)	e4b685
+䶆	(dialect) a rat; a mouse (U+4D86)	e4b686
+䶇	a rat (U+4D87)	e4b687
+䶈	a kind of rat, known together as the kangaroo (U+4D88)	e4b688
+䶉	guinea pig; a kind of big rat; living in the bamboo grove (U+4D89)	e4b689
+䶊	(corrupted form) (interchangeable with 衄) to bleed at the nose, a check in batttle, to damp ardour, to shrink from; to treat harshly, to be damped; to suffer defeat (U+4D8A)	e4b68a
+䶋	sound; sound of the breath (U+4D8B)	e4b68b
+䶌	(same as 皰) a pustule or pimple (U+4D8C)	e4b68c
+䶍	(same as 嚏) to sneeze (U+4D8D)	e4b68d
+䶎	sound of breath; snoring; snorting (U+4D8E)	e4b68e
+䶏	(same as 洟) tears; snivel; nasal mucus, (same as 挮) to weep; to snivel (U+4D8F)	e4b68f
+䶐	to take breath; snoring; snorting (U+4D90)	e4b690
+䶑	(standard form 嚏) to sneeze; a running at the nose (U+4D91)	e4b691
+䶒	outstanding ability, exquisite; fine (U+4D92)	e4b692
+䶓	ramie; linen sackcloth, to twist and join (cords); to continue, to order the arrest of; to capture (U+4D93)	e4b693
+䶔	prominent gums (of the teeth) (U+4D94)	e4b694
+䶕	irregular and prominent teeth (U+4D95)	e4b695
+䶖	disease of tongue (said of an ox), to keep the mouth shut (U+4D96)	e4b696
+䶗	to bite; use all the strength to bite; to gnaw, bones squeeze between teeth (could not be picked out) (U+4D97)	e4b697
+䶘	the sound of chewing something dry and hard, sound of gnawing or biting (U+4D98)	e4b698
+䶙	swelling of the gums ( of the teeth) (U+4D99)	e4b699
+䶚	(non-classical form of 齲) decayed tooth; carious tooth (U+4D9A)	e4b69a
+䶛	to separate the meat from the bones with teeth, the sound of using teeth to separate the meat from the bones (U+4D9B)	e4b69b
+䶜	the process to whiten the ivory or elephant tusk; sound of gnawing (U+4D9C)	e4b69c
+䶝	growing irregular teeth; crooked teeth, cleft tooth; sound of gnawing (U+4D9D)	e4b69d
+䶞	to gnaw; to bite (U+4D9E)	e4b69e
+䶟	to gnash the teeth (in anger) (U+4D9F)	e4b69f
+䶠	(same as 䶢) to gnaw; to bite, to hold in the mouth (U+4DA0)	e4b6a0
+䶡	sound of biting, (same as 齰) to chew; to gnaw (U+4DA1)	e4b6a1
+䶢	to gnaw; to bite, to hold in the mouth (U+4DA2)	e4b6a2
+䶣	to grind the teeth, teeth (U+4DA3)	e4b6a3
+䶤	sound of chewing bones (U+4DA4)	e4b6a4
+䶥	(same as 齟) unevenly-fitting teeth, irregular teeth, resplendent with variegated coloration; bright and colorful (U+4DA5)	e4b6a5
+䶦	upper and lower teeth in order and corresponding each other, to gnaw; to bite (U+4DA6)	e4b6a6
+䶧	(same as U+9F69 咬) to gnaw; to bite (U+4DA7)	e4b6a7
+䶨	in the manner a toothless person chewing food (U+4DA8)	e4b6a8
+䶩	to gnaw; to bite, well-arranged teeth (U+4DA9)	e4b6a9
+䶪	sharp teeth; to break something hard like a knife, sand (in food), ugly (U+4DAA)	e4b6aa
+䶫	fine teeth, irregular teeth (U+4DAB)	e4b6ab
+䶬	hard fins on the back of a dragon (U+4DAC)	e4b6ac
+䶭	U+4DAD (U+4DAD)	e4b6ad
+䶮	(simplified form) clever; wise; superior, a person's name ( in Earlier Five Dynasties, South Han, meaning flying dragon over the sky) (U+4DAE)	e4b6ae
+䶯	used in girl's name (U+4DAF)	e4b6af
+䶰	feather ornaments (U+4DB0)	e4b6b0
+䶱	a kind of turtle (U+4DB1)	e4b6b1
+䶲	the edge; the hem or the margin of the tortoise shell (U+4DB2)	e4b6b2
+䶳	to lookup, to adore, to rely upon (U+4DB3)	e4b6b3
+䶴	(same as 吹) to blow (U+4DB4)	e4b6b4
+䶵	<CJK Ideograph Extension A, Last> (U+4DB5)	e4b6b5
+䷀	HEXAGRAM FOR THE CREATIVE HEAVEN (U+4DC0)	e4b780
+䷁	HEXAGRAM FOR THE RECEPTIVE EARTH (U+4DC1)	e4b781
+䷂	HEXAGRAM FOR DIFFICULTY AT THE BEGINNING (U+4DC2)	e4b782
+䷃	HEXAGRAM FOR YOUTHFUL FOLLY (U+4DC3)	e4b783
+䷄	HEXAGRAM FOR WAITING (U+4DC4)	e4b784
+䷅	HEXAGRAM FOR CONFLICT (U+4DC5)	e4b785
+䷆	HEXAGRAM FOR THE ARMY (U+4DC6)	e4b786
+䷇	HEXAGRAM FOR HOLDING TOGETHER (U+4DC7)	e4b787
+䷈	HEXAGRAM FOR SMALL TAMING (U+4DC8)	e4b788
+䷉	HEXAGRAM FOR TREADING (U+4DC9)	e4b789
+䷊	HEXAGRAM FOR PEACE (U+4DCA)	e4b78a
+䷋	HEXAGRAM FOR STANDSTILL (U+4DCB)	e4b78b
+䷌	HEXAGRAM FOR FELLOWSHIP (U+4DCC)	e4b78c
+䷍	HEXAGRAM FOR GREAT POSSESSION (U+4DCD)	e4b78d
+䷎	HEXAGRAM FOR MODESTY (U+4DCE)	e4b78e
+䷏	HEXAGRAM FOR ENTHUSIASM (U+4DCF)	e4b78f
+䷐	HEXAGRAM FOR FOLLOWING (U+4DD0)	e4b790
+䷑	HEXAGRAM FOR WORK ON THE DECAYED (U+4DD1)	e4b791
+䷒	HEXAGRAM FOR APPROACH (U+4DD2)	e4b792
+䷓	HEXAGRAM FOR CONTEMPLATION (U+4DD3)	e4b793
+䷔	HEXAGRAM FOR BITING THROUGH (U+4DD4)	e4b794
+䷕	HEXAGRAM FOR GRACE (U+4DD5)	e4b795
+䷖	HEXAGRAM FOR SPLITTING APART (U+4DD6)	e4b796
+䷗	HEXAGRAM FOR RETURN (U+4DD7)	e4b797
+䷘	HEXAGRAM FOR INNOCENCE (U+4DD8)	e4b798
+䷙	HEXAGRAM FOR GREAT TAMING (U+4DD9)	e4b799
+䷚	HEXAGRAM FOR MOUTH CORNERS (U+4DDA)	e4b79a
+䷛	HEXAGRAM FOR GREAT PREPONDERANCE (U+4DDB)	e4b79b
+䷜	HEXAGRAM FOR THE ABYSMAL WATER (U+4DDC)	e4b79c
+䷝	HEXAGRAM FOR THE CLINGING FIRE (U+4DDD)	e4b79d
+䷞	HEXAGRAM FOR INFLUENCE (U+4DDE)	e4b79e
+䷟	HEXAGRAM FOR DURATION (U+4DDF)	e4b79f
+䷠	HEXAGRAM FOR RETREAT (U+4DE0)	e4b7a0
+䷡	HEXAGRAM FOR GREAT POWER (U+4DE1)	e4b7a1
+䷢	HEXAGRAM FOR PROGRESS (U+4DE2)	e4b7a2
+䷣	HEXAGRAM FOR DARKENING OF THE LIGHT (U+4DE3)	e4b7a3
+䷤	HEXAGRAM FOR THE FAMILY (U+4DE4)	e4b7a4
+䷥	HEXAGRAM FOR OPPOSITION (U+4DE5)	e4b7a5
+䷦	HEXAGRAM FOR OBSTRUCTION (U+4DE6)	e4b7a6
+䷧	HEXAGRAM FOR DELIVERANCE (U+4DE7)	e4b7a7
+䷨	HEXAGRAM FOR DECREASE (U+4DE8)	e4b7a8
+䷩	HEXAGRAM FOR INCREASE (U+4DE9)	e4b7a9
+䷪	HEXAGRAM FOR BREAKTHROUGH (U+4DEA)	e4b7aa
+䷫	HEXAGRAM FOR COMING TO MEET (U+4DEB)	e4b7ab
+䷬	HEXAGRAM FOR GATHERING TOGETHER (U+4DEC)	e4b7ac
+䷭	HEXAGRAM FOR PUSHING UPWARD (U+4DED)	e4b7ad
+䷮	HEXAGRAM FOR OPPRESSION (U+4DEE)	e4b7ae
+䷯	HEXAGRAM FOR THE WELL (U+4DEF)	e4b7af
+䷰	HEXAGRAM FOR REVOLUTION (U+4DF0)	e4b7b0
+䷱	HEXAGRAM FOR THE CAULDRON (U+4DF1)	e4b7b1
+䷲	HEXAGRAM FOR THE AROUSING THUNDER (U+4DF2)	e4b7b2
+䷳	HEXAGRAM FOR THE KEEPING STILL MOUNTAIN (U+4DF3)	e4b7b3
+䷴	HEXAGRAM FOR DEVELOPMENT (U+4DF4)	e4b7b4
+䷵	HEXAGRAM FOR THE MARRYING MAIDEN (U+4DF5)	e4b7b5
+䷶	HEXAGRAM FOR ABUNDANCE (U+4DF6)	e4b7b6
+䷷	HEXAGRAM FOR THE WANDERER (U+4DF7)	e4b7b7
+䷸	HEXAGRAM FOR THE GENTLE WIND (U+4DF8)	e4b7b8
+䷹	HEXAGRAM FOR THE JOYOUS LAKE (U+4DF9)	e4b7b9
+䷺	HEXAGRAM FOR DISPERSION (U+4DFA)	e4b7ba
+䷻	HEXAGRAM FOR LIMITATION (U+4DFB)	e4b7bb
+䷼	HEXAGRAM FOR INNER TRUTH (U+4DFC)	e4b7bc
+䷽	HEXAGRAM FOR SMALL PREPONDERANCE (U+4DFD)	e4b7bd
+䷾	HEXAGRAM FOR AFTER COMPLETION (U+4DFE)	e4b7be
+䷿	HEXAGRAM FOR BEFORE COMPLETION (U+4DFF)	e4b7bf
+一	<CJK Ideograph, First> (U+4E00)	e4b880
+丁	male adult; robust, vigorous; 4th heavenly stem (U+4E01)	e4b881
+丂	obstruction of breath (qi) as it seeks release; variant of other characters (U+4E02)	e4b882
+七	seven (U+4E03)	e4b883
+丄	above (U+4E04)	e4b884
+丅	under, underneath, below; down; inferior; bring down; used to transliterate the Latin letter 'T' (U+4E05)	e4b885
+丆	kwukyel (U+4E06)	e4b886
+万	ten thousand; innumerable (U+4E07)	e4b887
+丈	unit of length equal 3.3 meters; gentleman, man, husband (U+4E08)	e4b888
+三	three (U+4E09)	e4b889
+上	top; superior, highest; go up, send up (U+4E0A)	e4b88a
+下	under, underneath, below; down; inferior; bring down (U+4E0B)	e4b88b
+丌	table (U+4E0C)	e4b88c
+不	no, not; un-; negative prefix (U+4E0D)	e4b88d
+与	and; with; to; for; give, grant (U+4E0E)	e4b88e
+丏	parapet; invisible (U+4E0F)	e4b88f
+丐	beggar; beg; give (U+4E10)	e4b890
+丑	clown, comedian; 2nd terrestrial branch (U+4E11)	e4b891
+丒	the period from 1 to 3 a.m.; 2nd character of the 'branches' (U+4E12)	e4b892
+专	monopolize, take sole possession (U+4E13)	e4b893
+且	moreover, also (post-subject); about to, will soon (pre-verb) (U+4E14)	e4b894
+丕	great, grand, glorious, distinguished (U+4E15)	e4b895
+世	generation; world; era (U+4E16)	e4b896
+丗	thirty, thirtieth (U+4E17)	e4b897
+丘	hill; elder; empty; a name (U+4E18)	e4b898
+丙	third; 3rd heavenly stem (U+4E19)	e4b899
+业	profession, business; GB radical 111 (U+4E1A)	e4b89a
+丛	bush, shrub; thicket; collection (U+4E1B)	e4b89b
+东	east, eastern, eastward (U+4E1C)	e4b89c
+丝	silk; fine thread; wire; strings (U+4E1D)	e4b89d
+丞	assist, aid, rescue (U+4E1E)	e4b89e
+丟	discard, reject, lose (U+4E1F)	e4b89f
+丠	hill; elder; empty; a name (U+4E20)	e4b8a0
+両	two, both, pair, couple; a tael, ounce (U+4E21)	e4b8a1
+丢	discard (U+4E22)	e4b8a2
+丣	ancient form of the tenth of the twelve Terrestrial Branches, U+9149 酉 (U+4E23)	e4b8a3
+两	two, both, pair, couple; ounce (U+4E24)	e4b8a4
+严	strict, rigorous, rigid; stern (U+4E25)	e4b8a5
+並	equal to; side by side; also, what is more; both (U+4E26)	e4b8a6
+丧	mourning; mourn; funeral (U+4E27)	e4b8a7
+丨	(same as U+3021 HANGZHOU NUMERAL ONE 〡) number one; line; KangXi radical 2 (U+4E28)	e4b8a8
+丩	to join or connect the vine (U+4E29)	e4b8a9
+个	numerary adjunct, piece; single (U+4E2A)	e4b8aa
+丫	forked; bifurcation (U+4E2B)	e4b8ab
+丬	half of tree trunk; rad. no. 90 (U+4E2C)	e4b8ac
+中	central; center, middle; in the midst of; hit (target); attain (U+4E2D)	e4b8ad
+丮	catch (U+4E2E)	e4b8ae
+丯	dense (U+4E2F)	e4b8af
+丰	abundant, lush, bountiful, plenty (U+4E30)	e4b8b0
+丱	child's hairstyle bound in two tufts; ore (U+4E31)	e4b8b1
+串	string; relatives; conspire (U+4E32)	e4b8b2
+丳	spit, grill; a skewer (U+4E33)	e4b8b3
+临	draw near, approach; descend (U+4E34)	e4b8b4
+丵	thick (grass) (U+4E35)	e4b8b5
+丶	dot; KangXi radical 3 (U+4E36)	e4b8b6
+丷	kwukyel (U+4E37)	e4b8b7
+丸	small round object; pellet, pill (U+4E38)	e4b8b8
+丹	cinnabar (native HgS); vermilion (artificial HgS used as pigment) (U+4E39)	e4b8b9
+为	do, handle, govern, act; be (U+4E3A)	e4b8ba
+主	master, chief owner; host; lord (U+4E3B)	e4b8bb
+丼	bowl of food; well (U+4E3C)	e4b8bc
+丽	beautiful, magnificent, elegant (U+4E3D)	e4b8bd
+举	raise, lift up; recommend (U+4E3E)	e4b8be
+丿	line; KangXi radical 4 (U+4E3F)	e4b8bf
+乀	stretch (U+4E40)	e4b980
+乁	U+4E41 (U+4E41)	e4b981
+乂	govern, control, manage; nurture (U+4E42)	e4b982
+乃	then; really, indeed; as it turned out, after all; namely (U+4E43)	e4b983
+乄	SHIME: to find a place to dwell; sum; a measurement of paper; SHITE to do; (not to be confused with U3024 HANGZHOU NUMERAL FIVE) (U+4E44)	e4b984
+久	long time (ago); time passage, grow late (U+4E45)	e4b985
+乆	long time (ago); time passage, grow late (U+4E46)	e4b986
+乇	to depend on, to entrust with (U+4E47)	e4b987
+么	interrogative particle; repetition of a tune small; tender (U+4E48)	e4b988
+义	right conduct, righteousness (U+4E49)	e4b989
+乊	kwukyel (U+4E4A)	e4b98a
+之	marks preceding phrase as modifier of following phrase; it, him her, them; go to (U+4E4B)	e4b98b
+乌	crow, rook, raven; black, dark (U+4E4C)	e4b98c
+乍	first time, for the first time (U+4E4D)	e4b98d
+乎	interrogative or exclamatory final particle (U+4E4E)	e4b98e
+乏	lack; poor (U+4E4F)	e4b98f
+乐	happy, glad; enjoyable; music (U+4E50)	e4b990
+乑	stand side by side (U+4E51)	e4b991
+乒	used with pong for ping pong (U+4E52)	e4b992
+乓	used with ping for ping pong (U+4E53)	e4b993
+乔	tall, lofty; proud, stately (U+4E54)	e4b994
+乕	tiger; brave, fierce; surname (U+4E55)	e4b995
+乖	rebel; crafty, shrewd (U+4E56)	e4b996
+乗	ride, ascend; avail oneself of; numerary adjunct for vehicles (U+4E57)	e4b997
+乘	ride, ascend; avail oneself of; numerary adjunct for vehicles (U+4E58)	e4b998
+乙	second; 2nd heavenly stem (U+4E59)	e4b999
+乚	hidden, mysterious, secret; to conceal; small; minute (U+4E5A)	e4b99a
+乛	kwukyel (U+4E5B)	e4b99b
+乜	to squint; (Cant.) what? huh? (U+4E5C)	e4b99c
+九	nine (U+4E5D)	e4b99d
+乞	beg; request (U+4E5E)	e4b99e
+也	also; classical final particle of strong affirmation or identity (U+4E5F)	e4b99f
+习	practice; flapping wings (U+4E60)	e4b9a0
+乡	country; rural; village (U+4E61)	e4b9a1
+乢	lid, to cover; to hide; a cover; an umbrella (U+4E62)	e4b9a2
+乣	U+4E63 (U+4E63)	e4b9a3
+乤	first character of Korean place name 'Halpho' (U+4E64)	e4b9a4
+乥	kwukyel (U+4E65)	e4b9a5
+书	book, letter, document; writings (U+4E66)	e4b9a6
+乧	U+4E67 (U+4E67)	e4b9a7
+乨	the beginning; to start, to begin, to be the first (U+4E68)	e4b9a8
+乩	to divine (U+4E69)	e4b9a9
+乪	(Cant.) a bend in a river (U+4E6A)	e4b9aa
+乫	used in Korean place names (U+4E6B)	e4b9ab
+乬	to hang (U+4E6C)	e4b9ac
+乭	rock; used in Korean names (U+4E6D)	e4b9ad
+乮	U+4E6E (U+4E6E)	e4b9ae
+乯	U+4E6F (U+4E6F)	e4b9af
+买	buy, purchase; bribe, persuade (U+4E70)	e4b9b0
+乱	confusion, state of chaos, revolt (U+4E71)	e4b9b1
+乲	U+4E72 (U+4E72)	e4b9b2
+乳	breast, nipples; milk, suckle (U+4E73)	e4b9b3
+乴	U+4E74 (U+4E74)	e4b9b4
+乵	to enter; to make progress to advance; to urge forward (U+4E75)	e4b9b5
+乶	Korean place name Pholha (U+4E76)	e4b9b6
+乷	U+4E77 (U+4E77)	e4b9b7
+乸	(Cant.) feminine suffix (U+4E78)	e4b9b8
+乹	(Cant.) to clean; dried up (U+4E79)	e4b9b9
+乺	painting tool place name (U+4E7A)	e4b9ba
+乻	U+4E7B (U+4E7B)	e4b9bb
+乼	rope (U+4E7C)	e4b9bc
+乽	U+4E7D (U+4E7D)	e4b9bd
+乾	dry; first hexagram; warming principle of the sun, penetrating and fertilizing, heavenly generative principle (male) (U+4E7E)	e4b9be
+乿	to cure, to heal (U+4E7F)	e4b9bf
+亀	turtle or tortoise; cuckold (U+4E80)	e4ba80
+亁	dry; dried, as opposed to fresh (U+4E81)	e4ba81
+亂	confusion, state of chaos; create chaos, revolt (U+4E82)	e4ba82
+亃	name of a kind of animal (U+4E83)	e4ba83
+亄	greedy, stingy (U+4E84)	e4ba84
+亅	hook; KangXi radical 6 (U+4E85)	e4ba85
+了	to finish; particle of completed action (U+4E86)	e4ba86
+亇	kwukyel hammer (U+4E87)	e4ba87
+予	I, me; to give (U+4E88)	e4ba88
+争	dispute, fight, contend, strive (U+4E89)	e4ba89
+亊	affair, matter, business; to serve; accident, incident (U+4E8A)	e4ba8a
+事	affair, matter, business; to serve; accident, incident (U+4E8B)	e4ba8b
+二	two; twice (U+4E8C)	e4ba8c
+亍	to take small steps; Korean place name (U+4E8D)	e4ba8d
+于	in, on, at; go to; surname (U+4E8E)	e4ba8e
+亏	lose, fail; damage; deficient (U+4E8F)	e4ba8f
+亐	U+4E90 (U+4E90)	e4ba90
+云	say, speak; clouds (U+4E91)	e4ba91
+互	mutually, reciprocally (U+4E92)	e4ba92
+亓	(archaic form) his, her, its, their; that (U+4E93)	e4ba93
+五	five; surname (U+4E94)	e4ba94
+井	well, mine shaft, pit (U+4E95)	e4ba95
+亖	four (U+4E96)	e4ba96
+亗	harvest; year; age (U+4E97)	e4ba97
+亘	extend across, through; from (U+4E98)	e4ba98
+亙	extend across, through; from (U+4E99)	e4ba99
+亚	Asia; second (U+4E9A)	e4ba9a
+些	little, few; rather, somewhat (U+4E9B)	e4ba9b
+亜	Asia; second (U+4E9C)	e4ba9c
+亝	even, regular, uniform all alike; to arrange (U+4E9D)	e4ba9d
+亞	Asia; second; used as a prefix to names (U+4E9E)	e4ba9e
+亟	urgently, immediately, extremely (U+4E9F)	e4ba9f
+亠	head; KangXi radical 8 (U+4EA0)	e4baa0
+亡	death, destroyed; lose, perish (U+4EA1)	e4baa1
+亢	high, proud; violent, excessive; skilled; name (U+4EA2)	e4baa2
+亣	U+4EA3 (U+4EA3)	e4baa3
+交	mix; intersect; exchange, communicate; deliver (U+4EA4)	e4baa4
+亥	12th terrestrial branch (U+4EA5)	e4baa5
+亦	also, too; likewise (U+4EA6)	e4baa6
+产	give birth, bring forth, produce (U+4EA7)	e4baa7
+亨	smoothly, progressing, no trouble (U+4EA8)	e4baa8
+亩	Chinese land measure; fields (U+4EA9)	e4baa9
+亪	kwukyel (U+4EAA)	e4baaa
+享	enjoy (U+4EAB)	e4baab
+京	capital city (U+4EAC)	e4baac
+亭	pavilion; erect (U+4EAD)	e4baad
+亮	bright, brilliant, radiant, light (U+4EAE)	e4baae
+亯	to receive; to enjoy (U+4EAF)	e4baaf
+亰	capital city (U+4EB0)	e4bab0
+亱	night, dark; in night; by night (U+4EB1)	e4bab1
+亲	relatives, parents; intimate the hazel nut or filbert tree a thorny tree (U+4EB2)	e4bab2
+亳	name of district in Anhui; capital of Yin (U+4EB3)	e4bab3
+亴	U+4EB4 (U+4EB4)	e4bab4
+亵	slight, insult, treat with disrespect (U+4EB5)	e4bab5
+亶	sincere; real, true; truth (U+4EB6)	e4bab6
+亷	upright, honorable, honest (U+4EB7)	e4bab7
+亸	read aloud, recite, chant; droop (U+4EB8)	e4bab8
+亹	progress; busy, untiring; exert (U+4EB9)	e4bab9
+人	man; people; mankind; someone else (U+4EBA)	e4baba
+亻	radical number 9 (U+4EBB)	e4babb
+亼	to assemble. to gather together (U+4EBC)	e4babc
+亽	kwukyel (U+4EBD)	e4babd
+亾	death, destroyed; lose, perish (U+4EBE)	e4babe
+亿	hundred million; many (U+4EBF)	e4babf
+什	file of ten soldiers; mixed, miscellaneous (U+4EC0)	e4bb80
+仁	humaneness, benevolence, kindness (U+4EC1)	e4bb81
+仂	surplus or excess; remainder (U+4EC2)	e4bb82
+仃	lonely, solitary (U+4EC3)	e4bb83
+仄	slanting, oblique; oblique tones (U+4EC4)	e4bb84
+仅	only, merely, solely, just (U+4EC5)	e4bb85
+仆	fall forward; lie prostrate, prone; servant (U+4EC6)	e4bb86
+仇	enemy, hate, hatred, enmity (U+4EC7)	e4bb87
+仈	U+4EC8 (U+4EC8)	e4bb88
+仉	surname of the mother of Mencius (U+4EC9)	e4bb89
+今	now, today, modern era (U+4ECA)	e4bb8a
+介	forerunner, herald, harbinger; to lie between; sea shell; to wear armor (U+4ECB)	e4bb8b
+仌	U+4ECC (U+4ECC)	e4bb8c
+仍	yet, still, as ever; again; keep -ing, continuing (U+4ECD)	e4bb8d
+从	from, by, since, whence, through (U+4ECE)	e4bb8e
+仏	Buddha (U+4ECF)	e4bb8f
+仐	(J) non-standard form of 傘 U+5098, umbrella, parasol, parachute (U+4ED0)	e4bb90
+仑	logical reasons, logical order (U+4ED1)	e4bb91
+仒	kwukyel (U+4ED2)	e4bb92
+仓	granary; berth; sea (U+4ED3)	e4bb93
+仔	small thing, child; young animal (U+4ED4)	e4bb94

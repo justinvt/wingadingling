@@ -1,0 +1,1024 @@
+動	move, happen; movement, action (U+52D5)	e58b95
+勖	enjoin, advise, preach to (U+52D6)	e58b96
+勗	enjoin, advise, excite (U+52D7)	e58b97
+勘	investigate; compare; collate (U+52D8)	e58b98
+務	affairs, business; must, should (U+52D9)	e58b99
+勚	work hard; belabored; toil (U+52DA)	e58b9a
+勛	meritorious deed; merits; rank (U+52DB)	e58b9b
+勜	U+52DC (U+52DC)	e58b9c
+勝	victory; excel, be better than (U+52DD)	e58b9d
+勞	labor, toil, do manual work (U+52DE)	e58b9e
+募	levy, raise; summon; recruit (U+52DF)	e58b9f
+勠	join forces, unite (U+52E0)	e58ba0
+勡	U+52E1 (U+52E1)	e58ba1
+勢	power, force; tendency (U+52E2)	e58ba2
+勣	achievements, conduct deserving (U+52E3)	e58ba3
+勤	industrious, diligent, attentive (U+52E4)	e58ba4
+勥	U+52E5 (U+52E5)	e58ba5
+勦	destroy, exterminate, annihilate (U+52E6)	e58ba6
+勧	recommend, advise, urge (U+52E7)	e58ba7
+勨	U+52E8 (U+52E8)	e58ba8
+勩	work hard; belabored; toil (U+52E9)	e58ba9
+勪	U+52EA (U+52EA)	e58baa
+勫	U+52EB (U+52EB)	e58bab
+勬	U+52EC (U+52EC)	e58bac
+勭	U+52ED (U+52ED)	e58bad
+勮	U+52EE (U+52EE)	e58bae
+勯	exhausted (U+52EF)	e58baf
+勰	peaceful, harmonious (U+52F0)	e58bb0
+勱	put forth effort, strive forward (U+52F1)	e58bb1
+勲	meritorious deed; merits; rank (U+52F2)	e58bb2
+勳	meritorious deed; merits; rank (U+52F3)	e58bb3
+勴	U+52F4 (U+52F4)	e58bb4
+勵	strive; encourage (U+52F5)	e58bb5
+勶	U+52F6 (U+52F6)	e58bb6
+勷	urgent; in haste, hurriedly; help (U+52F7)	e58bb7
+勸	recommend, advise, urge (U+52F8)	e58bb8
+勹	wrap; KangXi radical 20 (U+52F9)	e58bb9
+勺	spoon, ladle; unit of volume (U+52FA)	e58bba
+勻	equal, impartially, uniform, even (U+52FB)	e58bbb
+勼	U+52FC (U+52FC)	e58bbc
+勽	to incubate; to brood; to hatch (U+52FD)	e58bbd
+勾	hook, join, connect; entice (U+52FE)	e58bbe
+勿	must not, do not; without, never (U+52FF)	e58bbf
+匀	equal (U+5300)	e58c80
+匁	Japanese unit of weight (1/1000 of a kan) (U+5301)	e58c81
+匂	fragrance, smell (U+5302)	e58c82
+匃	beggar; beg; give (U+5303)	e58c83
+匄	to beg for alms; a beggar (U+5304)	e58c84
+包	wrap, pack, bundle; package (U+5305)	e58c85
+匆	hastily, in haste, hurriedly (U+5306)	e58c86
+匇	U+5307 (U+5307)	e58c87
+匈	breast, chest, thorax; clamor; the Hsiung Nu 'Huns' (U+5308)	e58c88
+匉	noise of waters (U+5309)	e58c89
+匊	handful (U+530A)	e58c8a
+匋	pottery (U+530B)	e58c8b
+匌	U+530C (U+530C)	e58c8c
+匍	crawl; lie prostrate (U+530D)	e58c8d
+匎	U+530E (U+530E)	e58c8e
+匏	gourd; musical instrument (U+530F)	e58c8f
+匐	fall prostrate; crawl (U+5310)	e58c90
+匑	U+5311 (U+5311)	e58c91
+匒	U+5312 (U+5312)	e58c92
+匓	U+5313 (U+5313)	e58c93
+匔	U+5314 (U+5314)	e58c94
+匕	spoon, ladle; knife, dirk (U+5315)	e58c95
+化	change, convert, reform; -ize (U+5316)	e58c96
+北	north; northern; northward (U+5317)	e58c97
+匘	the brain (U+5318)	e58c98
+匙	spoon; surname (U+5319)	e58c99
+匚	box; KangXi radical 22 (U+531A)	e58c9a
+匛	U+531B (U+531B)	e58c9b
+匜	basin; container for wine (U+531C)	e58c9c
+匝	full circle; encircle (U+531D)	e58c9d
+匞	U+531E (U+531E)	e58c9e
+匟	divan for two persons (U+531F)	e58c9f
+匠	craftsman, artisan; workman (U+5320)	e58ca0
+匡	correct, restore, revise (U+5321)	e58ca1
+匢	U+5322 (U+5322)	e58ca2
+匣	small box, case, coffer (U+5323)	e58ca3
+匤	U+5324 (U+5324)	e58ca4
+匥	U+5325 (U+5325)	e58ca5
+匦	small box; chest, casket (U+5326)	e58ca6
+匧	a trunk; a portfolio (U+5327)	e58ca7
+匨	U+5328 (U+5328)	e58ca8
+匩	U+5329 (U+5329)	e58ca9
+匪	bandits, robbers, gangsters (U+532A)	e58caa
+匫	U+532B (U+532B)	e58cab
+匬	U+532C (U+532C)	e58cac
+匭	small box; chest, casket (U+532D)	e58cad
+匮	to lack (U+532E)	e58cae
+匯	a concourse; to flow together, gather together; (same as U+6ED9 滙) to remit money (U+532F)	e58caf
+匰	U+5330 (U+5330)	e58cb0
+匱	to lack (U+5331)	e58cb1
+匲	U+5332 (U+5332)	e58cb2
+匳	ladies toilet case with mirror (U+5333)	e58cb3
+匴	U+5334 (U+5334)	e58cb4
+匵	case; casket (U+5335)	e58cb5
+匶	U+5336 (U+5336)	e58cb6
+匷	U+5337 (U+5337)	e58cb7
+匸	box; KangXi radical 23 (U+5338)	e58cb8
+匹	bolt of cloth; counter for horses (U+5339)	e58cb9
+区	area, district, region, ward (U+533A)	e58cba
+医	cure, heal; doctor, medical (U+533B)	e58cbb
+匼	U+533C (U+533C)	e58cbc
+匽	to hide, to secrete, to repress; to bend (U+533D)	e58cbd
+匾	flat, round split-bamboo contain (U+533E)	e58cbe
+匿	hide; go into hiding (U+533F)	e58cbf
+區	area, district, region, ward; surname (U+5340)	e58d80
+十	ten, tenth; complete; perfect (U+5341)	e58d81
+卂	to fly rapidly (U+5342)	e58d82
+千	thousand; many, numerous; very; (Cant.) a cheater, swindler (U+5343)	e58d83
+卄	twenty, twentieth (U+5344)	e58d84
+卅	thirty, thirtieth (U+5345)	e58d85
+卆	soldier; servant; at last, finally (U+5346)	e58d86
+升	arise, go up; hoist; advance (U+5347)	e58d87
+午	noon; 7th terrestrial branch (U+5348)	e58d88
+卉	general term for plants; myriads (U+5349)	e58d89
+半	half (U+534A)	e58d8a
+卋	same as 世 U+4E16, generation; world; era (U+534B)	e58d8b
+卌	forty, fortieth (U+534C)	e58d8c
+卍	swastika, one of the auspicious signs recognized (e.g. in Chinese Tathagata Buddhism) as being on the chest of Buddha (and variously seen in statuary on the chest, soles of the feet, or palms of the hands) (U+534D)	e58d8d
+华	flowery; illustrious; Chinese (U+534E)	e58d8e
+协	be united; cooperate (U+534F)	e58d8f
+卐	swastika, one of the auspicious signs recognized (e.g. in Chinese Tathagata Buddhism) as being on the chest of Buddha (and variously seen in statuary on the chest, soles of the feet, or palms of the hands) (U+5350)	e58d90
+卑	humble, low, inferior; despise (U+5351)	e58d91
+卒	soldier; servant; at last, finally (U+5352)	e58d92
+卓	profound, brilliant, lofty (U+5353)	e58d93
+協	be united; cooperate (U+5354)	e58d94
+单	single, individual, only; lone (U+5355)	e58d95
+卖	sell; betray; show off (U+5356)	e58d96
+南	south; southern part; southward (U+5357)	e58d97
+単	same as 單 U+55AE, single, individual, only; lone (U+5358)	e58d98
+卙	U+5359 (U+5359)	e58d99
+博	gamble, play games; wide, broad (U+535A)	e58d9a
+卛	U+535B (U+535B)	e58d9b
+卜	fortune telling; prophesy (U+535C)	e58d9c
+卝	hair style; ore (U+535D)	e58d9d
+卞	to be impatient, in a hurry; excitable (U+535E)	e58d9e
+卟	a chemical compound; divination; to consider (U+535F)	e58d9f
+占	divine; observe; versify (U+5360)	e58da0
+卡	card, punch card; calorie (U+5361)	e58da1
+卢	cottage, hut; surname; black (U+5362)	e58da2
+卣	wine pot (U+5363)	e58da3
+卤	salt (U+5364)	e58da4
+卥	U+5365 (U+5365)	e58da5
+卦	fortune telling; tell fortunes (U+5366)	e58da6
+卧	lie down; crouch (U+5367)	e58da7
+卨	used in old names; phonetic seol used in Korean names (U+5368)	e58da8
+卩	seal; KangXi radical 26 (U+5369)	e58da9
+卪	kwukyel (U+536A)	e58daa
+卫	guard, protect, defend (U+536B)	e58dab
+卬	lofty; high; raise; high-priced (U+536C)	e58dac
+卭	high. to raise (U+536D)	e58dad
+卮	measuring cup; wine container (U+536E)	e58dae
+卯	4th terrestrial branch; period from 5-7 a.m. (U+536F)	e58daf
+印	print, seal, stamp, chop, mark (U+5370)	e58db0
+危	dangerous, precarious; high (U+5371)	e58db1
+卲	eminent, lofty; beautiful; surname (U+5372)	e58db2
+即	promptly, quickly, immediately (U+5373)	e58db3
+却	still, but; decline; retreat (U+5374)	e58db4
+卵	egg; ovum; roe; spawn (U+5375)	e58db5
+卶	U+5376 (U+5376)	e58db6
+卷	scroll; curl; make a comeback (U+5377)	e58db7
+卸	lay down; retire from office (U+5378)	e58db8
+卹	sympathy, pity; comfort (U+5379)	e58db9
+卺	(nuptial) winecups (U+537A)	e58dba
+卻	still, but; decline; retreat (U+537B)	e58dbb
+卼	unsteady; dangerous (U+537C)	e58dbc
+卽	promptly (U+537D)	e58dbd
+卾	U+537E (U+537E)	e58dbe
+卿	noble, high officer (U+537F)	e58dbf
+厀	U+5380 (U+5380)	e58e80
+厁	U+5381 (U+5381)	e58e81
+厂	factory, workshop; radical 27 (U+5382)	e58e82
+厃	to look upward (U+5383)	e58e83
+厄	adversity, difficulty, distress (U+5384)	e58e84
+厅	hall, central room (U+5385)	e58e85
+历	history; calendar (U+5386)	e58e86
+厇	U+5387 (U+5387)	e58e87
+厈	U+5388 (U+5388)	e58e88
+厉	whetstone; grind, sharpen; whet (U+5389)	e58e89
+厊	U+538A (U+538A)	e58e8a
+压	press; oppress; crush; pressure (U+538B)	e58e8b
+厌	dislike, detest, reject; satiate (U+538C)	e58e8c
+厍	surname (U+538D)	e58e8d
+厎	settle (U+538E)	e58e8e
+厏	U+538F (U+538F)	e58e8f
+厐	disorderly, messy; huge, big (U+5390)	e58e90
+厑	U+5391 (U+5391)	e58e91
+厒	U+5392 (U+5392)	e58e92
+厓	precipice, shore, bank; surname (U+5393)	e58e93
+厔	stop, hinder; place near water (U+5394)	e58e94
+厕	mingle with; toilet, lavatory (U+5395)	e58e95
+厖	bulky; thick and large; confused (U+5396)	e58e96
+厗	U+5397 (U+5397)	e58e97
+厘	thousandth part of tael (U+5398)	e58e98
+厙	surname (U+5399)	e58e99
+厚	thick; substantial; greatly (U+539A)	e58e9a
+厛	U+539B (U+539B)	e58e9b
+厜	a mountain peak (U+539C)	e58e9c
+厝	cut or engrave; a grave or tombstone (U+539D)	e58e9d
+厞	U+539E (U+539E)	e58e9e
+原	source, origin, beginning (U+539F)	e58e9f
+厠	mingle with; toilet, lavatory (U+53A0)	e58ea0
+厡	U+53A1 (U+53A1)	e58ea1
+厢	side-room, wing; theatre box (U+53A2)	e58ea2
+厣	shell (U+53A3)	e58ea3
+厤	to calculate; the calendar (U+53A4)	e58ea4
+厥	personal pronoun he, she, it (U+53A5)	e58ea5
+厦	big building, mansion (U+53A6)	e58ea6
+厧	U+53A7 (U+53A7)	e58ea7
+厨	kitchen; closet; cupboard (U+53A8)	e58ea8
+厩	stable; barnyard (U+53A9)	e58ea9
+厪	a hut; careful (U+53AA)	e58eaa
+厫	granary (U+53AB)	e58eab
+厬	U+53AC (U+53AC)	e58eac
+厭	dislike, detest, reject; satiate (U+53AD)	e58ead
+厮	servant; to make a disturbance (U+53AE)	e58eae
+厯	U+53AF (U+53AF)	e58eaf
+厰	factory, plant, workshop, mill (U+53B0)	e58eb0
+厱	U+53B1 (U+53B1)	e58eb1
+厲	whetstone; grind, sharpen; whet (U+53B2)	e58eb2
+厳	strict, rigorous, rigid; stern (U+53B3)	e58eb3
+厴	shell (U+53B4)	e58eb4
+厵	a spring; source (U+53B5)	e58eb5
+厶	private, secret; KangXi radical 28 (U+53B6)	e58eb6
+厷	the fore-arm; most Chinese-English dictionaries give the upper-arm; round (U+53B7)	e58eb7
+厸	U+53B8 (U+53B8)	e58eb8
+厹	spear; tribe (U+53B9)	e58eb9
+厺	to go; depart (U+53BA)	e58eba
+去	go away, leave, depart (U+53BB)	e58ebb
+厼	kwukyel (U+53BC)	e58ebc
+厽	U+53BD (U+53BD)	e58ebd
+厾	lightly tap; through away; drop; sentence final particle (U+53BE)	e58ebe
+县	county, district, subdivision (U+53BF)	e58ebf
+叀	U+53C0 (U+53C0)	e58f80
+叁	bank form of numeral 'three' (U+53C1)	e58f81
+参	take part in, intervene; ginseng (U+53C2)	e58f82
+參	take part in, intervene; ginseng (U+53C3)	e58f83
+叄	take part in, intervene; ginseng (U+53C4)	e58f84
+叅	to counel, to consult together; to take part in; to intervene (U+53C5)	e58f85
+叆	cloudy sky; dark, obscure (U+53C6)	e58f86
+叇	U+53C7 (U+53C7)	e58f87
+又	and, also, again, in addition (U+53C8)	e58f88
+叉	crotch; fork, prong (U+53C9)	e58f89
+及	extend; reach; come up to; and (U+53CA)	e58f8a
+友	friend, companion; fraternity (U+53CB)	e58f8b
+双	set of two, pair, couple; both (U+53CC)	e58f8c
+反	reverse, opposite, contrary, anti (U+53CD)	e58f8d
+収	gather together, collect; harvest (U+53CE)	e58f8e
+叏	U+53CF (U+53CF)	e58f8f
+叐	to prick a dog to make him go (U+53D0)	e58f90
+发	issue, dispatch, send out; hair (U+53D1)	e58f91
+叒	obedient; united (U+53D2)	e58f92
+叓	affair, matter; work (U+53D3)	e58f93
+叔	father's younger brother (U+53D4)	e58f94
+叕	to connect (U+53D5)	e58f95
+取	take, receive, obtain; select (U+53D6)	e58f96
+受	receive, accept, get; bear, stand (U+53D7)	e58f97
+变	change, transform, alter; rebel (U+53D8)	e58f98
+叙	express, state, relate, narrate (U+53D9)	e58f99
+叚	false (U+53DA)	e58f9a
+叛	rebel; rebellion; rebellious (U+53DB)	e58f9b
+叜	old man (U+53DC)	e58f9c
+叝	to respectfully inform (U+53DD)	e58f9d
+叞	U+53DE (U+53DE)	e58f9e
+叟	old man; elder (U+53DF)	e58f9f
+叠	pile; be piled up; fold up (U+53E0)	e58fa0
+叡	astute, profound, shrewd (U+53E1)	e58fa1
+叢	bush, shrub; thicket; collection (U+53E2)	e58fa2
+口	mouth; open end; entrance, gate (U+53E3)	e58fa3
+古	old, classic, ancient (U+53E4)	e58fa4
+句	sentence (U+53E5)	e58fa5
+另	another, separate, other (U+53E6)	e58fa6
+叧	to cut meat off away from bones; ancient torture (U+53E7)	e58fa7
+叨	talkative; quarrelous (U+53E8)	e58fa8
+叩	knock, ask; kowtow, bow (U+53E9)	e58fa9
+只	only, just, simply (U+53EA)	e58faa
+叫	cry, shout; hail, greet, call (U+53EB)	e58fab
+召	imperial decree; summon (U+53EC)	e58fac
+叭	trumpet (U+53ED)	e58fad
+叮	exhort or enjoin repeatedly (U+53EE)	e58fae
+可	may, can, -able; possibly (U+53EF)	e58faf
+台	platform; unit; term of address (U+53F0)	e58fb0
+叱	scold, shout at, bawl out (U+53F1)	e58fb1
+史	history, chronicle, annals (U+53F2)	e58fb2
+右	right; west; right-wing (U+53F3)	e58fb3
+叴	a three-edged spear (U+53F4)	e58fb4
+叵	cannot, be unable do, improbable; thereupon (U+53F5)	e58fb5
+叶	to harmonize, to rhyme; to unite; (borrowed for) leaf (U+53F6)	e58fb6
+号	mark, sign; symbol; number (U+53F7)	e58fb7
+司	take charge of, control, manage; officer (U+53F8)	e58fb8
+叹	sigh, admire (U+53F9)	e58fb9
+叺	a straw bag; a tobacco pouch (U+53FA)	e58fba
+叻	used in place names; (Cant.) smart, clever (U+53FB)	e58fbb
+叼	holding in mouth (U+53FC)	e58fbc
+叽	sigh in disapproval; take small (U+53FD)	e58fbd
+叾	西貢叾, a place in Hong Kong (U+53FE)	e58fbe
+叿	U+53FF (U+53FF)	e58fbf
+吀	U+5400 (U+5400)	e59080
+吁	interjection 'Alas!'; to sigh (U+5401)	e59081
+吂	U+5402 (U+5402)	e59082
+吃	eat; drink; suffer, endure, bear (U+5403)	e59083
+各	each, individually, every, all (U+5404)	e59084
+吅	U+5405 (U+5405)	e59085
+吆	bawl, yell, shout, cry out (U+5406)	e59086
+吇	U+5407 (U+5407)	e59087
+合	combine, unite, join; gather (U+5408)	e59088
+吉	lucky, propitious, good (U+5409)	e59089
+吊	condole, mourn, pity; hang (U+540A)	e5908a
+吋	English inch (unlike U+5BF8 寸, which can be either the English or the Chinese inch) (U+540B)	e5908b
+同	same, similar; together with (U+540C)	e5908c
+名	name, rank, title, position (U+540D)	e5908d
+后	queen, empress, sovereign; (simp. for 後) behind, rear, after (U+540E)	e5908e
+吏	government official, magistrate (U+540F)	e5908f
+吐	vomit, spew out, cough up (U+5410)	e59090
+向	toward, direction, trend (U+5411)	e59091
+吒	shout, roar, bellow; scold (U+5412)	e59092
+吓	scare, frighten; intimidate (U+5413)	e59093
+吔	(Cant.) an interjection; phonetic (U+5414)	e59094
+吕	surname; a musical note (U+5415)	e59095
+吖	used in translation; (Cant.) final particle (U+5416)	e59096
+吗	final interrogative particle (U+5417)	e59097
+吘	U+5418 (U+5418)	e59098
+吙	U+5419 (U+5419)	e59099
+吚	used to represent sound (U+541A)	e5909a
+君	sovereign, monarch, ruler, chief, prince (U+541B)	e5909b
+吜	U+541C (U+541C)	e5909c
+吝	stingy, miserly, parsimonious (U+541D)	e5909d
+吞	swallow; absorb, annex, engulf (U+541E)	e5909e
+吟	sing, hum; recite; type of poetry (U+541F)	e5909f
+吠	bark (U+5420)	e590a0
+吡	blame (U+5421)	e590a1
+吢	vomiting of a dog (U+5422)	e590a2
+吣	vomit (U+5423)	e590a3
+吤	U+5424 (U+5424)	e590a4
+吥	U+5425 (U+5425)	e590a5
+否	not, no, negative; final particle (U+5426)	e590a6
+吧	emphatic final particle (U+5427)	e590a7
+吨	metric ton; (Cant.) to babble, gibberish (U+5428)	e590a8
+吩	order, command, instruct (U+5429)	e590a9
+吪	move (U+542A)	e590aa
+含	hold in mouth; cherish; contain (U+542B)	e590ab
+听	hear; understand; obey, comply (U+542C)	e590ac
+吭	throat (U+542D)	e590ad
+吮	suck with mouth, sip, lick (U+542E)	e590ae
+启	open; begin, commence; explain (U+542F)	e590af
+吰	clang (U+5430)	e590b0
+吱	chirping, squeaking, hissing (U+5431)	e590b1
+吲	smile at; sneer at (U+5432)	e590b2
+吳	one of warring states; surname (U+5433)	e590b3
+吴	name of warring state; surname (U+5434)	e590b4
+吵	argue, dispute; disturb, annoy (U+5435)	e590b5
+吶	raise voice, yell out loud, shout; stammer (U+5436)	e590b6
+吷	U+5437 (U+5437)	e590b7
+吸	inhale, suck in; absorb; attract (U+5438)	e590b8
+吹	blow; puff; brag, boast (U+5439)	e590b9
+吺	U+543A (U+543A)	e590ba
+吻	kiss; the lips; coinciding (U+543B)	e590bb
+吼	roar, shout; bark, howl (U+543C)	e590bc
+吽	'OM'; bellow; (Cant.) dull, stupid (U+543D)	e590bd
+吾	i, my, our; resist, impede (U+543E)	e590be
+吿	tell, announce, inform; accuse (U+543F)	e590bf
+呀	particle used to express surprise or mild emphasis; (Cant.) slurred form of the number ten (U+5440)	e59180
+呁	U+5441 (U+5441)	e59181
+呂	surname; a musical note (U+5442)	e59182
+呃	belch; hiccup (U+5443)	e59183
+呄	U+5444 (U+5444)	e59184
+呅	(Cant.) a dollar (U+5445)	e59185
+呆	dull; dull-minded, simple, stupid (U+5446)	e59186
+呇	star (U+5447)	e59187
+呈	submit, show; appear; petition (U+5448)	e59188
+呉	one of warring states; surname (U+5449)	e59189
+告	tell, announce, inform; accuse (U+544A)	e5918a
+呋	U+544B (U+544B)	e5918b
+呌	to call; to summon (U+544C)	e5918c
+呍	(Cant.) phonetic (U+544D)	e5918d
+呎	foot (U+544E)	e5918e
+呏	gallon; quart (U+544F)	e5918f
+呐	raise voice, yell out loud, shout; stammer (U+5450)	e59190
+呑	swallow; absorb (U+5451)	e59191
+呒	unclear; an expletive (U+5452)	e59192
+呓	talk in one's sleep, somniloquy (U+5453)	e59193
+呔	(Cant.) a necktie, a tire (U+5454)	e59194
+呕	vomit; annoy, enrage (U+5455)	e59195
+呖	used in onomatopoetic expressions (U+5456)	e59196
+呗	final particle of assertion (U+5457)	e59197
+员	member; personnel, staff member (U+5458)	e59198
+呙	chat, jaw, gossip, talk; mouth (U+5459)	e59199
+呚	U+545A (U+545A)	e5919a
+呛	choke by smoke; irritates nose (U+545B)	e5919b
+呜	sound of crying, sobbing (U+545C)	e5919c
+呝	U+545D (U+545D)	e5919d
+呞	U+545E (U+545E)	e5919e
+呟	to mutter, grumble, murmur (U+545F)	e5919f
+呠	to spurt; to blow out; to puff out; to snort (U+5460)	e591a0
+呡	the corners of the mouth the lips (U+5461)	e591a1
+呢	interrogative or emphatic final; (Cant.) this (U+5462)	e591a2
+呣	U+5463 (U+5463)	e591a3
+呤	purine (U+5464)	e591a4
+呥	(Cant.) intensifying particle (U+5465)	e591a5
+呦	the bleating of the deer (U+5466)	e591a6
+呧	to rebuke; to scold; slander (U+5467)	e591a7
+周	Zhou dynasty; circumference (U+5468)	e591a8
+呩	U+5469 (U+5469)	e591a9
+呪	curse, damn, incantation (U+546A)	e591aa
+呫	whisper; lick, taste; petty (U+546B)	e591ab
+呬	to rest (U+546C)	e591ac
+呭	final particle expressing consent; talkative (U+546D)	e591ad
+呮	to sit; (Cant.) only, merely; a final particle of intimacy (U+546E)	e591ae
+呯	(Cant.) onomatopoetic, the sound of a gong (U+546F)	e591af
+呰	to slander, revile (U+5470)	e591b0
+呱	wail, crying of child; swear at (U+5471)	e591b1
+呲	give a talking-to (U+5472)	e591b2
+味	taste, smell, odor; delicacy (U+5473)	e591b3
+呴	breathe on; yawn; roar (U+5474)	e591b4
+呵	scold; laughing sound; yawn (U+5475)	e591b5
+呶	talkative; clamour; hubbub (U+5476)	e591b6
+呷	suck, swallow, drink (U+5477)	e591b7
+呸	expression of reprimand (U+5478)	e591b8
+呹	(of animals) to eat grass (U+5479)	e591b9
+呺	voice of anger vast, spacious (U+547A)	e591ba
+呻	groan, moan; recite with intonation (U+547B)	e591bb
+呼	breathe sigh, exhale; call, shout (U+547C)	e591bc
+命	life; destiny, fate, luck; an order, instruction (U+547D)	e591bd
+呾	U+547E (U+547E)	e591be
+呿	to yawn (U+547F)	e591bf
+咀	suck; chew, masticate (U+5480)	e59280
+咁	(Cant.) like this, in this way; so, to such an extent (U+5481)	e59281
+咂	to suck, to smack the lips; (Cant.) to cheat (U+5482)	e59282
+咃	U+5483 (U+5483)	e59283
+咄	noise of rage, cry out in anger (U+5484)	e59284
+咅	to spit out (U+5485)	e59285
+咆	roar (U+5486)	e59286
+咇	fragrant; (Cant.) to eject (U+5487)	e59287
+咈	oppose (U+5488)	e59288
+咉	an echo, a sound to vomit, as an infant (U+5489)	e59289
+咊	harmony; peace; conciliation; to be on good terms with; kindly; mild (U+548A)	e5928a
+咋	question-forming particle, why? how? what?; to bite; loud (U+548B)	e5928b
+和	harmony, peace; peaceful, calm (U+548C)	e5928c
+咍	laugh (U+548D)	e5928d
+咎	fault, defect; error, mistake (U+548E)	e5928e
+咏	sing song or poem, hum, chant (U+548F)	e5928f
+咐	instruct, order (U+5490)	e59290
+咑	(Cant.) 啲咑, a trumpet (U+5491)	e59291
+咒	curse, damn, incantation (U+5492)	e59292
+咓	(Cant.) final particle (U+5493)	e59293
+咔	used in translation (U+5494)	e59294
+咕	mumble, mutter, murmur; rumble (U+5495)	e59295
+咖	coffee; a phonetic (U+5496)	e59296
+咗	(Cant.) verbal particle of perfective aspect (U+5497)	e59297
+咘	U+5498 (U+5498)	e59298
+咙	throat (U+5499)	e59299
+咚	onomatopoetic, a thumping sound (U+549A)	e5929a
+咛	enjoin, instruct; charge (U+549B)	e5929b
+咜	to scold (U+549C)	e5929c
+咝	hiss; call to come; syllable (U+549D)	e5929d
+咞	U+549E (U+549E)	e5929e
+咟	U+549F (U+549F)	e5929f
+咠	to whisper. to blame to slander (U+54A0)	e592a0
+咡	side of mouth (U+54A1)	e592a1
+咢	sound; drumming (U+54A2)	e592a2
+咣	the sound of large door closing (U+54A3)	e592a3
+咤	scold, bellow, shout at, roar (U+54A4)	e592a4
+咥	sound of a cat; bite; laugh (U+54A5)	e592a5
+咦	exclamation of surprise (U+54A6)	e592a6
+咧	stretch mouth, grimace, grin (U+54A7)	e592a7
+咨	inquire, consult, discuss; plan (U+54A8)	e592a8
+咩	the bleating of sheep; (Cant.) an interrogative particle (U+54A9)	e592a9
+咪	sound of cat, cat's meow; meter; (Cant.) don't! (U+54AA)	e592aa
+咫	foot measure of Zhou dynasty (U+54AB)	e592ab
+咬	bite, gnaw (U+54AC)	e592ac
+咭	(Cant.) to guard (from Engl. 'guard'); a card (from Engl. 'card'); young and pretty (from Engl. 'kid') (U+54AD)	e592ad
+咮	a beak; to peck (U+54AE)	e592ae
+咯	final particle (U+54AF)	e592af
+咰	U+54B0 (U+54B0)	e592b0
+咱	we, us (U+54B1)	e592b1
+咲	smile, laugh, giggle; snicker (U+54B2)	e592b2
+咳	cough (U+54B3)	e592b3
+咴	U+54B4 (U+54B4)	e592b4
+咵	to revile (U+54B5)	e592b5
+咶	U+54B6 (U+54B6)	e592b6
+咷	howl, cry loudly (U+54B7)	e592b7
+咸	together; all, completely; united (U+54B8)	e592b8
+咹	(Cant.) sound of an automobile horn (U+54B9)	e592b9
+咺	majestic (U+54BA)	e592ba
+咻	shout (U+54BB)	e592bb
+咼	chat, jaw, gossip, talk; mouth (U+54BC)	e592bc
+咽	throat; pharynx (U+54BD)	e592bd
+咾	a noise; a sound (U+54BE)	e592be
+咿	descriptive of creaking; laugh (U+54BF)	e592bf
+哀	sad, mournful, pitiful; pity (U+54C0)	e59380
+品	article, product, commodity (U+54C1)	e59381
+哂	smile, laugh at, sneer at; (Cant.) a final particle indicating doing something to the full extent possible (U+54C2)	e59382
+哃	U+54C3 (U+54C3)	e59383
+哄	coax; beguile, cheat, deceive (U+54C4)	e59384
+哅	U+54C5 (U+54C5)	e59385
+哆	tremble, shiver, shudder, quiver (U+54C6)	e59386
+哇	vomit; cry of an infant (U+54C7)	e59387
+哈	sound of laughter (U+54C8)	e59388
+哉	final exclamatory particle (U+54C9)	e59389
+哊	U+54CA (U+54CA)	e5938a
+哋	(Cant.) plural; adverb (U+54CB)	e5938b
+哌	used in translation (U+54CC)	e5938c
+响	make sound, make noise; sound (U+54CD)	e5938d
+哎	interjection of surprise (U+54CE)	e5938e
+哏	U+54CF (U+54CF)	e5938f
+哐	syllable (U+54D0)	e59390
+哑	dumb, mute; become hoarse (U+54D1)	e59391
+哒	a sound made to get a horse to move forward (U+54D2)	e59392
+哓	garrulous; disturbed; restless (U+54D3)	e59393
+哔	used in transliterations (U+54D4)	e59394
+哕	belch; vomit (U+54D5)	e59395
+哖	U+54D6 (U+54D6)	e59396
+哗	rushing sound; gush forward (U+54D7)	e59397
+哘	U+54D8 (U+54D8)	e59398
+哙	swallow, gulp down; greedy (U+54D9)	e59399
+哚	chemical element; (Cant.) backing, support of someone powerful; a little (U+54DA)	e5939a
+哛	U+54DB (U+54DB)	e5939b
+哜	sip (U+54DC)	e5939c
+哝	whisper (U+54DD)	e5939d
+哞	moo (U+54DE)	e5939e
+哟	ah, final particle (U+54DF)	e5939f
+哠	U+54E0 (U+54E0)	e593a0
+員	member; personnel, staff member (U+54E1)	e593a1
+哢	syllable (U+54E2)	e593a2
+哣	(Cant.) sick, unwell (U+54E3)	e593a3
+哤	jargon (U+54E4)	e593a4
+哥	elder brother (U+54E5)	e593a5
+哦	oh? really? is that so? (U+54E6)	e593a6
+哧	sound of ripping or giggling (U+54E7)	e593a7
+哨	whistle, blow whistle; chirp (U+54E8)	e593a8
+哩	mile (U+54E9)	e593a9
+哪	which? where? how? (U+54EA)	e593aa
+哫	to cajole (U+54EB)	e593ab
+哬	U+54EC (U+54EC)	e593ac
+哭	weep, cry, wail (U+54ED)	e593ad
+哮	cough; pant; roar (U+54EE)	e593ae
+哯	U+54EF (U+54EF)	e593af
+哰	incoherent chatter (U+54F0)	e593b0
+哱	U+54F1 (U+54F1)	e593b1
+哲	wise, sagacious; wise man, sage (U+54F2)	e593b2
+哳	U+54F3 (U+54F3)	e593b3
+哴	crying of infants (U+54F4)	e593b4
+哵	the cry of a bird (U+54F5)	e593b5
+哶	bleat (U+54F6)	e593b6
+哷	U+54F7 (U+54F7)	e593b7
+哸	U+54F8 (U+54F8)	e593b8
+哹	U+54F9 (U+54F9)	e593b9
+哺	chew food; feed (U+54FA)	e593ba
+哻	U+54FB (U+54FB)	e593bb
+哼	hum; sing softly; groan, moan; (Cant.) an interjecting indicating disapproval (U+54FC)	e593bc
+哽	choke (with grief) (U+54FD)	e593bd
+哾	U+54FE (U+54FE)	e593be
+哿	excellent; to commend to be able to (U+54FF)	e593bf
+唀	U+5500 (U+5500)	e59480
+唁	express condolence (U+5501)	e59481
+唂	(Cant.) phonetic; in a bad mood (U+5502)	e59482
+唃	U+5503 (U+5503)	e59483
+唄	final particle of assertion pathaka (U+5504)	e59484
+唅	a sound; to put in the mouth; (Cant.) to grunt, grumble (U+5505)	e59485
+唆	make mischief, incite, instigate (U+5506)	e59486
+唇	lips (U+5507)	e59487
+唈	to sob (U+5508)	e59488
+唉	alas, exclamation of surprise or pain (U+5509)	e59489
+唊	(Cant.) to hold fast, press (U+550A)	e5948a
+唋	U+550B (U+550B)	e5948b
+唌	U+550C (U+550C)	e5948c
+唍	U+550D (U+550D)	e5948d
+唎	sound, noise; final particle (U+550E)	e5948e
+唏	weep or sob; grieve (U+550F)	e5948f
+唐	Tang dynasty; Chinese (U+5510)	e59490
+唑	(chem.) azole (U+5511)	e59491
+唒	U+5512 (U+5512)	e59492
+唓	(Cant.) interjection (U+5513)	e59493
+唔	hold in mouth; bite; (Cant.) not, negation (U+5514)	e59494
+唕	U+5515 (U+5515)	e59495
+唖	dumb, mute; become hoarse (U+5516)	e59496
+唗	U+5517 (U+5517)	e59497
+唘	U+5518 (U+5518)	e59498
+唙	U+5519 (U+5519)	e59499
+唚	vomiting of animals; to use bad language (U+551A)	e5949a
+唛	mark (U+551B)	e5949b
+唜	U+551C (U+551C)	e5949c
+唝	U+551D (U+551D)	e5949d
+唞	(Cant.) to gasp; to breathe; to rest (U+551E)	e5949e
+唟	place name (U+551F)	e5949f
+唠	chat, jaw, gossip, talk (U+5520)	e594a0
+唡	ounce (U+5521)	e594a1
+唢	flute-like musical instrument (U+5522)	e594a2
+唣	chatter (U+5523)	e594a3
+唤	call (U+5524)	e594a4
+唥	(Cant.) a bundle; onomatopoetic; round, circular; guys (slang) (U+5525)	e594a5
+唦	U+5526 (U+5526)	e594a6
+唧	chirping of insects; pump; (Cant.) a final particle (U+5527)	e594a7
+唨	(Cant.) particle indicating past tense (U+5528)	e594a8
+唩	U+5529 (U+5529)	e594a9
+唪	to recite, to intone or chant (U+552A)	e594aa
+唫	to hum, to intone, etc. to close, to shut (U+552B)	e594ab
+唬	to intimidate; to scare (U+552C)	e594ac
+唭	U+552D (U+552D)	e594ad
+售	sell (U+552E)	e594ae
+唯	only; yes (U+552F)	e594af
+唰	swish, rustle (U+5530)	e594b0
+唱	sing, chant, call; ditty, song (U+5531)	e594b1
+唲	forced laughter (U+5532)	e594b2
+唳	cry of bird; cry (U+5533)	e594b3
+唴	U+5534 (U+5534)	e594b4
+唵	used in Buddhist texts to transliterate non-Chinese sounds; to eat with the hand (U+5535)	e594b5
+唶	sigh, groan; loud laughter (U+5536)	e594b6
+唷	final particle (U+5537)	e594b7
+唸	recite, read, chant (U+5538)	e594b8
+唹	to smile at (U+5539)	e594b9
+唺	U+553A (U+553A)	e594ba
+唻	U+553B (U+553B)	e594bb
+唼	speaking evil. gobbling sound made by ducks (U+553C)	e594bc
+唽	to twitter (U+553D)	e594bd
+唾	spit, spit on; saliva (U+553E)	e594be
+唿	sad; (Cant.) a bit, part (U+553F)	e594bf
+啀	gnaw; (Cant.) to shout, yell, scold (U+5540)	e59580
+啁	chirp, twitter, twittering (U+5541)	e59581
+啂	U+5542 (U+5542)	e59582
+啃	gnaw, chew, bite (U+5543)	e59583
+啄	to peck; (Cant.) to slander (U+5544)	e59584
+啅	U+5545 (U+5545)	e59585
+商	commerce, business, trade (U+5546)	e59586
+啇	to stalk; the stem; the foot; the base (U+5547)	e59587
+啈	U+5548 (U+5548)	e59588
+啉	stupid; slow (U+5549)	e59589
+啊	exclamatory particle (U+554A)	e5958a
+啋	(Cant.) an interjection used to berate someone (U+554B)	e5958b
+啌	animal disease (U+554C)	e5958c
+啍	creak; (Cant.) to babble, gibberish (U+554D)	e5958d
+啎	obstinate, disobedient, intractable (U+554E)	e5958e
+問	ask (about), inquire after (U+554F)	e5958f
+啐	to taste, to sip; to spit; the sound of sipping; to surprise (U+5550)	e59590
+啑	U+5551 (U+5551)	e59591
+啒	U+5552 (U+5552)	e59592
+啓	open; begin, commence; explain (U+5553)	e59593
+啔	U+5554 (U+5554)	e59594
+啕	wail (U+5555)	e59595
+啖	eat, feed; chew, bite; entice (U+5556)	e59596
+啗	eat, chew, bite; entice, lure (U+5557)	e59597
+啘	U+5558 (U+5558)	e59598
+啙	poor (U+5559)	e59599
+啚	low, mean (U+555A)	e5959a
+啛	(Cant.) interjection (used by men) (U+555B)	e5959b
+啜	sip, suck up; sob, weep (U+555C)	e5959c
+啝	(Cant.) final partical expressing surprise (U+555D)	e5959d
+啞	dumb, mute; become hoarse (U+555E)	e5959e
+啟	open; begin (U+555F)	e5959f
+啠	U+5560 (U+5560)	e595a0
+啡	morphine; coffee (U+5561)	e595a1
+啢	ounce (U+5562)	e595a2
+啣	hold in mouth; harbor, cherish (U+5563)	e595a3
+啤	beer (U+5564)	e595a4
+啥	what? (U+5565)	e595a5
+啦	final particle of assertion (U+5566)	e595a6
+啧	interjection of approval or admiration (U+5567)	e595a7
+啨	U+5568 (U+5568)	e595a8
+啩	(Cant.) particle implying probability (U+5569)	e595a9
+啪	syllable (U+556A)	e595aa
+啫	(Cant.) interjection of warning; phonetic; penis (U+556B)	e595ab
+啬	miserly, thrifty; stingy (U+556C)	e595ac
+啭	sing, chirp, warble, twitter (U+556D)	e595ad
+啮	bite, gnaw (U+556E)	e595ae
+啯	U+556F (U+556F)	e595af
+啰	phonetic (U+5570)	e595b0
+啱	(Cant.) correct, right (U+5571)	e595b1
+啲	(Cant.) a few (U+5572)	e595b2
+啳	U+5573 (U+5573)	e595b3
+啴	pant; many (U+5574)	e595b4
+啵	phonetic (U+5575)	e595b5
+啶	phonetic used in pyridine and pyrimidine (U+5576)	e595b6
+啷	a clanging or rattling sound (U+5577)	e595b7
+啸	roar, howl, scream; whistle (U+5578)	e595b8
+啹	(Cant.) stupid, idiotic; to kill, slaughter; to roll or crumple into a ball; phonetic (U+5579)	e595b9
+啺	U+557A (U+557A)	e595ba
+啻	only, merely; just like; stop at (U+557B)	e595bb
+啼	weep, whimper; howl, twitter (U+557C)	e595bc
+啽	(Cant.) to speak (U+557D)	e595bd
+啾	wailing of child; chirp (U+557E)	e595be
+啿	U+557F (U+557F)	e595bf
+喀	vomit; used in transliterations (U+5580)	e59680
+喁	the mouth of a fish at the surface of the water, gasping for breath (U+5581)	e59681
+喂	interjection to call attention (U+5582)	e59682
+喃	keep talking, chattering; mumble (U+5583)	e59683
+善	good, virtuous, charitable, kind (U+5584)	e59684
+喅	U+5585 (U+5585)	e59685
+喆	a sage; wise; sagacious (U+5586)	e59686
+喇	horn, bugle; lama; final particle (U+5587)	e59687
+喈	music; melody (U+5588)	e59688
+喉	throat, gullet, larynx; guttural (U+5589)	e59689
+喊	shout, call out, yell; howl; cry (U+558A)	e5968a
+喋	nag; chatter, babble, twitter (U+558B)	e5968b
+喌	syllable (U+558C)	e5968c
+喍	U+558D (U+558D)	e5968d
+喎	a wry mouth; (Cant.) a final particle expressing contradiction, quotation, etc. (U+558E)	e5968e
+喏	respectful reply of assent to superiors (U+558F)	e5968f
+喐	(Cant.) to move, touch, hit (U+5590)	e59690
+喑	to be dumb; the sobbing of infants (U+5591)	e59691
+喒	a dual pronoun, I, you and me, we two (U+5592)	e59692
+喓	chirping, buzzing; (Cant.) to call out (U+5593)	e59693
+喔	descriptive of crying or of crowing (U+5594)	e59694
+喕	U+5595 (U+5595)	e59695
+喖	U+5596 (U+5596)	e59696
+喗	U+5597 (U+5597)	e59697
+喘	pant, gasp, breathe heavily (U+5598)	e59698
+喙	beak, bill, snout; pant (U+5599)	e59699
+喚	call, summon; invite; be called (U+559A)	e5969a
+喛	U+559B (U+559B)	e5969b
+喜	like, love, enjoy; joyful thing (U+559C)	e5969c
+喝	drink; shout, call out (U+559D)	e5969d
+喞	chirping of insects; pump (U+559E)	e5969e
+喟	heave sigh, sigh (U+559F)	e5969f
+喠	U+55A0 (U+55A0)	e596a0
+喡	U+55A1 (U+55A1)	e596a1
+喢	U+55A2 (U+55A2)	e596a2
+喣	to breathe upon (U+55A3)	e596a3
+喤	ah; harmony (U+55A4)	e596a4
+喥	(Cant.) a place (U+55A5)	e596a5
+喦	talkative (U+55A6)	e596a6
+喧	lively, noisy; clamor, talk loudly (U+55A7)	e596a7
+喨	wail, cry, yell; neigh (U+55A8)	e596a8
+喩	metaphor (U+55A9)	e596a9
+喪	mourning; mourn; funeral (U+55AA)	e596aa
+喫	eat; drink; suffer, endure, bear (U+55AB)	e596ab
+喬	tall, lofty; proud, stately (U+55AC)	e596ac
+喭	condole with; coarse (U+55AD)	e596ad
+單	single, individual, only; lone (U+55AE)	e596ae
+喯	U+55AF (U+55AF)	e596af
+喰	to eat, drink (U+55B0)	e596b0
+喱	gramme; syllable (U+55B1)	e596b1
+喲	ah, final particle (U+55B2)	e596b2
+喳	whispering (U+55B3)	e596b3
+喴	hello; (Cant.) phonetic (U+55B4)	e596b4
+喵	the mew of the cat (U+55B5)	e596b5
+営	encampment, barracks; manage (U+55B6)	e596b6
+喷	spurt, blow out, puff out (U+55B7)	e596b7
+喸	place name (U+55B8)	e596b8
+喹	chemical compound (U+55B9)	e596b9
+喺	(Cant.) to be located at (U+55BA)	e596ba
+喻	metaphor, analogy; example; like (U+55BB)	e596bb
+喼	(Cant.) used phonetically in English loan-words (e.g., cap, keep) (U+55BC)	e596bc
+喽	used in onomatopoetic expressions (U+55BD)	e596bd
+喾	emperor (U+55BE)	e596be
+喿	chirping of birds (U+55BF)	e596bf
+嗀	U+55C0 (U+55C0)	e59780
+嗁	give forth sound, make noise (U+55C1)	e59781
+嗂	U+55C2 (U+55C2)	e59782
+嗃	to flute (U+55C3)	e59783
+嗄	hoarse of voice (U+55C4)	e59784
+嗅	smell, scent, sniff; olfactive (U+55C5)	e59785
+嗆	choke by smoke; irritates nose (U+55C6)	e59786
+嗇	miserly, thrifty, stingy; stopped up, constipated (U+55C7)	e59787
+嗈	the call of a bird (U+55C8)	e59788
+嗉	bird's crop; wine pot (U+55C9)	e59789
+嗊	U+55CA (U+55CA)	e5978a
+嗋	U+55CB (U+55CB)	e5978b
+嗌	the throat; to quarrel, choke (U+55CC)	e5978c
+嗍	U+55CD (U+55CD)	e5978d
+嗎	final interrogative particle (U+55CE)	e5978e
+嗏	(Cant.) imperative final particle (U+55CF)	e5978f
+嗐	alas! (U+55D0)	e59790
+嗑	eat seeds; reproach; loquacious (U+55D1)	e59791
+嗒	absent-minded (U+55D2)	e59792
+嗓	voice; throat (U+55D3)	e59793
+嗔	be angry at, scold, rebuke (U+55D4)	e59794
+嗕	U+55D5 (U+55D5)	e59795
+嗖	whizzing sound (U+55D6)	e59796
+嗗	(Cant.) quarter of an hour (U+55D7)	e59797
+嗘	U+55D8 (U+55D8)	e59798
+嗙	boast (U+55D9)	e59799
+嗚	sound of crying, sobbing (U+55DA)	e5979a
+嗛	pouch; hold; content (U+55DB)	e5979b
+嗜	be fond of, have weakness for (U+55DC)	e5979c
+嗝	cackling of fowls to gag, to vomit (U+55DD)	e5979d
+嗞	to consult about, to plan; to report in writing to an equal; a despatch (U+55DE)	e5979e
+嗟	sigh, alas (U+55DF)	e5979f
+嗠	U+55E0 (U+55E0)	e597a0
+嗡	sound of flying bees, airplanes (U+55E1)	e597a1
+嗢	U+55E2 (U+55E2)	e597a2
+嗣	to connect, inherit; descendants, heirs (U+55E3)	e597a3
+嗤	laugh at, ridicule, sneer; snort (U+55E4)	e597a4
+嗥	roar, call out, wail; bark, yelp (U+55E5)	e597a5
+嗦	suck (U+55E6)	e597a6
+嗧	U+55E7 (U+55E7)	e597a7
+嗨	an exclamation (U+55E8)	e597a8
+嗩	flute-like musical instrument (U+55E9)	e597a9
+嗪	character used in translation (U+55EA)	e597aa
+嗫	move lips as when speaking; hesitation (U+55EB)	e597ab
+嗬	(Cant.) interrogative particle (U+55EC)	e597ac
+嗭	place name (U+55ED)	e597ad
+嗮	(Cant.) verbal aspect marker for full extent (U+55EE)	e597ae
+嗯	final particle (U+55EF)	e597af
+嗰	(Cant.) that (U+55F0)	e597b0
+嗱	(Cant.) exclamation, there! now! (U+55F1)	e597b1
+嗲	(Cant.) saliva; intensifying particle; inviting, coquettish; 嗲哋. 'daddy' (U+55F2)	e597b2
+嗳	interjection; exclamation (U+55F3)	e597b3
+嗴	U+55F4 (U+55F4)	e597b4
+嗵	used for sound (U+55F5)	e597b5
+嗶	used in transliterations (U+55F6)	e597b6
+嗷	loud clamor; sound of wailing (U+55F7)	e597b7
+嗸	same as 嗷 U+55F7, noisy (U+55F8)	e597b8
+嗹	chatter (U+55F9)	e597b9
+嗺	U+55FA (U+55FA)	e597ba
+嗻	to screen. loquacious; (Cant.) final particle used to defend oneself or protest against others (U+55FB)	e597bb
+嗼	U+55FC (U+55FC)	e597bc
+嗽	cough, gargle, clear throat (U+55FD)	e597bd
+嗾	to set a dog on; incite, instigate (U+55FE)	e597be
+嗿	gobble (U+55FF)	e597bf
+嘀	backbite (U+5600)	e59880
+嘁	to be grieved; ashamed; used to imitate sounds (U+5601)	e59881
+嘂	cry loudly, yell, scream (U+5602)	e59882
+嘃	U+5603 (U+5603)	e59883
+嘄	U+5604 (U+5604)	e59884
+嘅	sound of sighing; (Cant.) possessive (U+5605)	e59885
+嘆	sigh, admire (U+5606)	e59886
+嘇	U+5607 (U+5607)	e59887
+嘈	noisy (U+5608)	e59888
+嘉	excellent; joyful; auspicious (U+5609)	e59889
+嘊	U+560A (U+560A)	e5988a
+嘋	howl, roar (U+560B)	e5988b
+嘌	fast, speedy (U+560C)	e5988c
+嘍	used in onomatopoetic expressions (U+560D)	e5988d
+嘎	sound of laughter; bad, malevolent (U+560E)	e5988e
+嘏	felicity, prosperity; large and strong (U+560F)	e5988f
+嘐	final exclamatory particle (U+5610)	e59890
+嘑	to menace; to howl at; to bawl; (Cant.) final particle (U+5611)	e59891
+嘒	sharp (U+5612)	e59892
+嘓	gurgling sound, chattering (U+5613)	e59893
+嘔	to vomit; annoy, enrage (U+5614)	e59894
+嘕	U+5615 (U+5615)	e59895
+嘖	interjection of approval or admiration (U+5616)	e59896
+嘗	taste; experience, experiment (U+5617)	e59897
+嘘	exhale; blow out; deep sigh; hiss; praise (U+5618)	e59898
+嘙	U+5619 (U+5619)	e59899
+嘚	U+561A (U+561A)	e5989a
+嘛	final exclamatory particle (U+561B)	e5989b
+嘜	mark (U+561C)	e5989c
+嘝	U+561D (U+561D)	e5989d
+嘞	(Cant.) final particle used for polite refusal (U+561E)	e5989e
+嘟	sound of horn tooting (U+561F)	e5989f
+嘠	the chirping of birds loud laughter (U+5620)	e598a0
+嘡	U+5621 (U+5621)	e598a1
+嘢	(Cant.) thing (U+5622)	e598a2
+嘣	syllable (U+5623)	e598a3
+嘤	seek friends; also used in onomatopoetic expressions (U+5624)	e598a4
+嘥	(Cant.) to waste; all, entirely (U+5625)	e598a5
+嘦	U+5626 (U+5626)	e598a6
+嘧	pyrimidine (U+5627)	e598a7
+嘨	roar, howl, scream; whistle (U+5628)	e598a8
+嘩	rushing sound; gush forward (U+5629)	e598a9
+嘪	U+562A (U+562A)	e598aa
+嘫	U+562B (U+562B)	e598ab
+嘬	to lap; to suck (U+562C)	e598ac
+嘭	syllable; (Cant.) to chase, drive away (U+562D)	e598ad
+嘮	chat, jaw, gossip, talk (U+562E)	e598ae
+嘯	roar, howl, scream; whistle (U+562F)	e598af
+嘰	sigh in disapproval; take small (U+5630)	e598b0
+嘱	order, tell, instruct, leave word (U+5631)	e598b1
+嘲	ridicule, deride, scorn, jeer at (U+5632)	e598b2
+嘳	U+5633 (U+5633)	e598b3
+嘴	mouth, lips (U+5634)	e598b4
+嘵	garrulous; disturbed; restless (U+5635)	e598b5
+嘶	neighing of a horse; gravel voiced, husky throated; (Cant.) to hiccough (U+5636)	e598b6
+嘷	the roaring of wild beasts; to howl, to wail, to bawl (U+5637)	e598b7
+嘸	unclear; an expletive; not (U+5638)	e598b8
+嘹	used describe clarity of voice; resonant (U+5639)	e598b9
+嘺	(Cant.) coincidental (U+563A)	e598ba
+嘻	mirthful, happy; interjection (U+563B)	e598bb
+嘼	U+563C (U+563C)	e598bc
+嘽	pant; many (U+563D)	e598bd
+嘾	U+563E (U+563E)	e598be
+嘿	be silent, be quiet (U+563F)	e598bf
+噀	spirt out of the mouth (U+5640)	e59980
+噁	nastiness; nauseate: sickening (U+5641)	e59981
+噂	meet (U+5642)	e59982
+噃	(Cant.) emphatic final particle (U+5643)	e59983
+噄	U+5644 (U+5644)	e59984
+噅	to speak falsely or wrongly; ugly (U+5645)	e59985
+噆	U+5646 (U+5646)	e59986
+噇	U+5647 (U+5647)	e59987
+噈	U+5648 (U+5648)	e59988
+噉	bite, chew; (Cant.) like this, in this way (U+5649)	e59989
+噊	U+564A (U+564A)	e5998a
+噋	to swallow hastily; to gobble up (U+564B)	e5998b
+噌	scold, shout at (U+564C)	e5998c
+噍	chew; eat; munch (U+564D)	e5998d
+噎	choke; hiccup (U+564E)	e5998e
+噏	inhale, absorb, imbibe; compress; (Cant.) to talk, say, tell (U+564F)	e5998f
+噐	receptacle, vessel; instrument (U+5650)	e59990
+噑	the roar of beasts; to howl, wail (U+5651)	e59991
+噒	(Cant.) to suck and gnaw on bones (U+5652)	e59992
+噓	exhale; blow out; deep sigh; hiss; praise, flatter; lie (U+5653)	e59993
+噔	syllable; (Cant.) for (a recipient of pity or sympathy) (U+5654)	e59994
+噕	to speak falsely or wrongly; ugly (U+5655)	e59995
+噖	U+5656 (U+5656)	e59996
+噗	burst (U+5657)	e59997
+噘	pouting (U+5658)	e59998
+噙	hold in mouth; bite (U+5659)	e59999
+噚	fathom (U+565A)	e5999a
+噛	bite, gnaw (U+565B)	e5999b
+噜	verbose, talkative; mumbling (U+565C)	e5999c
+噝	hiss; a call to come (U+565D)	e5999d
+噞	the movement of a fish's mouth at the surface of the water (U+565E)	e5999e
+噟	U+565F (U+565F)	e5999f
+噠	sound made to get a horse to move forward (U+5660)	e599a0
+噡	U+5661 (U+5661)	e599a1
+噢	moan; interjection for pain, sad (U+5662)	e599a2
+噣	a beak; to peck; to order, enjoin upon (U+5663)	e599a3
+噤	close; be silent, be unable speak (U+5664)	e599a4
+噥	whisper (U+5665)	e599a5
+噦	belch; vomit (U+5666)	e599a6
+噧	U+5667 (U+5667)	e599a7
+器	receptacle, vessel; instrument (U+5668)	e599a8
+噩	bad, ill-omened, unlucky (U+5669)	e599a9
+噪	be noisy; chirp loudly (U+566A)	e599aa
+噫	belch; alas (U+566B)	e599ab
+噬	bite; gnaw; snap at (U+566C)	e599ac
+噭	shout (U+566D)	e599ad
+噮	U+566E (U+566E)	e599ae
+噯	interjection; exclamation (U+566F)	e599af
+噰	U+5670 (U+5670)	e599b0
+噱	laugh heartily, laugh aloud (U+5671)	e599b1
+噲	swallow, gulp down; greedy (U+5672)	e599b2
+噳	many (U+5673)	e599b3
+噴	spurt, blow out, puff out (U+5674)	e599b4
+噵	U+5675 (U+5675)	e599b5
+噶	used in transliterations (U+5676)	e599b6
+噷	U+5677 (U+5677)	e599b7
+噸	ton (metric or English) (U+5678)	e599b8
+噹	sound of bells (U+5679)	e599b9
+噺	story, talk (U+567A)	e599ba
+噻	character used in translation (U+567B)	e599bb
+噼	sound; (Cant.) a child's buttocks (U+567C)	e599bc
+噽	U+567D (U+567D)	e599bd
+噾	U+567E (U+567E)	e599be
+噿	U+567F (U+567F)	e599bf
+嚀	enjoin, instruct; charge (U+5680)	e59a80
+嚁	U+5681 (U+5681)	e59a81
+嚂	U+5682 (U+5682)	e59a82
+嚃	gobble (U+5683)	e59a83
+嚄	roar (U+5684)	e59a84
+嚅	talk indistinctly and falteringly (U+5685)	e59a85
+嚆	give forth sound, make noise (U+5686)	e59a86
+嚇	scare, frighten; intimidate (U+5687)	e59a87
+嚈	U+5688 (U+5688)	e59a88
+嚉	(Cant.) to swell (U+5689)	e59a89
+嚊	to pant; wife; (Cant.) particle indicating doubt (U+568A)	e59a8a
+嚋	U+568B (U+568B)	e59a8b
+嚌	to sip; (Cant.) aspect marker of excessive extent (U+568C)	e59a8c
+嚍	U+568D (U+568D)	e59a8d
+嚎	cry loudly, yell, scream (U+568E)	e59a8e
+嚏	sneeze (U+568F)	e59a8f
+嚐	taste (U+5690)	e59a90
+嚑	U+5691 (U+5691)	e59a91
+嚒	U+5692 (U+5692)	e59a92
+嚓	a cracking or snapping sound (U+5693)	e59a93
+嚔	sneeze (U+5694)	e59a94
+嚕	verbose, talkative; mumbling (U+5695)	e59a95
+嚖	U+5696 (U+5696)	e59a96
+嚗	U+5697 (U+5697)	e59a97
+嚘	U+5698 (U+5698)	e59a98
+嚙	bite, gnaw (U+5699)	e59a99
+嚚	argumentative, talkative (U+569A)	e59a9a
+嚛	U+569B (U+569B)	e59a9b
+嚜	be silent; final particle (U+569C)	e59a9c
+嚝	U+569D (U+569D)	e59a9d
+嚞	U+569E (U+569E)	e59a9e
+嚟	(Cant.) to come, arrive (U+569F)	e59a9f
+嚠	a clear sound (U+56A0)	e59aa0
+嚡	(Cant.) rough; interjection (U+56A1)	e59aa1
+嚢	bag, purse, sack; put in bag (U+56A2)	e59aa2
+嚣	be noisy; treat with contempt (U+56A3)	e59aa3
+嚤	(Cant.) slow; late (U+56A4)	e59aa4
+嚥	swallow, gulp (U+56A5)	e59aa5
+嚦	used in onomatopoetic expressions (U+56A6)	e59aa6
+嚧	U+56A7 (U+56A7)	e59aa7
+嚨	throat (U+56A8)	e59aa8
+嚩	U+56A9 (U+56A9)	e59aa9
+嚪	U+56AA (U+56AA)	e59aaa
+嚫	(Cant.) aspect marker of injury (U+56AB)	e59aab
+嚬	frown (U+56AC)	e59aac
+嚭	mound, lump; stealthily (U+56AD)	e59aad
+嚮	guide, direct; incline to, favor (U+56AE)	e59aae
+嚯	U+56AF (U+56AF)	e59aaf
+嚰	U+56B0 (U+56B0)	e59ab0
+嚱	a shrill noise; alas! (U+56B1)	e59ab1
+嚲	read aloud, recite, chant; droop (U+56B2)	e59ab2
+嚳	mythical emperor; to inform quickly; an urgent communication (U+56B3)	e59ab3
+嚴	strict, rigorous, rigid; stern (U+56B4)	e59ab4
+嚵	gluttonous; greedy (U+56B5)	e59ab5
+嚶	seek friends; also used in names; the call of a bird (U+56B6)	e59ab6
+嚷	shout, brawl, make uproar, cry (U+56B7)	e59ab7
+嚸	U+56B8 (U+56B8)	e59ab8
+嚹	(Cant.) a particle implying completion, certainty, or urgency (U+56B9)	e59ab9
+嚺	U+56BA (U+56BA)	e59aba
+嚻	be noisy; treat with contempt (U+56BB)	e59abb
+嚼	prattle, be glib (U+56BC)	e59abc
+嚽	U+56BD (U+56BD)	e59abd
+嚾	U+56BE (U+56BE)	e59abe
+嚿	(Cant.) a lump; measure word (U+56BF)	e59abf
+囀	sing, chirp, warble, twitter (U+56C0)	e59b80
+囁	move lips as when speaking; hesitation (U+56C1)	e59b81
+囂	be noisy; treat with contempt (U+56C2)	e59b82
+囃	to play (on an instrument); to accompany; to banter, jeer (U+56C3)	e59b83
+囄	(Cant.) to come (U+56C4)	e59b84
+囅	smile (U+56C5)	e59b85
+囆	U+56C6 (U+56C6)	e59b86
+囇	U+56C7 (U+56C7)	e59b87
+囈	talk in one's sleep, somniloquy (U+56C8)	e59b88
+囉	exclamatory final particle, nag (U+56C9)	e59b89
+囊	bag, purse, sack; put in bag (U+56CA)	e59b8a
+囋	U+56CB (U+56CB)	e59b8b
+囌	loquacious; nag (U+56CC)	e59b8c
+囍	double happiness (U+56CD)	e59b8d
+囎	U+56CE (U+56CE)	e59b8e
+囏	U+56CF (U+56CF)	e59b8f
+囐	U+56D0 (U+56D0)	e59b90
+囑	order, tell, instruct, leave word (U+56D1)	e59b91
+囒	confused talk (U+56D2)	e59b92
+囓	gnaw (U+56D3)	e59b93
+囔	muttering, indistinct speech (U+56D4)	e59b94

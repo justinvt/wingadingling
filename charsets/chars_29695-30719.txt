@@ -1,0 +1,1024 @@
+竕	deciliter (U+7AD5)	e7ab95
+竖	perpendicular, vertical; erect (U+7AD6)	e7ab96
+竗	U+7AD7 (U+7AD7)	e7ab97
+竘	U+7AD8 (U+7AD8)	e7ab98
+站	stand up; a stand, station (U+7AD9)	e7ab99
+竚	stand and wait for long time (U+7ADA)	e7ab9a
+竛	U+7ADB (U+7ADB)	e7ab9b
+竜	dragon; symbolic of emperor (U+7ADC)	e7ab9c
+竝	to combine, annex; also, what's more (U+7ADD)	e7ab9d
+竞	contend, vie, compete (U+7ADE)	e7ab9e
+竟	finally, after all, at last (U+7ADF)	e7ab9f
+章	composition; chapter, section (U+7AE0)	e7aba0
+竡	hectoliter (U+7AE1)	e7aba1
+竢	wait for, wait until, as soon as (U+7AE2)	e7aba2
+竣	terminate, end, finish; quit (U+7AE3)	e7aba3
+竤	U+7AE4 (U+7AE4)	e7aba4
+童	child, boy, servant boy; virgin (U+7AE5)	e7aba5
+竦	revere, respect, be in awe of (U+7AE6)	e7aba6
+竧	U+7AE7 (U+7AE7)	e7aba7
+竨	U+7AE8 (U+7AE8)	e7aba8
+竩	U+7AE9 (U+7AE9)	e7aba9
+竪	perpendicular, vertical; erect (U+7AEA)	e7abaa
+竫	U+7AEB (U+7AEB)	e7abab
+竬	U+7AEC (U+7AEC)	e7abac
+竭	put forth great effort; exhaust (U+7AED)	e7abad
+竮	U+7AEE (U+7AEE)	e7abae
+端	end, extreme; head; beginning (U+7AEF)	e7abaf
+竰	centiliter (U+7AF0)	e7abb0
+竱	U+7AF1 (U+7AF1)	e7abb1
+竲	U+7AF2 (U+7AF2)	e7abb2
+竳	U+7AF3 (U+7AF3)	e7abb3
+竴	U+7AF4 (U+7AF4)	e7abb4
+竵	U+7AF5 (U+7AF5)	e7abb5
+競	contend, vie, compete (U+7AF6)	e7abb6
+竷	U+7AF7 (U+7AF7)	e7abb7
+竸	contend, vie, compete (U+7AF8)	e7abb8
+竹	bamboo; flute; KangXi radical 118 (U+7AF9)	e7abb9
+竺	India; bamboo; surname (U+7AFA)	e7abba
+竻	U+7AFB (U+7AFB)	e7abbb
+竼	bamboo cover for boat (U+7AFC)	e7abbc
+竽	ancient woodwind instrument (U+7AFD)	e7abbd
+竾	flute (U+7AFE)	e7abbe
+竿	bamboo pole; penis (U+7AFF)	e7abbf
+笀	U+7B00 (U+7B00)	e7ac80
+笁	U+7B01 (U+7B01)	e7ac81
+笂	U+7B02 (U+7B02)	e7ac82
+笃	deep, true, sincere, genuine (U+7B03)	e7ac83
+笄	hairpin; fifteen year old girl (U+7B04)	e7ac84
+笅	U+7B05 (U+7B05)	e7ac85
+笆	bamboo fence (U+7B06)	e7ac86
+笇	U+7B07 (U+7B07)	e7ac87
+笈	bamboo box used carry books (U+7B08)	e7ac88
+笉	U+7B09 (U+7B09)	e7ac89
+笊	ladle, bamboo skimmer (U+7B0A)	e7ac8a
+笋	bamboo shoots (U+7B0B)	e7ac8b
+笌	U+7B0C (U+7B0C)	e7ac8c
+笍	U+7B0D (U+7B0D)	e7ac8d
+笎	U+7B0E (U+7B0E)	e7ac8e
+笏	tablet held by someone having authority (U+7B0F)	e7ac8f
+笐	bamboos placed across wooden frames on which grain may be stored in damp climates (U+7B10)	e7ac90
+笑	smile, laugh, giggle; snicker (U+7B11)	e7ac91
+笒	U+7B12 (U+7B12)	e7ac92
+笓	to comb; a fine-toothed comb (U+7B13)	e7ac93
+笔	writing brush; write; stroke (U+7B14)	e7ac94
+笕	bamboo water pipe (U+7B15)	e7ac95
+笖	U+7B16 (U+7B16)	e7ac96
+笗	U+7B17 (U+7B17)	e7ac97
+笘	U+7B18 (U+7B18)	e7ac98
+笙	small gourd-shaped musical instrument (U+7B19)	e7ac99
+笚	U+7B1A (U+7B1A)	e7ac9a
+笛	bamboo flute; whistle (U+7B1B)	e7ac9b
+笜	U+7B1C (U+7B1C)	e7ac9c
+笝	U+7B1D (U+7B1D)	e7ac9d
+笞	bamboo rod used for beatings (U+7B1E)	e7ac9e
+笟	U+7B1F (U+7B1F)	e7ac9f
+笠	bamboo hat; bamboo covering (U+7B20)	e7aca0
+笡	U+7B21 (U+7B21)	e7aca1
+笢	U+7B22 (U+7B22)	e7aca2
+笣	U+7B23 (U+7B23)	e7aca3
+笤	a broom, a besom (U+7B24)	e7aca4
+笥	a hamper, wicker basket (U+7B25)	e7aca5
+符	i.d. tag, tally, symbol, charm (U+7B26)	e7aca6
+笧	to entwine around; check (a current) with a weir (U+7B27)	e7aca7
+笨	foolish, stupid, dull; awkward (U+7B28)	e7aca8
+笩	U+7B29 (U+7B29)	e7aca9
+笪	a coarse mat of rushes or bamboo (U+7B2A)	e7acaa
+笫	bed boards, sleeping mat (U+7B2B)	e7acab
+第	sequence, number; grade, degree (U+7B2C)	e7acac
+笭	bamboo screen (U+7B2D)	e7acad
+笮	boards which support tiles on roof (U+7B2E)	e7acae
+笯	a bird-cage (U+7B2F)	e7acaf
+笰	curtain (U+7B30)	e7acb0
+笱	a basket trap for fish, placed in the opening of a weir (U+7B31)	e7acb1
+笲	basket (U+7B32)	e7acb2
+笳	a reed leaf whistle (U+7B33)	e7acb3
+笴	an arrow shaft (U+7B34)	e7acb4
+笵	a bamboo form; a model (U+7B35)	e7acb5
+笶	U+7B36 (U+7B36)	e7acb6
+笷	U+7B37 (U+7B37)	e7acb7
+笸	flat basket for grain (U+7B38)	e7acb8
+笹	small bamboo (U+7B39)	e7acb9
+笺	note, memo; stationery; comments (U+7B3A)	e7acba
+笻	U+7B3B (U+7B3B)	e7acbb
+笼	cage; cage-like basket (U+7B3C)	e7acbc
+笽	U+7B3D (U+7B3D)	e7acbd
+笾	bamboo container for food (U+7B3E)	e7acbe
+笿	U+7B3F (U+7B3F)	e7acbf
+筀	U+7B40 (U+7B40)	e7ad80
+筁	a bamboo frame on which silkworms spin their cocoons (U+7B41)	e7ad81
+筂	U+7B42 (U+7B42)	e7ad82
+筃	U+7B43 (U+7B43)	e7ad83
+筄	U+7B44 (U+7B44)	e7ad84
+筅	bamboo brush; halberd (U+7B45)	e7ad85
+筆	writing brush; write; stroke (U+7B46)	e7ad86
+筇	bamboo name; bamboo staff (U+7B47)	e7ad87
+筈	arrow end (U+7B48)	e7ad88
+等	rank, grade; wait; equal; 'etc.' (U+7B49)	e7ad89
+筊	bamboo rope; bamboo object used (U+7B4A)	e7ad8a
+筋	muscles; tendons (U+7B4B)	e7ad8b
+筌	bamboo fish trap (U+7B4C)	e7ad8c
+筍	bamboo shoot; joint; tendon (U+7B4D)	e7ad8d
+筎	U+7B4E (U+7B4E)	e7ad8e
+筏	raft (U+7B4F)	e7ad8f
+筐	bamboo basket or chest (U+7B50)	e7ad90
+筑	ancient lute; build (U+7B51)	e7ad91
+筒	thick piece of bamboo; pipe (U+7B52)	e7ad92
+筓	a hairpin on which the hair is bound at the back of the head. 15 of age (U+7B53)	e7ad93
+答	answer, reply; return; assent to (U+7B54)	e7ad94
+筕	U+7B55 (U+7B55)	e7ad95
+策	scheme, plan; to whip; urge (U+7B56)	e7ad96
+筗	U+7B57 (U+7B57)	e7ad97
+筘	U+7B58 (U+7B58)	e7ad98
+筙	U+7B59 (U+7B59)	e7ad99
+筚	wicker, bamboo (U+7B5A)	e7ad9a
+筛	sieve, filter, screen; sift (U+7B5B)	e7ad9b
+筜	tall bamboo (U+7B5C)	e7ad9c
+筝	stringed musical instrument; kite (U+7B5D)	e7ad9d
+筞	U+7B5E (U+7B5E)	e7ad9e
+筟	U+7B5F (U+7B5F)	e7ad9f
+筠	bamboo skin; bamboo (U+7B60)	e7ada0
+筡	U+7B61 (U+7B61)	e7ada1
+筢	rake (U+7B62)	e7ada2
+筣	U+7B63 (U+7B63)	e7ada3
+筤	young bamboo (U+7B64)	e7ada4
+筥	round-shaped bamboo basket for holding rice (U+7B65)	e7ada5
+筦	a key; to be in charge; a pipe (U+7B66)	e7ada6
+筧	bamboo water pipe (U+7B67)	e7ada7
+筨	U+7B68 (U+7B68)	e7ada8
+筩	bamboo pipe; fish hook (U+7B69)	e7ada9
+筪	U+7B6A (U+7B6A)	e7adaa
+筫	U+7B6B (U+7B6B)	e7adab
+筬	reed of a loom (U+7B6C)	e7adac
+筭	an ancient device for working with numbers; count, calculate, figure (U+7B6D)	e7adad
+筮	divination with stalks of plants; divining rod (U+7B6E)	e7adae
+筯	chopsticks, tongs (U+7B6F)	e7adaf
+筰	cable (U+7B70)	e7adb0
+筱	dwarf bamboo; diminutive in person's name (U+7B71)	e7adb1
+筲	basket, bucket (U+7B72)	e7adb2
+筳	feast (U+7B73)	e7adb3
+筴	type of grass used in divination; to divine; pincers (U+7B74)	e7adb4
+筵	bamboo mat; feast, banquet (U+7B75)	e7adb5
+筶	U+7B76 (U+7B76)	e7adb6
+筷	chopsticks (U+7B77)	e7adb7
+筸	name of a place in Honan (U+7B78)	e7adb8
+筹	chip, tally, token; raise money (U+7B79)	e7adb9
+筺	bamboo basket or chest (U+7B7A)	e7adba
+筻	place name in Hunan province (U+7B7B)	e7adbb
+筼	tall bamboo (U+7B7C)	e7adbc
+筽	U+7B7D (U+7B7D)	e7adbd
+签	sign, endorse; slip of paper (U+7B7E)	e7adbe
+筿	U+7B7F (U+7B7F)	e7adbf
+简	simple, terse, succinct, a letter (U+7B80)	e7ae80
+箁	U+7B81 (U+7B81)	e7ae81
+箂	U+7B82 (U+7B82)	e7ae82
+箃	U+7B83 (U+7B83)	e7ae83
+箄	U+7B84 (U+7B84)	e7ae84
+箅	U+7B85 (U+7B85)	e7ae85
+箆	fine-toothed comb; comb hair (U+7B86)	e7ae86
+箇	numerary adjunct, piece; single (U+7B87)	e7ae87
+箈	U+7B88 (U+7B88)	e7ae88
+箉	U+7B89 (U+7B89)	e7ae89
+箊	U+7B8A (U+7B8A)	e7ae8a
+箋	note, memo; stationery; comments (U+7B8B)	e7ae8b
+箌	U+7B8C (U+7B8C)	e7ae8c
+箍	hoop; bind, surround (U+7B8D)	e7ae8d
+箎	ancient woodwind instrument (U+7B8E)	e7ae8e
+箏	stringed musical instrument; kite (U+7B8F)	e7ae8f
+箐	to draw a bamboo bow or crossbow (U+7B90)	e7ae90
+箑	fan (U+7B91)	e7ae91
+箒	broom (U+7B92)	e7ae92
+箓	book (U+7B93)	e7ae93
+箔	reed screen; frame for growing silkworms (U+7B94)	e7ae94
+箕	sieve; dust pan, garbage bag (U+7B95)	e7ae95
+箖	U+7B96 (U+7B96)	e7ae96
+算	count, calculate, figure; plan (U+7B97)	e7ae97
+箘	fine bamboo (U+7B98)	e7ae98
+箙	quiver (U+7B99)	e7ae99
+箚	brief note; official communique (U+7B9A)	e7ae9a
+箛	bugle (U+7B9B)	e7ae9b
+箜	ancient string music instrument (U+7B9C)	e7ae9c
+箝	tweezers, pliers, tongs, pincers (U+7B9D)	e7ae9d
+箞	U+7B9E (U+7B9E)	e7ae9e
+箟	U+7B9F (U+7B9F)	e7ae9f
+箠	horse whip; flog (U+7BA0)	e7aea0
+管	pipe, tube, duct; woodwind music (U+7BA1)	e7aea1
+箢	U+7BA2 (U+7BA2)	e7aea2
+箣	U+7BA3 (U+7BA3)	e7aea3
+箤	U+7BA4 (U+7BA4)	e7aea4
+箥	U+7BA5 (U+7BA5)	e7aea5
+箦	bed mat; mat (U+7BA6)	e7aea6
+箧	rattan box, suitcase, or case (U+7BA7)	e7aea7
+箨	bamboo sheath, bamboo shoots (U+7BA8)	e7aea8
+箩	bamboo basket (U+7BA9)	e7aea9
+箪	small bamboo basket for holding (U+7BAA)	e7aeaa
+箫	bamboo flute (U+7BAB)	e7aeab
+箬	the cuticle of the bamboo a broad-leaved bamboo (U+7BAC)	e7aeac
+箭	arrow; type of bamboo (U+7BAD)	e7aead
+箮	U+7BAE (U+7BAE)	e7aeae
+箯	bamboo palanquin (U+7BAF)	e7aeaf
+箰	U+7BB0 (U+7BB0)	e7aeb0
+箱	case, box, chest, trunk (U+7BB1)	e7aeb1
+箲	U+7BB2 (U+7BB2)	e7aeb2
+箳	bamboo mat used to protect carriage passengers from dust (vulgar form) (U+7BB3)	e7aeb3
+箴	needle, probe; admon (U+7BB4)	e7aeb4
+箵	U+7BB5 (U+7BB5)	e7aeb5
+箶	U+7BB6 (U+7BB6)	e7aeb6
+箷	U+7BB7 (U+7BB7)	e7aeb7
+箸	chopsticks (U+7BB8)	e7aeb8
+箹	U+7BB9 (U+7BB9)	e7aeb9
+箺	U+7BBA (U+7BBA)	e7aeba
+箻	U+7BBB (U+7BBB)	e7aebb
+箼	U+7BBC (U+7BBC)	e7aebc
+箽	U+7BBD (U+7BBD)	e7aebd
+箾	musical instrument like pan-pipes, bamboo flute (U+7BBE)	e7aebe
+箿	U+7BBF (U+7BBF)	e7aebf
+節	knot, node, joint; section (U+7BC0)	e7af80
+篁	bamboo grove; bamboo (U+7BC1)	e7af81
+篂	U+7BC2 (U+7BC2)	e7af82
+篃	U+7BC3 (U+7BC3)	e7af83
+範	pattern, model, rule, law (U+7BC4)	e7af84
+篅	U+7BC5 (U+7BC5)	e7af85
+篆	seal script; seal, official stamp (U+7BC6)	e7af86
+篇	chapter, section, essay, article (U+7BC7)	e7af87
+篈	U+7BC8 (U+7BC8)	e7af88
+築	build, erect; building (U+7BC9)	e7af89
+篊	U+7BCA (U+7BCA)	e7af8a
+篋	ratton box, suitcase, or case (U+7BCB)	e7af8b
+篌	ancient music instrument; harp (U+7BCC)	e7af8c
+篍	U+7BCD (U+7BCD)	e7af8d
+篎	U+7BCE (U+7BCE)	e7af8e
+篏	inlay, set in; fall into; rugged (U+7BCF)	e7af8f
+篐	U+7BD0 (U+7BD0)	e7af90
+篑	a bamboo basket for carrying earth (U+7BD1)	e7af91
+篒	U+7BD2 (U+7BD2)	e7af92
+篓	bamboo basket (U+7BD3)	e7af93
+篔	tall bamboo (U+7BD4)	e7af94
+篕	U+7BD5 (U+7BD5)	e7af95
+篖	U+7BD6 (U+7BD6)	e7af96
+篗	U+7BD7 (U+7BD7)	e7af97
+篘	a utensil used to filter wine; a filter (U+7BD8)	e7af98
+篙	pole used punt boat (U+7BD9)	e7af99
+篚	round or oval covered-baskets with short legs (U+7BDA)	e7af9a
+篛	cuticle of bamboo plant (U+7BDB)	e7af9b
+篜	U+7BDC (U+7BDC)	e7af9c
+篝	bamboo basket; bamboo frame (U+7BDD)	e7af9d
+篞	U+7BDE (U+7BDE)	e7af9e
+篟	U+7BDF (U+7BDF)	e7af9f
+篠	dwarf bamboo; diminutive in person's name (U+7BE0)	e7afa0
+篡	usurp (U+7BE1)	e7afa1
+篢	the name of bamboo hat (U+7BE2)	e7afa2
+篣	U+7BE3 (U+7BE3)	e7afa3
+篤	deep, true, sincere, genuine (U+7BE4)	e7afa4
+篥	bugle, 觱篥 bìlì Tatar (Tartar) horn (U+7BE5)	e7afa5
+篦	fine-toothed comb; comb hair (U+7BE6)	e7afa6
+篧	U+7BE7 (U+7BE7)	e7afa7
+篨	coarse bamboo mat; ugly (U+7BE8)	e7afa8
+篩	sieve, filter, screen; sift (U+7BE9)	e7afa9
+篪	a bamboo flute with seven holes (U+7BEA)	e7afaa
+篫	U+7BEB (U+7BEB)	e7afab
+篬	U+7BEC (U+7BEC)	e7afac
+篭	cage; cage-like basket (U+7BED)	e7afad
+篮	basket (U+7BEE)	e7afae
+篯	U+7BEF (U+7BEF)	e7afaf
+篰	a bamboo basket (U+7BF0)	e7afb0
+篱	bamboo or wooden fence; hedge (U+7BF1)	e7afb1
+篲	broomstick (U+7BF2)	e7afb2
+篳	wicker, bamboo (U+7BF3)	e7afb3
+篴	bamboo flute; whistle (U+7BF4)	e7afb4
+篵	U+7BF5 (U+7BF5)	e7afb5
+篶	U+7BF6 (U+7BF6)	e7afb6
+篷	awning, covering; sail; boat (U+7BF7)	e7afb7
+篸	a basket, hod, scuttle; a hairclasp (U+7BF8)	e7afb8
+篹	to collect; edit; a bamboo basket (U+7BF9)	e7afb9
+篺	U+7BFA (U+7BFA)	e7afba
+篻	U+7BFB (U+7BFB)	e7afbb
+篼	mountain sedan chair; (Cant.) a simple container without a cover (U+7BFC)	e7afbc
+篽	U+7BFD (U+7BFD)	e7afbd
+篾	bamboo splints or slats (U+7BFE)	e7afbe
+篿	U+7BFF (U+7BFF)	e7afbf
+簀	bed mat; mat (U+7C00)	e7b080
+簁	sieve; to sift, to strain (U+7C01)	e7b081
+簂	U+7C02 (U+7C02)	e7b082
+簃	side room (U+7C03)	e7b083
+簄	U+7C04 (U+7C04)	e7b084
+簅	U+7C05 (U+7C05)	e7b085
+簆	reed (U+7C06)	e7b086
+簇	swarm, crowd together, cluster (U+7C07)	e7b087
+簈	bamboo mat used to protect carriage passengers from dust (U+7C08)	e7b088
+簉	deputy, subordinate; concubine (U+7C09)	e7b089
+簊	U+7C0A (U+7C0A)	e7b08a
+簋	a square basket of bamboo for holding grain used at sacrifices, feast (U+7C0B)	e7b08b
+簌	(of flower petals) falling (U+7C0C)	e7b08c
+簍	bamboo basket (U+7C0D)	e7b08d
+簎	U+7C0E (U+7C0E)	e7b08e
+簏	a box, a basket (U+7C0F)	e7b08f
+簐	U+7C10 (U+7C10)	e7b090
+簑	a coat raincoat (U+7C11)	e7b091
+簒	usurp (U+7C12)	e7b092
+簓	a bamboo whisk; the broken end of a bamboo stalk (U+7C13)	e7b093
+簔	a coat raincoat (U+7C14)	e7b094
+簕	(Cant.) thorn (U+7C15)	e7b095
+簖	bamboo trap for catching fish (U+7C16)	e7b096
+簗	a weir, fish trap, fish pond (U+7C17)	e7b097
+簘	musical instrument like pan-pipes, bamboo flute (U+7C18)	e7b098
+簙	U+7C19 (U+7C19)	e7b099
+簚	U+7C1A (U+7C1A)	e7b09a
+簛	sieve; to sift; to strain (U+7C1B)	e7b09b
+簜	bamboo (U+7C1C)	e7b09c
+簝	U+7C1D (U+7C1D)	e7b09d
+簞	small bamboo basket for holding (U+7C1E)	e7b09e
+簟	bamboo mat (U+7C1F)	e7b09f
+簠	an ancient vessel used for holding boiled grain (U+7C20)	e7b0a0
+簡	simple, terse, succinct; letter (U+7C21)	e7b0a1
+簢	U+7C22 (U+7C22)	e7b0a2
+簣	a bamboo basket for carrying earth (U+7C23)	e7b0a3
+簤	U+7C24 (U+7C24)	e7b0a4
+簥	a large pipe; a farm tool (U+7C25)	e7b0a5
+簦	large umbrella with a long handle, used for street stalls (U+7C26)	e7b0a6
+簧	reed of woodwind instrument (U+7C27)	e7b0a7
+簨	a beam for hanging bells or drums (U+7C28)	e7b0a8
+簩	U+7C29 (U+7C29)	e7b0a9
+簪	hairpin, clasp; wear in hair (U+7C2A)	e7b0aa
+簫	musical instrument like pan-pipes, bamboo flute (U+7C2B)	e7b0ab
+簬	U+7C2C (U+7C2C)	e7b0ac
+簭	U+7C2D (U+7C2D)	e7b0ad
+簮	U+7C2E (U+7C2E)	e7b0ae
+簯	U+7C2F (U+7C2F)	e7b0af
+簰	bamboo raft (U+7C30)	e7b0b0
+簱	U+7C31 (U+7C31)	e7b0b1
+簲	U+7C32 (U+7C32)	e7b0b2
+簳	U+7C33 (U+7C33)	e7b0b3
+簴	U+7C34 (U+7C34)	e7b0b4
+簵	fine bamboo (U+7C35)	e7b0b5
+簶	U+7C36 (U+7C36)	e7b0b6
+簷	eaves of house; brim (U+7C37)	e7b0b7
+簸	winnower (U+7C38)	e7b0b8
+簹	tall bamboo (U+7C39)	e7b0b9
+簺	U+7C3A (U+7C3A)	e7b0ba
+簻	empty (U+7C3B)	e7b0bb
+簼	U+7C3C (U+7C3C)	e7b0bc
+簽	sign, endorse; slip of paper (U+7C3D)	e7b0bd
+簾	a blind, screen, curtain (U+7C3E)	e7b0be
+簿	register, account book, notebook (U+7C3F)	e7b0bf
+籀	recite, read; style of calligraphy (U+7C40)	e7b180
+籁	bamboo flute; pipe; various sound (U+7C41)	e7b181
+籂	U+7C42 (U+7C42)	e7b182
+籃	basket (U+7C43)	e7b183
+籄	a basket for carrying earth (U+7C44)	e7b184
+籅	U+7C45 (U+7C45)	e7b185
+籆	U+7C46 (U+7C46)	e7b186
+籇	U+7C47 (U+7C47)	e7b187
+籈	U+7C48 (U+7C48)	e7b188
+籉	U+7C49 (U+7C49)	e7b189
+籊	long (U+7C4A)	e7b18a
+籋	U+7C4B (U+7C4B)	e7b18b
+籌	chip, tally, token; raise money (U+7C4C)	e7b18c
+籍	record, register, list; census (U+7C4D)	e7b18d
+籎	U+7C4E (U+7C4E)	e7b18e
+籏	flag (U+7C4F)	e7b18f
+籐	climbing plants, vines, cane (U+7C50)	e7b190
+籑	to feed, to provide for delicacies, dainties (U+7C51)	e7b191
+籒	U+7C52 (U+7C52)	e7b192
+籓	sieve; basket (U+7C53)	e7b193
+籔	bamboo basket (U+7C54)	e7b194
+籕	U+7C55 (U+7C55)	e7b195
+籖	tally; lot; marker (U+7C56)	e7b196
+籗	U+7C57 (U+7C57)	e7b197
+籘	climbing plants, vines, cane (U+7C58)	e7b198
+籙	book (U+7C59)	e7b199
+籚	bamboo; the handle of the spear (U+7C5A)	e7b19a
+籛	surname (U+7C5B)	e7b19b
+籜	bamboo sheath, bamboo shoots (U+7C5C)	e7b19c
+籝	a tube to hold chopsticks (U+7C5D)	e7b19d
+籞	a fence (U+7C5E)	e7b19e
+籟	bamboo flute; pipe; various sound (U+7C5F)	e7b19f
+籠	cage; cage-like basket (U+7C60)	e7b1a0
+籡	U+7C61 (U+7C61)	e7b1a1
+籢	U+7C62 (U+7C62)	e7b1a2
+籣	bow case (U+7C63)	e7b1a3
+籤	tally; lot; marker (U+7C64)	e7b1a4
+籥	key; woodwind instrument (U+7C65)	e7b1a5
+籦	U+7C66 (U+7C66)	e7b1a6
+籧	crude bamboo mat (U+7C67)	e7b1a7
+籨	trousseau (U+7C68)	e7b1a8
+籩	bamboo container for food (U+7C69)	e7b1a9
+籪	a weir of bamboo to catch fish or crabs (U+7C6A)	e7b1aa
+籫	U+7C6B (U+7C6B)	e7b1ab
+籬	bamboo or wooden fence; hedge (U+7C6C)	e7b1ac
+籭	U+7C6D (U+7C6D)	e7b1ad
+籮	bamboo basket (U+7C6E)	e7b1ae
+籯	bamboo chest; tubular bamboo case (U+7C6F)	e7b1af
+籰	U+7C70 (U+7C70)	e7b1b0
+籱	U+7C71 (U+7C71)	e7b1b1
+籲	appeal; request; implore (U+7C72)	e7b1b2
+米	hulled or husked uncooked rice (U+7C73)	e7b1b3
+籴	purchase grains; store grain (U+7C74)	e7b1b4
+籵	decimetre (U+7C75)	e7b1b5
+籶	U+7C76 (U+7C76)	e7b1b6
+籷	U+7C77 (U+7C77)	e7b1b7
+籸	powdery substance (U+7C78)	e7b1b8
+籹	cake (U+7C79)	e7b1b9
+籺	U+7C7A (U+7C7A)	e7b1ba
+类	class, group, kind, category (U+7C7B)	e7b1bb
+籼	non-glutinous long grain rice (U+7C7C)	e7b1bc
+籽	seed, pip, pit, stone (U+7C7D)	e7b1bd
+籾	unhulled rice (U+7C7E)	e7b1be
+籿	U+7C7F (U+7C7F)	e7b1bf
+粀	U+7C80 (U+7C80)	e7b280
+粁	kilometre (U+7C81)	e7b281
+粂	surname (U+7C82)	e7b282
+粃	empty husks of grain (U+7C83)	e7b283
+粄	U+7C84 (U+7C84)	e7b284
+粅	U+7C85 (U+7C85)	e7b285
+粆	coarse (U+7C86)	e7b286
+粇	U+7C87 (U+7C87)	e7b287
+粈	U+7C88 (U+7C88)	e7b288
+粉	powder, face powder; plaster (U+7C89)	e7b289
+粊	U+7C8A (U+7C8A)	e7b28a
+粋	pure; unadulterated; select (U+7C8B)	e7b28b
+粌	U+7C8C (U+7C8C)	e7b28c
+粍	millimetre (U+7C8D)	e7b28d
+粎	metre (U+7C8E)	e7b28e
+粏	U+7C8F (U+7C8F)	e7b28f
+粐	U+7C90 (U+7C90)	e7b290
+粑	tsamba (food in Tibet) (U+7C91)	e7b291
+粒	grain; small particle (U+7C92)	e7b292
+粓	U+7C93 (U+7C93)	e7b293
+粔	cakes made from rice flour twisted into rings (U+7C94)	e7b294
+粕	lees, dregs, sediments left after distilling liquor (U+7C95)	e7b295
+粖	U+7C96 (U+7C96)	e7b296
+粗	rough, thick, course; rude (U+7C97)	e7b297
+粘	viscous, mucous; glutinous (U+7C98)	e7b298
+粙	U+7C99 (U+7C99)	e7b299
+粚	U+7C9A (U+7C9A)	e7b29a
+粛	pay respects; reverently (U+7C9B)	e7b29b
+粜	sell grains (U+7C9C)	e7b29c
+粝	unpolished rice; brown rice (U+7C9D)	e7b29d
+粞	to mash rice (U+7C9E)	e7b29e
+粟	unhusked millet; grain (U+7C9F)	e7b29f
+粠	U+7CA0 (U+7CA0)	e7b2a0
+粡	U+7CA1 (U+7CA1)	e7b2a1
+粢	grain offered in ritual sacrifice; millet (U+7CA2)	e7b2a2
+粣	U+7CA3 (U+7CA3)	e7b2a3
+粤	Guangdong and Guangxi provinces; initial particle (U+7CA4)	e7b2a4
+粥	rice gruel, congee (U+7CA5)	e7b2a5
+粦	phosphorus (U+7CA6)	e7b2a6
+粧	toilet; make-up; dress up; adorn (U+7CA7)	e7b2a7
+粨	hectometre (U+7CA8)	e7b2a8
+粩	U+7CA9 (U+7CA9)	e7b2a9
+粪	manure, dung, shit, excrement, night soil (U+7CAA)	e7b2aa
+粫	U+7CAB (U+7CAB)	e7b2ab
+粬	U+7CAC (U+7CAC)	e7b2ac
+粭	U+7CAD (U+7CAD)	e7b2ad
+粮	food, grain, provisions (U+7CAE)	e7b2ae
+粯	U+7CAF (U+7CAF)	e7b2af
+粰	U+7CB0 (U+7CB0)	e7b2b0
+粱	better varieties of millet (U+7CB1)	e7b2b1
+粲	polish; bright, radiant; smiling (U+7CB2)	e7b2b2
+粳	non-glutinous rice (U+7CB3)	e7b2b3
+粴	U+7CB4 (U+7CB4)	e7b2b4
+粵	Guangdong and Guangxi provinces; initial particle (U+7CB5)	e7b2b5
+粶	U+7CB6 (U+7CB6)	e7b2b6
+粷	U+7CB7 (U+7CB7)	e7b2b7
+粸	U+7CB8 (U+7CB8)	e7b2b8
+粹	pure; unadulterated; select (U+7CB9)	e7b2b9
+粺	polished rice or millet (U+7CBA)	e7b2ba
+粻	provisions (U+7CBB)	e7b2bb
+粼	U+7CBC (U+7CBC)	e7b2bc
+粽	dumpling made of glutinous rice (U+7CBD)	e7b2bd
+精	essence; semen; spirit (U+7CBE)	e7b2be
+粿	rice cake (U+7CBF)	e7b2bf
+糀	U+7CC0 (U+7CC0)	e7b380
+糁	a grain of rice; rice gruel mixed with meat (U+7CC1)	e7b381
+糂	U+7CC2 (U+7CC2)	e7b382
+糃	U+7CC3 (U+7CC3)	e7b383
+糄	U+7CC4 (U+7CC4)	e7b384
+糅	blend, mix; mixed (U+7CC5)	e7b385
+糆	U+7CC6 (U+7CC6)	e7b386
+糇	dried rice, dry provisions (U+7CC7)	e7b387
+糈	sacrificial rice; rations; pay (U+7CC8)	e7b388
+糉	dumpling made of glutinous rice (U+7CC9)	e7b389
+糊	paste, stick on with paste (U+7CCA)	e7b38a
+糋	U+7CCB (U+7CCB)	e7b38b
+糌	U+7CCC (U+7CCC)	e7b38c
+糍	food made of crushed and cooked rice (U+7CCD)	e7b38d
+糎	(J) centimetre (U+7CCE)	e7b38e
+糏	rice grits left after hulling (U+7CCF)	e7b38f
+糐	U+7CD0 (U+7CD0)	e7b390
+糑	U+7CD1 (U+7CD1)	e7b391
+糒	food for a journey; cakes (U+7CD2)	e7b392
+糓	grain, corn (U+7CD3)	e7b393
+糔	juice (U+7CD4)	e7b394
+糕	cakes, pastry (U+7CD5)	e7b395
+糖	sugar; candy; sweets (U+7CD6)	e7b396
+糗	parched wheat or rice; broken grain (U+7CD7)	e7b397
+糘	U+7CD8 (U+7CD8)	e7b398
+糙	coarse, harsh, rough, unpolished rice (U+7CD9)	e7b399
+糚	U+7CDA (U+7CDA)	e7b39a
+糛	U+7CDB (U+7CDB)	e7b39b
+糜	rice gruel, congee; mashed (U+7CDC)	e7b39c
+糝	scattered (grains of rice); mixed (U+7CDD)	e7b39d
+糞	manure, dung, night soil (U+7CDE)	e7b39e
+糟	sediment, dregs; pickle (U+7CDF)	e7b39f
+糠	chaff, bran, husks; poor (U+7CE0)	e7b3a0
+糡	starch; paste. to starch (U+7CE1)	e7b3a1
+糢	rice snacks (U+7CE2)	e7b3a2
+糣	U+7CE3 (U+7CE3)	e7b3a3
+糤	fried round cakes of wheat flour (U+7CE4)	e7b3a4
+糥	U+7CE5 (U+7CE5)	e7b3a5
+糦	U+7CE6 (U+7CE6)	e7b3a6
+糧	food, grain, provisions (U+7CE7)	e7b3a7
+糨	starch; paste. to starch (U+7CE8)	e7b3a8
+糩	U+7CE9 (U+7CE9)	e7b3a9
+糪	U+7CEA (U+7CEA)	e7b3aa
+糫	U+7CEB (U+7CEB)	e7b3ab
+糬	U+7CEC (U+7CEC)	e7b3ac
+糭	rice dumpling (U+7CED)	e7b3ad
+糮	U+7CEE (U+7CEE)	e7b3ae
+糯	glutinous rice; glutinous, sticky (U+7CEF)	e7b3af
+糰	rice ball (U+7CF0)	e7b3b0
+糱	fermenting grain; yeast (U+7CF1)	e7b3b1
+糲	unpolished rice; brown rice (U+7CF2)	e7b3b2
+糳	U+7CF3 (U+7CF3)	e7b3b3
+糴	purchase grains; store grain (U+7CF4)	e7b3b4
+糵	fermenting grain; grain which has sprouted; yeast (U+7CF5)	e7b3b5
+糶	sell grains (U+7CF6)	e7b3b6
+糷	U+7CF7 (U+7CF7)	e7b3b7
+糸	silk; KangXi radical 120 (U+7CF8)	e7b3b8
+糹	silk; KangXi radical 120 (U+7CF9)	e7b3b9
+糺	to collaborate; to band together (U+7CFA)	e7b3ba
+系	system; line, link, connection (U+7CFB)	e7b3bb
+糼	U+7CFC (U+7CFC)	e7b3bc
+糽	U+7CFD (U+7CFD)	e7b3bd
+糾	investigate, inspect (U+7CFE)	e7b3be
+糿	U+7CFF (U+7CFF)	e7b3bf
+紀	record, annal, historical account (U+7D00)	e7b480
+紁	U+7D01 (U+7D01)	e7b481
+紂	name of an emperor; saddle part (U+7D02)	e7b482
+紃	a cord (U+7D03)	e7b483
+約	treaty, agreement, covenant (U+7D04)	e7b484
+紅	red, vermillion; blush, flush (U+7D05)	e7b485
+紆	bend, turn, twist; distort (U+7D06)	e7b486
+紇	inferior silk; tassel, fringe (U+7D07)	e7b487
+紈	white silk, fine silk; gauze (U+7D08)	e7b488
+紉	thread needle, sew stitch, string (U+7D09)	e7b489
+紊	confused, disorder (U+7D0A)	e7b48a
+紋	line, streak, stripe; wrinkle (U+7D0B)	e7b48b
+紌	U+7D0C (U+7D0C)	e7b48c
+納	admit, take, receive, accept (U+7D0D)	e7b48d
+紎	U+7D0E (U+7D0E)	e7b48e
+紏	U+7D0F (U+7D0F)	e7b48f
+紐	knot; button; handle, knob; tie (U+7D10)	e7b490
+紑	fresh (U+7D11)	e7b491
+紒	U+7D12 (U+7D12)	e7b492
+紓	loosen, relax, relieve; extricate (U+7D13)	e7b493
+純	pure, clean, simple (U+7D14)	e7b494
+紕	spoiled silk; hem of dress (U+7D15)	e7b495
+紖	a rope for leading cattle or horse (U+7D16)	e7b496
+紗	gauze, thin silk; yarn, thread (U+7D17)	e7b497
+紘	string; vast, expansive (U+7D18)	e7b498
+紙	paper (U+7D19)	e7b499
+級	level, rank, class; grade (U+7D1A)	e7b49a
+紛	in disorder, scattered, tangled (U+7D1B)	e7b49b
+紜	confused, in disorder; numerous (U+7D1C)	e7b49c
+紝	weave, lay warp (U+7D1D)	e7b49d
+紞	a fringe (U+7D1E)	e7b49e
+紟	a sash; to tie (U+7D1F)	e7b49f
+素	white (silk); plain; vegetarian; formerly; normally (U+7D20)	e7b4a0
+紡	spin, reel, weave; reeled pongee (U+7D21)	e7b4a1
+索	large rope, cable; rules, laws; to demand, to exact; to search, inquire; isolated (U+7D22)	e7b4a2
+紣	U+7D23 (U+7D23)	e7b4a3
+紤	U+7D24 (U+7D24)	e7b4a4
+紥	tie, fasten, bind (U+7D25)	e7b4a5
+紦	U+7D26 (U+7D26)	e7b4a6
+紧	tense, tight, taut; firm, secure (U+7D27)	e7b4a7
+紨	U+7D28 (U+7D28)	e7b4a8
+紩	to sew (U+7D29)	e7b4a9
+紪	U+7D2A (U+7D2A)	e7b4aa
+紫	purple, violet; amethyst; surname (U+7D2B)	e7b4ab
+紬	kind of thin silk (U+7D2C)	e7b4ac
+紭	U+7D2D (U+7D2D)	e7b4ad
+紮	tie, fasten, bind (U+7D2E)	e7b4ae
+累	tired; implicate, involve; bother (U+7D2F)	e7b4af
+細	fine, tiny; slender, thin (U+7D30)	e7b4b0
+紱	ribbon or cord used attach ornaments (U+7D31)	e7b4b1
+紲	bridle; halter (U+7D32)	e7b4b2
+紳	girdle; tie, bind; gentry (U+7D33)	e7b4b3
+紴	U+7D34 (U+7D34)	e7b4b4
+紵	ramie; sack cloth (U+7D35)	e7b4b5
+紶	U+7D36 (U+7D36)	e7b4b6
+紷	U+7D37 (U+7D37)	e7b4b7
+紸	U+7D38 (U+7D38)	e7b4b8
+紹	continue, carry on; hand down; to join (U+7D39)	e7b4b9
+紺	dark blue or reddish color (U+7D3A)	e7b4ba
+紻	U+7D3B (U+7D3B)	e7b4bb
+紼	large rope; rope attached to bier (U+7D3C)	e7b4bc
+紽	a strand of silk (U+7D3D)	e7b4bd
+紾	turns or twist; a switch (U+7D3E)	e7b4be
+紿	cheat, fool, pretend (U+7D3F)	e7b4bf
+絀	sew, stitch; insufficient (U+7D40)	e7b580
+絁	rough, indelicate silk (U+7D41)	e7b581
+終	end; finally, in the end (U+7D42)	e7b582
+絃	string on musical instrument (U+7D43)	e7b583
+組	class; section, department (U+7D44)	e7b584
+絅	unlined garment, dust coat (U+7D45)	e7b585
+絆	loop, catch; fetter, shackle (U+7D46)	e7b586
+絇	U+7D47 (U+7D47)	e7b587
+絈	U+7D48 (U+7D48)	e7b588
+絉	U+7D49 (U+7D49)	e7b589
+絊	U+7D4A (U+7D4A)	e7b58a
+絋	U+7D4B (U+7D4B)	e7b58b
+経	classic works; pass through (U+7D4C)	e7b58c
+絍	to lay the warp; to weave (U+7D4D)	e7b58d
+絎	baste (U+7D4E)	e7b58e
+絏	rope, cable; reins; to tie up, bind (U+7D4F)	e7b58f
+結	knot, tie; join, connect (U+7D50)	e7b590
+絑	U+7D51 (U+7D51)	e7b591
+絒	U+7D52 (U+7D52)	e7b592
+絓	obstructed; hindered (U+7D53)	e7b593
+絔	U+7D54 (U+7D54)	e7b594
+絕	cut, sever, break off, terminate (U+7D55)	e7b595
+絖	fine silks; floss (U+7D56)	e7b596
+絗	U+7D57 (U+7D57)	e7b597
+絘	U+7D58 (U+7D58)	e7b598
+絙	U+7D59 (U+7D59)	e7b599
+絚	a rope (U+7D5A)	e7b59a
+絛	silk braid, sash (U+7D5B)	e7b59b
+絜	a marking line; ascertain, assess; measure (U+7D5C)	e7b59c
+絝	trousers; breeches leggings; drawers (U+7D5D)	e7b59d
+絞	twist, wring; intertwine; winch (U+7D5E)	e7b59e
+絟	U+7D5F (U+7D5F)	e7b59f
+絠	U+7D60 (U+7D60)	e7b5a0
+絡	enmesh, wrap around; web, net (U+7D61)	e7b5a1
+絢	variegated, adorned; brilliant (U+7D62)	e7b5a2
+絣	to baste for sewing; to connect (U+7D63)	e7b5a3
+絤	U+7D64 (U+7D64)	e7b5a4
+絥	to harness a horse a board in front of a carriage for the driver to lean on (U+7D65)	e7b5a5
+給	give; by, for (U+7D66)	e7b5a6
+絧	U+7D67 (U+7D67)	e7b5a7
+絨	silk, cotton, or woolen fabric (U+7D68)	e7b5a8
+絩	U+7D69 (U+7D69)	e7b5a9
+絪	matting; coverlet; cloudy (U+7D6A)	e7b5aa
+絫	U+7D6B (U+7D6B)	e7b5ab
+絬	U+7D6C (U+7D6C)	e7b5ac
+絭	U+7D6D (U+7D6D)	e7b5ad
+絮	waste cotton, raw silk or cotton (U+7D6E)	e7b5ae
+絯	U+7D6F (U+7D6F)	e7b5af
+絰	white hempen cloth worn by mourners (U+7D70)	e7b5b0
+統	govern, command, control; unite (U+7D71)	e7b5b1
+絲	silk; fine thread; wire; strings (U+7D72)	e7b5b2
+絳	deep red; river in Shanxi provinc (U+7D73)	e7b5b3
+絴	U+7D74 (U+7D74)	e7b5b4
+絵	draw, sketch, paint (U+7D75)	e7b5b5
+絶	cut (U+7D76)	e7b5b6
+絷	confine, tie up; imprison, shackle (U+7D77)	e7b5b7
+絸	U+7D78 (U+7D78)	e7b5b8
+絹	kind of thick stiff silk (U+7D79)	e7b5b9
+絺	fine linen; fine hemp fiber (U+7D7A)	e7b5ba
+絻	mourning (U+7D7B)	e7b5bb
+絼	U+7D7C (U+7D7C)	e7b5bc
+絽	a silk gauze (U+7D7D)	e7b5bd
+絾	U+7D7E (U+7D7E)	e7b5be
+絿	urgent (U+7D7F)	e7b5bf
+綀	a kind of sackcloth (U+7D80)	e7b680
+綁	bind, tie, fasten (U+7D81)	e7b681
+綂	govern, command, control; unite (U+7D82)	e7b682
+綃	raw silk fabric (U+7D83)	e7b683
+綄	U+7D84 (U+7D84)	e7b684
+綅	thread (U+7D85)	e7b685
+綆	well rope (U+7D86)	e7b686
+綇	U+7D87 (U+7D87)	e7b687
+綈	coarse pongee, kind of heavy silk (U+7D88)	e7b688
+綉	embroider; embroidery; ornament (U+7D89)	e7b689
+綊	U+7D8A (U+7D8A)	e7b68a
+綋	U+7D8B (U+7D8B)	e7b68b
+綌	cloth (U+7D8C)	e7b68c
+綍	rope (U+7D8D)	e7b68d
+綎	silk braided cord (U+7D8E)	e7b68e
+綏	soothe, appease, pacify; carriage harness (U+7D8F)	e7b68f
+綐	a kind of fine silk fabric (U+7D90)	e7b690
+綑	coil, roll, bundle, tie up (U+7D91)	e7b691
+綒	U+7D92 (U+7D92)	e7b692
+經	classic works; pass through (U+7D93)	e7b693
+綔	U+7D94 (U+7D94)	e7b694
+綕	U+7D95 (U+7D95)	e7b695
+綖	the hanging flap in the front of a hat (U+7D96)	e7b696
+綗	U+7D97 (U+7D97)	e7b697
+綘	U+7D98 (U+7D98)	e7b698
+継	continue, maintain, carry on (U+7D99)	e7b699
+続	continue, carry on; succeed (U+7D9A)	e7b69a
+綛	U+7D9B (U+7D9B)	e7b69b
+綜	arrange threads for weaving (U+7D9C)	e7b69c
+綝	to stop; adjusted, in order (U+7D9D)	e7b69d
+綞	U+7D9E (U+7D9E)	e7b69e
+綟	U+7D9F (U+7D9F)	e7b69f
+綠	green; chlorine (U+7DA0)	e7b6a0
+綡	U+7DA1 (U+7DA1)	e7b6a1
+綢	silk cloth, satin damask (U+7DA2)	e7b6a2
+綣	affectionate, solicitous (U+7DA3)	e7b6a3
+綤	U+7DA4 (U+7DA4)	e7b6a4
+綥	U+7DA5 (U+7DA5)	e7b6a5
+綦	dark grey. variegated. superlative (U+7DA6)	e7b6a6
+綧	U+7DA7 (U+7DA7)	e7b6a7
+綨	U+7DA8 (U+7DA8)	e7b6a8
+綩	U+7DA9 (U+7DA9)	e7b6a9
+綪	dark red (U+7DAA)	e7b6aa
+綫	line, thread, wire; clue (U+7DAB)	e7b6ab
+綬	silk ribbon attached as a seal (U+7DAC)	e7b6ac
+維	maintain, preserve, safeguard (U+7DAD)	e7b6ad
+綮	embroidered banner (U+7DAE)	e7b6ae
+綯	to braid, twist; twisted or braided (U+7DAF)	e7b6af
+綰	to string together, to bind up (U+7DB0)	e7b6b0
+綱	heavy rope, hawser; main points (U+7DB1)	e7b6b1
+網	net, web; network (U+7DB2)	e7b6b2
+綳	a cloth to carry an infant on the back; to tie; to bind (U+7DB3)	e7b6b3
+綴	patch together, link, connect (U+7DB4)	e7b6b4
+綵	varicolored silk; variegated (U+7DB5)	e7b6b5
+綶	U+7DB6 (U+7DB6)	e7b6b6
+綷	U+7DB7 (U+7DB7)	e7b6b7
+綸	green silk thread or tassel (U+7DB8)	e7b6b8
+綹	skein; tuft, lock; wrinkle (U+7DB9)	e7b6b9
+綺	fine thin silk; elegant, beautifu (U+7DBA)	e7b6ba
+綻	ripped seam, rend, crack (U+7DBB)	e7b6bb
+綼	U+7DBC (U+7DBC)	e7b6bc
+綽	graceful, delicate; spacious (U+7DBD)	e7b6bd
+綾	thin silk, damask silk (U+7DBE)	e7b6be
+綿	cotton wad; wool; soft, downy (U+7DBF)	e7b6bf
+緀	U+7DC0 (U+7DC0)	e7b780
+緁	to join, to splice, to braid (U+7DC1)	e7b781
+緂	U+7DC2 (U+7DC2)	e7b782
+緃	perpendicular, erect (U+7DC3)	e7b783
+緄	cord; woven belt; hem; hemming (U+7DC4)	e7b784
+緅	silk of purplish color (U+7DC5)	e7b785
+緆	U+7DC6 (U+7DC6)	e7b786
+緇	black silk (U+7DC7)	e7b787
+緈	U+7DC8 (U+7DC8)	e7b788
+緉	U+7DC9 (U+7DC9)	e7b789
+緊	tense, tight, taut; firm, secure (U+7DCA)	e7b78a
+緋	scarlet, dark red, crimson; purpl (U+7DCB)	e7b78b
+緌	tassels hanging from hat (U+7DCC)	e7b78c
+緍	variant of 緡 U+7DE1, a fishing-line; cord; string of coins; a paper or straw string (U+7DCD)	e7b78d
+緎	seam (U+7DCE)	e7b78e
+総	collect; overall, altogether (U+7DCF)	e7b78f
+緐	U+7DD0 (U+7DD0)	e7b790
+緑	green; chlorine (U+7DD1)	e7b791
+緒	end of thread; thread (U+7DD2)	e7b792
+緓	U+7DD3 (U+7DD3)	e7b793
+緔	the piece of leather used for soles on Chinese shoes; a patch (U+7DD4)	e7b794
+緕	U+7DD5 (U+7DD5)	e7b795
+緖	end of thread; thread, clue (U+7DD6)	e7b796
+緗	light-yellow color (U+7DD7)	e7b797
+緘	seal, close; bind; letter (U+7DD8)	e7b798
+緙	the woof of a woven item (U+7DD9)	e7b799
+線	thread, line, wire; clue (U+7DDA)	e7b79a
+緛	U+7DDB (U+7DDB)	e7b79b
+緜	cotton wad; wool; soft, downy (U+7DDC)	e7b79c
+緝	to sew in close stitches (U+7DDD)	e7b79d
+緞	satin (U+7DDE)	e7b79e
+緟	U+7DDF (U+7DDF)	e7b79f
+締	tie, join, connect; connection (U+7DE0)	e7b7a0
+緡	a fishing-line; cord; string of coins; a paper or straw string (U+7DE1)	e7b7a1
+緢	U+7DE2 (U+7DE2)	e7b7a2
+緣	hem, margin; reason, cause; karma, fate (U+7DE3)	e7b7a3
+緤	cord (U+7DE4)	e7b7a4
+緥	swaddling (U+7DE5)	e7b7a5
+緦	coarse cotton cloth used for mourning (U+7DE6)	e7b7a6
+緧	U+7DE7 (U+7DE7)	e7b7a7
+編	knit, weave; arrange; compile (U+7DE8)	e7b7a8
+緩	slow, leisurely; to postpone, delay (U+7DE9)	e7b7a9
+緪	a rope (U+7DEA)	e7b7aa
+緫	U+7DEB (U+7DEB)	e7b7ab
+緬	distant, remote; think of (U+7DEC)	e7b7ac
+緭	U+7DED (U+7DED)	e7b7ad
+緮	U+7DEE (U+7DEE)	e7b7ae
+緯	woof; parallels of latitude (U+7DEF)	e7b7af
+緰	net (U+7DF0)	e7b7b0
+緱	cord binding on hilt of sword (U+7DF1)	e7b7b1
+緲	indistinct, dim; minute; distant (U+7DF2)	e7b7b2
+緳	U+7DF3 (U+7DF3)	e7b7b3
+練	practice, drill, exercise, train (U+7DF4)	e7b7b4
+緵	net (U+7DF5)	e7b7b5
+緶	hem; plait, braid, queue (U+7DF6)	e7b7b6
+緷	U+7DF7 (U+7DF7)	e7b7b7
+緸	U+7DF8 (U+7DF8)	e7b7b8
+緹	reddish color, red, brown (U+7DF9)	e7b7b9
+緺	U+7DFA (U+7DFA)	e7b7ba
+緻	delicate, fine; dense (U+7DFB)	e7b7bb
+緼	variant of 縕 U+7E15, tangled hemp, raveled silk; vague, confused (U+7DFC)	e7b7bc
+緽	U+7DFD (U+7DFD)	e7b7bd
+緾	U+7DFE (U+7DFE)	e7b7be
+緿	U+7DFF (U+7DFF)	e7b7bf
+縀	U+7E00 (U+7E00)	e7b880
+縁	hem (U+7E01)	e7b881
+縂	collect; overall, altogether (U+7E02)	e7b882
+縃	U+7E03 (U+7E03)	e7b883
+縄	rope, string, cord; control (U+7E04)	e7b884
+縅	to threaten, intimidate (U+7E05)	e7b885
+縆	a rope (U+7E06)	e7b886
+縇	decoration (U+7E07)	e7b887
+縈	entangle, entwine, coil (U+7E08)	e7b888
+縉	red silk (U+7E09)	e7b889
+縊	hang, strangle (U+7E0A)	e7b88a
+縋	climb down rope; hang by rope (U+7E0B)	e7b88b
+縌	U+7E0C (U+7E0C)	e7b88c
+縍	U+7E0D (U+7E0D)	e7b88d
+縎	U+7E0E (U+7E0E)	e7b88e
+縏	purse (U+7E0F)	e7b88f
+縐	crepe, crape, wrinkles, creases (U+7E10)	e7b890
+縑	fine silk (U+7E11)	e7b891
+縒	to twist (U+7E12)	e7b892
+縓	orange or reddish-yellow silk (U+7E13)	e7b893
+縔	U+7E14 (U+7E14)	e7b894
+縕	tangled hemp, raveled silk; vague, confused (U+7E15)	e7b895
+縖	U+7E16 (U+7E16)	e7b896
+縗	sackcloth worn on breast during (U+7E17)	e7b897
+縘	U+7E18 (U+7E18)	e7b898
+縙	U+7E19 (U+7E19)	e7b899
+縚	band (U+7E1A)	e7b89a
+縛	to tie (U+7E1B)	e7b89b
+縜	U+7E1C (U+7E1C)	e7b89c
+縝	detailed, fine; closely woven (U+7E1D)	e7b89d
+縞	white raw silk (U+7E1E)	e7b89e
+縟	decorative, adorned, elegant (U+7E1F)	e7b89f
+縠	crepe (U+7E20)	e7b8a0
+縡	matter, affair (U+7E21)	e7b8a1
+縢	bind, tie up, restrain; cord (U+7E22)	e7b8a2
+縣	county, district, subdivision (U+7E23)	e7b8a3
+縤	U+7E24 (U+7E24)	e7b8a4
+縥	U+7E25 (U+7E25)	e7b8a5
+縦	indulge in, give free reign to (U+7E26)	e7b8a6
+縧	silk cord, ribbon (U+7E27)	e7b8a7
+縨	U+7E28 (U+7E28)	e7b8a8
+縩	U+7E29 (U+7E29)	e7b8a9
+縪	U+7E2A (U+7E2A)	e7b8aa
+縫	sew, mend (U+7E2B)	e7b8ab
+縬	U+7E2C (U+7E2C)	e7b8ac
+縭	a bridal veil; to tie; to bind (U+7E2D)	e7b8ad
+縮	contract, draw in, reduce (U+7E2E)	e7b8ae
+縯	long (U+7E2F)	e7b8af
+縰	band for the hair (U+7E30)	e7b8b0
+縱	indulge in, give free reign to (U+7E31)	e7b8b1
+縲	a chain or rope used bind criminals (U+7E32)	e7b8b2
+縳	wrap (U+7E33)	e7b8b3
+縴	tow line (U+7E34)	e7b8b4
+縵	plain silk; simple, plain (U+7E35)	e7b8b5
+縶	confine, tie up; imprison, shackle (U+7E36)	e7b8b6
+縷	thread; detailed, precise (U+7E37)	e7b8b7
+縸	U+7E38 (U+7E38)	e7b8b8
+縹	light blue silk; dim; misty (U+7E39)	e7b8b9
+縺	to tangle, knot, kink, get twisted; to get complicated (U+7E3A)	e7b8ba
+縻	halter for ox; tie up, harness (U+7E3B)	e7b8bb
+縼	U+7E3C (U+7E3C)	e7b8bc
+總	collect; overall, altogether (U+7E3D)	e7b8bd
+績	spin; achievements (U+7E3E)	e7b8be
+縿	streamer (U+7E3F)	e7b8bf
+繀	U+7E40 (U+7E40)	e7b980
+繁	complicated, complex, difficult (U+7E41)	e7b981
+繂	U+7E42 (U+7E42)	e7b982
+繃	bind, draw firmly, strap (U+7E43)	e7b983
+繄	be; particle; sigh, alas (U+7E44)	e7b984
+繅	draw, reel silk from cocoons; elegant compositions (U+7E45)	e7b985
+繆	wind around, bind; prepare (U+7E46)	e7b986
+繇	reason, cause (U+7E47)	e7b987
+繈	string of copper coins; swaddling clothes (U+7E48)	e7b988
+繉	U+7E49 (U+7E49)	e7b989
+繊	fine, delicate; minute; graceful (U+7E4A)	e7b98a
+繋	attach, connect, unite, fasten (U+7E4B)	e7b98b
+繌	U+7E4C (U+7E4C)	e7b98c
+繍	embroider; embroidery; ornament (U+7E4D)	e7b98d
+繎	U+7E4E (U+7E4E)	e7b98e
+繏	U+7E4F (U+7E4F)	e7b98f
+繐	fine cloth (U+7E50)	e7b990
+繑	U+7E51 (U+7E51)	e7b991
+繒	silk fabrics; surname (U+7E52)	e7b992
+繓	U+7E53 (U+7E53)	e7b993
+織	weave, knit; organize, unite (U+7E54)	e7b994
+繕	repair, mend; rewrite, transcribe (U+7E55)	e7b995
+繖	umbrella, parasol, parachute (U+7E56)	e7b996
+繗	U+7E57 (U+7E57)	e7b997
+繘	rope (U+7E58)	e7b998
+繙	to interpret; to flap, flutter in the wind (U+7E59)	e7b999
+繚	wind round, rap around, bind (U+7E5A)	e7b99a
+繛	U+7E5B (U+7E5B)	e7b99b
+繜	U+7E5C (U+7E5C)	e7b99c
+繝	U+7E5D (U+7E5D)	e7b99d
+繞	entwine; wind around; surround (U+7E5E)	e7b99e
+繟	U+7E5F (U+7E5F)	e7b99f
+繠	hang (U+7E60)	e7b9a0
+繡	embroider; embroidery; ornament (U+7E61)	e7b9a1
+繢	draw, sketch, paint (U+7E62)	e7b9a2
+繣	obstinate; perverse (U+7E63)	e7b9a3
+繤	edit (U+7E64)	e7b9a4
+繥	U+7E65 (U+7E65)	e7b9a5
+繦	string of copper coins; swaddling (U+7E66)	e7b9a6
+繧	U+7E67 (U+7E67)	e7b9a7
+繨	a knot (of a rope) (U+7E68)	e7b9a8
+繩	rope, string, cord; measure, restrain (U+7E69)	e7b9a9
+繪	draw, sketch, paint (U+7E6A)	e7b9aa
+繫	attach, connect, unite, fasten (U+7E6B)	e7b9ab
+繬	U+7E6C (U+7E6C)	e7b9ac
+繭	cocoon; callus, blister (U+7E6D)	e7b9ad
+繮	reins, bridle (U+7E6E)	e7b9ae
+繯	noose; hang death; tie, bind (U+7E6F)	e7b9af
+繰	to reel silk from cocoons (U+7E70)	e7b9b0
+繱	U+7E71 (U+7E71)	e7b9b1
+繲	to work as a tailor, and do washing-for a living (U+7E72)	e7b9b2
+繳	deliver, submit; hand over (U+7E73)	e7b9b3
+繴	a kind of fishing-net (U+7E74)	e7b9b4
+繵	U+7E75 (U+7E75)	e7b9b5
+繶	U+7E76 (U+7E76)	e7b9b6
+繷	U+7E77 (U+7E77)	e7b9b7
+繸	hem or border of a garment; tassel (U+7E78)	e7b9b8
+繹	to unravel or unreel silk; to interpret, explain  (U+7E79)	e7b9b9
+繺	U+7E7A (U+7E7A)	e7b9ba
+繻	fine silk guaze; torn piece of silk (U+7E7B)	e7b9bb
+繼	continue, maintain, carry on (U+7E7C)	e7b9bc
+繽	flourishing, thriving, abundant (U+7E7D)	e7b9bd
+繾	attached to, inseparable; entangled (U+7E7E)	e7b9be
+繿	(same as U+8964 襤) clothes without hem; ragged garments; sloppily dressed (U+7E7F)	e7b9bf
+纀	U+7E80 (U+7E80)	e7ba80
+纁	light red, pink (U+7E81)	e7ba81
+纂	edit, compile; topknot, chignon (U+7E82)	e7ba82
+纃	U+7E83 (U+7E83)	e7ba83
+纄	U+7E84 (U+7E84)	e7ba84
+纅	U+7E85 (U+7E85)	e7ba85
+纆	cord (U+7E86)	e7ba86
+纇	knot; blemish, flaw, wicked (U+7E87)	e7ba87
+纈	patterned silk; tie knot (U+7E88)	e7ba88
+纉	U+7E89 (U+7E89)	e7ba89
+纊	cotton; silk (U+7E8A)	e7ba8a
+纋	U+7E8B (U+7E8B)	e7ba8b
+續	continue, carry on; succeed (U+7E8C)	e7ba8c
+纍	bind, wind about; link, join (U+7E8D)	e7ba8d
+纎	fine, delicate; minute; graceful (U+7E8E)	e7ba8e
+纏	wrap, wind around; tie, bind (U+7E8F)	e7ba8f
+纐	U+7E90 (U+7E90)	e7ba90
+纑	to soften hemp by boiling; thread (U+7E91)	e7ba91
+纒	wrap, wind around; tie, bind (U+7E92)	e7ba92
+纓	a chin strap, tassel; to annoy, bother (U+7E93)	e7ba93
+纔	talent, ability; just, only (U+7E94)	e7ba94
+纕	belt (U+7E95)	e7ba95
+纖	fine, delicate; minute; graceful (U+7E96)	e7ba96
+纗	U+7E97 (U+7E97)	e7ba97
+纘	continue, carry on, succeed (U+7E98)	e7ba98
+纙	U+7E99 (U+7E99)	e7ba99
+纚	long; dangling; kerchief; rope (U+7E9A)	e7ba9a
+纛	a banner, a streamer (U+7E9B)	e7ba9b
+纜	hawser, heavy-duty rope, cable (U+7E9C)	e7ba9c
+纝	U+7E9D (U+7E9D)	e7ba9d
+纞	U+7E9E (U+7E9E)	e7ba9e
+纟	silk; KangXi radical 120 (U+7E9F)	e7ba9f
+纠	investigate, inspect (U+7EA0)	e7baa0
+纡	bend, turn, twist; distort (U+7EA1)	e7baa1
+红	red, vermillion; blush, flush (U+7EA2)	e7baa2
+纣	name of an emperor; saddle part (U+7EA3)	e7baa3
+纤	fine, delicate; minute; graceful (U+7EA4)	e7baa4
+纥	inferior silk; tassel, fringe (U+7EA5)	e7baa5
+约	treaty, agreement, covenant (U+7EA6)	e7baa6
+级	level, rank, class; grade (U+7EA7)	e7baa7
+纨	white silk, fine silk; gauze (U+7EA8)	e7baa8
+纩	cotton; silk (U+7EA9)	e7baa9
+纪	record, annal, historical account (U+7EAA)	e7baaa
+纫	thread needle, sew stitch, string (U+7EAB)	e7baab
+纬	woof; parallels of latitude (U+7EAC)	e7baac
+纭	confused, in disorder; numerous (U+7EAD)	e7baad
+纮	string; vast, expansive (U+7EAE)	e7baae
+纯	pure, clean, simple (U+7EAF)	e7baaf
+纰	spoiled silk; hem of dress; mista (U+7EB0)	e7bab0
+纱	gauze, thin silk; yarn, thread (U+7EB1)	e7bab1
+纲	heavy rope, hawser; main points (U+7EB2)	e7bab2
+纳	admit, take, receive, accept (U+7EB3)	e7bab3
+纴	weave, lay warp (U+7EB4)	e7bab4
+纵	indulge in, give free reign to (U+7EB5)	e7bab5
+纶	green silk thread or tassel (U+7EB6)	e7bab6
+纷	in disorder, scattered, tangled (U+7EB7)	e7bab7
+纸	paper (U+7EB8)	e7bab8
+纹	line, streak, stripe; wrinkle (U+7EB9)	e7bab9
+纺	spin, reel, weave; reeled pongee (U+7EBA)	e7baba
+纻	ramie; sack cloth (U+7EBB)	e7babb
+纼	a rope for leading cattle or horse (U+7EBC)	e7babc
+纽	knot; button; handle, knob; tie (U+7EBD)	e7babd
+纾	loosen, relax, relieve; extricate (U+7EBE)	e7babe
+线	line, thread, wire; clue (U+7EBF)	e7babf
+绀	dark blue or reddish color (U+7EC0)	e7bb80
+绁	to contract, draw in, reduce, shorten (U+7EC1)	e7bb81
+绂	ribbon or cord used attach ornaments (U+7EC2)	e7bb82
+练	to practice, drill, exercise, train (U+7EC3)	e7bb83
+组	class; section, department (U+7EC4)	e7bb84
+绅	girdle; tie, bind; gentry (U+7EC5)	e7bb85
+细	fine, tiny; slender, thin (U+7EC6)	e7bb86
+织	weave, knit; organize, unite (U+7EC7)	e7bb87
+终	end; finally, in the end (U+7EC8)	e7bb88
+绉	crepe, crape, wrinkles, creases (U+7EC9)	e7bb89
+绊	loop, catch; fetter, shackle (U+7ECA)	e7bb8a
+绋	large rope; rope attached to bier (U+7ECB)	e7bb8b
+绌	sew, stitch; insufficient (U+7ECC)	e7bb8c
+绍	continue, carry on; join (U+7ECD)	e7bb8d
+绎	to unravel or unreel silk; to interpret (U+7ECE)	e7bb8e
+经	classic works; pass through (U+7ECF)	e7bb8f
+绐	cheat, fool, pretend (U+7ED0)	e7bb90
+绑	bind, tie, fasten (U+7ED1)	e7bb91
+绒	silk, cotton, or woolen fabric (U+7ED2)	e7bb92
+结	knot, tie; join, connect (U+7ED3)	e7bb93
+绔	trousers (U+7ED4)	e7bb94

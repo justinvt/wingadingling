@@ -1,0 +1,1024 @@
+雕	engrave, inlay, carve; exhaust; used for U+9D70 鵰 an eagle, vulture (U+96D5)	e99b95
+雖	although, even if (U+96D6)	e99b96
+雗	a white pheasant (U+96D7)	e99b97
+雘	dye made from red soil; ochre (U+96D8)	e99b98
+雙	set of two, pair, couple; both (U+96D9)	e99b99
+雚	a heron; small cup (U+96DA)	e99b9a
+雛	chick, fledging; infant, toddler (U+96DB)	e99b9b
+雜	mixed, blended; mix, mingle (U+96DC)	e99b9c
+雝	marsh; pool; harmonious (U+96DD)	e99b9d
+雞	chickens; domestic fowl (U+96DE)	e99b9e
+雟	sparrow; revolve; place name (U+96DF)	e99b9f
+雠	enemy, rival, opponent (U+96E0)	e99ba0
+雡	U+96E1 (U+96E1)	e99ba1
+離	leave, depart; go away; separate (U+96E2)	e99ba2
+難	difficult, arduous, hard; unable (U+96E3)	e99ba3
+雤	U+96E4 (U+96E4)	e99ba4
+雥	U+96E5 (U+96E5)	e99ba5
+雦	U+96E6 (U+96E6)	e99ba6
+雧	U+96E7 (U+96E7)	e99ba7
+雨	rain; rainy; KangXi radical 173 (U+96E8)	e99ba8
+雩	offer sacrifice for rain (U+96E9)	e99ba9
+雪	snow; wipe away shame, avenge (U+96EA)	e99baa
+雫	a drop, trickle, dripping (U+96EB)	e99bab
+雬	U+96EC (U+96EC)	e99bac
+雭	U+96ED (U+96ED)	e99bad
+雮	U+96EE (U+96EE)	e99bae
+雯	cloud patterns, coloring of cloud (U+96EF)	e99baf
+雰	atmosphere; mist, fog (U+96F0)	e99bb0
+雱	snowing heavily (U+96F1)	e99bb1
+雲	clouds; Yunnan province (U+96F2)	e99bb2
+雳	thunderclap, crashing thunder (U+96F3)	e99bb3
+雴	U+96F4 (U+96F4)	e99bb4
+雵	U+96F5 (U+96F5)	e99bb5
+零	zero; fragment, fraction (U+96F6)	e99bb6
+雷	thunder (U+96F7)	e99bb7
+雸	U+96F8 (U+96F8)	e99bb8
+雹	hail (U+96F9)	e99bb9
+雺	U+96FA (U+96FA)	e99bba
+電	electricity, electric; lightning (U+96FB)	e99bbb
+雼	U+96FC (U+96FC)	e99bbc
+雽	U+96FD (U+96FD)	e99bbd
+雾	fog, mist, vapor, fine spray (U+96FE)	e99bbe
+雿	U+96FF (U+96FF)	e99bbf
+需	need, require, must (U+9700)	e99c80
+霁	to clear up after rain; to cease be angry (U+9701)	e99c81
+霂	fine rain, drizzle (U+9702)	e99c82
+霃	long continued rains (U+9703)	e99c83
+霄	sky; clouds, mist; night (U+9704)	e99c84
+霅	thunder (U+9705)	e99c85
+霆	a sudden peal of thunder (U+9706)	e99c86
+震	shake, quake, tremor; excite (U+9707)	e99c87
+霈	torrential rains, flow of water (U+9708)	e99c88
+霉	mildew, mold; moldy, mildewed (U+9709)	e99c89
+霊	spirit, soul; spiritual world (U+970A)	e99c8a
+霋	slight, passing (U+970B)	e99c8b
+霌	U+970C (U+970C)	e99c8c
+霍	quickly, suddenly; surname (U+970D)	e99c8d
+霎	light rain, drizzle; an instant; passing (U+970E)	e99c8e
+霏	falling of snow and rain (U+970F)	e99c8f
+霐	U+9710 (U+9710)	e99c90
+霑	be moistened, soaked; moisten (U+9711)	e99c91
+霒	U+9712 (U+9712)	e99c92
+霓	rainbow; variegated, colored (U+9713)	e99c93
+霔	U+9714 (U+9714)	e99c94
+霕	U+9715 (U+9715)	e99c95
+霖	long spell of rain, copious rain (U+9716)	e99c96
+霗	U+9717 (U+9717)	e99c97
+霘	U+9718 (U+9718)	e99c98
+霙	sleet (U+9719)	e99c99
+霚	U+971A (U+971A)	e99c9a
+霛	U+971B (U+971B)	e99c9b
+霜	frost; crystallized; candied (U+971C)	e99c9c
+霝	drops of rain; to fall in drops (U+971D)	e99c9d
+霞	rosy clouds (U+971E)	e99c9e
+霟	U+971F (U+971F)	e99c9f
+霠	U+9720 (U+9720)	e99ca0
+霡	drizzling rain; to soak-- used fig. of favours (U+9721)	e99ca1
+霢	dust (U+9722)	e99ca2
+霣	fall (U+9723)	e99ca3
+霤	drip; rain-water catcher (U+9724)	e99ca4
+霥	U+9725 (U+9725)	e99ca5
+霦	U+9726 (U+9726)	e99ca6
+霧	fog, mist, vapor, fine spray (U+9727)	e99ca7
+霨	clouding (U+9728)	e99ca8
+霩	U+9729 (U+9729)	e99ca9
+霪	long and heavy rain (U+972A)	e99caa
+霫	heavy rain (U+972B)	e99cab
+霬	U+972C (U+972C)	e99cac
+霭	cloudy sky, haze; calm, peaceful (U+972D)	e99cad
+霮	U+972E (U+972E)	e99cae
+霯	U+972F (U+972F)	e99caf
+霰	hail, sleet (U+9730)	e99cb0
+霱	cloud (U+9731)	e99cb1
+露	dew; bare, open, exposed (U+9732)	e99cb2
+霳	U+9733 (U+9733)	e99cb3
+霴	U+9734 (U+9734)	e99cb4
+霵	U+9735 (U+9735)	e99cb5
+霶	downpouring of rain (U+9736)	e99cb6
+霷	U+9737 (U+9737)	e99cb7
+霸	rule by might rather than right (U+9738)	e99cb8
+霹	thunder, crashing thunder (U+9739)	e99cb9
+霺	U+973A (U+973A)	e99cba
+霻	U+973B (U+973B)	e99cbb
+霼	U+973C (U+973C)	e99cbc
+霽	to clear up after rain; to cease be angry (U+973D)	e99cbd
+霾	misty, foggy; dust storm (U+973E)	e99cbe
+霿	U+973F (U+973F)	e99cbf
+靀	drizzling, fine rain; mist (U+9740)	e99d80
+靁	thick, strong (U+9741)	e99d81
+靂	thunderclap, crashing thunder (U+9742)	e99d82
+靃	U+9743 (U+9743)	e99d83
+靄	cloudy sky, haze; calm, peaceful (U+9744)	e99d84
+靅	U+9745 (U+9745)	e99d85
+靆	cloudy sky; not clear; dark (U+9746)	e99d86
+靇	U+9747 (U+9747)	e99d87
+靈	spirit, soul; spiritual world (U+9748)	e99d88
+靉	cloudy sky; dark, obscure (U+9749)	e99d89
+靊	U+974A (U+974A)	e99d8a
+靋	U+974B (U+974B)	e99d8b
+靌	U+974C (U+974C)	e99d8c
+靍	U+974D (U+974D)	e99d8d
+靎	U+974E (U+974E)	e99d8e
+靏	U+974F (U+974F)	e99d8f
+靐	U+9750 (U+9750)	e99d90
+靑	blue (U+9751)	e99d91
+青	blue, green, black; young (U+9752)	e99d92
+靓	make up face; ornament; quiet (U+9753)	e99d93
+靔	U+9754 (U+9754)	e99d94
+靕	U+9755 (U+9755)	e99d95
+靖	pacify; appease; calm, peaceful (U+9756)	e99d96
+靗	U+9757 (U+9757)	e99d97
+靘	U+9758 (U+9758)	e99d98
+静	quiet, still, motionless; gentle (U+9759)	e99d99
+靚	make up face; ornament; quiet; (Cant.) pretty (U+975A)	e99d9a
+靛	indigo; any blue dye (U+975B)	e99d9b
+靜	quiet, still, motionless; gentle (U+975C)	e99d9c
+靝	(in taoism) the heaven (U+975D)	e99d9d
+非	not, negative, non-; oppose (U+975E)	e99d9e
+靟	U+975F (U+975F)	e99d9f
+靠	lean on, trust, depend on; near (U+9760)	e99da0
+靡	divide, disperse, scatter (U+9761)	e99da1
+面	face; surface; plane; side, dimension (U+9762)	e99da2
+靣	U+9763 (U+9763)	e99da3
+靤	U+9764 (U+9764)	e99da4
+靥	dimples (U+9765)	e99da5
+靦	timid, shy, bashful (U+9766)	e99da6
+靧	wash face (U+9767)	e99da7
+靨	dimples (U+9768)	e99da8
+革	leather, animal hides; rad. 177 (U+9769)	e99da9
+靪	to cobble, to patch (U+976A)	e99daa
+靫	strong and pliable, resilient (U+976B)	e99dab
+靬	U+976C (U+976C)	e99dac
+靭	strong and pliable, resilient (U+976D)	e99dad
+靮	bridle (U+976E)	e99dae
+靯	U+976F (U+976F)	e99daf
+靰	leg warmer (U+9770)	e99db0
+靱	strong and pliable, resilient (U+9771)	e99db1
+靲	U+9772 (U+9772)	e99db2
+靳	strap on a horse's breast (U+9773)	e99db3
+靴	boots (U+9774)	e99db4
+靵	U+9775 (U+9775)	e99db5
+靶	target; splashboard on chariot (U+9776)	e99db6
+靷	the leather belt that connects a horse with a cart (U+9777)	e99db7
+靸	a child's shoes; slippers (U+9778)	e99db8
+靹	U+9779 (U+9779)	e99db9
+靺	stocking; the Tungusic tribe (U+977A)	e99dba
+靻	U+977B (U+977B)	e99dbb
+靼	tartars (U+977C)	e99dbc
+靽	U+977D (U+977D)	e99dbd
+靾	U+977E (U+977E)	e99dbe
+靿	the leg of a boot (U+977F)	e99dbf
+鞀	drum (U+9780)	e99e80
+鞁	U+9781 (U+9781)	e99e81
+鞂	U+9782 (U+9782)	e99e82
+鞃	board (U+9783)	e99e83
+鞄	to work hides; leather bag (U+9784)	e99e84
+鞅	leather strap over horse's neck (U+9785)	e99e85
+鞆	an archer's arm-protector (U+9786)	e99e86
+鞇	U+9787 (U+9787)	e99e87
+鞈	U+9788 (U+9788)	e99e88
+鞉	drum (U+9789)	e99e89
+鞊	U+978A (U+978A)	e99e8a
+鞋	shoes, footwear in general (U+978B)	e99e8b
+鞌	U+978C (U+978C)	e99e8c
+鞍	saddle; any saddle-shaped object (U+978D)	e99e8d
+鞎	U+978E (U+978E)	e99e8e
+鞏	bind; firm, secure, strong (U+978F)	e99e8f
+鞐	U+9790 (U+9790)	e99e90
+鞑	tatars (U+9791)	e99e91
+鞒	mud shoe, sledge for the feet (U+9792)	e99e92
+鞓	U+9793 (U+9793)	e99e93
+鞔	sides or uppers of shoes to stretch a skin on a frame for a drum; (Cant.) to cover (U+9794)	e99e94
+鞕	U+9795 (U+9795)	e99e95
+鞖	U+9796 (U+9796)	e99e96
+鞗	reins (U+9797)	e99e97
+鞘	scabbard, sheath (U+9798)	e99e98
+鞙	scabbard; traces, reins (U+9799)	e99e99
+鞚	bridle (U+979A)	e99e9a
+鞛	U+979B (U+979B)	e99e9b
+鞜	shoes, boots (U+979C)	e99e9c
+鞝	the piece of leather used for soles on Chinese shoes. a patch (U+979D)	e99e9d
+鞞	sheath (U+979E)	e99e9e
+鞟	skin; leather (U+979F)	e99e9f
+鞠	bow, bend; rear, raise, nourish (U+97A0)	e99ea0
+鞡	leg warmer (U+97A1)	e99ea1
+鞢	U+97A2 (U+97A2)	e99ea2
+鞣	tan, soften (U+97A3)	e99ea3
+鞤	U+97A4 (U+97A4)	e99ea4
+鞥	U+97A5 (U+97A5)	e99ea5
+鞦	leather stap; swing (U+97A6)	e99ea6
+鞧	a leather strap (U+97A7)	e99ea7
+鞨	tribe (U+97A8)	e99ea8
+鞩	U+97A9 (U+97A9)	e99ea9
+鞪	U+97AA (U+97AA)	e99eaa
+鞫	interrogate, question (U+97AB)	e99eab
+鞬	a quiver on a horse; a store (U+97AC)	e99eac
+鞭	whip; whip; string of firecrackers (U+97AD)	e99ead
+鞮	leather shoes (U+97AE)	e99eae
+鞯	saddle blanket (U+97AF)	e99eaf
+鞰	U+97B0 (U+97B0)	e99eb0
+鞱	U+97B1 (U+97B1)	e99eb1
+鞲	leather arm guard (U+97B2)	e99eb2
+鞳	U+97B3 (U+97B3)	e99eb3
+鞴	saddle up horse; drive horse (U+97B4)	e99eb4
+鞵	shoes; boots (U+97B5)	e99eb5
+鞶	big leather belt (U+97B6)	e99eb6
+鞷	U+97B7 (U+97B7)	e99eb7
+鞸	leather arm guard (U+97B8)	e99eb8
+鞹	skin (U+97B9)	e99eb9
+鞺	the sound of drums (U+97BA)	e99eba
+鞻	U+97BB (U+97BB)	e99ebb
+鞼	U+97BC (U+97BC)	e99ebc
+鞽	mud shoe, sledge for the feet (U+97BD)	e99ebd
+鞾	boots (U+97BE)	e99ebe
+鞿	U+97BF (U+97BF)	e99ebf
+韀	a saddle fastener (U+97C0)	e99f80
+韁	reins, halter; bridle (U+97C1)	e99f81
+韂	a saddle-flap. trappings (U+97C2)	e99f82
+韃	tatars (U+97C3)	e99f83
+韄	U+97C4 (U+97C4)	e99f84
+韅	harness (U+97C5)	e99f85
+韆	swing (U+97C6)	e99f86
+韇	U+97C7 (U+97C7)	e99f87
+韈	socks, stockings (U+97C8)	e99f88
+韉	saddle blanket (U+97C9)	e99f89
+韊	a case for a bow (U+97CA)	e99f8a
+韋	tanned leather; surname; KangXi radical number 178 (U+97CB)	e99f8b
+韌	strong and pliable, resilient; (Cant.) tough, elastic (U+97CC)	e99f8c
+韍	a leather knee-pad worn during sacrifices (U+97CD)	e99f8d
+韎	red (U+97CE)	e99f8e
+韏	U+97CF (U+97CF)	e99f8f
+韐	knee-pad made of red-dyed leather (U+97D0)	e99f90
+韑	U+97D1 (U+97D1)	e99f91
+韒	a sheath, scabbard (U+97D2)	e99f92
+韓	fence; surname; Korea (U+97D3)	e99f93
+韔	a wrapper or case for bow (U+97D4)	e99f94
+韕	U+97D5 (U+97D5)	e99f95
+韖	tan, soften (U+97D6)	e99f96
+韗	U+97D7 (U+97D7)	e99f97
+韘	archer's thumb ring (U+97D8)	e99f98
+韙	right; proper; perpriety (U+97D9)	e99f99
+韚	U+97DA (U+97DA)	e99f9a
+韛	U+97DB (U+97DB)	e99f9b
+韜	sheath, scabbard, bow case (U+97DC)	e99f9c
+韝	leather arm band (U+97DD)	e99f9d
+韞	an orange color; hide, conceal (U+97DE)	e99f9e
+韟	U+97DF (U+97DF)	e99f9f
+韠	knee-pad (U+97E0)	e99fa0
+韡	gorgeous (U+97E1)	e99fa1
+韢	U+97E2 (U+97E2)	e99fa2
+韣	bow-bag (U+97E3)	e99fa3
+韤	socks, stockings (U+97E4)	e99fa4
+韥	U+97E5 (U+97E5)	e99fa5
+韦	tanned leather; surname; simplified form of KangXi radical number 178 (U+97E6)	e99fa6
+韧	strong and pliable, resilient (U+97E7)	e99fa7
+韨	a leather knee-pad worn during sacrifices (U+97E8)	e99fa8
+韩	fence; surname; Korea (U+97E9)	e99fa9
+韪	right; proper; perpriety (U+97EA)	e99faa
+韫	secrete, hide, conceal (U+97EB)	e99fab
+韬	sheath, scabbard, bow case (U+97EC)	e99fac
+韭	scallion, leek; radical 179 (U+97ED)	e99fad
+韮	scallion, leek (U+97EE)	e99fae
+韯	wild onions or leeks (U+97EF)	e99faf
+韰	U+97F0 (U+97F0)	e99fb0
+韱	wild onions or leeks (U+97F1)	e99fb1
+韲	break or smash into pieces, pulverize (U+97F2)	e99fb2
+音	sound, tone, pitch, pronunciation (U+97F3)	e99fb3
+韴	U+97F4 (U+97F4)	e99fb4
+韵	rhyme; vowel (U+97F5)	e99fb5
+韶	music of the emperor Shun; beautiful (U+97F6)	e99fb6
+韷	U+97F7 (U+97F7)	e99fb7
+韸	U+97F8 (U+97F8)	e99fb8
+韹	music of bell and drum (U+97F9)	e99fb9
+韺	music (U+97FA)	e99fba
+韻	rhyme; vowel (U+97FB)	e99fbb
+韼	U+97FC (U+97FC)	e99fbc
+韽	U+97FD (U+97FD)	e99fbd
+韾	U+97FE (U+97FE)	e99fbe
+響	make sound, make noise; sound (U+97FF)	e99fbf
+頀	music (U+9800)	e9a080
+頁	page, sheet, leaf; rad. no. 181 (U+9801)	e9a081
+頂	top, peak; carry on head; very (U+9802)	e9a082
+頃	a moment; a measure of area equal to 100 mu or 6.7 hectares; to lean (U+9803)	e9a083
+頄	cheekbone (U+9804)	e9a084
+項	neck, nape of neck; sum; funds (U+9805)	e9a085
+順	obey, submit to, go along with (U+9806)	e9a086
+頇	large face, flat face; stupid (U+9807)	e9a087
+須	must, have to, necessary; moment; whiskers (U+9808)	e9a088
+頉	cheeks; jaw; chin; rear; nourish (U+9809)	e9a089
+頊	grieved; anxious (U+980A)	e9a08a
+頋	to care for, to look after to regard; to turn the head round to look (U+980B)	e9a08b
+頌	laud, acclaim; hymn; ode (U+980C)	e9a08c
+頍	to raise one's head (U+980D)	e9a08d
+頎	tall and slim (U+980E)	e9a08e
+頏	fly down or downward (U+980F)	e9a08f
+預	prepare, arrange; in advance (U+9810)	e9a090
+頑	obstinate, stubborn; recalcitrant (U+9811)	e9a091
+頒	confer, bestow; publish, promulgate (U+9812)	e9a092
+頓	pause, stop; bow, kowtow; arrange (U+9813)	e9a093
+頔	good and beautiful (U+9814)	e9a094
+頕	(Cant.) to raise the head (U+9815)	e9a095
+頖	Zhou dynasty school; disperse; fall apart (U+9816)	e9a096
+頗	lean one side; very, rather (U+9817)	e9a097
+領	neck; collar; lead, guide (U+9818)	e9a098
+頙	correct (U+9819)	e9a099
+頚	neck, throat (U+981A)	e9a09a
+頛	U+981B (U+981B)	e9a09b
+頜	mouth; jaw (U+981C)	e9a09c
+頝	U+981D (U+981D)	e9a09d
+頞	(nose) bridge (U+981E)	e9a09e
+頟	the forehead; a fixed number (U+981F)	e9a09f
+頠	quiet (U+9820)	e9a0a0
+頡	fly upward, soar; contest; to rob (U+9821)	e9a0a1
+頢	U+9822 (U+9822)	e9a0a2
+頣	to view others with raised eyes (U+9823)	e9a0a3
+頤	cheeks; jaw; chin; rear; to nourish (U+9824)	e9a0a4
+頥	U+9825 (U+9825)	e9a0a5
+頦	chin (U+9826)	e9a0a6
+頧	U+9827 (U+9827)	e9a0a7
+頨	U+9828 (U+9828)	e9a0a8
+頩	U+9829 (U+9829)	e9a0a9
+頪	U+982A (U+982A)	e9a0aa
+頫	bow; nod; condescend (U+982B)	e9a0ab
+頬	cheeks, jaw (U+982C)	e9a0ac
+頭	head; top; chief, first; boss (U+982D)	e9a0ad
+頮	wash (U+982E)	e9a0ae
+頯	cheekbone (U+982F)	e9a0af
+頰	cheeks, jaw (U+9830)	e9a0b0
+頱	U+9831 (U+9831)	e9a0b1
+頲	straight (U+9832)	e9a0b2
+頳	red (U+9833)	e9a0b3
+頴	rice tassel; sharp point; clever (U+9834)	e9a0b4
+頵	(Cant.) 大頭頵, a big head (U+9835)	e9a0b5
+頶	U+9836 (U+9836)	e9a0b6
+頷	chin, jowl; give nod (U+9837)	e9a0b7
+頸	neck, throat (U+9838)	e9a0b8
+頹	ruined, decayed; disintegrate (U+9839)	e9a0b9
+頺	U+983A (U+983A)	e9a0ba
+頻	frequently, again and again (U+983B)	e9a0bb
+頼	rely, depend on; accuse falsely (U+983C)	e9a0bc
+頽	ruined (U+983D)	e9a0bd
+頾	beard (U+983E)	e9a0be
+頿	U+983F (U+983F)	e9a0bf
+顀	U+9840 (U+9840)	e9a180
+顁	U+9841 (U+9841)	e9a181
+顂	U+9842 (U+9842)	e9a182
+顃	U+9843 (U+9843)	e9a183
+顄	U+9844 (U+9844)	e9a184
+顅	U+9845 (U+9845)	e9a185
+顆	grain, kernel (U+9846)	e9a186
+顇	be worn out, be haggard (U+9847)	e9a187
+顈	U+9848 (U+9848)	e9a188
+顉	U+9849 (U+9849)	e9a189
+顊	U+984A (U+984A)	e9a18a
+顋	lower part of face; jaw; gills of a fish (U+984B)	e9a18b
+題	forehead; title, headline; theme (U+984C)	e9a18c
+額	forehead; tablet, plaque; fixed (U+984D)	e9a18d
+顎	jaw (U+984E)	e9a18e
+顏	face, facial appearance (U+984F)	e9a18f
+顐	U+9850 (U+9850)	e9a190
+顑	yellow (U+9851)	e9a191
+顒	solemn, large, grand, majestic (U+9852)	e9a192
+顓	good, honest; simple; respectful (U+9853)	e9a193
+顔	face, facial appearance (U+9854)	e9a194
+顕	manifest, display; evident, clear (U+9855)	e9a195
+顖	top of the head; skull (U+9856)	e9a196
+顗	quiet (U+9857)	e9a197
+願	desire, want; wish; ambition (U+9858)	e9a198
+顙	the forehead; to kowtow (U+9859)	e9a199
+顚	top, peak, summit; upset (U+985A)	e9a19a
+顛	top, peak, summit; upset (U+985B)	e9a19b
+顜	U+985C (U+985C)	e9a19c
+顝	U+985D (U+985D)	e9a19d
+類	class, group, kind, category (U+985E)	e9a19e
+顟	U+985F (U+985F)	e9a19f
+顠	U+9860 (U+9860)	e9a1a0
+顡	U+9861 (U+9861)	e9a1a1
+顢	dawdling; thoughtless, careless (U+9862)	e9a1a2
+顣	frown (U+9863)	e9a1a3
+顤	U+9864 (U+9864)	e9a1a4
+顥	luminous; white, hoary (U+9865)	e9a1a5
+顦	be worn-out, emaciated, haggard (U+9866)	e9a1a6
+顧	look back; look at; look after (U+9867)	e9a1a7
+顨	U+9868 (U+9868)	e9a1a8
+顩	U+9869 (U+9869)	e9a1a9
+顪	U+986A (U+986A)	e9a1aa
+顫	shiver, tremble; trembling (U+986B)	e9a1ab
+顬	the temporal bone (U+986C)	e9a1ac
+顭	U+986D (U+986D)	e9a1ad
+顮	U+986E (U+986E)	e9a1ae
+顯	manifest, display; evident, clear (U+986F)	e9a1af
+顰	frown, knit brows; with knitted (U+9870)	e9a1b0
+顱	skull (U+9871)	e9a1b1
+顲	U+9872 (U+9872)	e9a1b2
+顳	the temporal bone (U+9873)	e9a1b3
+顴	cheek bones (U+9874)	e9a1b4
+页	page, sheet, leaf; rad. no. 181 (U+9875)	e9a1b5
+顶	top, summit, peak; to carry on the head (U+9876)	e9a1b6
+顷	a moment; a measure of area equal to 100 mu or 6.7 hectares; to lean (U+9877)	e9a1b7
+顸	large face, flat face; stupid (U+9878)	e9a1b8
+项	neck, nape of neck; sum; funds (U+9879)	e9a1b9
+顺	obey, submit to, go along with (U+987A)	e9a1ba
+须	must, have to, necessary (U+987B)	e9a1bb
+顼	grieved (U+987C)	e9a1bc
+顽	obstinate, stubborn; recalcitrant (U+987D)	e9a1bd
+顾	look back; look at; look after (U+987E)	e9a1be
+顿	pause, stop; bow, kowtow; arrange (U+987F)	e9a1bf
+颀	tall and slim (U+9880)	e9a280
+颁	confer, bestow; publish, promulgate (U+9881)	e9a281
+颂	laud, acclaim; hymn; ode (U+9882)	e9a282
+颃	fly down or downward (U+9883)	e9a283
+预	prepare, arrange; in advance (U+9884)	e9a284
+颅	skull (U+9885)	e9a285
+领	neck; collar; lead, guide (U+9886)	e9a286
+颇	lean one side; very, rather (U+9887)	e9a287
+颈	neck, throat (U+9888)	e9a288
+颉	fly upward, soar; contest (U+9889)	e9a289
+颊	cheeks, jaw (U+988A)	e9a28a
+颋	straight (U+988B)	e9a28b
+颌	mouth; jaw (U+988C)	e9a28c
+颍	river in Anhui (U+988D)	e9a28d
+颎	bright (U+988E)	e9a28e
+颏	chin (U+988F)	e9a28f
+颐	cheeks; jaw; chin; rear; to nourish (U+9890)	e9a290
+频	frequently, again and again (U+9891)	e9a291
+颒	wash (U+9892)	e9a292
+颓	ruined, decayed; disintegrate (U+9893)	e9a293
+颔	chin, jowl; give nod (U+9894)	e9a294
+颕	rice tassel; sharp point; clever (U+9895)	e9a295
+颖	rice tassel; sharp point; clever (U+9896)	e9a296
+颗	grain, kernel (U+9897)	e9a297
+题	forehead; title, headline; theme (U+9898)	e9a298
+颙	solemn, large, grand, majestic (U+9899)	e9a299
+颚	jaw (U+989A)	e9a29a
+颛	good, honest; simple; respectful (U+989B)	e9a29b
+颜	face, facial appearance (U+989C)	e9a29c
+额	forehead; tablet, plaque; fixed (U+989D)	e9a29d
+颞	the temporal bone (U+989E)	e9a29e
+颟	dawdling; thoughtless, careless (U+989F)	e9a29f
+颠	top, peak, summit; upset (U+98A0)	e9a2a0
+颡	the forehead; to kowtow (U+98A1)	e9a2a1
+颢	luminous; white, hoary (U+98A2)	e9a2a2
+颣	U+98A3 (U+98A3)	e9a2a3
+颤	shiver, tremble; trembling (U+98A4)	e9a2a4
+颥	the temporal bone (U+98A5)	e9a2a5
+颦	frown, knit brows; with knitted (U+98A6)	e9a2a6
+颧	cheek bones (U+98A7)	e9a2a7
+風	wind; air; manners, atmosphere (U+98A8)	e9a2a8
+颩	U+98A9 (U+98A9)	e9a2a9
+颪	(Japanese) wind blowing down from the mountains (U+98AA)	e9a2aa
+颫	a storm (U+98AB)	e9a2ab
+颬	U+98AC (U+98AC)	e9a2ac
+颭	sway in wind (U+98AD)	e9a2ad
+颮	storm whirlwind (U+98AE)	e9a2ae
+颯	the sound of the wind; bleak; melancholy (U+98AF)	e9a2af
+颰	U+98B0 (U+98B0)	e9a2b0
+颱	taiphoon (U+98B1)	e9a2b1
+颲	U+98B2 (U+98B2)	e9a2b2
+颳	to blow (U+98B3)	e9a2b3
+颴	whirlwind (U+98B4)	e9a2b4
+颵	U+98B5 (U+98B5)	e9a2b5
+颶	cyclone, typhoon, gale (U+98B6)	e9a2b6
+颷	whirlwind (U+98B7)	e9a2b7
+颸	cool breeze of autumn (U+98B8)	e9a2b8
+颹	U+98B9 (U+98B9)	e9a2b9
+颺	soar, fly, float; scatter (U+98BA)	e9a2ba
+颻	floating in air, drifting with wind (U+98BB)	e9a2bb
+颼	sound of wind; blow chilly (U+98BC)	e9a2bc
+颽	U+98BD (U+98BD)	e9a2bd
+颾	blowing of the wind (U+98BE)	e9a2be
+颿	sail (U+98BF)	e9a2bf
+飀	soughing of wind; noise (U+98C0)	e9a380
+飁	U+98C1 (U+98C1)	e9a381
+飂	wind in high places (U+98C2)	e9a382
+飃	whirlwind, cyclone; floating (U+98C3)	e9a383
+飄	whirlwind, cyclone; floating (U+98C4)	e9a384
+飅	U+98C5 (U+98C5)	e9a385
+飆	whirlwind, stormy gale (U+98C6)	e9a386
+飇	whirlwind, stormy gale (U+98C7)	e9a387
+飈	whirlwind (U+98C8)	e9a388
+飉	U+98C9 (U+98C9)	e9a389
+飊	U+98CA (U+98CA)	e9a38a
+飋	U+98CB (U+98CB)	e9a38b
+飌	wind (U+98CC)	e9a38c
+飍	U+98CD (U+98CD)	e9a38d
+风	wind; air; manners, atmosphere (U+98CE)	e9a38e
+飏	soar, fly, float; scatter (U+98CF)	e9a38f
+飐	sway in wind (U+98D0)	e9a390
+飑	storm (U+98D1)	e9a391
+飒	the sound of the wind; bleak; melancholy (U+98D2)	e9a392
+飓	cyclone, typhoon, gale (U+98D3)	e9a393
+飔	cool breeze of autumn (U+98D4)	e9a394
+飕	sound of wind; blow chilly (U+98D5)	e9a395
+飖	floating in air, drifting with wind (U+98D6)	e9a396
+飗	soughing of wind; noise (U+98D7)	e9a397
+飘	whirlwind, cyclone; floating (U+98D8)	e9a398
+飙	whirlwind, stormy gale (U+98D9)	e9a399
+飚	whirlwind (U+98DA)	e9a39a
+飛	fly; go quickly; dart; high (U+98DB)	e9a39b
+飜	flip over, upset, capsize (U+98DC)	e9a39c
+飝	U+98DD (U+98DD)	e9a39d
+飞	fly; go quickly; dart; high (U+98DE)	e9a39e
+食	eat; meal; food; KangXi radical number 184 (U+98DF)	e9a39f
+飠	eat, food; radical number 184 (U+98E0)	e9a3a0
+飡	meal; eat (U+98E1)	e9a3a1
+飢	hunger, starving; hungry; a famine (U+98E2)	e9a3a2
+飣	display food for show only; sacrifice (U+98E3)	e9a3a3
+飤	to feed; provisions (U+98E4)	e9a3a4
+飥	rice cake (U+98E5)	e9a3a5
+飦	well-boiled congee or gruel; thick, rich (U+98E6)	e9a3a6
+飧	evening meal, supper; cooked food (U+98E7)	e9a3a7
+飨	host banquet; banquet (U+98E8)	e9a3a8
+飩	stuffed dumplings (U+98E9)	e9a3a9
+飪	cooked food; cook until well done (U+98EA)	e9a3aa
+飫	surfeited, satiated; confer (U+98EB)	e9a3ab
+飬	U+98EC (U+98EC)	e9a3ac
+飭	order; command; give command (U+98ED)	e9a3ad
+飮	drink; swallow; kind of drink (U+98EE)	e9a3ae
+飯	cooked rice; food; meal (U+98EF)	e9a3af
+飰	U+98F0 (U+98F0)	e9a3b0
+飱	evening meal (U+98F1)	e9a3b1
+飲	drink; swallow; kind of drink (U+98F2)	e9a3b2
+飳	U+98F3 (U+98F3)	e9a3b3
+飴	sweet-meats; sweet-cakes; syrup (U+98F4)	e9a3b4
+飵	(Cant.) food; profit (U+98F5)	e9a3b5
+飶	odour (U+98F6)	e9a3b6
+飷	U+98F7 (U+98F7)	e9a3b7
+飸	U+98F8 (U+98F8)	e9a3b8
+飹	U+98F9 (U+98F9)	e9a3b9
+飺	U+98FA (U+98FA)	e9a3ba
+飻	U+98FB (U+98FB)	e9a3bb
+飼	raise animals; feed; nourish (U+98FC)	e9a3bc
+飽	eat heartily; eat one's fill (U+98FD)	e9a3bd
+飾	decorate, ornament, adorn; to deceive (U+98FE)	e9a3be
+飿	U+98FF (U+98FF)	e9a3bf
+餀	tainted food (U+9900)	e9a480
+餁	cooked food; cook until well done (U+9901)	e9a481
+餂	to obtain by hook (U+9902)	e9a482
+餃	stuffed dumplings (U+9903)	e9a483
+餄	U+9904 (U+9904)	e9a484
+餅	rice-cakes, biscuits (U+9905)	e9a485
+餆	U+9906 (U+9906)	e9a486
+餇	food (U+9907)	e9a487
+餈	rice cake (U+9908)	e9a488
+餉	rations and pay for soldiers (U+9909)	e9a489
+養	raise, rear, bring up; support (U+990A)	e9a48a
+餋	U+990B (U+990B)	e9a48b
+餌	bait; bait, entice; dumplings (U+990C)	e9a48c
+餍	be satiated, eat one's full (U+990D)	e9a48d
+餎	U+990E (U+990E)	e9a48e
+餏	U+990F (U+990F)	e9a48f
+餐	eat, dine; meal; food (U+9910)	e9a490
+餑	ferrule; cakes, biscuits (U+9911)	e9a491
+餒	hungry, starving, famished (U+9912)	e9a492
+餓	hungry; greedy for; hunger (U+9913)	e9a493
+餔	eat; dinner time; sunset (U+9914)	e9a494
+餕	leftovers (U+9915)	e9a495
+餖	food item set out for show only (U+9916)	e9a496
+餗	a pot of cooked rice (U+9917)	e9a497
+餘	surplus, excess, remainder (U+9918)	e9a498
+餙	to adorn; ornaments; to deceive (U+9919)	e9a499
+餚	prepared meat; food (U+991A)	e9a49a
+餛	dumpling soup, wonton (U+991B)	e9a49b
+餜	cakes, biscuits, pastry (U+991C)	e9a49c
+餝	U+991D (U+991D)	e9a49d
+餞	farewell party; see off, send off (U+991E)	e9a49e
+餟	libation (U+991F)	e9a49f
+餠	rice-cakes, biscuits (U+9920)	e9a4a0
+餡	pastry filling, stuffing (U+9921)	e9a4a1
+餢	U+9922 (U+9922)	e9a4a2
+餣	U+9923 (U+9923)	e9a4a3
+餤	incite (U+9924)	e9a4a4
+餥	U+9925 (U+9925)	e9a4a5
+餦	candy, pastry (U+9926)	e9a4a6
+餧	steamed bread; to feed (U+9927)	e9a4a7
+館	public building (U+9928)	e9a4a8
+餩	hiccough (U+9929)	e9a4a9
+餪	feast (U+992A)	e9a4aa
+餫	dumpling; supply (U+992B)	e9a4ab
+餬	porridge, gruel, congee; paste (U+992C)	e9a4ac
+餭	dried sweetmeat (U+992D)	e9a4ad
+餮	a legendary animal; a greedy person (U+992E)	e9a4ae
+餯	U+992F (U+992F)	e9a4af
+餰	U+9930 (U+9930)	e9a4b0
+餱	dry goods, dry provisions (U+9931)	e9a4b1
+餲	spoiled, sour, mouldly (U+9932)	e9a4b2
+餳	sugar, syrup; malt sugar; sticky (U+9933)	e9a4b3
+餴	U+9934 (U+9934)	e9a4b4
+餵	to feed, to raise (U+9935)	e9a4b5
+餶	U+9936 (U+9936)	e9a4b6
+餷	stir and cook (U+9937)	e9a4b7
+餸	(Cant.) a side dish of food prepared to accompany rice (U+9938)	e9a4b8
+餹	sugar; sugared; candy; crystallized sweetmeats (U+9939)	e9a4b9
+餺	rice cake (U+993A)	e9a4ba
+餻	cakes, pastry (U+993B)	e9a4bb
+餼	sacrificial victim; gift; grain (U+993C)	e9a4bc
+餽	make present of food; gift (U+993D)	e9a4bd
+餾	distill, distillation (U+993E)	e9a4be
+餿	spoiled, rotten, stale, rancid (U+993F)	e9a4bf
+饀	U+9940 (U+9940)	e9a580
+饁	carry meal to workers in field (U+9941)	e9a581
+饂	Japanese noodles (U+9942)	e9a582
+饃	bread (U+9943)	e9a583
+饄	U+9944 (U+9944)	e9a584
+饅	steamed bread; steamed dumplings (U+9945)	e9a585
+饆	U+9946 (U+9946)	e9a586
+饇	to eat too much, surfeited; to confer (U+9947)	e9a587
+饈	food, meal; eat; offer (U+9948)	e9a588
+饉	time of famine or crop failure (U+9949)	e9a589
+饊	fried round cakes of wheat flour (U+994A)	e9a58a
+饋	offer food superior; send gift (U+994B)	e9a58b
+饌	feed, support, provide for; food; fine meats, delicacies (U+994C)	e9a58c
+饍	meals, provisions, board (U+994D)	e9a58d
+饎	wine and food eaten with wine (U+994E)	e9a58e
+饏	U+994F (U+994F)	e9a58f
+饐	spoiled, rotten, sour (U+9950)	e9a590
+饑	starve, be hungry; famine (U+9951)	e9a591
+饒	bountiful, abundant, plentiful (U+9952)	e9a592
+饓	U+9953 (U+9953)	e9a593
+饔	breakfast; eat prepared food (U+9954)	e9a594
+饕	gluttonous, greedy, covetous (U+9955)	e9a595
+饖	U+9956 (U+9956)	e9a596
+饗	host banquet; banquet (U+9957)	e9a597
+饘	gruel (U+9958)	e9a598
+饙	U+9959 (U+9959)	e9a599
+饚	U+995A (U+995A)	e9a59a
+饛	U+995B (U+995B)	e9a59b
+饜	be satiated, eat one's full (U+995C)	e9a59c
+饝	to feed an infant by hand steamed bread (U+995D)	e9a59d
+饞	gluttonous, greedy; lewd, lecherous (U+995E)	e9a59e
+饟	rations and pay for soldiers; dried rice (U+995F)	e9a59f
+饠	rice cake (U+9960)	e9a5a0
+饡	U+9961 (U+9961)	e9a5a1
+饢	bread (Persian 'naan') (U+9962)	e9a5a2
+饣	eat, food; radical number 184 (U+9963)	e9a5a3
+饤	display food for show only; sacrifice (U+9964)	e9a5a4
+饥	hunger, starving; hungry; a famine (U+9965)	e9a5a5
+饦	rice cake (U+9966)	e9a5a6
+饧	sugar, syrup; malt sugar; sticky (U+9967)	e9a5a7
+饨	stuffed dumplings (U+9968)	e9a5a8
+饩	sacrficial victim; gift; grain (U+9969)	e9a5a9
+饪	cooked food; cook until well done (U+996A)	e9a5aa
+饫	surfeited, satiated; confer (U+996B)	e9a5ab
+饬	order; command; give command (U+996C)	e9a5ac
+饭	cooked rice; food, meal (U+996D)	e9a5ad
+饮	drink; swallow; kind of drink (U+996E)	e9a5ae
+饯	farewell party; see off, send off (U+996F)	e9a5af
+饰	decorate, ornament, adorn (U+9970)	e9a5b0
+饱	eat heartily; eat one's fill (U+9971)	e9a5b1
+饲	raise animals; feed; nourish (U+9972)	e9a5b2
+饳	U+9973 (U+9973)	e9a5b3
+饴	sweet-meats; sweet-cakes; syrup (U+9974)	e9a5b4
+饵	bait; bait, entice; dumplings (U+9975)	e9a5b5
+饶	bountiful, abundant, plentiful (U+9976)	e9a5b6
+饷	rations and pay for soldiers (U+9977)	e9a5b7
+饸	U+9978 (U+9978)	e9a5b8
+饹	U+9979 (U+9979)	e9a5b9
+饺	stuffed dumplings (U+997A)	e9a5ba
+饻	U+997B (U+997B)	e9a5bb
+饼	rice-cakes, biscuits (U+997C)	e9a5bc
+饽	ferrule (U+997D)	e9a5bd
+饾	food item set out for show only (U+997E)	e9a5be
+饿	hungry; greedy for; hunger (U+997F)	e9a5bf
+馀	surplus, excess, remainder (U+9980)	e9a680
+馁	hungry, starving, famished (U+9981)	e9a681
+馂	leftovers (U+9982)	e9a682
+馃	cakes, biscuits, pastry (U+9983)	e9a683
+馄	dumpling soup, wonton (U+9984)	e9a684
+馅	filling, stuffing; secret (U+9985)	e9a685
+馆	public building (U+9986)	e9a686
+馇	stir and cook (U+9987)	e9a687
+馈	offer food superior; send gift (U+9988)	e9a688
+馉	U+9989 (U+9989)	e9a689
+馊	spoiled, rotten, stale, rancid (U+998A)	e9a68a
+馋	gluttonous, greedy; lewd, lecherous (U+998B)	e9a68b
+馌	carry meal to workers in field (U+998C)	e9a68c
+馍	bread (U+998D)	e9a68d
+馎	rice cake (U+998E)	e9a68e
+馏	distill, distillation (U+998F)	e9a68f
+馐	food, meal; eat; offer (U+9990)	e9a690
+馑	time of famine or crop failure (U+9991)	e9a691
+馒	steamed bread; steamed dumplings (U+9992)	e9a692
+馓	fried round cakes of wheat flour (U+9993)	e9a693
+馔	to feed, support, provide for; food (U+9994)	e9a694
+馕	bread (persian naan) (U+9995)	e9a695
+首	head; first; leader, chief; a poem (U+9996)	e9a696
+馗	cheekbone; path, road; intersection (U+9997)	e9a697
+馘	cut off left ear; tally dead enemy (U+9998)	e9a698
+香	fragrant, sweet smelling, incense (U+9999)	e9a699
+馚	aromatic, perfumed (U+999A)	e9a69a
+馛	fragrance, fragrant (U+999B)	e9a69b
+馜	U+999C (U+999C)	e9a69c
+馝	fragrance (U+999D)	e9a69d
+馞	U+999E (U+999E)	e9a69e
+馟	fragrant (U+999F)	e9a69f
+馠	U+99A0 (U+99A0)	e9a6a0
+馡	scent (U+99A1)	e9a6a1
+馢	U+99A2 (U+99A2)	e9a6a2
+馣	U+99A3 (U+99A3)	e9a6a3
+馤	U+99A4 (U+99A4)	e9a6a4
+馥	fragrance, scent, aroma (U+99A5)	e9a6a5
+馦	U+99A6 (U+99A6)	e9a6a6
+馧	U+99A7 (U+99A7)	e9a6a7
+馨	fragrant, aromatic; distant fragrance (U+99A8)	e9a6a8
+馩	aromatic, perfumed (U+99A9)	e9a6a9
+馪	U+99AA (U+99AA)	e9a6aa
+馫	U+99AB (U+99AB)	e9a6ab
+馬	horse; surname; KangXi radical 187 (U+99AC)	e9a6ac
+馭	drive, ride; manage, control (U+99AD)	e9a6ad
+馮	surname; gallop; by dint of (U+99AE)	e9a6ae
+馯	U+99AF (U+99AF)	e9a6af
+馰	U+99B0 (U+99B0)	e9a6b0
+馱	carry on back (U+99B1)	e9a6b1
+馲	camel (U+99B2)	e9a6b2
+馳	go quickly or swiftly; hurry (U+99B3)	e9a6b3
+馴	tame, docile, obedient (U+99B4)	e9a6b4
+馵	horse with white back legs (U+99B5)	e9a6b5
+馶	U+99B6 (U+99B6)	e9a6b6
+馷	U+99B7 (U+99B7)	e9a6b7
+馸	U+99B8 (U+99B8)	e9a6b8
+馹	post horse, relay horse (U+99B9)	e9a6b9
+馺	U+99BA (U+99BA)	e9a6ba
+馻	U+99BB (U+99BB)	e9a6bb
+馼	U+99BC (U+99BC)	e9a6bc
+馽	U+99BD (U+99BD)	e9a6bd
+馾	U+99BE (U+99BE)	e9a6be
+馿	an ass; a donkey (U+99BF)	e9a6bf
+駀	U+99C0 (U+99C0)	e9a780
+駁	varicolored, variegated; mixed; contradict, argue; suddenly (U+99C1)	e9a781
+駂	U+99C2 (U+99C2)	e9a782
+駃	gallop (U+99C3)	e9a783
+駄	a horse load; a pack-horse (U+99C4)	e9a784
+駅	relay station (U+99C5)	e9a785
+駆	spur a horse on; expel, drive away (U+99C6)	e9a786
+駇	U+99C7 (U+99C7)	e9a787
+駈	spur a horse on; expel, drive away (U+99C8)	e9a788
+駉	big (U+99C9)	e9a789
+駊	U+99CA (U+99CA)	e9a78a
+駋	U+99CB (U+99CB)	e9a78b
+駌	U+99CC (U+99CC)	e9a78c
+駍	U+99CD (U+99CD)	e9a78d
+駎	U+99CE (U+99CE)	e9a78e
+駏	offspring of a stallion and a she-mule (U+99CF)	e9a78f
+駐	to be stationed at, reside at; to stop (U+99D0)	e9a790
+駑	tired, old horse; old, weak (U+99D1)	e9a791
+駒	colt; fleet, swift; sun; surname (U+99D2)	e9a792
+駓	gallop (U+99D3)	e9a793
+駔	excellent horse, noble steed (U+99D4)	e9a794
+駕	to drive, sail, fly; a cart, carriage (U+99D5)	e9a795
+駖	U+99D6 (U+99D6)	e9a796
+駗	U+99D7 (U+99D7)	e9a797
+駘	an old, tired horse, a jade; tired, exhausted (U+99D8)	e9a798
+駙	extra horse; imperial son-in-law (U+99D9)	e9a799
+駚	U+99DA (U+99DA)	e9a79a
+駛	sail, drive, pilot; fast, quick (U+99DB)	e9a79b
+駜	strong horse (U+99DC)	e9a79c
+駝	a camel; humpbacked; to carry on the back (U+99DD)	e9a79d
+駞	camel (U+99DE)	e9a79e
+駟	team of four horses (U+99DF)	e9a79f
+駠	U+99E0 (U+99E0)	e9a7a0
+駡	accuse, blame, curse, scold (U+99E1)	e9a7a1
+駢	team of horses; associate, join (U+99E2)	e9a7a2
+駣	U+99E3 (U+99E3)	e9a7a3
+駤	U+99E4 (U+99E4)	e9a7a4
+駥	U+99E5 (U+99E5)	e9a7a5
+駦	to mount, to ascend; to move, to turn out (U+99E6)	e9a7a6
+駧	U+99E7 (U+99E7)	e9a7a7
+駨	U+99E8 (U+99E8)	e9a7a8
+駩	U+99E9 (U+99E9)	e9a7a9
+駪	crowd (U+99EA)	e9a7aa
+駫	U+99EB (U+99EB)	e9a7ab
+駬	name of a legendary swift horse (U+99EC)	e9a7ac
+駭	terrify, frighten, scare; shock (U+99ED)	e9a7ad
+駮	a kind of fierce animal; join; argue; transfer; piebald horse, variegated (U+99EE)	e9a7ae
+駯	U+99EF (U+99EF)	e9a7af
+駰	grey horse (U+99F0)	e9a7b0
+駱	a white horse with black mane; a camel (U+99F1)	e9a7b1
+駲	U+99F2 (U+99F2)	e9a7b2
+駳	U+99F3 (U+99F3)	e9a7b3
+駴	drum (U+99F4)	e9a7b4
+駵	U+99F5 (U+99F5)	e9a7b5
+駶	U+99F6 (U+99F6)	e9a7b6
+駷	U+99F7 (U+99F7)	e9a7b7
+駸	galloping; speeding (U+99F8)	e9a7b8
+駹	black horse with a white face (U+99F9)	e9a7b9
+駺	U+99FA (U+99FA)	e9a7ba
+駻	a fierce horse; to rage, run wild (U+99FB)	e9a7bb
+駼	U+99FC (U+99FC)	e9a7bc
+駽	grey (U+99FD)	e9a7bd
+駾	run away (U+99FE)	e9a7be
+駿	excellent horse, noble steed (U+99FF)	e9a7bf
+騀	U+9A00 (U+9A00)	e9a880
+騁	gallop horse; hasten, hurry (U+9A01)	e9a881
+騂	red, brown, bay; neat, harmonious (U+9A02)	e9a882
+騃	stupid; foolish (U+9A03)	e9a883
+騄	name of a legendary swift horse (U+9A04)	e9a884
+騅	piebald horse (U+9A05)	e9a885
+騆	U+9A06 (U+9A06)	e9a886
+騇	U+9A07 (U+9A07)	e9a887
+騈	team of horses; associate (U+9A08)	e9a888
+騉	fine horse (U+9A09)	e9a889
+騊	U+9A0A (U+9A0A)	e9a88a
+騋	tall (7 chi) horse (U+9A0B)	e9a88b
+騌	a horse's mane; bristles (U+9A0C)	e9a88c
+騍	mother horse (U+9A0D)	e9a88d
+騎	ride horseback; mount; cavalry (U+9A0E)	e9a88e
+騏	piebald horse; excellent horse (U+9A0F)	e9a88f
+騐	to verity, to fulfil; to examine, to hold an inquest (U+9A10)	e9a890
+騑	horse; run (U+9A11)	e9a891
+騒	harass, bother, annoy, disturb (U+9A12)	e9a892
+験	test, examine, inspect; verify (U+9A13)	e9a893
+騔	U+9A14 (U+9A14)	e9a894
+騕	name of a fabulous horse (U+9A15)	e9a895
+騖	gallop; rush about; pursue, run (U+9A16)	e9a896
+騗	to swindle; to cheat (U+9A17)	e9a897
+騘	a piebald horse (U+9A18)	e9a898
+騙	swindle, cheat out of, defraud (U+9A19)	e9a899
+騚	U+9A1A (U+9A1A)	e9a89a
+騛	U+9A1B (U+9A1B)	e9a89b
+騜	U+9A1C (U+9A1C)	e9a89c
+騝	U+9A1D (U+9A1D)	e9a89d
+騞	U+9A1E (U+9A1E)	e9a89e
+騟	U+9A1F (U+9A1F)	e9a89f
+騠	a horse, mule (U+9A20)	e9a8a0
+騡	U+9A21 (U+9A21)	e9a8a1
+騢	bay (U+9A22)	e9a8a2
+騣	mane (U+9A23)	e9a8a3
+騤	(of a horse) lively; vigorous (U+9A24)	e9a8a4
+騥	U+9A25 (U+9A25)	e9a8a5
+騦	U+9A26 (U+9A26)	e9a8a6
+騧	tan or piebald horse (U+9A27)	e9a8a7
+騨	dappled (U+9A28)	e9a8a8
+騩	U+9A29 (U+9A29)	e9a8a9
+騪	U+9A2A (U+9A2A)	e9a8aa
+騫	raise, hold high; fly, soar (U+9A2B)	e9a8ab
+騬	U+9A2C (U+9A2C)	e9a8ac
+騭	stallion; promote (U+9A2D)	e9a8ad
+騮	famous horse (U+9A2E)	e9a8ae
+騯	loud, noisy, boisterous; fight (U+9A2F)	e9a8af
+騰	fly; gallop; run; prance; rise (U+9A30)	e9a8b0
+騱	U+9A31 (U+9A31)	e9a8b1
+騲	the female of certain animals such as horses, a mare (U+9A32)	e9a8b2
+騳	run, race (U+9A33)	e9a8b3
+騴	U+9A34 (U+9A34)	e9a8b4
+騵	bay (U+9A35)	e9a8b5
+騶	mounted escort; groom (U+9A36)	e9a8b6
+騷	harass, bother, annoy, disturb, agitate; sad, grieved (U+9A37)	e9a8b7
+騸	geld, castrate (U+9A38)	e9a8b8
+騹	U+9A39 (U+9A39)	e9a8b9
+騺	heavy horse; horse unable to move because of twisted leg; plodding (U+9A3A)	e9a8ba
+騻	horse (U+9A3B)	e9a8bb
+騼	U+9A3C (U+9A3C)	e9a8bc
+騽	U+9A3D (U+9A3D)	e9a8bd
+騾	mule (U+9A3E)	e9a8be
+騿	U+9A3F (U+9A3F)	e9a8bf
+驀	suddenly, quickly, abruptly (U+9A40)	e9a980
+驁	wild horse, mustang; wild (U+9A41)	e9a981
+驂	two outside ones in three horse (U+9A42)	e9a982
+驃	charger, steed; swift, valiant (U+9A43)	e9a983
+驄	horse with a bluish white color (U+9A44)	e9a984
+驅	spur a horse on; expel, drive away (U+9A45)	e9a985
+驆	used in transliterating Buddhist books (U+9A46)	e9a986
+驇	heavy horse; horse unable to move because of twisted leg; plodding (U+9A47)	e9a987
+驈	black horses (U+9A48)	e9a988
+驉	U+9A49 (U+9A49)	e9a989
+驊	an excellent horse (U+9A4A)	e9a98a
+驋	U+9A4B (U+9A4B)	e9a98b
+驌	name of a famous horse (U+9A4C)	e9a98c
+驍	excellent horse; brave, valiant (U+9A4D)	e9a98d
+驎	U+9A4E (U+9A4E)	e9a98e
+驏	horse without saddle (U+9A4F)	e9a98f
+驐	U+9A50 (U+9A50)	e9a990
+驑	U+9A51 (U+9A51)	e9a991
+驒	dappled (U+9A52)	e9a992
+驓	U+9A53 (U+9A53)	e9a993
+驔	black horse (U+9A54)	e9a994
+驕	spirited horse; haughty (U+9A55)	e9a995
+驖	black (horse) (U+9A56)	e9a996
+驗	test, examine, inspect; verify (U+9A57)	e9a997
+驘	mule (U+9A58)	e9a998
+驙	U+9A59 (U+9A59)	e9a999
+驚	frighten, surprise, startle (U+9A5A)	e9a99a
+驛	relay station (U+9A5B)	e9a99b
+驜	U+9A5C (U+9A5C)	e9a99c
+驝	a camel; the name of an office (U+9A5D)	e9a99d
+驞	U+9A5E (U+9A5E)	e9a99e
+驟	procedure; gallop; sudden(ly) (U+9A5F)	e9a99f
+驠	U+9A60 (U+9A60)	e9a9a0
+驡	U+9A61 (U+9A61)	e9a9a1
+驢	donkey, ass (U+9A62)	e9a9a2
+驣	U+9A63 (U+9A63)	e9a9a3
+驤	gallop about with head uplifted (U+9A64)	e9a9a4
+驥	thoroughbred horse; refined (U+9A65)	e9a9a5
+驦	horse (U+9A66)	e9a9a6
+驧	U+9A67 (U+9A67)	e9a9a7
+驨	U+9A68 (U+9A68)	e9a9a8
+驩	happy, pleased, glad; joy; to enjoy (U+9A69)	e9a9a9
+驪	a pure black horse; a pair of horses (U+9A6A)	e9a9aa
+驫	horses (U+9A6B)	e9a9ab
+马	horse; surname; KangXi radical 187 (U+9A6C)	e9a9ac
+驭	drive, ride; manage, control (U+9A6D)	e9a9ad
+驮	carry on back (U+9A6E)	e9a9ae
+驯	tame, docile, obedient (U+9A6F)	e9a9af
+驰	go quickly or swiftly; hurry (U+9A70)	e9a9b0
+驱	spur a horse on; expel, drive away (U+9A71)	e9a9b1
+驲	post horse, relay horse (U+9A72)	e9a9b2
+驳	varicolored, variegated; mixed (U+9A73)	e9a9b3
+驴	donkey, ass (U+9A74)	e9a9b4
+驵	excellent horse, noble steed (U+9A75)	e9a9b5
+驶	sail, drive, pilot; fast, quick (U+9A76)	e9a9b6
+驷	team of four horses; horses (U+9A77)	e9a9b7
+驸	extra horse; imperial son-in-law (U+9A78)	e9a9b8
+驹	colt; fleet, swift; sun; surname (U+9A79)	e9a9b9
+驺	mounted escort; groom (U+9A7A)	e9a9ba
+驻	to be stationed at, reside at; to stop (U+9A7B)	e9a9bb
+驼	a camel; humpbacked; to carry on the back (U+9A7C)	e9a9bc
+驽	tired, old horse; old, weak (U+9A7D)	e9a9bd
+驾	to drive, sail, fly; a cart, carriage (U+9A7E)	e9a9be
+驿	relay station (U+9A7F)	e9a9bf
+骀	an old, tired horse, a jade; tired, exhausted (U+9A80)	e9aa80
+骁	excellent horse; brave, valiant (U+9A81)	e9aa81
+骂	accuse, blame, curse, scold (U+9A82)	e9aa82
+骃	grey horse (U+9A83)	e9aa83
+骄	spirited horse; haughty (U+9A84)	e9aa84
+骅	an excellent horse (U+9A85)	e9aa85
+骆	a white horse with black mane; a camel (U+9A86)	e9aa86
+骇	terrify, frighten, scare; shock (U+9A87)	e9aa87
+骈	team of horses; associate, join (U+9A88)	e9aa88
+骉	running; herd of horses (U+9A89)	e9aa89
+骊	a pure black horse; a pair of horses (U+9A8A)	e9aa8a
+骋	gallop horse; hasten, hurry (U+9A8B)	e9aa8b
+验	test, examine, inspect; verify (U+9A8C)	e9aa8c
+骍	red, brown, bay; neat, harmonious (U+9A8D)	e9aa8d
+骎	galloping; speeding (U+9A8E)	e9aa8e
+骏	excellent horse, noble steed (U+9A8F)	e9aa8f
+骐	piebald horse; excellent horse (U+9A90)	e9aa90
+骑	ride horseback; mount; cavalry (U+9A91)	e9aa91
+骒	mother horse (U+9A92)	e9aa92
+骓	piebald horse (U+9A93)	e9aa93
+骔	a horse's mane; bristles (U+9A94)	e9aa94
+骕	name of a famous horse (U+9A95)	e9aa95
+骖	two outside ones in three horse (U+9A96)	e9aa96
+骗	swindle, cheat out of, defraud (U+9A97)	e9aa97
+骘	stallion; promote (U+9A98)	e9aa98
+骙	(of a horse) lively; vigorous (U+9A99)	e9aa99
+骚	harass, bother, annoy, disturb (U+9A9A)	e9aa9a
+骛	gallop; rush about; pursue, run (U+9A9B)	e9aa9b
+骜	wild horse, mustang; wild (U+9A9C)	e9aa9c
+骝	famous horse (U+9A9D)	e9aa9d
+骞	raise, hold high; fly, soar (U+9A9E)	e9aa9e
+骟	geld, castrate (U+9A9F)	e9aa9f
+骠	charger, steed; swift, valiant (U+9AA0)	e9aaa0
+骡	mule (U+9AA1)	e9aaa1
+骢	horse with a bluish white color (U+9AA2)	e9aaa2
+骣	horse without saddle (U+9AA3)	e9aaa3
+骤	procedure; gallop; sudden(ly) (U+9AA4)	e9aaa4
+骥	thoroughbred horse; refined and (U+9AA5)	e9aaa5
+骦	horse (U+9AA6)	e9aaa6
+骧	gallop about with head uplifted (U+9AA7)	e9aaa7
+骨	bone; skeleton; frame, framework (U+9AA8)	e9aaa8
+骩	U+9AA9 (U+9AA9)	e9aaa9
+骪	crooked bones (U+9AAA)	e9aaaa
+骫	U+9AAB (U+9AAB)	e9aaab
+骬	U+9AAC (U+9AAC)	e9aaac
+骭	shin bone (U+9AAD)	e9aaad
+骮	U+9AAE (U+9AAE)	e9aaae
+骯	dirty (U+9AAF)	e9aaaf
+骰	die, dice (U+9AB0)	e9aab0
+骱	U+9AB1 (U+9AB1)	e9aab1
+骲	(Cant.) to push with the body (U+9AB2)	e9aab2
+骳	U+9AB3 (U+9AB3)	e9aab3
+骴	a putrid carcase (U+9AB4)	e9aab4
+骵	U+9AB5 (U+9AB5)	e9aab5
+骶	coccyx (U+9AB6)	e9aab6
+骷	skeleton (U+9AB7)	e9aab7
+骸	skeleton, body; leg bone (U+9AB8)	e9aab8
+骹	(Cant.) a joint (U+9AB9)	e9aab9
+骺	tip of a long bone (U+9ABA)	e9aaba
+骻	U+9ABB (U+9ABB)	e9aabb
+骼	bone; skeleton; corpse (U+9ABC)	e9aabc
+骽	leg, thigh (U+9ABD)	e9aabd
+骾	any object that sticks in throat; bony (U+9ABE)	e9aabe
+骿	U+9ABF (U+9ABF)	e9aabf
+髀	buttocks; thigh, thigh bone (U+9AC0)	e9ab80
+髁	thigh bone, hipbone; kneecap (U+9AC1)	e9ab81
+髂	the pelvis (U+9AC2)	e9ab82
+髃	shoulder bone (U+9AC3)	e9ab83
+髄	bone marrow; essences, substances (U+9AC4)	e9ab84
+髅	skull; skeleton (U+9AC5)	e9ab85
+髆	shoulder blade (U+9AC6)	e9ab86
+髇	U+9AC7 (U+9AC7)	e9ab87
+髈	the pelvis, the hip-bone; the humerus; a wing (U+9AC8)	e9ab88
+髉	U+9AC9 (U+9AC9)	e9ab89
+髊	U+9ACA (U+9ACA)	e9ab8a
+髋	hipbone; hip (U+9ACB)	e9ab8b
+髌	kneecap (U+9ACC)	e9ab8c
+髍	U+9ACD (U+9ACD)	e9ab8d
+髎	hip bone (U+9ACE)	e9ab8e
+髏	skull; skeleton (U+9ACF)	e9ab8f
+髐	U+9AD0 (U+9AD0)	e9ab90
+髑	skull (U+9AD1)	e9ab91
+髒	dirty; firm; fat (U+9AD2)	e9ab92
+髓	bone marrow; essences, substances (U+9AD3)	e9ab93
+體	body; group, class, body, unit (U+9AD4)	e9ab94

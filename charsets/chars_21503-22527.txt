@@ -1,0 +1,1024 @@
+嫕	compliant, yielding; easy-going (U+5AD5)	e5ab95
+嫖	patronize prostitutes, frequent (U+5AD6)	e5ab96
+嫗	old woman, hag (U+5AD7)	e5ab97
+嫘	surname (U+5AD8)	e5ab98
+嫙	U+5AD9 (U+5AD9)	e5ab99
+嫚	scorn, despise; be rude, affront (U+5ADA)	e5ab9a
+嫛	compliant, yielding; easy-going a newborn child (U+5ADB)	e5ab9b
+嫜	U+5ADC (U+5ADC)	e5ab9c
+嫝	U+5ADD (U+5ADD)	e5ab9d
+嫞	U+5ADE (U+5ADE)	e5ab9e
+嫟	U+5ADF (U+5ADF)	e5ab9f
+嫠	a widow (U+5AE0)	e5aba0
+嫡	legal wife, child of legal wife (U+5AE1)	e5aba1
+嫢	U+5AE2 (U+5AE2)	e5aba2
+嫣	charming, fascinating; gay (U+5AE3)	e5aba3
+嫤	U+5AE4 (U+5AE4)	e5aba4
+嫥	U+5AE5 (U+5AE5)	e5aba5
+嫦	name of a moon goddess (U+5AE6)	e5aba6
+嫧	U+5AE7 (U+5AE7)	e5aba7
+嫨	U+5AE8 (U+5AE8)	e5aba8
+嫩	soft, tender, delicate; young (U+5AE9)	e5aba9
+嫪	hanker (U+5AEA)	e5abaa
+嫫	Huangdi's ugly concubine; nurse (U+5AEB)	e5abab
+嫬	U+5AEC (U+5AEC)	e5abac
+嫭	U+5AED (U+5AED)	e5abad
+嫮	U+5AEE (U+5AEE)	e5abae
+嫯	U+5AEF (U+5AEF)	e5abaf
+嫰	tender, delicate, soft (U+5AF0)	e5abb0
+嫱	lady (U+5AF1)	e5abb1
+嫲	(Cant.) paternal grandmother (U+5AF2)	e5abb2
+嫳	U+5AF3 (U+5AF3)	e5abb3
+嫴	U+5AF4 (U+5AF4)	e5abb4
+嫵	charming, enchanting (U+5AF5)	e5abb5
+嫶	U+5AF6 (U+5AF6)	e5abb6
+嫷	U+5AF7 (U+5AF7)	e5abb7
+嫸	U+5AF8 (U+5AF8)	e5abb8
+嫹	U+5AF9 (U+5AF9)	e5abb9
+嫺	refined, elegant, gracious (U+5AFA)	e5abba
+嫻	elegant, refined; skillful (U+5AFB)	e5abbb
+嫼	U+5AFC (U+5AFC)	e5abbc
+嫽	play with; (Cant.) to provoke (U+5AFD)	e5abbd
+嫾	U+5AFE (U+5AFE)	e5abbe
+嫿	tranquil (U+5AFF)	e5abbf
+嬀	name of a river in Shanxi; crafty (U+5B00)	e5ac80
+嬁	U+5B01 (U+5B01)	e5ac81
+嬂	U+5B02 (U+5B02)	e5ac82
+嬃	sister (U+5B03)	e5ac83
+嬄	U+5B04 (U+5B04)	e5ac84
+嬅	beautiful; used in girls' names (U+5B05)	e5ac85
+嬆	U+5B06 (U+5B06)	e5ac86
+嬇	U+5B07 (U+5B07)	e5ac87
+嬈	graceful, charming, fascinating (U+5B08)	e5ac88
+嬉	enjoy; play, amuse oneself (U+5B09)	e5ac89
+嬊	U+5B0A (U+5B0A)	e5ac8a
+嬋	beautiful, lovely, pretty, graceful (U+5B0B)	e5ac8b
+嬌	seductive and loveable; tender (U+5B0C)	e5ac8c
+嬍	U+5B0D (U+5B0D)	e5ac8d
+嬎	to bear multiple, identical, offspring (U+5B0E)	e5ac8e
+嬏	U+5B0F (U+5B0F)	e5ac8f
+嬐	U+5B10 (U+5B10)	e5ac90
+嬑	U+5B11 (U+5B11)	e5ac91
+嬒	U+5B12 (U+5B12)	e5ac92
+嬓	used in names (U+5B13)	e5ac93
+嬔	baby rabbit (U+5B14)	e5ac94
+嬕	U+5B15 (U+5B15)	e5ac95
+嬖	favorite; a minion (U+5B16)	e5ac96
+嬗	succession to the throne (U+5B17)	e5ac97
+嬘	U+5B18 (U+5B18)	e5ac98
+嬙	lady (U+5B19)	e5ac99
+嬚	U+5B1A (U+5B1A)	e5ac9a
+嬛	apt, clever; sycophant, flatterer (U+5B1B)	e5ac9b
+嬜	U+5B1C (U+5B1C)	e5ac9c
+嬝	delicate; graceful (U+5B1D)	e5ac9d
+嬞	U+5B1E (U+5B1E)	e5ac9e
+嬟	U+5B1F (U+5B1F)	e5ac9f
+嬠	U+5B20 (U+5B20)	e5aca0
+嬡	(your) daughter (U+5B21)	e5aca1
+嬢	troubled, oppressed; fat; mother (U+5B22)	e5aca2
+嬣	U+5B23 (U+5B23)	e5aca3
+嬤	mother (U+5B24)	e5aca4
+嬥	U+5B25 (U+5B25)	e5aca5
+嬦	U+5B26 (U+5B26)	e5aca6
+嬧	U+5B27 (U+5B27)	e5aca7
+嬨	U+5B28 (U+5B28)	e5aca8
+嬩	U+5B29 (U+5B29)	e5aca9
+嬪	court lady; palace maid (U+5B2A)	e5acaa
+嬫	U+5B2B (U+5B2B)	e5acab
+嬬	mistress, concubine; weak (U+5B2C)	e5acac
+嬭	milk; suckle; breasts (U+5B2D)	e5acad
+嬮	U+5B2E (U+5B2E)	e5acae
+嬯	U+5B2F (U+5B2F)	e5acaf
+嬰	baby, infant; bother (U+5B30)	e5acb0
+嬱	U+5B31 (U+5B31)	e5acb1
+嬲	frolic, play with; flirt with; (Cant.) angry (U+5B32)	e5acb2
+嬳	U+5B33 (U+5B33)	e5acb3
+嬴	to win; to have a surplus; surname (U+5B34)	e5acb4
+嬵	U+5B35 (U+5B35)	e5acb5
+嬶	a wife (vulgar) (U+5B36)	e5acb6
+嬷	mother (U+5B37)	e5acb7
+嬸	wife of father's younger brother (U+5B38)	e5acb8
+嬹	U+5B39 (U+5B39)	e5acb9
+嬺	U+5B3A (U+5B3A)	e5acba
+嬻	U+5B3B (U+5B3B)	e5acbb
+嬼	U+5B3C (U+5B3C)	e5acbc
+嬽	U+5B3D (U+5B3D)	e5acbd
+嬾	lazy, languid, listless (U+5B3E)	e5acbe
+嬿	lovely (U+5B3F)	e5acbf
+孀	widow (U+5B40)	e5ad80
+孁	U+5B41 (U+5B41)	e5ad81
+孂	U+5B42 (U+5B42)	e5ad82
+孃	troubled, oppressed; fat; mother (U+5B43)	e5ad83
+孄	U+5B44 (U+5B44)	e5ad84
+孅	slender, thin; sharp-pointed (U+5B45)	e5ad85
+孆	U+5B46 (U+5B46)	e5ad86
+孇	U+5B47 (U+5B47)	e5ad87
+孈	U+5B48 (U+5B48)	e5ad88
+孉	U+5B49 (U+5B49)	e5ad89
+孊	U+5B4A (U+5B4A)	e5ad8a
+孋	U+5B4B (U+5B4B)	e5ad8b
+孌	lovely, beautiful; docile, obedient (U+5B4C)	e5ad8c
+孍	U+5B4D (U+5B4D)	e5ad8d
+孎	U+5B4E (U+5B4E)	e5ad8e
+孏	U+5B4F (U+5B4F)	e5ad8f
+子	offspring, child; fruit, seed of; 1st terrestrial branch (U+5B50)	e5ad90
+孑	remaining, left-over; lonely (U+5B51)	e5ad91
+孒	larvae of the mosquito (U+5B52)	e5ad92
+孓	beautiful (U+5B53)	e5ad93
+孔	opening, hole, orifice; great (U+5B54)	e5ad94
+孕	be pregnant, pregnancy (U+5B55)	e5ad95
+孖	twins (U+5B56)	e5ad96
+字	letter, character, word (U+5B57)	e5ad97
+存	exist, live, be; survive; remain (U+5B58)	e5ad98
+孙	grandchild, descendent; surname (U+5B59)	e5ad99
+孚	brood over eggs; have confidence (U+5B5A)	e5ad9a
+孛	comet (U+5B5B)	e5ad9b
+孜	be as diligent as possible (U+5B5C)	e5ad9c
+孝	filial piety, obedience; mourning (U+5B5D)	e5ad9d
+孞	U+5B5E (U+5B5E)	e5ad9e
+孟	first in series; great, eminent (U+5B5F)	e5ad9f
+孠	U+5B60 (U+5B60)	e5ada0
+孡	U+5B61 (U+5B61)	e5ada1
+孢	spore (U+5B62)	e5ada2
+季	quarter of year; season; surname (U+5B63)	e5ada3
+孤	orphan, fatherless; solitary (U+5B64)	e5ada4
+孥	one's children (U+5B65)	e5ada5
+学	learning, knowledge; school (U+5B66)	e5ada6
+孧	U+5B67 (U+5B67)	e5ada7
+孨	U+5B68 (U+5B68)	e5ada8
+孩	baby, child; children (U+5B69)	e5ada9
+孪	twins (U+5B6A)	e5adaa
+孫	grandchild, descendent; surname (U+5B6B)	e5adab
+孬	bad; cowardly (U+5B6C)	e5adac
+孭	(Cant.) to carry on the back (U+5B6D)	e5adad
+孮	U+5B6E (U+5B6E)	e5adae
+孯	U+5B6F (U+5B6F)	e5adaf
+孰	who? which? what? which one? (U+5B70)	e5adb0
+孱	weak, unfit, frail, feeble (U+5B71)	e5adb1
+孲	U+5B72 (U+5B72)	e5adb2
+孳	breed in large numbers (U+5B73)	e5adb3
+孴	U+5B74 (U+5B74)	e5adb4
+孵	sit on eggs, hatch (U+5B75)	e5adb5
+孶	variant of 孳 U+5B73, to breed in large numbers (U+5B76)	e5adb6
+孷	U+5B77 (U+5B77)	e5adb7
+學	learning, knowledge; school (U+5B78)	e5adb8
+孹	U+5B79 (U+5B79)	e5adb9
+孺	child; blood relation; affection (U+5B7A)	e5adba
+孻	last (U+5B7B)	e5adbb
+孼	misfortune; sin, evil (U+5B7C)	e5adbc
+孽	evil; son of concubine; ghost (U+5B7D)	e5adbd
+孾	a baby, especially a girl, an infant (U+5B7E)	e5adbe
+孿	twins (U+5B7F)	e5adbf
+宀	roof; KangXi radical 40 (U+5B80)	e5ae80
+宁	calm, peaceful, serene; healthy (U+5B81)	e5ae81
+宂	scattered, mixed affairs; duties; occupation business (U+5B82)	e5ae82
+它	it; other (U+5B83)	e5ae83
+宄	a traitor; a villain (U+5B84)	e5ae84
+宅	residence, dwelling, home; grave (U+5B85)	e5ae85
+宆	U+5B86 (U+5B86)	e5ae86
+宇	house; building, structure; eaves (U+5B87)	e5ae87
+守	defend, protect, guard, conserve (U+5B88)	e5ae88
+安	peaceful, tranquil, quiet (U+5B89)	e5ae89
+宊	U+5B8A (U+5B8A)	e5ae8a
+宋	Song dynasty; surname (U+5B8B)	e5ae8b
+完	complete, finish, settle; whole (U+5B8C)	e5ae8c
+宍	flesh; meat; KangXi radical 130 (U+5B8D)	e5ae8d
+宎	U+5B8E (U+5B8E)	e5ae8e
+宏	wide, spacious, great, vast (U+5B8F)	e5ae8f
+宐	right, fitting, seemly (U+5B90)	e5ae90
+宑	U+5B91 (U+5B91)	e5ae91
+宒	U+5B92 (U+5B92)	e5ae92
+宓	quiet, silent; in good health (U+5B93)	e5ae93
+宔	U+5B94 (U+5B94)	e5ae94
+宕	stone quarry; cave dwelling (U+5B95)	e5ae95
+宖	U+5B96 (U+5B96)	e5ae96
+宗	lineage, ancestry; ancestor, clan (U+5B97)	e5ae97
+官	official, public servant (U+5B98)	e5ae98
+宙	time as concept; infinite time (U+5B99)	e5ae99
+定	decide, settle, fix (U+5B9A)	e5ae9a
+宛	seem, as if, crooked (U+5B9B)	e5ae9b
+宜	suitable, right, fitting, proper (U+5B9C)	e5ae9c
+宝	treasure, jewel; precious, rare (U+5B9D)	e5ae9d
+实	real, true; honest, sincere (U+5B9E)	e5ae9e
+実	real, true; honest, sincere (U+5B9F)	e5ae9f
+宠	favorite, concubine; favor (U+5BA0)	e5aea0
+审	examine, investigate; judge (U+5BA1)	e5aea1
+客	guest, traveller; customer (U+5BA2)	e5aea2
+宣	declare, announce, proclaim (U+5BA3)	e5aea3
+室	room, home, house, chamber (U+5BA4)	e5aea4
+宥	forgive, pardon, indulge (U+5BA5)	e5aea5
+宦	officialdom, government official (U+5BA6)	e5aea6
+宧	corner (U+5BA7)	e5aea7
+宨	U+5BA8 (U+5BA8)	e5aea8
+宩	U+5BA9 (U+5BA9)	e5aea9
+宪	constitution, statute, law (U+5BAA)	e5aeaa
+宫	palace (U+5BAB)	e5aeab
+宬	archives; surname (U+5BAC)	e5aeac
+宭	U+5BAD (U+5BAD)	e5aead
+宮	palace, temple, dwelling, enclose (U+5BAE)	e5aeae
+宯	U+5BAF (U+5BAF)	e5aeaf
+宰	to slaughter; to rule (U+5BB0)	e5aeb0
+宱	U+5BB1 (U+5BB1)	e5aeb1
+宲	U+5BB2 (U+5BB2)	e5aeb2
+害	injure, harm; destroy, kill (U+5BB3)	e5aeb3
+宴	to entertain, feast; a feast, banquet (U+5BB4)	e5aeb4
+宵	night, evening, dark (U+5BB5)	e5aeb5
+家	house, home, residence; family (U+5BB6)	e5aeb6
+宷	U+5BB7 (U+5BB7)	e5aeb7
+宸	imperial; imperial palace (U+5BB8)	e5aeb8
+容	looks, appearance; figure, form (U+5BB9)	e5aeb9
+宺	U+5BBA (U+5BBA)	e5aeba
+宻	dense, thick, close; intimate (U+5BBB)	e5aebb
+宼	tyrannical, cruel; to rob to plunder; bandits, thieves, highwaymen (U+5BBC)	e5aebc
+宽	broad, wide; spacious, vast (U+5BBD)	e5aebd
+宾	guest, visitor; surname; submit (U+5BBE)	e5aebe
+宿	stop, rest, lodge, stay overnight; constellation (U+5BBF)	e5aebf
+寀	feudal estate (U+5BC0)	e5af80
+寁	quick, fast (U+5BC1)	e5af81
+寂	still, silent, quiet, desolate (U+5BC2)	e5af82
+寃	grievance, injustice, wrong (U+5BC3)	e5af83
+寄	send, transmit, mail; rely on (U+5BC4)	e5af84
+寅	to respect, reverence; respectfully; 3rd terrestrial branch (U+5BC5)	e5af85
+密	dense, thick, close; intimate (U+5BC6)	e5af86
+寇	bandits, thieves; enemy; invade (U+5BC7)	e5af87
+寈	U+5BC8 (U+5BC8)	e5af88
+寉	U+5BC9 (U+5BC9)	e5af89
+寊	U+5BCA (U+5BCA)	e5af8a
+寋	U+5BCB (U+5BCB)	e5af8b
+富	abundant, ample; rich, wealthy (U+5BCC)	e5af8c
+寍	used as a term of comparison:-rather; it is better; would that (U+5BCD)	e5af8d
+寎	drowsy (U+5BCE)	e5af8e
+寏	U+5BCF (U+5BCF)	e5af8f
+寐	sleep; be asleep (U+5BD0)	e5af90
+寑	U+5BD1 (U+5BD1)	e5af91
+寒	cold, wintry, chilly (U+5BD2)	e5af92
+寓	residence; lodge; dwell (U+5BD3)	e5af93
+寔	real, true, solid, honest (U+5BD4)	e5af94
+寕	repose, serenity, peace; peaceful (U+5BD5)	e5af95
+寖	gradually, step by step, little (U+5BD6)	e5af96
+寗	a surname; peaceful; rather (U+5BD7)	e5af97
+寘	put aside, put down; discard (U+5BD8)	e5af98
+寙	U+5BD9 (U+5BD9)	e5af99
+寚	precious; rear; valuable treasure; bullion a jewel (U+5BDA)	e5af9a
+寛	broad (U+5BDB)	e5af9b
+寜	repose, serenity, peace; peaceful (U+5BDC)	e5af9c
+寝	sleep, rest; bed chamber (U+5BDD)	e5af9d
+寞	silent, still, lonely, solitary (U+5BDE)	e5af9e
+察	examine, investigate; notice (U+5BDF)	e5af9f
+寠	poor, impoverished (U+5BE0)	e5afa0
+寡	widowed; alone, friendless (U+5BE1)	e5afa1
+寢	sleep, rest; bed chamber (U+5BE2)	e5afa2
+寣	U+5BE3 (U+5BE3)	e5afa3
+寤	few, scarce; empty, deserted (U+5BE4)	e5afa4
+寥	few, scarce; empty, deserted (U+5BE5)	e5afa5
+實	real, true, solid, honest (U+5BE6)	e5afa6
+寧	repose, serenity, peace; peaceful (U+5BE7)	e5afa7
+寨	stockade, stronghold, outpost; brothel (U+5BE8)	e5afa8
+審	examine, investigate; judge (U+5BE9)	e5afa9
+寪	surname (U+5BEA)	e5afaa
+寫	write; draw, sketch; compose (U+5BEB)	e5afab
+寬	broad, wide; spacious, vast (U+5BEC)	e5afac
+寭	U+5BED (U+5BED)	e5afad
+寮	shanty, hut, shack (U+5BEE)	e5afae
+寯	U+5BEF (U+5BEF)	e5afaf
+寰	great domain, country, world (U+5BF0)	e5afb0
+寱	U+5BF1 (U+5BF1)	e5afb1
+寲	U+5BF2 (U+5BF2)	e5afb2
+寳	treasure, jewel; precious, rare (U+5BF3)	e5afb3
+寴	U+5BF4 (U+5BF4)	e5afb4
+寵	favorite, concubine; favor (U+5BF5)	e5afb5
+寶	treasure, jewel; precious, rare (U+5BF6)	e5afb6
+寷	U+5BF7 (U+5BF7)	e5afb7
+寸	inch; small, tiny; KangXi radical 41 (U+5BF8)	e5afb8
+对	correct, right; facing, opposed (U+5BF9)	e5afb9
+寺	court, office; temple, monastery (U+5BFA)	e5afba
+寻	seek, search, look for; ancient (U+5BFB)	e5afbb
+导	direct, guide, lead, conduct (U+5BFC)	e5afbc
+寽	a handful; a pinch (U+5BFD)	e5afbd
+対	correct, right; facing, opposed (U+5BFE)	e5afbe
+寿	old age, long life; lifespan (U+5BFF)	e5afbf
+尀	cannot; thereupon (U+5C00)	e5b080
+封	letter, envelope; feudal (U+5C01)	e5b081
+専	monopolize, take sole possession (U+5C02)	e5b082
+尃	to state to, to announce (U+5C03)	e5b083
+射	shoot, eject, issue forth, emit (U+5C04)	e5b084
+尅	subdue, destroy, overcome (U+5C05)	e5b085
+将	will, going to, future; general (U+5C06)	e5b086
+將	will, going to, future; general (U+5C07)	e5b087
+專	monopolize, take sole possession (U+5C08)	e5b088
+尉	officer, military rank (U+5C09)	e5b089
+尊	respect, revere, venerate; honor (U+5C0A)	e5b08a
+尋	seek, search, look for; ancient (U+5C0B)	e5b08b
+尌	standing (something) up (U+5C0C)	e5b08c
+對	correct, right; facing, opposed (U+5C0D)	e5b08d
+導	direct, guide, lead, conduct (U+5C0E)	e5b08e
+小	small, tiny, insignificant (U+5C0F)	e5b08f
+尐	U+5C10 (U+5C10)	e5b090
+少	few, less, inadequate (U+5C11)	e5b091
+尒	you, your (U+5C12)	e5b092
+尓	you; that (U+5C13)	e5b093
+尔	you; that, those; final particle (U+5C14)	e5b094
+尕	small (used in place names) (U+5C15)	e5b095
+尖	sharp, pointed, acute, keen (U+5C16)	e5b096
+尗	younger of brothers; father's younger brother younger brother of a husband (U+5C17)	e5b097
+尘	dust, dirt, ashes, cinders (U+5C18)	e5b098
+尙	still, yet; even; fairly, rather (U+5C19)	e5b099
+尚	still, yet; even; fairly, rather (U+5C1A)	e5b09a
+尛	U+5C1B (U+5C1B)	e5b09b
+尜	a child toy (U+5C1C)	e5b09c
+尝	taste; experience, experiment (U+5C1D)	e5b09d
+尞	fuel used for sacrifices (U+5C1E)	e5b09e
+尟	surname; fresh (U+5C1F)	e5b09f
+尠	very few; seldom, rarely (U+5C20)	e5b0a0
+尡	U+5C21 (U+5C21)	e5b0a1
+尢	weak; KangXi radical 43 (U+5C22)	e5b0a2
+尣	lame; the first form is Radical 43 (U+5C23)	e5b0a3
+尤	especially, particularly (U+5C24)	e5b0a4
+尥	U+5C25 (U+5C25)	e5b0a5
+尦	U+5C26 (U+5C26)	e5b0a6
+尧	a legendary ancient emperor-sage (U+5C27)	e5b0a7
+尨	shaggy haired dog; variegated (U+5C28)	e5b0a8
+尩	weak; a rickety person; emaciated (U+5C29)	e5b0a9
+尪	lame (U+5C2A)	e5b0aa
+尫	lame (U+5C2B)	e5b0ab
+尬	limp, staggering gait; embarrass (U+5C2C)	e5b0ac
+尭	a legendary ancient emperor-sage (U+5C2D)	e5b0ad
+尮	U+5C2E (U+5C2E)	e5b0ae
+尯	U+5C2F (U+5C2F)	e5b0af
+尰	swell, swelling of the legs (U+5C30)	e5b0b0
+就	just, simply; to come, go to; to approach, near (U+5C31)	e5b0b1
+尲	limp; be embarrassed (U+5C32)	e5b0b2
+尳	U+5C33 (U+5C33)	e5b0b3
+尴	embarrassed; ill at ease (U+5C34)	e5b0b4
+尵	U+5C35 (U+5C35)	e5b0b5
+尶	embarrassed; ill at ease (U+5C36)	e5b0b6
+尷	embarrassed; ill at ease (U+5C37)	e5b0b7
+尸	corpse; to impersonate the dead; to preside; KangXi radical 44 (U+5C38)	e5b0b8
+尹	govern; oversee; director (U+5C39)	e5b0b9
+尺	Chinese measure approx. 'foot' (U+5C3A)	e5b0ba
+尻	end of spine; buttocks, sacrum (U+5C3B)	e5b0bb
+尼	Buddhist nun; transliteration (U+5C3C)	e5b0bc
+尽	exhaust, use up; deplete (U+5C3D)	e5b0bd
+尾	tail, extremity; end, stern (U+5C3E)	e5b0be
+尿	urine; urinate (U+5C3F)	e5b0bf
+局	bureau, office; circumstance (U+5C40)	e5b180
+屁	break wind; fart; buttocks (U+5C41)	e5b181
+层	storey, layer, floor, stratum (U+5C42)	e5b182
+屃	gigantic strength; hercules (U+5C43)	e5b183
+屄	the vagina (U+5C44)	e5b184
+居	live, dwell, reside, sit (U+5C45)	e5b185
+屆	numerary adjunct for time, term (U+5C46)	e5b186
+屇	cave; hole (U+5C47)	e5b187
+屈	bend, flex; bent, crooked; crouch (U+5C48)	e5b188
+屉	drawer; tray; pad; screen (U+5C49)	e5b189
+届	numerary adjunct for time, term (U+5C4A)	e5b18a
+屋	house; room; building, shelter (U+5C4B)	e5b18b
+屌	(Cant.) obscene exclamation (U+5C4C)	e5b18c
+屍	corpse, carcass (U+5C4D)	e5b18d
+屎	excrement, shit, dung (U+5C4E)	e5b18e
+屏	folding screen, shield (U+5C4F)	e5b18f
+屐	wooden shoes, clogs (U+5C50)	e5b190
+屑	bits, scraps, crumbs, fragments (U+5C51)	e5b191
+屒	U+5C52 (U+5C52)	e5b192
+屓	gigantic strength; hercules (U+5C53)	e5b193
+屔	U+5C54 (U+5C54)	e5b194
+展	open, unfold; stretch, extend (U+5C55)	e5b195
+屖	U+5C56 (U+5C56)	e5b196
+屗	U+5C57 (U+5C57)	e5b197
+屘	the youngest (U+5C58)	e5b198
+屙	to ease nature (U+5C59)	e5b199
+屚	U+5C5A (U+5C5A)	e5b19a
+屛	folding screen (U+5C5B)	e5b19b
+屜	drawer; tray; pad; screen (U+5C5C)	e5b19c
+屝	straw shoes; straw door (U+5C5D)	e5b19d
+属	class, category, type; belong to (U+5C5E)	e5b19e
+屟	U+5C5F (U+5C5F)	e5b19f
+屠	butcher, slaughter, massacre (U+5C60)	e5b1a0
+屡	frequently, often, again and again (U+5C61)	e5b1a1
+屢	frequently, often, again and again (U+5C62)	e5b1a2
+屣	straw sandals or slippers that have no heel-backs (U+5C63)	e5b1a3
+層	storey, layer, floor, stratum (U+5C64)	e5b1a4
+履	footwear, shoes; walk on, tread (U+5C65)	e5b1a5
+屦	straw sandals; tread on (U+5C66)	e5b1a6
+屧	wooden shoes, clogs (U+5C67)	e5b1a7
+屨	straw sandals; tread on (U+5C68)	e5b1a8
+屩	straw sandals (U+5C69)	e5b1a9
+屪	penis (U+5C6A)	e5b1aa
+屫	U+5C6B (U+5C6B)	e5b1ab
+屬	class, category, type; to belong to (U+5C6C)	e5b1ac
+屭	gigantic strength (U+5C6D)	e5b1ad
+屮	sprout; KangXi radical 45 (U+5C6E)	e5b1ae
+屯	village, hamlet; camp; station (U+5C6F)	e5b1af
+屰	disobedient (U+5C70)	e5b1b0
+山	mountain, hill, peak (U+5C71)	e5b1b1
+屲	U+5C72 (U+5C72)	e5b1b2
+屳	U+5C73 (U+5C73)	e5b1b3
+屴	lofty (U+5C74)	e5b1b4
+屵	U+5C75 (U+5C75)	e5b1b5
+屶	lofty (U+5C76)	e5b1b6
+屷	U+5C77 (U+5C77)	e5b1b7
+屸	U+5C78 (U+5C78)	e5b1b8
+屹	to rise high; to stand erect (U+5C79)	e5b1b9
+屺	a hill with trees or grass-- some give the opposite meaning (U+5C7A)	e5b1ba
+屻	(Cant.) sharp (U+5C7B)	e5b1bb
+屼	mountain; a bare hill (U+5C7C)	e5b1bc
+屽	U+5C7D (U+5C7D)	e5b1bd
+屾	U+5C7E (U+5C7E)	e5b1be
+屿	island (U+5C7F)	e5b1bf
+岀	go out (U+5C80)	e5b280
+岁	year; age; harvest (U+5C81)	e5b281
+岂	how? what? (U+5C82)	e5b282
+岃	U+5C83 (U+5C83)	e5b283
+岄	U+5C84 (U+5C84)	e5b284
+岅	U+5C85 (U+5C85)	e5b285
+岆	U+5C86 (U+5C86)	e5b286
+岇	U+5C87 (U+5C87)	e5b287
+岈	U+5C88 (U+5C88)	e5b288
+岉	U+5C89 (U+5C89)	e5b289
+岊	foothill (U+5C8A)	e5b28a
+岋	U+5C8B (U+5C8B)	e5b28b
+岌	perilous, hazardous; high, steep (U+5C8C)	e5b28c
+岍	U+5C8D (U+5C8D)	e5b28d
+岎	U+5C8E (U+5C8E)	e5b28e
+岏	U+5C8F (U+5C8F)	e5b28f
+岐	high; majestic; fork in road (U+5C90)	e5b290
+岑	steep, precipitous; peak (U+5C91)	e5b291
+岒	U+5C92 (U+5C92)	e5b292
+岓	U+5C93 (U+5C93)	e5b293
+岔	diverge, branch off; fork in road (U+5C94)	e5b294
+岕	U+5C95 (U+5C95)	e5b295
+岖	steep, sheer; rugged, rough (U+5C96)	e5b296
+岗	post; position (U+5C97)	e5b297
+岘	steep hill; mountain in Hubei (U+5C98)	e5b298
+岙	island (U+5C99)	e5b299
+岚	mountain mist, mountain haze (U+5C9A)	e5b29a
+岛	island (U+5C9B)	e5b29b
+岜	rock mountain (U+5C9C)	e5b29c
+岝	name of a mountain in Shandong (U+5C9D)	e5b29d
+岞	U+5C9E (U+5C9E)	e5b29e
+岟	U+5C9F (U+5C9F)	e5b29f
+岠	U+5CA0 (U+5CA0)	e5b2a0
+岡	ridge or crest of hill (U+5CA1)	e5b2a1
+岢	U+5CA2 (U+5CA2)	e5b2a2
+岣	a hill in Hunan (U+5CA3)	e5b2a3
+岤	U+5CA4 (U+5CA4)	e5b2a4
+岥	U+5CA5 (U+5CA5)	e5b2a5
+岦	U+5CA6 (U+5CA6)	e5b2a6
+岧	peak; cliff; precipice (U+5CA7)	e5b2a7
+岨	uneven (U+5CA8)	e5b2a8
+岩	cliff; rocks; mountain (U+5CA9)	e5b2a9
+岪	U+5CAA (U+5CAA)	e5b2aa
+岫	mountain peak; cave, cavern (U+5CAB)	e5b2ab
+岬	cape; promontory, headland (U+5CAC)	e5b2ac
+岭	mountain ridge, mountain peak (U+5CAD)	e5b2ad
+岮	U+5CAE (U+5CAE)	e5b2ae
+岯	U+5CAF (U+5CAF)	e5b2af
+岰	U+5CB0 (U+5CB0)	e5b2b0
+岱	Daishan, one of the Five Sacred Mountains in China (U+5CB1)	e5b2b1
+岲	U+5CB2 (U+5CB2)	e5b2b2
+岳	mountain peak; surname (U+5CB3)	e5b2b3
+岴	U+5CB4 (U+5CB4)	e5b2b4
+岵	hill (U+5CB5)	e5b2b5
+岶	U+5CB6 (U+5CB6)	e5b2b6
+岷	min mountain, min river (U+5CB7)	e5b2b7
+岸	bank, shore; beach, coast (U+5CB8)	e5b2b8
+岹	U+5CB9 (U+5CB9)	e5b2b9
+岺	mountain ridge, mountain peak (U+5CBA)	e5b2ba
+岻	U+5CBB (U+5CBB)	e5b2bb
+岼	U+5CBC (U+5CBC)	e5b2bc
+岽	place name in Guangxi province (U+5CBD)	e5b2bd
+岾	mountain pass (Korean) (U+5CBE)	e5b2be
+岿	grand, stately; secure, lasting (U+5CBF)	e5b2bf
+峀	mountain peak; cave, cavern (U+5CC0)	e5b380
+峁	yellow dirt mount (U+5CC1)	e5b381
+峂	name of place (U+5CC2)	e5b382
+峃	U+5CC3 (U+5CC3)	e5b383
+峄	a range of peaks in Shandong and Jiangsu; the name of a mountain (U+5CC4)	e5b384
+峅	U+5CC5 (U+5CC5)	e5b385
+峆	U+5CC6 (U+5CC6)	e5b386
+峇	cave, cavern (U+5CC7)	e5b387
+峈	U+5CC8 (U+5CC8)	e5b388
+峉	U+5CC9 (U+5CC9)	e5b389
+峊	U+5CCA (U+5CCA)	e5b38a
+峋	ranges of hills stretching on beyond another irregular peaks (U+5CCB)	e5b38b
+峌	U+5CCC (U+5CCC)	e5b38c
+峍	U+5CCD (U+5CCD)	e5b38d
+峎	U+5CCE (U+5CCE)	e5b38e
+峏	U+5CCF (U+5CCF)	e5b38f
+峐	U+5CD0 (U+5CD0)	e5b390
+峑	U+5CD1 (U+5CD1)	e5b391
+峒	mountain in Gansu province (U+5CD2)	e5b392
+峓	U+5CD3 (U+5CD3)	e5b393
+峔	U+5CD4 (U+5CD4)	e5b394
+峕	U+5CD5 (U+5CD5)	e5b395
+峖	U+5CD6 (U+5CD6)	e5b396
+峗	U+5CD7 (U+5CD7)	e5b397
+峘	U+5CD8 (U+5CD8)	e5b398
+峙	stand erect, stand up; pile up (U+5CD9)	e5b399
+峚	U+5CDA (U+5CDA)	e5b39a
+峛	U+5CDB (U+5CDB)	e5b39b
+峜	U+5CDC (U+5CDC)	e5b39c
+峝	Mountain in Gansu province (U+5CDD)	e5b39d
+峞	high and uneven (U+5CDE)	e5b39e
+峟	U+5CDF (U+5CDF)	e5b39f
+峠	mountain pass; crisis, climax (U+5CE0)	e5b3a0
+峡	gorge, strait, ravine; isthmus (U+5CE1)	e5b3a1
+峢	U+5CE2 (U+5CE2)	e5b3a2
+峣	high or tall (U+5CE3)	e5b3a3
+峤	high pointed mountain (U+5CE4)	e5b3a4
+峥	high, lofty, noble; steep, perilous (U+5CE5)	e5b3a5
+峦	mountain range; pointed mountain (U+5CE6)	e5b3a6
+峧	U+5CE7 (U+5CE7)	e5b3a7
+峨	lofty (U+5CE8)	e5b3a8
+峩	lofty (U+5CE9)	e5b3a9
+峪	valley, ravine (U+5CEA)	e5b3aa
+峫	mountain in Shandong province (U+5CEB)	e5b3ab
+峬	U+5CEC (U+5CEC)	e5b3ac
+峭	steep, precipitous, rugged (U+5CED)	e5b3ad
+峮	U+5CEE (U+5CEE)	e5b3ae
+峯	peak, summit; hump of camel (U+5CEF)	e5b3af
+峰	peak, summit; hump of camel (U+5CF0)	e5b3b0
+峱	name of a mountain (U+5CF1)	e5b3b1
+峲	U+5CF2 (U+5CF2)	e5b3b2
+峳	U+5CF3 (U+5CF3)	e5b3b3
+峴	steep hill; mountain in Hubei (U+5CF4)	e5b3b4
+峵	U+5CF5 (U+5CF5)	e5b3b5
+島	island (U+5CF6)	e5b3b6
+峷	U+5CF7 (U+5CF7)	e5b3b7
+峸	U+5CF8 (U+5CF8)	e5b3b8
+峹	U+5CF9 (U+5CF9)	e5b3b9
+峺	U+5CFA (U+5CFA)	e5b3ba
+峻	high, steep, towering; stern (U+5CFB)	e5b3bb
+峼	U+5CFC (U+5CFC)	e5b3bc
+峽	gorge, strait, ravine; isthmus (U+5CFD)	e5b3bd
+峾	U+5CFE (U+5CFE)	e5b3be
+峿	mountain (U+5CFF)	e5b3bf
+崀	place name in hunan province (U+5D00)	e5b480
+崁	a place in Taiwan Tainan (U+5D01)	e5b481
+崂	Laoshan, mountain in Shandong (U+5D02)	e5b482
+崃	mountain in Sichuan province (U+5D03)	e5b483
+崄	high, steep, precipitous (U+5D04)	e5b484
+崅	U+5D05 (U+5D05)	e5b485
+崆	Kongtong mountain (U+5D06)	e5b486
+崇	esteem, honor, revere, venerate (U+5D07)	e5b487
+崈	U+5D08 (U+5D08)	e5b488
+崉	U+5D09 (U+5D09)	e5b489
+崊	U+5D0A (U+5D0A)	e5b48a
+崋	flowery; illustrious; Chinese (U+5D0B)	e5b48b
+崌	mountain name (U+5D0C)	e5b48c
+崍	mountain in Sichuan province (U+5D0D)	e5b48d
+崎	rough, uneven, jagged, rugged (U+5D0E)	e5b48e
+崏	U+5D0F (U+5D0F)	e5b48f
+崐	Kunlun mountains in Jiangsu (U+5D10)	e5b490
+崑	Kunlun mountains in Jiang Su province. (U+5D11)	e5b491
+崒	rocky peaks; lofty and dangerous (U+5D12)	e5b492
+崓	U+5D13 (U+5D13)	e5b493
+崔	high, lofty, towering; surname (U+5D14)	e5b494
+崕	cliff, precipice; precipitous (U+5D15)	e5b495
+崖	cliff, precipice; precipitous (U+5D16)	e5b496
+崗	post; position (U+5D17)	e5b497
+崘	Kunlun mountains in Jiangsu (U+5D18)	e5b498
+崙	Kunlun mountains in Jiangsu (U+5D19)	e5b499
+崚	hilly, steep, rugged (U+5D1A)	e5b49a
+崛	towering, eminent; rise abruptly (U+5D1B)	e5b49b
+崜	U+5D1C (U+5D1C)	e5b49c
+崝	U+5D1D (U+5D1D)	e5b49d
+崞	mountain in Shanxi (U+5D1E)	e5b49e
+崟	cliffs (U+5D1F)	e5b49f
+崠	place name in Guangxi province (U+5D20)	e5b4a0
+崡	U+5D21 (U+5D21)	e5b4a1
+崢	high, lofty, noble; steep, perilous (U+5D22)	e5b4a2
+崣	U+5D23 (U+5D23)	e5b4a3
+崤	mountain in Henan (U+5D24)	e5b4a4
+崥	U+5D25 (U+5D25)	e5b4a5
+崦	a mountain in Kansu, where there is a cave into which the sun is said to sink at night (U+5D26)	e5b4a6
+崧	high mountain; lofty, eminent (U+5D27)	e5b4a7
+崨	U+5D28 (U+5D28)	e5b4a8
+崩	rupture, split apart, collapse (U+5D29)	e5b4a9
+崪	rocky peaks; lofty and dangerous (U+5D2A)	e5b4aa
+崫	high and lofty (mountains) (U+5D2B)	e5b4ab
+崬	place name in Guangxi province (U+5D2C)	e5b4ac
+崭	high, steep, precipitous; new (U+5D2D)	e5b4ad
+崮	a mesa, hill with flat top and steep sides (U+5D2E)	e5b4ae
+崯	U+5D2F (U+5D2F)	e5b4af
+崰	U+5D30 (U+5D30)	e5b4b0
+崱	lofty (U+5D31)	e5b4b1
+崲	U+5D32 (U+5D32)	e5b4b2
+崳	county in Shandong province (U+5D33)	e5b4b3
+崴	high, lofty; precipitous (U+5D34)	e5b4b4
+崵	U+5D35 (U+5D35)	e5b4b5
+崶	U+5D36 (U+5D36)	e5b4b6
+崷	U+5D37 (U+5D37)	e5b4b7
+崸	U+5D38 (U+5D38)	e5b4b8
+崹	U+5D39 (U+5D39)	e5b4b9
+崺	U+5D3A (U+5D3A)	e5b4ba
+崻	U+5D3B (U+5D3B)	e5b4bb
+崼	U+5D3C (U+5D3C)	e5b4bc
+崽	a child, a servant; a diminutive (U+5D3D)	e5b4bd
+崾	place name in Shanxi province (U+5D3E)	e5b4be
+崿	cliffs (U+5D3F)	e5b4bf
+嵀	U+5D40 (U+5D40)	e5b580
+嵁	rugged (U+5D41)	e5b581
+嵂	lofty (U+5D42)	e5b582
+嵃	U+5D43 (U+5D43)	e5b583
+嵄	U+5D44 (U+5D44)	e5b584
+嵅	U+5D45 (U+5D45)	e5b585
+嵆	mountain in Henan; surname (U+5D46)	e5b586
+嵇	mountain in Henan; surname (U+5D47)	e5b587
+嵈	U+5D48 (U+5D48)	e5b588
+嵉	U+5D49 (U+5D49)	e5b589
+嵊	district in Shaohsing, Chekiang (U+5D4A)	e5b58a
+嵋	Omei mountain in Sichuan (U+5D4B)	e5b58b
+嵌	inlay, set in; fall into; rugged (U+5D4C)	e5b58c
+嵍	U+5D4D (U+5D4D)	e5b58d
+嵎	mountain recess; canyon (U+5D4E)	e5b58e
+嵏	a mountain in Shenxi (U+5D4F)	e5b58f
+嵐	mountain mist, mountain haze (U+5D50)	e5b590
+嵑	U+5D51 (U+5D51)	e5b591
+嵒	cliff; soar (U+5D52)	e5b592
+嵓	U+5D53 (U+5D53)	e5b593
+嵔	U+5D54 (U+5D54)	e5b594
+嵕	U+5D55 (U+5D55)	e5b595
+嵖	name of a mountain; (Cant.) to obstruct (U+5D56)	e5b596
+嵗	year; age; harvest (U+5D57)	e5b597
+嵘	high, steep; lofty, towering (U+5D58)	e5b598
+嵙	place name (U+5D59)	e5b599
+嵚	lofty, towering (U+5D5A)	e5b59a
+嵛	county in Shandong province (U+5D5B)	e5b59b
+嵜	rough, uneven, jagged, rugged (U+5D5C)	e5b59c
+嵝	Goulou mountain peak in hunan (U+5D5D)	e5b59d
+嵞	U+5D5E (U+5D5E)	e5b59e
+嵟	U+5D5F (U+5D5F)	e5b59f
+嵠	a valley with a stream in it; a gorge (U+5D60)	e5b5a0
+嵡	U+5D61 (U+5D61)	e5b5a1
+嵢	U+5D62 (U+5D62)	e5b5a2
+嵣	U+5D63 (U+5D63)	e5b5a3
+嵤	U+5D64 (U+5D64)	e5b5a4
+嵥	U+5D65 (U+5D65)	e5b5a5
+嵦	a raised site; pleasant (U+5D66)	e5b5a6
+嵧	U+5D67 (U+5D67)	e5b5a7
+嵨	U+5D68 (U+5D68)	e5b5a8
+嵩	high, lofty; one of the 5 peaks, situated in Hunan (U+5D69)	e5b5a9
+嵪	U+5D6A (U+5D6A)	e5b5aa
+嵫	a hill in Shantung (U+5D6B)	e5b5ab
+嵬	high; rugged, rocky, precipitous (U+5D6C)	e5b5ac
+嵭	U+5D6D (U+5D6D)	e5b5ad
+嵮	U+5D6E (U+5D6E)	e5b5ae
+嵯	high, towering; irregular, rugged (U+5D6F)	e5b5af
+嵰	U+5D70 (U+5D70)	e5b5b0
+嵱	U+5D71 (U+5D71)	e5b5b1
+嵲	U+5D72 (U+5D72)	e5b5b2
+嵳	high, towering; irregular, rugged (U+5D73)	e5b5b3
+嵴	mountain ridge (U+5D74)	e5b5b4
+嵵	U+5D75 (U+5D75)	e5b5b5
+嵶	low part of a mountain (U+5D76)	e5b5b6
+嵷	U+5D77 (U+5D77)	e5b5b7
+嵸	U+5D78 (U+5D78)	e5b5b8
+嵹	U+5D79 (U+5D79)	e5b5b9
+嵺	U+5D7A (U+5D7A)	e5b5ba
+嵻	U+5D7B (U+5D7B)	e5b5bb
+嵼	U+5D7C (U+5D7C)	e5b5bc
+嵽	U+5D7D (U+5D7D)	e5b5bd
+嵾	uneven (U+5D7E)	e5b5be
+嵿	U+5D7F (U+5D7F)	e5b5bf
+嶀	U+5D80 (U+5D80)	e5b680
+嶁	Goulou mountain peak in Hunan (U+5D81)	e5b681
+嶂	cliff; mountain barrier (U+5D82)	e5b682
+嶃	a cliff, a peak (U+5D83)	e5b683
+嶄	high, steep, precipitous; new (U+5D84)	e5b684
+嶅	U+5D85 (U+5D85)	e5b685
+嶆	U+5D86 (U+5D86)	e5b686
+嶇	steep, sheer; rugged, rough (U+5D87)	e5b687
+嶈	U+5D88 (U+5D88)	e5b688
+嶉	U+5D89 (U+5D89)	e5b689
+嶊	U+5D8A (U+5D8A)	e5b68a
+嶋	island (U+5D8B)	e5b68b
+嶌	island (U+5D8C)	e5b68c
+嶍	U+5D8D (U+5D8D)	e5b68d
+嶎	luxuriant, elegant (U+5D8E)	e5b68e
+嶏	U+5D8F (U+5D8F)	e5b68f
+嶐	U+5D90 (U+5D90)	e5b690
+嶑	U+5D91 (U+5D91)	e5b691
+嶒	towering, lofty, steep (U+5D92)	e5b692
+嶓	Boshan, mountain in Shaanxi (U+5D93)	e5b693
+嶔	lofty, towering (U+5D94)	e5b694
+嶕	U+5D95 (U+5D95)	e5b695
+嶖	U+5D96 (U+5D96)	e5b696
+嶗	Laoshan, mountain in Shandong (U+5D97)	e5b697
+嶘	U+5D98 (U+5D98)	e5b698
+嶙	precipitous (U+5D99)	e5b699
+嶚	U+5D9A (U+5D9A)	e5b69a
+嶛	U+5D9B (U+5D9B)	e5b69b
+嶜	U+5D9C (U+5D9C)	e5b69c
+嶝	path leading up a mountain (U+5D9D)	e5b69d
+嶞	ridge (U+5D9E)	e5b69e
+嶟	U+5D9F (U+5D9F)	e5b69f
+嶠	high pointed mountain (U+5DA0)	e5b6a0
+嶡	table (U+5DA1)	e5b6a1
+嶢	high or tall (U+5DA2)	e5b6a2
+嶣	U+5DA3 (U+5DA3)	e5b6a3
+嶤	U+5DA4 (U+5DA4)	e5b6a4
+嶥	U+5DA5 (U+5DA5)	e5b6a5
+嶦	U+5DA6 (U+5DA6)	e5b6a6
+嶧	a range of peaks in Shandong and Jiangsu; the name of a mountain (U+5DA7)	e5b6a7
+嶨	big rocky mountain (U+5DA8)	e5b6a8
+嶩	U+5DA9 (U+5DA9)	e5b6a9
+嶪	U+5DAA (U+5DAA)	e5b6aa
+嶫	U+5DAB (U+5DAB)	e5b6ab
+嶬	U+5DAC (U+5DAC)	e5b6ac
+嶭	elevated, lofty (U+5DAD)	e5b6ad
+嶮	high, steep, precipitous (U+5DAE)	e5b6ae
+嶯	U+5DAF (U+5DAF)	e5b6af
+嶰	gorge (U+5DB0)	e5b6b0
+嶱	U+5DB1 (U+5DB1)	e5b6b1
+嶲	a name of an old town in Sichuan; cuckoo; revolution of a wheel (U+5DB2)	e5b6b2
+嶳	U+5DB3 (U+5DB3)	e5b6b3
+嶴	island (U+5DB4)	e5b6b4
+嶵	U+5DB5 (U+5DB5)	e5b6b5
+嶶	U+5DB6 (U+5DB6)	e5b6b6
+嶷	a range of mountains in Hunan province (U+5DB7)	e5b6b7
+嶸	high, steep; lofty, towering (U+5DB8)	e5b6b8
+嶹	U+5DB9 (U+5DB9)	e5b6b9
+嶺	mountain ridge, mountain peak (U+5DBA)	e5b6ba
+嶻	U+5DBB (U+5DBB)	e5b6bb
+嶼	island (U+5DBC)	e5b6bc
+嶽	mountain peak, summit (U+5DBD)	e5b6bd
+嶾	U+5DBE (U+5DBE)	e5b6be
+嶿	U+5DBF (U+5DBF)	e5b6bf
+巀	U+5DC0 (U+5DC0)	e5b780
+巁	U+5DC1 (U+5DC1)	e5b781
+巂	place name (U+5DC2)	e5b782
+巃	lofty (U+5DC3)	e5b783
+巄	U+5DC4 (U+5DC4)	e5b784
+巅	summit of mountain, mountain top (U+5DC5)	e5b785
+巆	U+5DC6 (U+5DC6)	e5b786
+巇	a crack; hazardous (U+5DC7)	e5b787
+巈	U+5DC8 (U+5DC8)	e5b788
+巉	steep, rugged, jagged, precipitous (U+5DC9)	e5b789
+巊	U+5DCA (U+5DCA)	e5b78a
+巋	grand, stately; secure, lasting (U+5DCB)	e5b78b
+巌	cliff, precipice; cave, grotto (U+5DCC)	e5b78c
+巍	high, lofty, majestic, eminent (U+5DCD)	e5b78d
+巎	U+5DCE (U+5DCE)	e5b78e
+巏	U+5DCF (U+5DCF)	e5b78f
+巐	U+5DD0 (U+5DD0)	e5b790
+巑	U+5DD1 (U+5DD1)	e5b791
+巒	mountain range; pointed mountain (U+5DD2)	e5b792
+巓	summit of mountain (U+5DD3)	e5b793
+巔	summit of mountain, mountain top (U+5DD4)	e5b794
+巕	U+5DD5 (U+5DD5)	e5b795
+巖	cliff, precipice; cave, grotto (U+5DD6)	e5b796
+巗	U+5DD7 (U+5DD7)	e5b797
+巘	summit, peak (U+5DD8)	e5b798
+巙	U+5DD9 (U+5DD9)	e5b799
+巚	U+5DDA (U+5DDA)	e5b79a
+巛	river; KangXi radical 47 (U+5DDB)	e5b79b
+巜	U+5DDC (U+5DDC)	e5b79c
+川	stream, river; flow; boil (U+5DDD)	e5b79d
+州	administrative division, state (U+5DDE)	e5b79e
+巟	a watery waste; to reach (U+5DDF)	e5b79f
+巠	streams running underground; flowing water (U+5DE0)	e5b7a0
+巡	patrol, go on circuit, cruise (U+5DE1)	e5b7a1
+巢	nest, living quarter in tree (U+5DE2)	e5b7a2
+巣	nest, living quarter in tree (U+5DE3)	e5b7a3
+巤	a mane; bristles, as on a hog; dorsal fins (U+5DE4)	e5b7a4
+工	labor, work; worker, laborer (U+5DE5)	e5b7a5
+左	left; east; unorthodox, improper (U+5DE6)	e5b7a6
+巧	skillful, ingenious, clever (U+5DE7)	e5b7a7
+巨	large, great, enormous; chief (U+5DE8)	e5b7a8
+巩	bind; firm, secure, strong (U+5DE9)	e5b7a9
+巪	person's name (U+5DEA)	e5b7aa
+巫	wizard, sorcerer, witch, shaman (U+5DEB)	e5b7ab
+巬	U+5DEC (U+5DEC)	e5b7ac
+巭	study (U+5DED)	e5b7ad
+差	to differ; different, wrong; nearly, almost; an officer (U+5DEE)	e5b7ae
+巯	an atom group (U+5DEF)	e5b7af
+巰	an atom group (U+5DF0)	e5b7b0
+己	self, oneself; personal, private; 6th heavenly stem (U+5DF1)	e5b7b1
+已	already; finished; stop (U+5DF2)	e5b7b2
+巳	the hours from 9 to 11; 6th terrestrial branch (U+5DF3)	e5b7b3
+巴	greatly desire, anxiously hope (U+5DF4)	e5b7b4
+巵	measuring cup; wine container (U+5DF5)	e5b7b5
+巶	U+5DF6 (U+5DF6)	e5b7b6
+巷	alley, lane (U+5DF7)	e5b7b7
+巸	U+5DF8 (U+5DF8)	e5b7b8
+巹	U+5DF9 (U+5DF9)	e5b7b9
+巺	5th of the 8 trigrams; South-east; mild, modest, obedient (U+5DFA)	e5b7ba
+巻	scroll; curl; make a comeback (U+5DFB)	e5b7bb
+巼	place name (U+5DFC)	e5b7bc
+巽	5th of the 8 trigrams; south-east; mild, modest, obedient (U+5DFD)	e5b7bd
+巾	kerchief; towel; turban; KangXi radical number 50 (U+5DFE)	e5b7be
+巿	revolve, make circuit, turn (U+5DFF)	e5b7bf
+帀	to go round, to make a circuit, to make a revolution, to turn round (U+5E00)	e5b880
+币	currency, coins, legal tender (U+5E01)	e5b881
+市	market, fair; city, town; trade (U+5E02)	e5b882
+布	cotton cloth, textiles, linen (U+5E03)	e5b883
+帄	U+5E04 (U+5E04)	e5b884
+帅	commander, commander-in-chief (U+5E05)	e5b885
+帆	sail; boat (U+5E06)	e5b886
+帇	U+5E07 (U+5E07)	e5b887
+师	teacher, master, specialist (U+5E08)	e5b888
+帉	U+5E09 (U+5E09)	e5b889
+帊	U+5E0A (U+5E0A)	e5b88a
+帋	paper; stationary; document (U+5E0B)	e5b88b
+希	rare; hope, expect, strive for (U+5E0C)	e5b88c
+帍	U+5E0D (U+5E0D)	e5b88d
+帎	(Cant.) a way of playing snooker with the stick on top of one's thumb (U+5E0E)	e5b88e
+帏	curtain that forms wall (U+5E0F)	e5b88f
+帐	tent; screen, mosquito net (U+5E10)	e5b890
+帑	a treasury; public funds (U+5E11)	e5b891
+帒	a bag, a sack; a case; a pocket, a pouch (U+5E12)	e5b892
+帓	U+5E13 (U+5E13)	e5b893
+帔	a skirt; long robe for women, having no sleeves and fasten down the front (U+5E14)	e5b894
+帕	turban, kerchief, veil; wrap (U+5E15)	e5b895
+帖	invitation card; notice (U+5E16)	e5b896
+帗	a multicolored prop used in dancing (U+5E17)	e5b897
+帘	flag-sign of a tavern (U+5E18)	e5b898
+帙	book cover; satchel or bag (U+5E19)	e5b899
+帚	broom, broomstick (U+5E1A)	e5b89a
+帛	silks, fabrics; wealth, property (U+5E1B)	e5b89b
+帜	flag, pennant; sign; fasten (U+5E1C)	e5b89c
+帝	supreme ruler, emperor; god (U+5E1D)	e5b89d
+帞	U+5E1E (U+5E1E)	e5b89e
+帟	tent (U+5E1F)	e5b89f
+帠	U+5E20 (U+5E20)	e5b8a0
+帡	shelter, screen, awning (U+5E21)	e5b8a1
+帢	U+5E22 (U+5E22)	e5b8a2
+帣	bag (U+5E23)	e5b8a3
+帤	U+5E24 (U+5E24)	e5b8a4
+帥	commander, commander-in-chief (U+5E25)	e5b8a5
+带	belt, girdle, band, strap, zone (U+5E26)	e5b8a6
+帧	picture, scroll; one of pair of (U+5E27)	e5b8a7
+帨	handkerchief, kerchief, shawl (U+5E28)	e5b8a8
+帩	U+5E29 (U+5E29)	e5b8a9
+帪	U+5E2A (U+5E2A)	e5b8aa
+師	teacher, master, specialist; multitude, troops (U+5E2B)	e5b8ab
+帬	the skirt of a lady's dress petticoat (U+5E2C)	e5b8ac
+席	seat; mat; take seat; banquet (U+5E2D)	e5b8ad
+帮	help, assist; defend; shoe upper (U+5E2E)	e5b8ae
+帯	belt (U+5E2F)	e5b8af
+帰	return; return to, revert to (U+5E30)	e5b8b0
+帱	cover up; curtain (U+5E31)	e5b8b1
+帲	shelter (U+5E32)	e5b8b2
+帳	tent; screen, mosquito net (U+5E33)	e5b8b3
+帴	U+5E34 (U+5E34)	e5b8b4
+帵	remnants, tailor's cutting (U+5E35)	e5b8b5
+帶	belt, girdle, band, strap, zone (U+5E36)	e5b8b6
+帷	tent; curtain, screen (U+5E37)	e5b8b7
+常	common, normal, frequent, regular (U+5E38)	e5b8b8
+帹	U+5E39 (U+5E39)	e5b8b9
+帺	U+5E3A (U+5E3A)	e5b8ba
+帻	turban; conical cap (U+5E3B)	e5b8bb
+帼	women's headgear; mourning cap (U+5E3C)	e5b8bc
+帽	hat, cap; cap-like tops (U+5E3D)	e5b8bd
+帾	U+5E3E (U+5E3E)	e5b8be
+帿	marquis, lord; target in archery (U+5E3F)	e5b8bf
+幀	picture, scroll; one of pair of (U+5E40)	e5b980
+幁	U+5E41 (U+5E41)	e5b981
+幂	cover-cloth, cover with cloth (U+5E42)	e5b982
+幃	curtain that forms wall (U+5E43)	e5b983
+幄	tent; mosquito net (U+5E44)	e5b984
+幅	piece, strip, breadth of, hem (U+5E45)	e5b985
+幆	U+5E46 (U+5E46)	e5b986
+幇	help, assist; defend; shoe upper (U+5E47)	e5b987
+幈	U+5E48 (U+5E48)	e5b988
+幉	U+5E49 (U+5E49)	e5b989
+幊	U+5E4A (U+5E4A)	e5b98a
+幋	belt (U+5E4B)	e5b98b
+幌	curtain, cloth screen (U+5E4C)	e5b98c
+幍	U+5E4D (U+5E4D)	e5b98d
+幎	cover-cloth, cover with cloth (U+5E4E)	e5b98e
+幏	U+5E4F (U+5E4F)	e5b98f
+幐	U+5E50 (U+5E50)	e5b990
+幑	U+5E51 (U+5E51)	e5b991
+幒	U+5E52 (U+5E52)	e5b992
+幓	U+5E53 (U+5E53)	e5b993
+幔	curtain, screen, tent (U+5E54)	e5b994
+幕	curtain, screen, tent (U+5E55)	e5b995
+幖	U+5E56 (U+5E56)	e5b996
+幗	women's headgear; mourning cap (U+5E57)	e5b997
+幘	turban; conical cap (U+5E58)	e5b998
+幙	a curtain, a screen (U+5E59)	e5b999
+幚	help, assist; defend; shoe upper (U+5E5A)	e5b99a
+幛	scroll of silk or cloth presente (U+5E5B)	e5b99b
+幜	U+5E5C (U+5E5C)	e5b99c
+幝	U+5E5D (U+5E5D)	e5b99d
+幞	turban (U+5E5E)	e5b99e
+幟	flag, pennant; sign; fasten (U+5E5F)	e5b99f
+幠	cover (U+5E60)	e5b9a0
+幡	pennant, banner, streamer, flag (U+5E61)	e5b9a1
+幢	carriage curtain; sun screen (U+5E62)	e5b9a2
+幣	currency, coins, legal tender (U+5E63)	e5b9a3
+幤	evil, wrong, bad; criminal (U+5E64)	e5b9a4
+幥	U+5E65 (U+5E65)	e5b9a5
+幦	cover (U+5E66)	e5b9a6
+幧	U+5E67 (U+5E67)	e5b9a7
+幨	curtain (U+5E68)	e5b9a8
+幩	trappings (U+5E69)	e5b9a9
+幪	cover, shelter, screen; protect (U+5E6A)	e5b9aa
+幫	to help, assist; to defend; shoe upper (U+5E6B)	e5b9ab
+幬	cover up; curtain (U+5E6C)	e5b9ac
+幭	cover (U+5E6D)	e5b9ad
+幮	a screen used to make a temporary kitchen (U+5E6E)	e5b9ae
+幯	U+5E6F (U+5E6F)	e5b9af
+幰	curtain at front of carriage (U+5E70)	e5b9b0
+幱	official dress (U+5E71)	e5b9b1
+干	oppose, offend; invade; dried (U+5E72)	e5b9b2
+平	flat, level, even; peaceful (U+5E73)	e5b9b3
+年	year; new-years; person's age (U+5E74)	e5b9b4
+幵	even level. to raise in both hands (U+5E75)	e5b9b5
+并	combine, annex; also, what's more (U+5E76)	e5b9b6
+幷	combine (U+5E77)	e5b9b7
+幸	luck(ily), favor, fortunately (U+5E78)	e5b9b8
+幹	trunk of tree or of human body (U+5E79)	e5b9b9
+幺	one; tiny, small (U+5E7A)	e5b9ba
+幻	illusion, fantasy, mirage (U+5E7B)	e5b9bb
+幼	infant, young child; immature (U+5E7C)	e5b9bc
+幽	quiet, secluded, tranquil; dark (U+5E7D)	e5b9bd
+幾	how many? how much?; a few, some (U+5E7E)	e5b9be
+广	wide, extensive, broad; rad. 53 (U+5E7F)	e5b9bf
+庀	to prepare; to regulate to hand up (U+5E80)	e5ba80
+庁	hall, central room (U+5E81)	e5ba81
+庂	U+5E82 (U+5E82)	e5ba82
+広	broad, wide, extensive (U+5E83)	e5ba83
+庄	village, hamlet; villa, manor (U+5E84)	e5ba84
+庅	an interrogative particle (U+5E85)	e5ba85
+庆	congratulate, celebrate (U+5E86)	e5ba86
+庇	cover, shield, shelter, protect (U+5E87)	e5ba87
+庈	used in person's names (U+5E88)	e5ba88
+庉	a village; to dwell together (U+5E89)	e5ba89
+床	bed, couch; framework, chassis (U+5E8A)	e5ba8a
+庋	a cupboard or pantry to store (U+5E8B)	e5ba8b
+庌	U+5E8C (U+5E8C)	e5ba8c
+庍	U+5E8D (U+5E8D)	e5ba8d
+庎	U+5E8E (U+5E8E)	e5ba8e
+序	series, serial order, sequence (U+5E8F)	e5ba8f
+庐	hut, cottage; name of a mountain (U+5E90)	e5ba90
+庑	corridor, hallway; luxuriant (U+5E91)	e5ba91
+庒	U+5E92 (U+5E92)	e5ba92
+库	armory, treasury, storehouse (U+5E93)	e5ba93
+应	should, ought to, must (U+5E94)	e5ba94
+底	bottom, underneath, underside (U+5E95)	e5ba95
+庖	kitchen; cooking, cuisine (U+5E96)	e5ba96
+店	shop, store; inn, hotel (U+5E97)	e5ba97
+庘	U+5E98 (U+5E98)	e5ba98
+庙	temple, shrine; imperial court (U+5E99)	e5ba99
+庚	7th heavenly stem (U+5E9A)	e5ba9a
+庛	U+5E9B (U+5E9B)	e5ba9b
+府	prefecture; prefect; government (U+5E9C)	e5ba9c
+庝	U+5E9D (U+5E9D)	e5ba9d
+庞	disorderly, messy; huge, big (U+5E9E)	e5ba9e
+废	abrogate, terminate, discard (U+5E9F)	e5ba9f
+庠	village school; teach (U+5EA0)	e5baa0
+庡	U+5EA1 (U+5EA1)	e5baa1
+庢	U+5EA2 (U+5EA2)	e5baa2
+庣	U+5EA3 (U+5EA3)	e5baa3
+庤	prepare (U+5EA4)	e5baa4
+庥	shade; shelter, protection (U+5EA5)	e5baa5
+度	degree, system; manner; to consider (U+5EA6)	e5baa6
+座	seat; stand, base (U+5EA7)	e5baa7
+庨	U+5EA8 (U+5EA8)	e5baa8
+庩	U+5EA9 (U+5EA9)	e5baa9
+庪	U+5EAA (U+5EAA)	e5baaa
+庫	armory, treasury, storehouse (U+5EAB)	e5baab
+庬	abundant; mixed (U+5EAC)	e5baac
+庭	courtyard; spacious hall or yard (U+5EAD)	e5baad
+庮	U+5EAE (U+5EAE)	e5baae
+庯	U+5EAF (U+5EAF)	e5baaf
+庰	U+5EB0 (U+5EB0)	e5bab0
+庱	U+5EB1 (U+5EB1)	e5bab1
+庲	U+5EB2 (U+5EB2)	e5bab2
+庳	a low-built house (U+5EB3)	e5bab3
+庴	U+5EB4 (U+5EB4)	e5bab4
+庵	Buddhist monastery or nunnery (U+5EB5)	e5bab5
+庶	numerous, various; multitude (U+5EB6)	e5bab6
+康	peaceful, quiet; happy, healthy (U+5EB7)	e5bab7
+庸	usual, common, ordinary, mediocre (U+5EB8)	e5bab8
+庹	the length of one's two outstretched arms (U+5EB9)	e5bab9
+庺	U+5EBA (U+5EBA)	e5baba
+庻	numerous, various; multitude (U+5EBB)	e5babb
+庼	U+5EBC (U+5EBC)	e5babc
+庽	U+5EBD (U+5EBD)	e5babd
+庾	granary; storehouse (U+5EBE)	e5babe
+庿	U+5EBF (U+5EBF)	e5babf
+廀	to conceal; to search into (U+5EC0)	e5bb80
+廁	toilet, lavatory; mingle with (U+5EC1)	e5bb81
+廂	side-room, wing; theatre box (U+5EC2)	e5bb82
+廃	abrogate, terminate, discard (U+5EC3)	e5bb83
+廄	stable; barnyard (U+5EC4)	e5bb84
+廅	U+5EC5 (U+5EC5)	e5bb85
+廆	a room; the wall of a house a man's name (U+5EC6)	e5bb86
+廇	U+5EC7 (U+5EC7)	e5bb87
+廈	big building, mansion (U+5EC8)	e5bb88
+廉	upright, honorable, honest (U+5EC9)	e5bb89
+廊	corridor, porch, veranda (U+5ECA)	e5bb8a
+廋	conceal, hide; search for, seek (U+5ECB)	e5bb8b
+廌	unicorn (U+5ECC)	e5bb8c
+廍	U+5ECD (U+5ECD)	e5bb8d
+廎	room (U+5ECE)	e5bb8e
+廏	stable; barnyard (U+5ECF)	e5bb8f
+廐	stable; barnyard (U+5ED0)	e5bb90
+廑	a hut; careful (U+5ED1)	e5bb91
+廒	a granary (U+5ED2)	e5bb92
+廓	broad, wide, open, empty; to expand (U+5ED3)	e5bb93
+廔	U+5ED4 (U+5ED4)	e5bb94

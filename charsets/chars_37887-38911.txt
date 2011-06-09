@@ -1,0 +1,1024 @@
+髕	kneecap (U+9AD5)	e9ab95
+髖	hipbone; hip (U+9AD6)	e9ab96
+髗	the skull; the forehead (U+9AD7)	e9ab97
+高	high, tall; lofty, elevated (U+9AD8)	e9ab98
+髙	variant of 高 U+9AD8, high, tall; lofty, elevated (U+9AD9)	e9ab99
+髚	U+9ADA (U+9ADA)	e9ab9a
+髛	U+9ADB (U+9ADB)	e9ab9b
+髜	U+9ADC (U+9ADC)	e9ab9c
+髝	U+9ADD (U+9ADD)	e9ab9d
+髞	high, imposing, eminent (U+9ADE)	e9ab9e
+髟	hair; KangXi radical 190 (U+9ADF)	e9ab9f
+髠	shave head as punishment; prune (U+9AE0)	e9aba0
+髡	to shear tree; ancient punishment (U+9AE1)	e9aba1
+髢	wig (U+9AE2)	e9aba2
+髣	similar to, like (U+9AE3)	e9aba3
+髤	U+9AE4 (U+9AE4)	e9aba4
+髥	beard; mustache (U+9AE5)	e9aba5
+髦	flowing hair of young child (U+9AE6)	e9aba6
+髧	long hair; (Cant.) to hang down, droop (U+9AE7)	e9aba7
+髨	U+9AE8 (U+9AE8)	e9aba8
+髩	U+9AE9 (U+9AE9)	e9aba9
+髪	hair (U+9AEA)	e9abaa
+髫	children's hair style; a youngster (U+9AEB)	e9abab
+髬	U+9AEC (U+9AEC)	e9abac
+髭	mustache (U+9AED)	e9abad
+髮	hair (U+9AEE)	e9abae
+髯	beard; mustache (U+9AEF)	e9abaf
+髰	U+9AF0 (U+9AF0)	e9abb0
+髱	a topknot, bun, coiled hair-knot (U+9AF1)	e9abb1
+髲	a wig (U+9AF2)	e9abb2
+髳	state (U+9AF3)	e9abb3
+髴	disheveled hair; similar to (U+9AF4)	e9abb4
+髵	whiskers, bristles on the jaws of an animal (U+9AF5)	e9abb5
+髶	U+9AF6 (U+9AF6)	e9abb6
+髷	a topknot (U+9AF7)	e9abb7
+髸	U+9AF8 (U+9AF8)	e9abb8
+髹	red lacquer; to lacquer (U+9AF9)	e9abb9
+髺	the hair dishevelled, as in mourning (U+9AFA)	e9abba
+髻	hair rolled up in a bun, topknot (U+9AFB)	e9abbb
+髼	U+9AFC (U+9AFC)	e9abbc
+髽	to dress the hair (U+9AFD)	e9abbd
+髾	tail of a comet; long hair (U+9AFE)	e9abbe
+髿	U+9AFF (U+9AFF)	e9abbf
+鬀	to shave (U+9B00)	e9ac80
+鬁	favus (U+9B01)	e9ac81
+鬂	the hair on the temples (U+9B02)	e9ac82
+鬃	mane; neck bristles (U+9B03)	e9ac83
+鬄	U+9B04 (U+9B04)	e9ac84
+鬅	unkempt hair; loose; flowing hair; (Cant.) 鬅鬠, to be slovenly dressed (U+9B05)	e9ac85
+鬆	lax, loose; loosen, relax (U+9B06)	e9ac86
+鬇	U+9B07 (U+9B07)	e9ac87
+鬈	fine growth of hair curly hair (U+9B08)	e9ac88
+鬉	U+9B09 (U+9B09)	e9ac89
+鬊	U+9B0A (U+9B0A)	e9ac8a
+鬋	forelock, bangs (U+9B0B)	e9ac8b
+鬌	tufts of hair left on the heads of children after shaving (U+9B0C)	e9ac8c
+鬍	beard, mustache, whiskers (U+9B0D)	e9ac8d
+鬎	favus, scabies (U+9B0E)	e9ac8e
+鬏	a coiffure on top of the head (U+9B0F)	e9ac8f
+鬐	horse's mane; fins (U+9B10)	e9ac90
+鬑	long, flowing hair (U+9B11)	e9ac91
+鬒	black, glossy hair (U+9B12)	e9ac92
+鬓	hair on temples (U+9B13)	e9ac93
+鬔	U+9B14 (U+9B14)	e9ac94
+鬕	U+9B15 (U+9B15)	e9ac95
+鬖	wild hair (U+9B16)	e9ac96
+鬗	U+9B17 (U+9B17)	e9ac97
+鬘	beautiful hair (U+9B18)	e9ac98
+鬙	matted hair (U+9B19)	e9ac99
+鬚	beard, whiskers; whisker-like (U+9B1A)	e9ac9a
+鬛	variant of 鬣 U+9B23, a mane (U+9B1B)	e9ac9b
+鬜	to go bald (U+9B1C)	e9ac9c
+鬝	U+9B1D (U+9B1D)	e9ac9d
+鬞	U+9B1E (U+9B1E)	e9ac9e
+鬟	dress hair in coiled knot; maid (U+9B1F)	e9ac9f
+鬠	to make a top knot; (Cant.) 鬅鬠, to be slovenly dressed (U+9B20)	e9aca0
+鬡	U+9B21 (U+9B21)	e9aca1
+鬢	hair on temples (U+9B22)	e9aca2
+鬣	horse's mane; fin; human whiskers (U+9B23)	e9aca3
+鬤	U+9B24 (U+9B24)	e9aca4
+鬥	struggle, fight, compete, contend (U+9B25)	e9aca5
+鬦	struggle, fight, compete, contend (U+9B26)	e9aca6
+鬧	quarrel; dispute hotly (U+9B27)	e9aca7
+鬨	boisterous; clamor, noise (U+9B28)	e9aca8
+鬩	feud, fight, quarrel (U+9B29)	e9aca9
+鬪	struggle, fight, compete, contend (U+9B2A)	e9acaa
+鬫	U+9B2B (U+9B2B)	e9acab
+鬬	struggle (U+9B2C)	e9acac
+鬭	struggle, fight, compete, contend; (Cant.) woodwork, carpentry (U+9B2D)	e9acad
+鬮	lots (to be drawn); draw lots (U+9B2E)	e9acae
+鬯	sacrificial wine; unhindered (U+9B2F)	e9acaf
+鬰	luxuriant; dense, thick; moody (U+9B30)	e9acb0
+鬱	luxuriant; dense, thick; moody (U+9B31)	e9acb1
+鬲	type of caldron with three hollow legs; name of a state; KangXi radical number 193 (U+9B32)	e9acb2
+鬳	U+9B33 (U+9B33)	e9acb3
+鬴	pot (U+9B34)	e9acb4
+鬵	big iron pot, caldron (U+9B35)	e9acb5
+鬶	U+9B36 (U+9B36)	e9acb6
+鬷	pot (U+9B37)	e9acb7
+鬸	U+9B38 (U+9B38)	e9acb8
+鬹	U+9B39 (U+9B39)	e9acb9
+鬺	U+9B3A (U+9B3A)	e9acba
+鬻	sell; child, childish; nourish (U+9B3B)	e9acbb
+鬼	ghost; spirit of dead; devil (U+9B3C)	e9acbc
+鬽	U+9B3D (U+9B3D)	e9acbd
+鬾	U+9B3E (U+9B3E)	e9acbe
+鬿	U+9B3F (U+9B3F)	e9acbf
+魀	U+9B40 (U+9B40)	e9ad80
+魁	chief; leader; best; monstrous (U+9B41)	e9ad81
+魂	soul, spirit (U+9B42)	e9ad82
+魃	drought demon (U+9B43)	e9ad83
+魄	vigor; body; dark part of moon (U+9B44)	e9ad84
+魅	kind of forest demon, elf (U+9B45)	e9ad85
+魆	black (U+9B46)	e9ad86
+魇	nightmare, bad dreams (U+9B47)	e9ad87
+魈	mischevious, one footed spirit that dwells in the mountains (U+9B48)	e9ad88
+魉	a kind of monster (U+9B49)	e9ad89
+魊	a mythical creature said hurl san (U+9B4A)	e9ad8a
+魋	bear (U+9B4B)	e9ad8b
+魌	U+9B4C (U+9B4C)	e9ad8c
+魍	demons, mountain spirits (U+9B4D)	e9ad8d
+魎	a kind of monster (U+9B4E)	e9ad8e
+魏	kingdom of Wei; surname (U+9B4F)	e9ad8f
+魐	U+9B50 (U+9B50)	e9ad90
+魑	a mountain demon resembling a tiger (U+9B51)	e9ad91
+魒	U+9B52 (U+9B52)	e9ad92
+魓	U+9B53 (U+9B53)	e9ad93
+魔	demon, evil spirits; magic power (U+9B54)	e9ad94
+魕	U+9B55 (U+9B55)	e9ad95
+魖	U+9B56 (U+9B56)	e9ad96
+魗	U+9B57 (U+9B57)	e9ad97
+魘	nightmare, bad dreams (U+9B58)	e9ad98
+魙	U+9B59 (U+9B59)	e9ad99
+魚	fish; surname; KangXi radical 195 (U+9B5A)	e9ad9a
+魛	the mullet (U+9B5B)	e9ad9b
+魜	mermaid; manatee (U+9B5C)	e9ad9c
+魝	U+9B5D (U+9B5D)	e9ad9d
+魞	fish trap (U+9B5E)	e9ad9e
+魟	a ray, skate (U+9B5F)	e9ad9f
+魠	U+9B60 (U+9B60)	e9ada0
+魡	U+9B61 (U+9B61)	e9ada1
+魢	name of fish (U+9B62)	e9ada2
+魣	U+9B63 (U+9B63)	e9ada3
+魤	U+9B64 (U+9B64)	e9ada4
+魥	U+9B65 (U+9B65)	e9ada5
+魦	shark family, including some rays and skates (U+9B66)	e9ada6
+魧	U+9B67 (U+9B67)	e9ada7
+魨	blowfish, globefish, Spheroides vermicular (U+9B68)	e9ada8
+魩	U+9B69 (U+9B69)	e9ada9
+魪	U+9B6A (U+9B6A)	e9adaa
+魫	the young of fish (U+9B6B)	e9adab
+魬	sole or flounder (U+9B6C)	e9adac
+魭	U+9B6D (U+9B6D)	e9adad
+魮	U+9B6E (U+9B6E)	e9adae
+魯	foolish, stupid, rash; vulgar (U+9B6F)	e9adaf
+魰	the flying-fish (U+9B70)	e9adb0
+魱	U+9B71 (U+9B71)	e9adb1
+魲	fish name (U+9B72)	e9adb2
+魳	a barracuda (U+9B73)	e9adb3
+魴	bream (U+9B74)	e9adb4
+魵	shrimp (U+9B75)	e9adb5
+魶	U+9B76 (U+9B76)	e9adb6
+魷	cuttlefish (U+9B77)	e9adb7
+魸	U+9B78 (U+9B78)	e9adb8
+魹	U+9B79 (U+9B79)	e9adb9
+魺	U+9B7A (U+9B7A)	e9adba
+魻	U+9B7B (U+9B7B)	e9adbb
+魼	U+9B7C (U+9B7C)	e9adbc
+魽	U+9B7D (U+9B7D)	e9adbd
+魾	U+9B7E (U+9B7E)	e9adbe
+魿	U+9B7F (U+9B7F)	e9adbf
+鮀	snakefish (U+9B80)	e9ae80
+鮁	the bonito (U+9B81)	e9ae81
+鮂	U+9B82 (U+9B82)	e9ae82
+鮃	a flatfish, flounder (U+9B83)	e9ae83
+鮄	gurnard (U+9B84)	e9ae84
+鮅	U+9B85 (U+9B85)	e9ae85
+鮆	fish (U+9B86)	e9ae86
+鮇	U+9B87 (U+9B87)	e9ae87
+鮈	U+9B88 (U+9B88)	e9ae88
+鮉	bream (U+9B89)	e9ae89
+鮊	U+9B8A (U+9B8A)	e9ae8a
+鮋	U+9B8B (U+9B8B)	e9ae8b
+鮌	U+9B8C (U+9B8C)	e9ae8c
+鮍	U+9B8D (U+9B8D)	e9ae8d
+鮎	sheatfish, parasilurus asotus (U+9B8E)	e9ae8e
+鮏	U+9B8F (U+9B8F)	e9ae8f
+鮐	blowfish, globefish, tetraodon (U+9B90)	e9ae90
+鮑	abalone; dried fish; surname (U+9B91)	e9ae91
+鮒	carp, carassicus auratus (U+9B92)	e9ae92
+鮓	minced and salted fish; to preserve (U+9B93)	e9ae93
+鮔	U+9B94 (U+9B94)	e9ae94
+鮕	U+9B95 (U+9B95)	e9ae95
+鮖	U+9B96 (U+9B96)	e9ae96
+鮗	U+9B97 (U+9B97)	e9ae97
+鮘	U+9B98 (U+9B98)	e9ae98
+鮙	U+9B99 (U+9B99)	e9ae99
+鮚	clam; oyster (U+9B9A)	e9ae9a
+鮛	U+9B9B (U+9B9B)	e9ae9b
+鮜	U+9B9C (U+9B9C)	e9ae9c
+鮝	dried fish (U+9B9D)	e9ae9d
+鮞	roe (U+9B9E)	e9ae9e
+鮟	anglerfish (U+9B9F)	e9ae9f
+鮠	a kind of shad with a head like a sturgeon (U+9BA0)	e9aea0
+鮡	U+9BA1 (U+9BA1)	e9aea1
+鮢	U+9BA2 (U+9BA2)	e9aea2
+鮣	U+9BA3 (U+9BA3)	e9aea3
+鮤	U+9BA4 (U+9BA4)	e9aea4
+鮥	U+9BA5 (U+9BA5)	e9aea5
+鮦	snakefish (U+9BA6)	e9aea6
+鮧	the sheat fish (U+9BA7)	e9aea7
+鮨	seasoned rice mixed with fish or vegetables (U+9BA8)	e9aea8
+鮩	U+9BA9 (U+9BA9)	e9aea9
+鮪	kind of sturgeon, tuna (U+9BAA)	e9aeaa
+鮫	shark (U+9BAB)	e9aeab
+鮬	U+9BAC (U+9BAC)	e9aeac
+鮭	salmon; spheroides vermicularis (U+9BAD)	e9aead
+鮮	fresh, new, delicious; rare, few (U+9BAE)	e9aeae
+鮯	U+9BAF (U+9BAF)	e9aeaf
+鮰	a small sturgeon found in the Yangzi; catfish (U+9BB0)	e9aeb0
+鮱	U+9BB1 (U+9BB1)	e9aeb1
+鮲	U+9BB2 (U+9BB2)	e9aeb2
+鮳	U+9BB3 (U+9BB3)	e9aeb3
+鮴	U+9BB4 (U+9BB4)	e9aeb4
+鮵	U+9BB5 (U+9BB5)	e9aeb5
+鮶	U+9BB6 (U+9BB6)	e9aeb6
+鮷	U+9BB7 (U+9BB7)	e9aeb7
+鮸	Sciaena albiflora; otolithoidesmiiuy (U+9BB8)	e9aeb8
+鮹	an octopus, devilfish (U+9BB9)	e9aeb9
+鮺	U+9BBA (U+9BBA)	e9aeba
+鮻	dace; Canton dace (U+9BBB)	e9aebb
+鮼	U+9BBC (U+9BBC)	e9aebc
+鮽	U+9BBD (U+9BBD)	e9aebd
+鮾	U+9BBE (U+9BBE)	e9aebe
+鮿	dried fish (U+9BBF)	e9aebf
+鯀	giant fish; father of the emperor Yu (U+9BC0)	e9af80
+鯁	fish bones; honest, upright (U+9BC1)	e9af81
+鯂	U+9BC2 (U+9BC2)	e9af82
+鯃	U+9BC3 (U+9BC3)	e9af83
+鯄	U+9BC4 (U+9BC4)	e9af84
+鯅	U+9BC5 (U+9BC5)	e9af85
+鯆	the skate or ray (U+9BC6)	e9af86
+鯇	carp (U+9BC7)	e9af87
+鯈	fish (U+9BC8)	e9af88
+鯉	carp (U+9BC9)	e9af89
+鯊	shark (U+9BCA)	e9af8a
+鯋	shark (U+9BCB)	e9af8b
+鯌	U+9BCC (U+9BCC)	e9af8c
+鯍	U+9BCD (U+9BCD)	e9af8d
+鯎	U+9BCE (U+9BCE)	e9af8e
+鯏	dialect name for a (bad tasting) blood clam (U+9BCF)	e9af8f
+鯐	U+9BD0 (U+9BD0)	e9af90
+鯑	U+9BD1 (U+9BD1)	e9af91
+鯒	a flathead (fish) (U+9BD2)	e9af92
+鯓	U+9BD3 (U+9BD3)	e9af93
+鯔	mullet (U+9BD4)	e9af94
+鯕	coryphaena hippurus (U+9BD5)	e9af95
+鯖	mackerel (U+9BD6)	e9af96
+鯗	dried fish (U+9BD7)	e9af97
+鯘	U+9BD8 (U+9BD8)	e9af98
+鯙	Scomberomorus sinensis (U+9BD9)	e9af99
+鯚	U+9BDA (U+9BDA)	e9af9a
+鯛	pagrosomus major, porgy (U+9BDB)	e9af9b
+鯜	U+9BDC (U+9BDC)	e9af9c
+鯝	fish guts (U+9BDD)	e9af9d
+鯞	U+9BDE (U+9BDE)	e9af9e
+鯟	U+9BDF (U+9BDF)	e9af9f
+鯠	to confer; to bestow on an inferior; to reward (U+9BE0)	e9afa0
+鯡	herring (U+9BE1)	e9afa1
+鯢	Cryptobranchus japonicus; a salamander (U+9BE2)	e9afa2
+鯣	a cuttlefish (U+9BE3)	e9afa3
+鯤	spawn; roe; fy (U+9BE4)	e9afa4
+鯥	U+9BE5 (U+9BE5)	e9afa5
+鯦	U+9BE6 (U+9BE6)	e9afa6
+鯧	the silvery pomfret, Stromateoides argenteus (U+9BE7)	e9afa7
+鯨	whale (U+9BE8)	e9afa8
+鯩	U+9BE9 (U+9BE9)	e9afa9
+鯪	carp (U+9BEA)	e9afaa
+鯫	small fish; small; minnow (U+9BEB)	e9afab
+鯬	U+9BEC (U+9BEC)	e9afac
+鯭	(Cant.) 泥鯭, a kind of fish that lives in turbid water (U+9BED)	e9afad
+鯮	U+9BEE (U+9BEE)	e9afae
+鯯	U+9BEF (U+9BEF)	e9afaf
+鯰	sheat (U+9BF0)	e9afb0
+鯱	mythical dolphin-like fish (U+9BF1)	e9afb1
+鯲	U+9BF2 (U+9BF2)	e9afb2
+鯳	U+9BF3 (U+9BF3)	e9afb3
+鯴	cat fish (U+9BF4)	e9afb4
+鯵	U+9BF5 (U+9BF5)	e9afb5
+鯶	U+9BF6 (U+9BF6)	e9afb6
+鯷	anchovy (U+9BF7)	e9afb7
+鯸	blowfish (U+9BF8)	e9afb8
+鯹	U+9BF9 (U+9BF9)	e9afb9
+鯺	blowfish (U+9BFA)	e9afba
+鯻	U+9BFB (U+9BFB)	e9afbb
+鯼	U+9BFC (U+9BFC)	e9afbc
+鯽	Carassius auratus, crucian carp (U+9BFD)	e9afbd
+鯾	U+9BFE (U+9BFE)	e9afbe
+鯿	bream (U+9BFF)	e9afbf
+鰀	U+9C00 (U+9C00)	e9b080
+鰁	name of fish (U+9C01)	e9b081
+鰂	cuttlefish (U+9C02)	e9b082
+鰃	name of fish (U+9C03)	e9b083
+鰄	U+9C04 (U+9C04)	e9b084
+鰅	U+9C05 (U+9C05)	e9b085
+鰆	Scomberomorus sinensis (U+9C06)	e9b086
+鰇	U+9C07 (U+9C07)	e9b087
+鰈	flatfish; flounder; sole (U+9C08)	e9b088
+鰉	sturgeon (U+9C09)	e9b089
+鰊	a herring (U+9C0A)	e9b08a
+鰋	sheat (U+9C0B)	e9b08b
+鰌	loach; squid; lizard; eel (U+9C0C)	e9b08c
+鰍	loach (U+9C0D)	e9b08d
+鰎	U+9C0E (U+9C0E)	e9b08e
+鰏	U+9C0F (U+9C0F)	e9b08f
+鰐	alligator (U+9C10)	e9b090
+鰑	U+9C11 (U+9C11)	e9b091
+鰒	abalone (U+9C12)	e9b092
+鰓	fish gills (U+9C13)	e9b093
+鰔	U+9C14 (U+9C14)	e9b094
+鰕	shrimp, prawn (U+9C15)	e9b095
+鰖	U+9C16 (U+9C16)	e9b096
+鰗	U+9C17 (U+9C17)	e9b097
+鰘	U+9C18 (U+9C18)	e9b098
+鰙	U+9C19 (U+9C19)	e9b099
+鰚	U+9C1A (U+9C1A)	e9b09a
+鰛	sardine (U+9C1B)	e9b09b
+鰜	big-mouthed flounder (U+9C1C)	e9b09c
+鰝	U+9C1D (U+9C1D)	e9b09d
+鰞	squid (U+9C1E)	e9b09e
+鰟	U+9C1F (U+9C1F)	e9b09f
+鰠	carp (U+9C20)	e9b0a0
+鰡	U+9C21 (U+9C21)	e9b0a1
+鰢	U+9C22 (U+9C22)	e9b0a2
+鰣	reeves' shad; hilsa herring (U+9C23)	e9b0a3
+鰤	a yellowtail (fish) (U+9C24)	e9b0a4
+鰥	huge fish; widower; bachelor (U+9C25)	e9b0a5
+鰦	U+9C26 (U+9C26)	e9b0a6
+鰧	U+9C27 (U+9C27)	e9b0a7
+鰨	sole (U+9C28)	e9b0a8
+鰩	the nautilus; the ray (U+9C29)	e9b0a9
+鰪	U+9C2A (U+9C2A)	e9b0aa
+鰫	U+9C2B (U+9C2B)	e9b0ab
+鰬	U+9C2C (U+9C2C)	e9b0ac
+鰭	fin (U+9C2D)	e9b0ad
+鰮	sardine (U+9C2E)	e9b0ae
+鰯	a sardine (U+9C2F)	e9b0af
+鰰	U+9C30 (U+9C30)	e9b0b0
+鰱	silver carp, hypophthalmiathys (U+9C31)	e9b0b1
+鰲	huge sea turtle (U+9C32)	e9b0b2
+鰳	Chinese herring; shad (U+9C33)	e9b0b3
+鰴	U+9C34 (U+9C34)	e9b0b4
+鰵	codfish (U+9C35)	e9b0b5
+鰶	U+9C36 (U+9C36)	e9b0b6
+鰷	minnow (U+9C37)	e9b0b7
+鰸	U+9C38 (U+9C38)	e9b0b8
+鰹	skipjack, bonito (U+9C39)	e9b0b9
+鰺	a horse mackerel (U+9C3A)	e9b0ba
+鰻	eel (U+9C3B)	e9b0bb
+鰼	the weather or dojo loach, Misgurnus anguillicaudatus (U+9C3C)	e9b0bc
+鰽	herring (U+9C3D)	e9b0bd
+鰾	swimming bladder of fish (U+9C3E)	e9b0be
+鰿	U+9C3F (U+9C3F)	e9b0bf
+鱀	U+9C40 (U+9C40)	e9b180
+鱁	U+9C41 (U+9C41)	e9b181
+鱂	name of fish (U+9C42)	e9b182
+鱃	U+9C43 (U+9C43)	e9b183
+鱄	anchovy (U+9C44)	e9b184
+鱅	a kind of tench (U+9C45)	e9b185
+鱆	an octopus, devilfish (U+9C46)	e9b186
+鱇	anglerfish (U+9C47)	e9b187
+鱈	codfish (U+9C48)	e9b188
+鱉	turtle (U+9C49)	e9b189
+鱊	U+9C4A (U+9C4A)	e9b18a
+鱋	U+9C4B (U+9C4B)	e9b18b
+鱌	U+9C4C (U+9C4C)	e9b18c
+鱍	U+9C4D (U+9C4D)	e9b18d
+鱎	U+9C4E (U+9C4E)	e9b18e
+鱏	a ray, skate (U+9C4F)	e9b18f
+鱐	dried fish (U+9C50)	e9b190
+鱑	the sturgeon (U+9C51)	e9b191
+鱒	barbel (U+9C52)	e9b192
+鱓	eel (U+9C53)	e9b193
+鱔	eel (U+9C54)	e9b194
+鱕	U+9C55 (U+9C55)	e9b195
+鱖	mandarin fish (U+9C56)	e9b196
+鱗	fish scales (U+9C57)	e9b197
+鱘	sturgeon (U+9C58)	e9b198
+鱙	U+9C59 (U+9C59)	e9b199
+鱚	U+9C5A (U+9C5A)	e9b19a
+鱛	fish name (U+9C5B)	e9b19b
+鱜	U+9C5C (U+9C5C)	e9b19c
+鱝	fish (U+9C5D)	e9b19d
+鱞	U+9C5E (U+9C5E)	e9b19e
+鱟	king crab (U+9C5F)	e9b19f
+鱠	minced fish; hash (U+9C60)	e9b1a0
+鱡	the cuttle-fish (U+9C61)	e9b1a1
+鱢	U+9C62 (U+9C62)	e9b1a2
+鱣	sturgeon (U+9C63)	e9b1a3
+鱤	U+9C64 (U+9C64)	e9b1a4
+鱥	U+9C65 (U+9C65)	e9b1a5
+鱦	U+9C66 (U+9C66)	e9b1a6
+鱧	snakehead (U+9C67)	e9b1a7
+鱨	codfish (U+9C68)	e9b1a8
+鱩	U+9C69 (U+9C69)	e9b1a9
+鱪	U+9C6A (U+9C6A)	e9b1aa
+鱫	U+9C6B (U+9C6B)	e9b1ab
+鱬	U+9C6C (U+9C6C)	e9b1ac
+鱭	anchovy (U+9C6D)	e9b1ad
+鱮	silver carp (Hypophthalmichthys molitrix); bream; (Cant.) 大嶼山 daai6ju4saan1 Lantau Island (U+9C6E)	e9b1ae
+鱯	U+9C6F (U+9C6F)	e9b1af
+鱰	U+9C70 (U+9C70)	e9b1b0
+鱱	U+9C71 (U+9C71)	e9b1b1
+鱲	(Cant.) 赤鱲角, Hong Kong place name (U+9C72)	e9b1b2
+鱳	U+9C73 (U+9C73)	e9b1b3
+鱴	U+9C74 (U+9C74)	e9b1b4
+鱵	U+9C75 (U+9C75)	e9b1b5
+鱶	a shark (U+9C76)	e9b1b6
+鱷	crocodile, alligator (U+9C77)	e9b1b7
+鱸	sea perch, sea bass (U+9C78)	e9b1b8
+鱹	U+9C79 (U+9C79)	e9b1b9
+鱺	eel (U+9C7A)	e9b1ba
+鱻	fresh, new, delicious; rare, few (U+9C7B)	e9b1bb
+鱼	fish; surname; KangXi radical 195 (U+9C7C)	e9b1bc
+鱽	the mullet (U+9C7D)	e9b1bd
+鱾	name of fish (U+9C7E)	e9b1be
+鱿	cuttlefish (U+9C7F)	e9b1bf
+鲀	blowfish, globefish, Spheroides vermicular (U+9C80)	e9b280
+鲁	foolish, stupid, rash; vulgar (U+9C81)	e9b281
+鲂	bream (U+9C82)	e9b282
+鲃	a kind of fish; a bonito, (same as 鮁) shark (U+9C83)	e9b283
+鲄	U+9C84 (U+9C84)	e9b284
+鲅	fish name (U+9C85)	e9b285
+鲆	sole (U+9C86)	e9b286
+鲇	sheatfish, parasilurus asotus (U+9C87)	e9b287
+鲈	sea perch, sea bass (U+9C88)	e9b288
+鲉	U+9C89 (U+9C89)	e9b289
+鲊	minced and salted fish; to preserve (U+9C8A)	e9b28a
+鲋	carp, carassicus auratus (U+9C8B)	e9b28b
+鲌	U+9C8C (U+9C8C)	e9b28c
+鲍	abalone; dried fish; surname (U+9C8D)	e9b28d
+鲎	king crab (U+9C8E)	e9b28e
+鲏	U+9C8F (U+9C8F)	e9b28f
+鲐	globefish, tetraodon (U+9C90)	e9b290
+鲑	salmon; spheroides vermicularis (U+9C91)	e9b291
+鲒	clam; oyster (U+9C92)	e9b292
+鲓	U+9C93 (U+9C93)	e9b293
+鲔	kind of sturgeon, tuna (U+9C94)	e9b294
+鲕	roe (U+9C95)	e9b295
+鲖	snakefish (U+9C96)	e9b296
+鲗	cuttlefish (U+9C97)	e9b297
+鲘	U+9C98 (U+9C98)	e9b298
+鲙	minced fish; hash (U+9C99)	e9b299
+鲚	anchovy (U+9C9A)	e9b29a
+鲛	shark (U+9C9B)	e9b29b
+鲜	fresh; delicious; attractive (U+9C9C)	e9b29c
+鲝	U+9C9D (U+9C9D)	e9b29d
+鲞	dried fish (U+9C9E)	e9b29e
+鲟	sturgeon (U+9C9F)	e9b29f
+鲠	fish bones; honest, upright (U+9CA0)	e9b2a0
+鲡	eel (U+9CA1)	e9b2a1
+鲢	silver carp, hypophthalmiathys (U+9CA2)	e9b2a2
+鲣	skipjack, bonito (U+9CA3)	e9b2a3
+鲤	carp (U+9CA4)	e9b2a4
+鲥	reeves' shad; hilsa herring (U+9CA5)	e9b2a5
+鲦	minnow (U+9CA6)	e9b2a6
+鲧	giant fish; father of emperor (U+9CA7)	e9b2a7
+鲨	shark (U+9CA8)	e9b2a8
+鲩	carp (U+9CA9)	e9b2a9
+鲪	U+9CAA (U+9CAA)	e9b2aa
+鲫	Carassius auratus, crucian carp (U+9CAB)	e9b2ab
+鲬	a flathead (fish) (U+9CAC)	e9b2ac
+鲭	mackerel (U+9CAD)	e9b2ad
+鲮	carp (U+9CAE)	e9b2ae
+鲯	coryphaena hippurus (U+9CAF)	e9b2af
+鲰	small fish; small; minnow (U+9CB0)	e9b2b0
+鲱	herring (U+9CB1)	e9b2b1
+鲲	spawn; roe; fy (U+9CB2)	e9b2b2
+鲳	the silvery pomfret, Stromateoides argenteus (U+9CB3)	e9b2b3
+鲴	fish guts (U+9CB4)	e9b2b4
+鲵	Cryptobranchus japonicus; a salamander (U+9CB5)	e9b2b5
+鲶	sheat (U+9CB6)	e9b2b6
+鲷	pagrosomus major, porgy (U+9CB7)	e9b2b7
+鲸	whale (U+9CB8)	e9b2b8
+鲹	a horse mackerel (U+9CB9)	e9b2b9
+鲺	cat fish (U+9CBA)	e9b2ba
+鲻	mullet (U+9CBB)	e9b2bb
+鲼	fish (U+9CBC)	e9b2bc
+鲽	flatfish; flounder; sole (U+9CBD)	e9b2bd
+鲾	U+9CBE (U+9CBE)	e9b2be
+鲿	codfish (U+9CBF)	e9b2bf
+鳀	anchovy (U+9CC0)	e9b380
+鳁	sardine (U+9CC1)	e9b381
+鳂	name of fish (U+9CC2)	e9b382
+鳃	fish gills (U+9CC3)	e9b383
+鳄	alligator (U+9CC4)	e9b384
+鳅	loach (U+9CC5)	e9b385
+鳆	abalone (U+9CC6)	e9b386
+鳇	sturgeon (U+9CC7)	e9b387
+鳈	name of fish (U+9CC8)	e9b388
+鳉	name of fish (U+9CC9)	e9b389
+鳊	bream (U+9CCA)	e9b38a
+鳋	carp (U+9CCB)	e9b38b
+鳌	huge sea turtle (U+9CCC)	e9b38c
+鳍	fin (U+9CCD)	e9b38d
+鳎	sole (U+9CCE)	e9b38e
+鳏	huge fish; widower; bachelor (U+9CCF)	e9b38f
+鳐	the nautilus; the ray (U+9CD0)	e9b390
+鳑	U+9CD1 (U+9CD1)	e9b391
+鳒	big-mouthed flounder (U+9CD2)	e9b392
+鳓	Chinese herring; shad (U+9CD3)	e9b393
+鳔	swimming bladder of fish (U+9CD4)	e9b394
+鳕	codfish (U+9CD5)	e9b395
+鳖	turtle (U+9CD6)	e9b396
+鳗	eel (U+9CD7)	e9b397
+鳘	codfish (U+9CD8)	e9b398
+鳙	bighead (U+9CD9)	e9b399
+鳚	general term of a kind of fish, a snake-like fish (U+9CDA)	e9b39a
+鳛	the weather or dojo loach, Misgurnus anguillicaudatus (U+9CDB)	e9b39b
+鳜	mandarin fish (U+9CDC)	e9b39c
+鳝	eel (U+9CDD)	e9b39d
+鳞	fish scales (U+9CDE)	e9b39e
+鳟	barbel (U+9CDF)	e9b39f
+鳠	U+9CE0 (U+9CE0)	e9b3a0
+鳡	U+9CE1 (U+9CE1)	e9b3a1
+鳢	snakehead (U+9CE2)	e9b3a2
+鳣	sturgeon (U+9CE3)	e9b3a3
+鳤	U+9CE4 (U+9CE4)	e9b3a4
+鳥	bird; KangXi radical 196 (U+9CE5)	e9b3a5
+鳦	swallow (U+9CE6)	e9b3a6
+鳧	wild duck, teal; swim (U+9CE7)	e9b3a7
+鳨	U+9CE8 (U+9CE8)	e9b3a8
+鳩	pigeon, dove; collect, assemble (U+9CE9)	e9b3a9
+鳪	U+9CEA (U+9CEA)	e9b3aa
+鳫	wild goose (U+9CEB)	e9b3ab
+鳬	wild duck, teal; swim (U+9CEC)	e9b3ac
+鳭	U+9CED (U+9CED)	e9b3ad
+鳮	chickens; domestic fowl (U+9CEE)	e9b3ae
+鳯	male phoenix; symbol of joy (U+9CEF)	e9b3af
+鳰	U+9CF0 (U+9CF0)	e9b3b0
+鳱	U+9CF1 (U+9CF1)	e9b3b1
+鳲	turtledove, cuckoo (U+9CF2)	e9b3b2
+鳳	male phoenix; symbol of joy (U+9CF3)	e9b3b3
+鳴	cry of bird or animal; make sound (U+9CF4)	e9b3b4
+鳵	U+9CF5 (U+9CF5)	e9b3b5
+鳶	kite; Milvus species (various) (U+9CF6)	e9b3b6
+鳷	jay (Garrulus lidthi) (U+9CF7)	e9b3b7
+鳸	U+9CF8 (U+9CF8)	e9b3b8
+鳹	U+9CF9 (U+9CF9)	e9b3b9
+鳺	U+9CFA (U+9CFA)	e9b3ba
+鳻	the wild pigeon (U+9CFB)	e9b3bb
+鳼	U+9CFC (U+9CFC)	e9b3bc
+鳽	U+9CFD (U+9CFD)	e9b3bd
+鳾	general term for a group of small birds (U+9CFE)	e9b3be
+鳿	U+9CFF (U+9CFF)	e9b3bf
+鴀	U+9D00 (U+9D00)	e9b480
+鴁	a legendary bird (U+9D01)	e9b481
+鴂	the tailor-bird; the working bird (U+9D02)	e9b482
+鴃	shrike; butcherbird (U+9D03)	e9b483
+鴄	duck (U+9D04)	e9b484
+鴅	U+9D05 (U+9D05)	e9b485
+鴆	a bird resembling the secretary falcon (U+9D06)	e9b486
+鴇	bustard; procuress; Otis species (various) (U+9D07)	e9b487
+鴈	wild goose (U+9D08)	e9b488
+鴉	crow, raven; Corvus species (various) (U+9D09)	e9b489
+鴊	U+9D0A (U+9D0A)	e9b48a
+鴋	U+9D0B (U+9D0B)	e9b48b
+鴌	U+9D0C (U+9D0C)	e9b48c
+鴍	U+9D0D (U+9D0D)	e9b48d
+鴎	seagull, tern (U+9D0E)	e9b48e
+鴏	U+9D0F (U+9D0F)	e9b48f
+鴐	U+9D10 (U+9D10)	e9b490
+鴑	U+9D11 (U+9D11)	e9b491
+鴒	species of lark; wagtail; Motacilla species (various) (U+9D12)	e9b492
+鴓	U+9D13 (U+9D13)	e9b493
+鴔	U+9D14 (U+9D14)	e9b494
+鴕	ostrich; Struthio camelus (U+9D15)	e9b495
+鴖	U+9D16 (U+9D16)	e9b496
+鴗	kingfisher (U+9D17)	e9b497
+鴘	U+9D18 (U+9D18)	e9b498
+鴙	U+9D19 (U+9D19)	e9b499
+鴚	U+9D1A (U+9D1A)	e9b49a
+鴛	male mandarin duck (Aix galericulata) (U+9D1B)	e9b49b
+鴜	U+9D1C (U+9D1C)	e9b49c
+鴝	mynah; Erithacus species (various) (U+9D1D)	e9b49d
+鴞	owl (U+9D1E)	e9b49e
+鴟	kite, horned owl; wine cups (U+9D1F)	e9b49f
+鴠	a kind of nightingale (U+9D20)	e9b4a0
+鴡	U+9D21 (U+9D21)	e9b4a1
+鴢	U+9D22 (U+9D22)	e9b4a2
+鴣	species of Taiwan pigeon (U+9D23)	e9b4a3
+鴤	U+9D24 (U+9D24)	e9b4a4
+鴥	swoop (U+9D25)	e9b4a5
+鴦	female mandarin duck (Aix galericulata) (U+9D26)	e9b4a6
+鴧	U+9D27 (U+9D27)	e9b4a7
+鴨	duck; Anas species (various) (U+9D28)	e9b4a8
+鴩	U+9D29 (U+9D29)	e9b4a9
+鴪	swoop (U+9D2A)	e9b4aa
+鴫	a snipe (U+9D2B)	e9b4ab
+鴬	oriole, green finch (U+9D2C)	e9b4ac
+鴭	U+9D2D (U+9D2D)	e9b4ad
+鴮	U+9D2E (U+9D2E)	e9b4ae
+鴯	swallow (U+9D2F)	e9b4af
+鴰	the crow (U+9D30)	e9b4b0
+鴱	U+9D31 (U+9D31)	e9b4b1
+鴲	U+9D32 (U+9D32)	e9b4b2
+鴳	quail (U+9D33)	e9b4b3
+鴴	U+9D34 (U+9D34)	e9b4b4
+鴵	U+9D35 (U+9D35)	e9b4b5
+鴶	U+9D36 (U+9D36)	e9b4b6
+鴷	a woodpecker (U+9D37)	e9b4b7
+鴸	U+9D38 (U+9D38)	e9b4b8
+鴹	U+9D39 (U+9D39)	e9b4b9
+鴺	the pelican (U+9D3A)	e9b4ba
+鴻	species of wild swan; vast (U+9D3B)	e9b4bb
+鴼	U+9D3C (U+9D3C)	e9b4bc
+鴽	a species of bird resembling quail (U+9D3D)	e9b4bd
+鴾	a crested ibis (U+9D3E)	e9b4be
+鴿	pigeon, dove; Columba species (various) (U+9D3F)	e9b4bf
+鵀	hoopoe (U+9D40)	e9b580
+鵁	the fishing cormorant (U+9D41)	e9b581
+鵂	horned owl, scops chinensis; bird of ill omen (U+9D42)	e9b582
+鵃	U+9D43 (U+9D43)	e9b583
+鵄	variant of 鴟 U+9D1F, kite, horned owl; wine cups (U+9D44)	e9b584
+鵅	U+9D45 (U+9D45)	e9b585
+鵆	U+9D46 (U+9D46)	e9b586
+鵇	U+9D47 (U+9D47)	e9b587
+鵈	U+9D48 (U+9D48)	e9b588
+鵉	U+9D49 (U+9D49)	e9b589
+鵊	U+9D4A (U+9D4A)	e9b58a
+鵋	U+9D4B (U+9D4B)	e9b58b
+鵌	U+9D4C (U+9D4C)	e9b58c
+鵍	U+9D4D (U+9D4D)	e9b58d
+鵎	U+9D4E (U+9D4E)	e9b58e
+鵏	U+9D4F (U+9D4F)	e9b58f
+鵐	U+9D50 (U+9D50)	e9b590
+鵑	cuckoo (U+9D51)	e9b591
+鵒	mynah bird; Acridotheres tristis (U+9D52)	e9b592
+鵓	species of pigeon (U+9D53)	e9b593
+鵔	U+9D54 (U+9D54)	e9b594
+鵕	U+9D55 (U+9D55)	e9b595
+鵖	U+9D56 (U+9D56)	e9b596
+鵗	U+9D57 (U+9D57)	e9b597
+鵘	U+9D58 (U+9D58)	e9b598
+鵙	shrike; Lanius species (various) (U+9D59)	e9b599
+鵚	U+9D5A (U+9D5A)	e9b59a
+鵛	U+9D5B (U+9D5B)	e9b59b
+鵜	pelican (U+9D5C)	e9b59c
+鵝	goose (U+9D5D)	e9b59d
+鵞	goose (U+9D5E)	e9b59e
+鵟	U+9D5F (U+9D5F)	e9b59f
+鵠	target (U+9D60)	e9b5a0
+鵡	species of parrot (U+9D61)	e9b5a1
+鵢	U+9D62 (U+9D62)	e9b5a2
+鵣	U+9D63 (U+9D63)	e9b5a3
+鵤	U+9D64 (U+9D64)	e9b5a4
+鵥	U+9D65 (U+9D65)	e9b5a5
+鵦	U+9D66 (U+9D66)	e9b5a6
+鵧	U+9D67 (U+9D67)	e9b5a7
+鵨	U+9D68 (U+9D68)	e9b5a8
+鵩	owl-like bird; buzzard; Otus scops (U+9D69)	e9b5a9
+鵪	quail; Coturnix coturnix (U+9D6A)	e9b5aa
+鵫	pheasant (U+9D6B)	e9b5ab
+鵬	fabulous bird of enormous size (U+9D6C)	e9b5ac
+鵭	a small bird with black neck (U+9D6D)	e9b5ad
+鵮	to peck, as birds (U+9D6E)	e9b5ae
+鵯	Pycnonotus species (various) (U+9D6F)	e9b5af
+鵰	eagle, vulture; Aquila species (various) (U+9D70)	e9b5b0
+鵱	U+9D71 (U+9D71)	e9b5b1
+鵲	magpie; Pica species (various) (U+9D72)	e9b5b2
+鵳	U+9D73 (U+9D73)	e9b5b3
+鵴	U+9D74 (U+9D74)	e9b5b4
+鵵	U+9D75 (U+9D75)	e9b5b5
+鵶	U+9D76 (U+9D76)	e9b5b6
+鵷	co-worker (U+9D77)	e9b5b7
+鵸	U+9D78 (U+9D78)	e9b5b8
+鵹	U+9D79 (U+9D79)	e9b5b9
+鵺	U+9D7A (U+9D7A)	e9b5ba
+鵻	pigeon; turtle-dove; a hawk (U+9D7B)	e9b5bb
+鵼	a fabulous night-bird, grotesque monster (U+9D7C)	e9b5bc
+鵽	U+9D7D (U+9D7D)	e9b5bd
+鵾	a bird resembling the crane (U+9D7E)	e9b5be
+鵿	U+9D7F (U+9D7F)	e9b5bf
+鶀	U+9D80 (U+9D80)	e9b680
+鶁	U+9D81 (U+9D81)	e9b681
+鶂	hawk; Ardea cinerea (U+9D82)	e9b682
+鶃	hawk; Ardea cinerea (U+9D83)	e9b683
+鶄	a kind of water bird (U+9D84)	e9b684
+鶅	U+9D85 (U+9D85)	e9b685
+鶆	U+9D86 (U+9D86)	e9b686
+鶇	thrush; Turdus species (various) (U+9D87)	e9b687
+鶈	U+9D88 (U+9D88)	e9b688
+鶉	quail; Turnix species (various) (U+9D89)	e9b689
+鶊	oriole (U+9D8A)	e9b68a
+鶋	a sea-bird with a white breast (U+9D8B)	e9b68b
+鶌	U+9D8C (U+9D8C)	e9b68c
+鶍	U+9D8D (U+9D8D)	e9b68d
+鶎	U+9D8E (U+9D8E)	e9b68e
+鶏	chicken (U+9D8F)	e9b68f
+鶐	U+9D90 (U+9D90)	e9b690
+鶑	U+9D91 (U+9D91)	e9b691
+鶒	a duck-like bird (U+9D92)	e9b692
+鶓	emu (U+9D93)	e9b693
+鶔	U+9D94 (U+9D94)	e9b694
+鶕	U+9D95 (U+9D95)	e9b695
+鶖	large waterfowl with naked head; Garrulus glandarius (U+9D96)	e9b696
+鶗	a kind of hawk; cuckoo (U+9D97)	e9b697
+鶘	pelican (U+9D98)	e9b698
+鶙	U+9D99 (U+9D99)	e9b699
+鶚	osprey, fishhawk; Pandion haliaetus (U+9D9A)	e9b69a
+鶛	U+9D9B (U+9D9B)	e9b69b
+鶜	U+9D9C (U+9D9C)	e9b69c
+鶝	U+9D9D (U+9D9D)	e9b69d
+鶞	U+9D9E (U+9D9E)	e9b69e
+鶟	U+9D9F (U+9D9F)	e9b69f
+鶠	U+9DA0 (U+9DA0)	e9b6a0
+鶡	crossbill, species of nightingale (U+9DA1)	e9b6a1
+鶢	a bird which frequents the sea-shore (U+9DA2)	e9b6a2
+鶣	U+9DA3 (U+9DA3)	e9b6a3
+鶤	U+9DA4 (U+9DA4)	e9b6a4
+鶥	U+9DA5 (U+9DA5)	e9b6a5
+鶦	pelican (U+9DA6)	e9b6a6
+鶧	U+9DA7 (U+9DA7)	e9b6a7
+鶨	U+9DA8 (U+9DA8)	e9b6a8
+鶩	duck (U+9DA9)	e9b6a9
+鶪	a shrike (U+9DAA)	e9b6aa
+鶫	thrush; Turdus naumanni (U+9DAB)	e9b6ab
+鶬	oriole (U+9DAC)	e9b6ac
+鶭	U+9DAD (U+9DAD)	e9b6ad
+鶮	U+9DAE (U+9DAE)	e9b6ae
+鶯	oriole, green finch; Sylvia species (various) (U+9DAF)	e9b6af
+鶰	U+9DB0 (U+9DB0)	e9b6b0
+鶱	soar (U+9DB1)	e9b6b1
+鶲	U+9DB2 (U+9DB2)	e9b6b2
+鶳	U+9DB3 (U+9DB3)	e9b6b3
+鶴	crane; Grus species (various) (U+9DB4)	e9b6b4
+鶵	chick, fledging; infant, toddler (U+9DB5)	e9b6b5
+鶶	U+9DB6 (U+9DB6)	e9b6b6
+鶷	U+9DB7 (U+9DB7)	e9b6b7
+鶸	light yellowish-green (U+9DB8)	e9b6b8
+鶹	the owl (U+9DB9)	e9b6b9
+鶺	wagtail (U+9DBA)	e9b6ba
+鶻	a kind of pigeon; falcon (U+9DBB)	e9b6bb
+鶼	fabulous mythical bird (U+9DBC)	e9b6bc
+鶽	a hawk (U+9DBD)	e9b6bd
+鶾	U+9DBE (U+9DBE)	e9b6be
+鶿	cormorant (U+9DBF)	e9b6bf
+鷀	the fishing cormorant (U+9DC0)	e9b780
+鷁	fishhawk; bow or prow (U+9DC1)	e9b781
+鷂	sparrow hawk; Circus species (various) (U+9DC2)	e9b782
+鷃	quail (U+9DC3)	e9b783
+鷄	chicken (U+9DC4)	e9b784
+鷅	U+9DC5 (U+9DC5)	e9b785
+鷆	bird name (U+9DC6)	e9b786
+鷇	chicks, fledglings (U+9DC7)	e9b787
+鷈	a kind of bird (U+9DC8)	e9b788
+鷉	U+9DC9 (U+9DC9)	e9b789
+鷊	pheasant (U+9DCA)	e9b78a
+鷋	U+9DCB (U+9DCB)	e9b78b
+鷌	U+9DCC (U+9DCC)	e9b78c
+鷍	U+9DCD (U+9DCD)	e9b78d
+鷎	U+9DCE (U+9DCE)	e9b78e
+鷏	Caprimulgus indicus (U+9DCF)	e9b78f
+鷐	U+9DD0 (U+9DD0)	e9b790
+鷑	U+9DD1 (U+9DD1)	e9b791
+鷒	U+9DD2 (U+9DD2)	e9b792
+鷓	partridge (U+9DD3)	e9b793
+鷔	a bird of ill-omen to the state (U+9DD4)	e9b794
+鷕	call (U+9DD5)	e9b795
+鷖	seagull (U+9DD6)	e9b796
+鷗	seagull, tern; Larus species (various) (U+9DD7)	e9b797
+鷘	U+9DD8 (U+9DD8)	e9b798
+鷙	hawk, vulture (U+9DD9)	e9b799
+鷚	Anthus species (various) (U+9DDA)	e9b79a
+鷛	U+9DDB (U+9DDB)	e9b79b
+鷜	U+9DDC (U+9DDC)	e9b79c
+鷝	U+9DDD (U+9DDD)	e9b79d
+鷞	turquoise kingfisher (U+9DDE)	e9b79e
+鷟	phoenix (U+9DDF)	e9b79f
+鷠	U+9DE0 (U+9DE0)	e9b7a0
+鷡	U+9DE1 (U+9DE1)	e9b7a1
+鷢	U+9DE2 (U+9DE2)	e9b7a2
+鷣	U+9DE3 (U+9DE3)	e9b7a3
+鷤	U+9DE4 (U+9DE4)	e9b7a4
+鷥	egret; Egretta garzetta (U+9DE5)	e9b7a5
+鷦	wren (U+9DE6)	e9b7a6
+鷧	cormorant (U+9DE7)	e9b7a7
+鷨	U+9DE8 (U+9DE8)	e9b7a8
+鷩	pheasant (U+9DE9)	e9b7a9
+鷪	U+9DEA (U+9DEA)	e9b7aa
+鷫	turquoise kingfisher (U+9DEB)	e9b7ab
+鷬	U+9DEC (U+9DEC)	e9b7ac
+鷭	U+9DED (U+9DED)	e9b7ad
+鷮	U+9DEE (U+9DEE)	e9b7ae
+鷯	wren (U+9DEF)	e9b7af
+鷰	U+9DF0 (U+9DF0)	e9b7b0
+鷱	U+9DF1 (U+9DF1)	e9b7b1
+鷲	condor, vulture (U+9DF2)	e9b7b2
+鷳	the silver pheasant, Lophura nycthemera (U+9DF3)	e9b7b3
+鷴	silver pheasant badge worn by civil officials of the 5th grade; Lophura species (various) (U+9DF4)	e9b7b4
+鷵	U+9DF5 (U+9DF5)	e9b7b5
+鷶	U+9DF6 (U+9DF6)	e9b7b6
+鷷	U+9DF7 (U+9DF7)	e9b7b7
+鷸	snipe, kingfisher; Tringa species (various) (U+9DF8)	e9b7b8
+鷹	eagle, falcon; Accipiter species (various) (U+9DF9)	e9b7b9
+鷺	heron, egret; Ardea species (various) (U+9DFA)	e9b7ba
+鷻	U+9DFB (U+9DFB)	e9b7bb
+鷼	U+9DFC (U+9DFC)	e9b7bc
+鷽	oriental bullfinch, weaver bird; Pyrrhula species (various) (U+9DFD)	e9b7bd
+鷾	swallow (U+9DFE)	e9b7be
+鷿	a kind of bird resembling the duck; much smaller (U+9DFF)	e9b7bf
+鸀	U+9E00 (U+9E00)	e9b880
+鸁	U+9E01 (U+9E01)	e9b881
+鸂	Mandarin duck, Aix galericulata (U+9E02)	e9b882
+鸃	U+9E03 (U+9E03)	e9b883
+鸄	U+9E04 (U+9E04)	e9b884
+鸅	U+9E05 (U+9E05)	e9b885
+鸆	U+9E06 (U+9E06)	e9b886
+鸇	hawk; Butastur indicus (U+9E07)	e9b887
+鸈	U+9E08 (U+9E08)	e9b888
+鸉	U+9E09 (U+9E09)	e9b889
+鸊	Podiceps ruficolus (a kind of duck) (U+9E0A)	e9b88a
+鸋	(archaic) a wren (U+9E0B)	e9b88b
+鸌	U+9E0C (U+9E0C)	e9b88c
+鸍	U+9E0D (U+9E0D)	e9b88d
+鸎	the mango-bird; the Chinese oriole (U+9E0E)	e9b88e
+鸏	U+9E0F (U+9E0F)	e9b88f
+鸐	U+9E10 (U+9E10)	e9b890
+鸑	a large, duck-like waterfowl with red eyes; a young phoenix (U+9E11)	e9b891
+鸒	eastern jackdaw; Corvus monedula (U+9E12)	e9b892
+鸓	U+9E13 (U+9E13)	e9b893
+鸔	U+9E14 (U+9E14)	e9b894
+鸕	cormorant (U+9E15)	e9b895
+鸖	U+9E16 (U+9E16)	e9b896
+鸗	U+9E17 (U+9E17)	e9b897
+鸘	eagle (U+9E18)	e9b898
+鸙	U+9E19 (U+9E19)	e9b899
+鸚	parrot (U+9E1A)	e9b89a
+鸛	crane, Grus japonensis; stork; Ciconia species (various) (U+9E1B)	e9b89b
+鸜	a species of mynah (U+9E1C)	e9b89c
+鸝	Chinese oriole; Oriolus oriolus (U+9E1D)	e9b89d
+鸞	fabulous bird (U+9E1E)	e9b89e
+鸟	bird; KangXi radical 196 (U+9E1F)	e9b89f
+鸠	pigeon; collect, assemble (U+9E20)	e9b8a0
+鸡	chicken (U+9E21)	e9b8a1
+鸢	kite; Milvus species (various) (U+9E22)	e9b8a2
+鸣	cry of bird or animal; make sound (U+9E23)	e9b8a3
+鸤	turtledove, cuckoo (U+9E24)	e9b8a4
+鸥	seagull, tern; Larus species (various) (U+9E25)	e9b8a5
+鸦	crow; Corvus species (various) (U+9E26)	e9b8a6
+鸧	oriole (U+9E27)	e9b8a7
+鸨	bustard; procuress; Otis species (various) (U+9E28)	e9b8a8
+鸩	a bird resembling the secretary falcon (U+9E29)	e9b8a9
+鸪	species of Taiwan pigeon (U+9E2A)	e9b8aa
+鸫	thrush; Turdus species (various) (U+9E2B)	e9b8ab
+鸬	cormorant (U+9E2C)	e9b8ac
+鸭	duck; Anas species (various) (U+9E2D)	e9b8ad
+鸮	owl (U+9E2E)	e9b8ae
+鸯	female mandarin duck (Aix galericulata) (U+9E2F)	e9b8af
+鸰	species of lark; wagtail; Motacilla species (various) (U+9E30)	e9b8b0
+鸱	kite, horned owl; wine cups (U+9E31)	e9b8b1
+鸲	mynah; Erithacus species (various) (U+9E32)	e9b8b2
+鸳	male mandarin duck (Aix galericulata) (U+9E33)	e9b8b3
+鸴	oriental bullfinch, weaver bird; Pyrrhula species (various) (U+9E34)	e9b8b4
+鸵	ostrich (U+9E35)	e9b8b5
+鸶	the eastern egret (U+9E36)	e9b8b6
+鸷	hawk, vulture (U+9E37)	e9b8b7
+鸸	swallow (U+9E38)	e9b8b8
+鸹	the crow (U+9E39)	e9b8b9
+鸺	horned owl, scops chinensis (U+9E3A)	e9b8ba
+鸻	U+9E3B (U+9E3B)	e9b8bb
+鸼	U+9E3C (U+9E3C)	e9b8bc
+鸽	pigeon, dove; Columba species (various) (U+9E3D)	e9b8bd
+鸾	fabulous bird (U+9E3E)	e9b8be
+鸿	species of wild swan; vast (U+9E3F)	e9b8bf
+鹀	U+9E40 (U+9E40)	e9b980
+鹁	species of pigeon (U+9E41)	e9b981
+鹂	Chinese oriole; Oriolus oriolus (U+9E42)	e9b982
+鹃	cuckoo (U+9E43)	e9b983
+鹄	target (U+9E44)	e9b984
+鹅	goose (U+9E45)	e9b985
+鹆	myna; manah; Acridotheres tristis (U+9E46)	e9b986
+鹇	silver pheasant, Lophura nycthemera; Lophura species (various) (U+9E47)	e9b987
+鹈	pelican (U+9E48)	e9b988
+鹉	species of parrot (U+9E49)	e9b989
+鹊	magpie; Pica species (various) (U+9E4A)	e9b98a
+鹋	emu (U+9E4B)	e9b98b
+鹌	quail; Coturnix coturnix (U+9E4C)	e9b98c
+鹍	a bird resembling the crane (U+9E4D)	e9b98d
+鹎	bird (U+9E4E)	e9b98e
+鹏	fabulous bird of enormous size (U+9E4F)	e9b98f
+鹐	to peck, as birds (U+9E50)	e9b990
+鹑	quail; Turnix species (various) (U+9E51)	e9b991
+鹒	oriole (U+9E52)	e9b992
+鹓	co-worker (U+9E53)	e9b993
+鹔	turquoise kingfisher (U+9E54)	e9b994
+鹕	pelican (U+9E55)	e9b995
+鹖	crossbill, species of nightingale (U+9E56)	e9b996
+鹗	osprey, fishhawk (U+9E57)	e9b997
+鹘	a kind of pigeon; treron permagna (U+9E58)	e9b998
+鹙	large waterfowl with naked head; Garrulus glandarius (U+9E59)	e9b999
+鹚	cormorant (U+9E5A)	e9b99a
+鹛	U+9E5B (U+9E5B)	e9b99b
+鹜	duck (U+9E5C)	e9b99c
+鹝	pheasant (U+9E5D)	e9b99d
+鹞	sparrow hawk; kite shaped like (U+9E5E)	e9b99e
+鹟	U+9E5F (U+9E5F)	e9b99f
+鹠	the owl (U+9E60)	e9b9a0
+鹡	wagtail (U+9E61)	e9b9a1
+鹢	fishhawk bow or prow (U+9E62)	e9b9a2
+鹣	fabulous mythical bird (U+9E63)	e9b9a3
+鹤	crane; Grus species (various) (U+9E64)	e9b9a4
+鹥	seagull (U+9E65)	e9b9a5
+鹦	parrot (U+9E66)	e9b9a6
+鹧	partridge (U+9E67)	e9b9a7
+鹨	Anthus species (various) (U+9E68)	e9b9a8
+鹩	wren (U+9E69)	e9b9a9
+鹪	wren (U+9E6A)	e9b9aa
+鹫	condor, vulture (U+9E6B)	e9b9ab
+鹬	snipe, kingfisher (U+9E6C)	e9b9ac
+鹭	heron, egret; Ardea species (various) (U+9E6D)	e9b9ad
+鹮	spoonbill; ibis; family Threskiornidae (U+9E6E)	e9b9ae
+鹯	hawk; Butastur indicus (U+9E6F)	e9b9af
+鹰	falcon; Accipiter species (various) (U+9E70)	e9b9b0
+鹱	U+9E71 (U+9E71)	e9b9b1
+鹲	U+9E72 (U+9E72)	e9b9b2
+鹳	crane, grus japonensis; stork; Ciconia species (various) (U+9E73)	e9b9b3
+鹴	eagle (U+9E74)	e9b9b4
+鹵	saline soil; natural salt, rock (U+9E75)	e9b9b5
+鹶	salty and bitter; pitiful (U+9E76)	e9b9b6
+鹷	U+9E77 (U+9E77)	e9b9b7
+鹸	alkaline, alkali, lye, salt (U+9E78)	e9b9b8
+鹹	salty, briny; salted; pickled (U+9E79)	e9b9b9
+鹺	salty; salt (U+9E7A)	e9b9ba
+鹻	impure carbonate of sodium of natron (U+9E7B)	e9b9bb
+鹼	alkaline, alkali, lye, salt (U+9E7C)	e9b9bc
+鹽	(same as of U+5869 塩) salt (U+9E7D)	e9b9bd
+鹾	salty; salt (U+9E7E)	e9b9be
+鹿	deer; surname; KangXi radical 198 (U+9E7F)	e9b9bf
+麀	female deer; roe, doe (U+9E80)	e9ba80
+麁	rough, thick, course; rude (U+9E81)	e9ba81
+麂	species of deer (U+9E82)	e9ba82
+麃	till, plow (U+9E83)	e9ba83
+麄	coarse, rough, rude (U+9E84)	e9ba84
+麅	a small spotted deer found in north China (U+9E85)	e9ba85
+麆	U+9E86 (U+9E86)	e9ba86
+麇	general name for the hornless deer; to collect to band together (U+9E87)	e9ba87
+麈	species of deer (U+9E88)	e9ba88
+麉	U+9E89 (U+9E89)	e9ba89
+麊	U+9E8A (U+9E8A)	e9ba8a
+麋	elk; surname (U+9E8B)	e9ba8b
+麌	stag; herd (U+9E8C)	e9ba8c
+麍	U+9E8D (U+9E8D)	e9ba8d
+麎	U+9E8E (U+9E8E)	e9ba8e
+麏	U+9E8F (U+9E8F)	e9ba8f
+麐	female of Chinese unicorn (U+9E90)	e9ba90
+麑	fawn, young deer (U+9E91)	e9ba91
+麒	legendary auspicious animal (U+9E92)	e9ba92
+麓	foot of hill; foothill (U+9E93)	e9ba93
+麔	U+9E94 (U+9E94)	e9ba94
+麕	muntjac deer, hornless river deer (U+9E95)	e9ba95
+麖	U+9E96 (U+9E96)	e9ba96
+麗	beautiful, magnificent, elegant (U+9E97)	e9ba97
+麘	scent (U+9E98)	e9ba98
+麙	U+9E99 (U+9E99)	e9ba99
+麚	U+9E9A (U+9E9A)	e9ba9a
+麛	fawn (U+9E9B)	e9ba9b
+麜	U+9E9C (U+9E9C)	e9ba9c
+麝	musk deer (U+9E9D)	e9ba9d
+麞	roebuck, Moschus chinloo (U+9E9E)	e9ba9e
+麟	female of Chinese unicorn (U+9E9F)	e9ba9f
+麠	a large deer (U+9EA0)	e9baa0
+麡	U+9EA1 (U+9EA1)	e9baa1
+麢	U+9EA2 (U+9EA2)	e9baa2
+麣	U+9EA3 (U+9EA3)	e9baa3
+麤	rough, coarse, big, rough (U+9EA4)	e9baa4
+麥	wheat, barley, oats; KangXi radical number 199 (U+9EA5)	e9baa5
+麦	wheat, barley, oats; simplified form of KangXi radical number 199 (U+9EA6)	e9baa6
+麧	U+9EA7 (U+9EA7)	e9baa7
+麨	U+9EA8 (U+9EA8)	e9baa8
+麩	bran (U+9EA9)	e9baa9
+麪	flour, noodles, dough (U+9EAA)	e9baaa
+麫	flour; vermicelli; dough (U+9EAB)	e9baab
+麬	U+9EAC (U+9EAC)	e9baac
+麭	a sticky rice ball (U+9EAD)	e9baad
+麮	porridge (U+9EAE)	e9baae
+麯	yeast, leaven (U+9EAF)	e9baaf
+麰	barley (U+9EB0)	e9bab0
+麱	U+9EB1 (U+9EB1)	e9bab1
+麲	U+9EB2 (U+9EB2)	e9bab2
+麳	U+9EB3 (U+9EB3)	e9bab3
+麴	yeast, leaven; surname (U+9EB4)	e9bab4
+麵	flour, dough, noodles (U+9EB5)	e9bab5
+麶	U+9EB6 (U+9EB6)	e9bab6
+麷	U+9EB7 (U+9EB7)	e9bab7
+麸	bran (U+9EB8)	e9bab8
+麹	yeast, leaven; surname (U+9EB9)	e9bab9
+麺	flour, dough, noodles (U+9EBA)	e9baba
+麻	hemp, jute, flax; sesame (U+9EBB)	e9babb
+麼	interrogative final particle; insignificant, small, tiny (U+9EBC)	e9babc
+麽	interrogative final particle; insignificant, small, tiny (U+9EBD)	e9babd
+麾	a pennant, flag, banner; to signal to (U+9EBE)	e9babe
+麿	I, personal name marker (U+9EBF)	e9babf
+黀	U+9EC0 (U+9EC0)	e9bb80
+黁	U+9EC1 (U+9EC1)	e9bb81
+黂	U+9EC2 (U+9EC2)	e9bb82
+黃	yellow; surname (U+9EC3)	e9bb83
+黄	yellow; surname (U+9EC4)	e9bb84
+黅	U+9EC5 (U+9EC5)	e9bb85
+黆	U+9EC6 (U+9EC6)	e9bb86
+黇	U+9EC7 (U+9EC7)	e9bb87
+黈	yellow; augment, increase (U+9EC8)	e9bb88
+黉	school (U+9EC9)	e9bb89
+黊	U+9ECA (U+9ECA)	e9bb8a
+黋	U+9ECB (U+9ECB)	e9bb8b
+黌	school (U+9ECC)	e9bb8c
+黍	glutinous millet; KangXi radical number 202 (U+9ECD)	e9bb8d
+黎	surname; numerous, many; black (U+9ECE)	e9bb8e
+黏	stick to; glutinous, sticky; glue (U+9ECF)	e9bb8f
+黐	to stick; sticky (U+9ED0)	e9bb90
+黑	black; dark; evil, sinister (U+9ED1)	e9bb91
+黒	black; dark; evil (U+9ED2)	e9bb92
+黓	black (U+9ED3)	e9bb93
+黔	black; Guizhou (U+9ED4)	e9bb94

@@ -1,0 +1,1024 @@
+曕	to dry or cook in the sun (U+66D5)	e69b95
+曖	obscure, dim, ambiguous, vague (U+66D6)	e69b96
+曗	U+66D7 (U+66D7)	e69b97
+曘	U+66D8 (U+66D8)	e69b98
+曙	bright, light of rising sun (U+66D9)	e69b99
+曚	twilight just before sun rises (U+66DA)	e69b9a
+曛	twilight; sunset (U+66DB)	e69b9b
+曜	glorious, as sun; daylight, sunlight; one of the seven planets of pre-modern astronomy (the sun, the moon, Mercury, Venus, Mars, Jupiter, and Saturn) (U+66DC)	e69b9c
+曝	sun, air in sun, expose or dry in the sun (U+66DD)	e69b9d
+曞	U+66DE (U+66DE)	e69b9e
+曟	U+66DF (U+66DF)	e69b9f
+曠	extensive, wide, broad; empty (U+66E0)	e69ba0
+曡	repeat, duplicate; repeitious (U+66E1)	e69ba1
+曢	U+66E2 (U+66E2)	e69ba2
+曣	fair weather; warm (U+66E3)	e69ba3
+曤	U+66E4 (U+66E4)	e69ba4
+曥	U+66E5 (U+66E5)	e69ba5
+曦	sunlight, sunshine, early dawn (U+66E6)	e69ba6
+曧	U+66E7 (U+66E7)	e69ba7
+曨	vague, dim; twilight (U+66E8)	e69ba8
+曩	in ancient times, of old, former (U+66E9)	e69ba9
+曪	U+66EA (U+66EA)	e69baa
+曫	U+66EB (U+66EB)	e69bab
+曬	dry in sun, expose to sun (U+66EC)	e69bac
+曭	U+66ED (U+66ED)	e69bad
+曮	U+66EE (U+66EE)	e69bae
+曯	U+66EF (U+66EF)	e69baf
+曰	say; KangXi radical 73 (U+66F0)	e69bb0
+曱	(Cant.) cockroach (U+66F1)	e69bb1
+曲	crooked, bent; wrong, false (U+66F2)	e69bb2
+曳	trail, tow, drag, pull (U+66F3)	e69bb3
+更	more, still further, much more (U+66F4)	e69bb4
+曵	trail, tow, drag, pull (U+66F5)	e69bb5
+曶	U+66F6 (U+66F6)	e69bb6
+曷	why? what? where? (U+66F7)	e69bb7
+書	book, letter, document; writings (U+66F8)	e69bb8
+曹	ministry officials; surname (U+66F9)	e69bb9
+曺	U+66FA (U+66FA)	e69bba
+曻	U+66FB (U+66FB)	e69bbb
+曼	long, extended, vast; beautiful (U+66FC)	e69bbc
+曽	already; sign of past (U+66FD)	e69bbd
+曾	already; sign of past (U+66FE)	e69bbe
+替	change, replace, substitute for (U+66FF)	e69bbf
+最	most, extremely, exceedingly (U+6700)	e69c80
+朁	if, supposing, nevertheless (U+6701)	e69c81
+朂	U+6702 (U+6702)	e69c82
+會	to assemble, meet together; a meeting; an organization (U+6703)	e69c83
+朄	U+6704 (U+6704)	e69c84
+朅	brave (U+6705)	e69c85
+朆	U+6706 (U+6706)	e69c86
+朇	U+6707 (U+6707)	e69c87
+月	moon; month; KangXi radical 74 (U+6708)	e69c88
+有	have, own, possess; exist (U+6709)	e69c89
+朊	U+670A (U+670A)	e69c8a
+朋	friend, pal, acquaintance (U+670B)	e69c8b
+朌	distribute, large head (U+670C)	e69c8c
+服	clothes; wear, dress (U+670D)	e69c8d
+朎	U+670E (U+670E)	e69c8e
+朏	light of crescent moon (U+670F)	e69c8f
+朐	warm (U+6710)	e69c90
+朑	U+6711 (U+6711)	e69c91
+朒	U+6712 (U+6712)	e69c92
+朓	sacrifice (U+6713)	e69c93
+朔	first day of lunar month; the north (U+6714)	e69c94
+朕	pronoun 'I' (U+6715)	e69c95
+朖	clear, bright; distinct (U+6716)	e69c96
+朗	clear, bright; distinct (U+6717)	e69c97
+朘	wane, reduce, contract; exploit (U+6718)	e69c98
+朙	bright, clear, intelligent; light, brilliant; to understand; to illustrate (U+6719)	e69c99
+朚	U+671A (U+671A)	e69c9a
+望	to look at, look forward; to hope, expect (U+671B)	e69c9b
+朜	U+671C (U+671C)	e69c9c
+朝	dynasty; morning (U+671D)	e69c9d
+朞	full year, anniversary (U+671E)	e69c9e
+期	period of time; date; time limit (U+671F)	e69c9f
+朠	color of the moon (U+6720)	e69ca0
+朡	U+6721 (U+6721)	e69ca1
+朢	look at, gaze at; hope, expect (U+6722)	e69ca2
+朣	the rising moon (U+6723)	e69ca3
+朤	U+6724 (U+6724)	e69ca4
+朥	U+6725 (U+6725)	e69ca5
+朦	condition or appearance of moon (U+6726)	e69ca6
+朧	condition or appearance of moon (U+6727)	e69ca7
+木	tree; wood, lumber; wooden (U+6728)	e69ca8
+朩	kwukyel: rank, grade; wait; equal; 'etc.' (U+6729)	e69ca9
+未	not yet; 8th terrestrial branch (U+672A)	e69caa
+末	final, last, end; insignificant (U+672B)	e69cab
+本	root, origin, source; basis (U+672C)	e69cac
+札	letter, note; correspondence (U+672D)	e69cad
+朮	skill, art; method; trick, device (U+672E)	e69cae
+术	art, skill, special feat; method, technique (U+672F)	e69caf
+朰	kwukyel (U+6730)	e69cb0
+朱	cinnabar, vermilion; surname (U+6731)	e69cb1
+朲	U+6732 (U+6732)	e69cb2
+朳	tree (U+6733)	e69cb3
+朴	simple, unadorned; sincere; surname; a tree (U+6734)	e69cb4
+朵	cluster of flowers; earlobe (U+6735)	e69cb5
+朶	cluster of flowers; earlobe (U+6736)	e69cb6
+朷	U+6737 (U+6737)	e69cb7
+朸	U+6738 (U+6738)	e69cb8
+朹	U+6739 (U+6739)	e69cb9
+机	desk; machine; moment (U+673A)	e69cba
+朻	U+673B (U+673B)	e69cbb
+朼	U+673C (U+673C)	e69cbc
+朽	decayed, rotten; rot, decay (U+673D)	e69cbd
+朾	to bump (U+673E)	e69cbe
+朿	stab (U+673F)	e69cbf
+杀	kill, slaughter, murder; hurt (U+6740)	e69d80
+杁	U+6741 (U+6741)	e69d81
+杂	mixed, blended; mix, mingle (U+6742)	e69d82
+权	power, right, authority (U+6743)	e69d83
+杄	U+6744 (U+6744)	e69d84
+杅	tub (U+6745)	e69d85
+杆	pole; shaft of spear (U+6746)	e69d86
+杇	loquat (U+6747)	e69d87
+杈	fork of a tree; a pitchfork (U+6748)	e69d88
+杉	various species of pine and fir (U+6749)	e69d89
+杊	U+674A (U+674A)	e69d8a
+杋	U+674B (U+674B)	e69d8b
+杌	the stump f a tree, hence, sterility; a square stool (U+674C)	e69d8c
+杍	U+674D (U+674D)	e69d8d
+李	plum; judge; surname (U+674E)	e69d8e
+杏	apricot; almond (U+674F)	e69d8f
+材	material, stuff; timber; talent (U+6750)	e69d90
+村	village, hamlet; uncouth, vulgar (U+6751)	e69d91
+杒	U+6752 (U+6752)	e69d92
+杓	handle of cup, ladle, spoon; name of a constellation (U+6753)	e69d93
+杔	U+6754 (U+6754)	e69d94
+杕	alone (U+6755)	e69d95
+杖	cane, walking stick (U+6756)	e69d96
+杗	beam (U+6757)	e69d97
+杘	U+6758 (U+6758)	e69d98
+杙	a tiny wooden post; peg (U+6759)	e69d99
+杚	U+675A (U+675A)	e69d9a
+杛	U+675B (U+675B)	e69d9b
+杜	stop, prevent; restrict; surname (U+675C)	e69d9c
+杝	tree (U+675D)	e69d9d
+杞	willow; medlar tree; a small feudal state (Qi) (U+675E)	e69d9e
+束	bind, control, restrain; bale (U+675F)	e69d9f
+杠	lever, pole, crowbar; sharpen (U+6760)	e69da0
+条	clause, condition; string, stripe (U+6761)	e69da1
+杢	woodworker (U+6762)	e69da2
+杣	timber forest; timber, lumber; woodcutter (U+6763)	e69da3
+杤	type of oak; stable (U+6764)	e69da4
+来	come, coming; return, returning (U+6765)	e69da5
+杦	U+6766 (U+6766)	e69da6
+杧	mango (Mangifera indica) (U+6767)	e69da7
+杨	willow, poplar, aspen; surname (U+6768)	e69da8
+杩	headboard (U+6769)	e69da9
+杪	tip of twig, top of tree; twig (U+676A)	e69daa
+杫	U+676B (U+676B)	e69dab
+杬	U+676C (U+676C)	e69dac
+杭	cross stream; navigate (U+676D)	e69dad
+杮	wood shavings (U+676E)	e69dae
+杯	cup, glass (U+676F)	e69daf
+杰	hero; heroic, outstanding (U+6770)	e69db0
+東	east, eastern, eastward (U+6771)	e69db1
+杲	bright sun; brilliant; high (U+6772)	e69db2
+杳	obscure, dark, mysterious, deep (U+6773)	e69db3
+杴	shovel; trough used to carry water (U+6774)	e69db4
+杵	pestle; baton used beat clothes (U+6775)	e69db5
+杶	varnish (U+6776)	e69db6
+杷	loquat (U+6777)	e69db7
+杸	to kill; a spear (U+6778)	e69db8
+杹	U+6779 (U+6779)	e69db9
+杺	U+677A (U+677A)	e69dba
+杻	ligustrum sinenese, tree (U+677B)	e69dbb
+杼	shuttle of loom; narrow; long-headed; a scrub oak; thin (U+677C)	e69dbc
+杽	U+677D (U+677D)	e69dbd
+松	pine tree; fir tree (U+677E)	e69dbe
+板	plank, board; iron or tin plate (U+677F)	e69dbf
+枀	U+6780 (U+6780)	e69e80
+极	extreme, utmost, furthest, final (U+6781)	e69e81
+枂	U+6782 (U+6782)	e69e82
+枃	U+6783 (U+6783)	e69e83
+构	frame, building, structure (U+6784)	e69e84
+枅	U+6785 (U+6785)	e69e85
+枆	U+6786 (U+6786)	e69e86
+枇	loquat (U+6787)	e69e87
+枈	U+6788 (U+6788)	e69e88
+枉	useless, in vain; bent, crooked (U+6789)	e69e89
+枊	U+678A (U+678A)	e69e8a
+枋	sandalwood; tree used as timber (U+678B)	e69e8b
+枌	variety of elm with small seeds (U+678C)	e69e8c
+枍	U+678D (U+678D)	e69e8d
+枎	U+678E (U+678E)	e69e8e
+枏	a variety of evergreen tree (U+678F)	e69e8f
+析	split wood; break apart; divide (U+6790)	e69e90
+枑	U+6791 (U+6791)	e69e91
+枒	the coconut tree; rim (U+6792)	e69e92
+枓	capital (U+6793)	e69e93
+枔	U+6794 (U+6794)	e69e94
+枕	pillow (U+6795)	e69e95
+枖	U+6796 (U+6796)	e69e96
+林	forest, grove; surname (U+6797)	e69e97
+枘	the handle of tools (U+6798)	e69e98
+枙	U+6799 (U+6799)	e69e99
+枚	stalk of shrub, trunk of tree (U+679A)	e69e9a
+枛	U+679B (U+679B)	e69e9b
+果	fruit; result (U+679C)	e69e9c
+枝	branches, limbs; branch off (U+679D)	e69e9d
+枞	fir tree (U+679E)	e69e9e
+枟	wood streaks (U+679F)	e69e9f
+枠	a frame; a reel, spindle, spool (U+67A0)	e69ea0
+枡	measuring box (U+67A1)	e69ea1
+枢	door hinge; pivot; center of power (U+67A2)	e69ea2
+枣	date tree; dates, jujubes; surname (U+67A3)	e69ea3
+枤	U+67A4 (U+67A4)	e69ea4
+枥	type of oak; stable (U+67A5)	e69ea5
+枦	U+67A6 (U+67A6)	e69ea6
+枧	bamboo tube, wooden peg; spout (U+67A7)	e69ea7
+枨	door stop, door jam; touch; (Cant.) to use the body to move someone (U+67A8)	e69ea8
+枩	pine tree; fir tree (U+67A9)	e69ea9
+枪	spear, lance; gun, rifle (U+67AA)	e69eaa
+枫	maple tree (U+67AB)	e69eab
+枬	an even-grained, yellowish, fine wood used for furniture; cedar (U+67AC)	e69eac
+枭	owl thus, something evil (U+67AD)	e69ead
+枮	U+67AE (U+67AE)	e69eae
+枯	dried out, withered, decayed (U+67AF)	e69eaf
+枰	smooth board; chessboard; chess (U+67B0)	e69eb0
+枱	a table, desk (U+67B1)	e69eb1
+枲	male nettle-hemp (U+67B2)	e69eb2
+枳	trifoliate orange; hedge thorn; (Cant.) a plug (U+67B3)	e69eb3
+枴	cane (U+67B4)	e69eb4
+枵	hollo stump of a tree; empty, thin (U+67B5)	e69eb5
+架	rack, stand, prop; prop up (U+67B6)	e69eb6
+枷	cangue scaffold (U+67B7)	e69eb7
+枸	kind of aspen found in Sichuan (U+67B8)	e69eb8
+枹	drumstick (U+67B9)	e69eb9
+枺	U+67BA (U+67BA)	e69eba
+枻	long oar, sweep (U+67BB)	e69ebb
+枼	a table, flat pieces of wood, a slip, a leaf (U+67BC)	e69ebc
+枽	U+67BD (U+67BD)	e69ebd
+枾	persimmon (U+67BE)	e69ebe
+枿	U+67BF (U+67BF)	e69ebf
+柀	U+67C0 (U+67C0)	e69f80
+柁	large tie-beams (U+67C1)	e69f81
+柂	helm (U+67C2)	e69f82
+柃	U+67C3 (U+67C3)	e69f83
+柄	handle, lever, knob; authority (U+67C4)	e69f84
+柅	flourish (U+67C5)	e69f85
+柆	U+67C6 (U+67C6)	e69f86
+柇	U+67C7 (U+67C7)	e69f87
+柈	container (U+67C8)	e69f88
+柉	U+67C9 (U+67C9)	e69f89
+柊	holly (U+67CA)	e69f8a
+柋	U+67CB (U+67CB)	e69f8b
+柌	U+67CC (U+67CC)	e69f8c
+柍	U+67CD (U+67CD)	e69f8d
+柎	calyx of flower; railing raft (U+67CE)	e69f8e
+柏	cypress, cedar (U+67CF)	e69f8f
+某	certain thing or person (U+67D0)	e69f90
+柑	tangerine, loose-skinned orange (U+67D1)	e69f91
+柒	number seven (U+67D2)	e69f92
+染	dye; be contagious; infect (U+67D3)	e69f93
+柔	soft; gentle, pliant (U+67D4)	e69f94
+柕	U+67D5 (U+67D5)	e69f95
+柖	U+67D6 (U+67D6)	e69f96
+柗	U+67D7 (U+67D7)	e69f97
+柘	a thorny tree; sugarcane (U+67D8)	e69f98
+柙	cage, pen for wild animals (U+67D9)	e69f99
+柚	pomelo, grapefruit (U+67DA)	e69f9a
+柛	U+67DB (U+67DB)	e69f9b
+柜	cabinet, cupboard; shop counter (U+67DC)	e69f9c
+柝	watchman's rattle (U+67DD)	e69f9d
+柞	oak; spinous evergreen tree; to clear away trees (U+67DE)	e69f9e
+柟	Machilus nanmu, variety of evergreen (U+67DF)	e69f9f
+柠	lemon (U+67E0)	e69fa0
+柡	U+67E1 (U+67E1)	e69fa1
+柢	root, base; bottom of object (U+67E2)	e69fa2
+柣	sill (U+67E3)	e69fa3
+柤	hawthorn (U+67E4)	e69fa4
+查	investigate, examine, seek into (U+67E5)	e69fa5
+柦	U+67E6 (U+67E6)	e69fa6
+柧	U+67E7 (U+67E7)	e69fa7
+柨	U+67E8 (U+67E8)	e69fa8
+柩	coffin which contains corpse (U+67E9)	e69fa9
+柪	U+67EA (U+67EA)	e69faa
+柫	U+67EB (U+67EB)	e69fab
+柬	letter, invitation; choose (U+67EC)	e69fac
+柭	U+67ED (U+67ED)	e69fad
+柮	flat pieces of wood, scraps of wood (U+67EE)	e69fae
+柯	axe-handle; stalk, bough; surname (U+67EF)	e69faf
+柰	crab-apple tree; endure, bear (U+67F0)	e69fb0
+柱	pillar, post; support; lean on (U+67F1)	e69fb1
+柲	handle (U+67F2)	e69fb2
+柳	willow tree; pleasure (U+67F3)	e69fb3
+柴	firewood, faggots, fuel (U+67F4)	e69fb4
+柵	fence; palisade; grid (U+67F5)	e69fb5
+柶	ladle (U+67F6)	e69fb6
+柷	instrument (U+67F7)	e69fb7
+柸	cup (same as 杯 [U+676F] and 桮 [U+686E]); unhappy, displeased, anxious, unsettled (U+67F8)	e69fb8
+柹	persimmon (U+67F9)	e69fb9
+柺	an old man's staff (U+67FA)	e69fba
+査	investigate, examine, seek into (U+67FB)	e69fbb
+柼	U+67FC (U+67FC)	e69fbc
+柽	type of willow; tamarisk (U+67FD)	e69fbd
+柾	straight grain (U+67FE)	e69fbe
+柿	persimmon (U+67FF)	e69fbf
+栀	gardenia (U+6800)	e6a080
+栁	U+6801 (U+6801)	e6a081
+栂	a kind of evergreen tree (U+6802)	e6a082
+栃	type of oak; stable (U+6803)	e6a083
+栄	glory, honor; flourish, prosper (U+6804)	e6a084
+栅	fence; palisade; grid (U+6805)	e6a085
+栆	U+6806 (U+6806)	e6a086
+标	mark, symbol, label, sign; stand the bole of a tree (U+6807)	e6a087
+栈	warehouse; tavern, inn (U+6808)	e6a088
+栉	comb; comb out; weed out, elimininate (U+6809)	e6a089
+栊	cage, pen; set of bars (U+680A)	e6a08a
+栋	main beams supporting house (U+680B)	e6a08b
+栌	supporting block; sumac, loquat (U+680C)	e6a08c
+栍	a lot; a label; a slip of bamboo engraved with signs (U+680D)	e6a08d
+栎	chestnut-leaved oak; oak (U+680E)	e6a08e
+栏	railing, balustrade; animal pan (U+680F)	e6a08f
+栐	U+6810 (U+6810)	e6a090
+树	tree; plant; set up, establish (U+6811)	e6a091
+栒	cross bar (U+6812)	e6a092
+栓	wooden peg, post or stick (U+6813)	e6a093
+栔	carve, engrave (U+6814)	e6a094
+栕	U+6815 (U+6815)	e6a095
+栖	perch; roost; stay (U+6816)	e6a096
+栗	chestnut tree, chestnuts; surname (U+6817)	e6a097
+栘	fruit tree (U+6818)	e6a098
+栙	U+6819 (U+6819)	e6a099
+栚	U+681A (U+681A)	e6a09a
+栛	the lichee, a fruit which grows in South China (U+681B)	e6a09b
+栜	U+681C (U+681C)	e6a09c
+栝	a builder's frame for measuring (U+681D)	e6a09d
+栞	publication, periodical; publish (U+681E)	e6a09e
+栟	hemp palm (U+681F)	e6a09f
+栠	U+6820 (U+6820)	e6a0a0
+校	school; military field officer (U+6821)	e6a0a1
+栢	cypress, cedar (U+6822)	e6a0a2
+栣	U+6823 (U+6823)	e6a0a3
+栤	U+6824 (U+6824)	e6a0a4
+栥	U+6825 (U+6825)	e6a0a5
+栦	U+6826 (U+6826)	e6a0a6
+栧	U+6827 (U+6827)	e6a0a7
+栨	U+6828 (U+6828)	e6a0a8
+栩	species of oak; be glad, be pleased (U+6829)	e6a0a9
+株	numerary adjunct for trees; root (U+682A)	e6a0aa
+栫	fence (U+682B)	e6a0ab
+栬	U+682C (U+682C)	e6a0ac
+栭	king-post (U+682D)	e6a0ad
+栮	U+682E (U+682E)	e6a0ae
+栯	U+682F (U+682F)	e6a0af
+栰	a bamboo raft (U+6830)	e6a0b0
+栱	large peg, stake; post, pillar (U+6831)	e6a0b1
+栲	mangrove (U+6832)	e6a0b2
+栳	a basket (U+6833)	e6a0b3
+栴	sandalwood (U+6834)	e6a0b4
+栵	hedge (U+6835)	e6a0b5
+栶	U+6836 (U+6836)	e6a0b6
+样	shape, form, pattern, style (U+6837)	e6a0b7
+核	seed, kernel, core, nut; atom (U+6838)	e6a0b8
+根	root, base(d on); foundation (U+6839)	e6a0b9
+栺	U+683A (U+683A)	e6a0ba
+栻	tree (U+683B)	e6a0bb
+格	pattern, standard, form; style (U+683C)	e6a0bc
+栽	to cultivate, plant; to care for plants (U+683D)	e6a0bd
+栾	name of tree; a part of cornice (U+683E)	e6a0be
+栿	U+683F (U+683F)	e6a0bf
+桀	chicken roost; ancient emperor (U+6840)	e6a180
+桁	cross-beams of roof (U+6841)	e6a181
+桂	cassia or cinnamon (U+6842)	e6a182
+桃	peach; marriage; surname (U+6843)	e6a183
+桄	a coir-palm (U+6844)	e6a184
+桅	mast of ship (U+6845)	e6a185
+框	frame; framework; door frame (U+6846)	e6a186
+桇	U+6847 (U+6847)	e6a187
+案	table, bench; legal case (U+6848)	e6a188
+桉	eucalyptus (U+6849)	e6a189
+桊	U+684A (U+684A)	e6a18a
+桋	tree (U+684B)	e6a18b
+桌	table, desk, stand (U+684C)	e6a18c
+桍	U+684D (U+684D)	e6a18d
+桎	fetters, shackles, handcuffs (U+684E)	e6a18e
+桏	U+684F (U+684F)	e6a18f
+桐	name applied various trees (U+6850)	e6a190
+桑	mulberry tree; surname (U+6851)	e6a191
+桒	U+6852 (U+6852)	e6a192
+桓	variety of tree; surname (U+6853)	e6a193
+桔	Chinese bellflower; well-swept; the inner fibers of corn-stalks (U+6854)	e6a194
+桕	tallow tree (U+6855)	e6a195
+桖	U+6856 (U+6856)	e6a196
+桗	U+6857 (U+6857)	e6a197
+桘	U+6858 (U+6858)	e6a198
+桙	U+6859 (U+6859)	e6a199
+桚	press, squeeze hard; force (U+685A)	e6a19a
+桛	a real, hank, skein (U+685B)	e6a19b
+桜	cherry, cherry blossom (U+685C)	e6a19c
+桝	variant of 枡 U+67A1, a measuring box (U+685D)	e6a19d
+桞	U+685E (U+685E)	e6a19e
+桟	a crosspiece, cleat, frame, door bolt; shelf (U+685F)	e6a19f
+桠	the forking branch of a tree (U+6860)	e6a1a0
+桡	bent or twisted piece of wood (U+6861)	e6a1a1
+桢	hardwood; supports, posts (U+6862)	e6a1a2
+档	shelf; frame, crosspiece (U+6863)	e6a1a3
+桤	alder (U+6864)	e6a1a4
+桥	bridge; beam, crosspiece (U+6865)	e6a1a5
+桦	type of birch (U+6866)	e6a1a6
+桧	Chinese cypress, Chinese juniper (U+6867)	e6a1a7
+桨	oar, paddle (U+6868)	e6a1a8
+桩	stake, post; affair, matter (U+6869)	e6a1a9
+桪	mythical giant tree (U+686A)	e6a1aa
+桫	horse chestnut (U+686B)	e6a1ab
+桬	pear and other trees (U+686C)	e6a1ac
+桭	eaves; space between two pillars (U+686D)	e6a1ad
+桮	cup, glass, tumbler (U+686E)	e6a1ae
+桯	table (U+686F)	e6a1af
+桰	U+6870 (U+6870)	e6a1b0
+桱	U+6871 (U+6871)	e6a1b1
+桲	U+6872 (U+6872)	e6a1b2
+桳	U+6873 (U+6873)	e6a1b3
+桴	raft; drum stick; ridge pole (U+6874)	e6a1b4
+桵	U+6875 (U+6875)	e6a1b5
+桶	pail, bucket, tub; cask, keg (U+6876)	e6a1b6
+桷	rafter; malus toringo (U+6877)	e6a1b7
+桸	U+6878 (U+6878)	e6a1b8
+桹	palm (U+6879)	e6a1b9
+桺	U+687A (U+687A)	e6a1ba
+桻	U+687B (U+687B)	e6a1bb
+桼	the varnish tree; lacquer, varnish, paint (U+687C)	e6a1bc
+桽	U+687D (U+687D)	e6a1bd
+桾	U+687E (U+687E)	e6a1be
+桿	pole; stick; club; pole as unit (U+687F)	e6a1bf
+梀	U+6880 (U+6880)	e6a280
+梁	bridge; beam; rafters; surname (U+6881)	e6a281
+梂	acorn cup (U+6882)	e6a282
+梃	a club; a stalk; straight (U+6883)	e6a283
+梄	a soft wood; to lay in stores of firewood (U+6884)	e6a284
+梅	plums; prunes; surname (U+6885)	e6a285
+梆	watchman's rattle (U+6886)	e6a286
+梇	U+6887 (U+6887)	e6a287
+梈	U+6888 (U+6888)	e6a288
+梉	U+6889 (U+6889)	e6a289
+梊	squeeze out of; extract (U+688A)	e6a28a
+梋	U+688B (U+688B)	e6a28b
+梌	U+688C (U+688C)	e6a28c
+梍	tree name (U+688D)	e6a28d
+梎	sickle handle, branch (U+688E)	e6a28e
+梏	handcuffs, manacles, fetters (U+688F)	e6a28f
+梐	fence (U+6890)	e6a290
+梑	U+6891 (U+6891)	e6a291
+梒	U+6892 (U+6892)	e6a292
+梓	catalpa ovata (U+6893)	e6a293
+梔	gardenia (U+6894)	e6a294
+梕	U+6895 (U+6895)	e6a295
+梖	a palm-tree (U+6896)	e6a296
+梗	stem of flower, branch of plant (U+6897)	e6a297
+梘	bamboo tube, wooden peg; spout (U+6898)	e6a298
+梙	U+6899 (U+6899)	e6a299
+梚	U+689A (U+689A)	e6a29a
+梛	U+689B (U+689B)	e6a29b
+梜	chopstick (U+689C)	e6a29c
+條	clause, condition; string, stripe (U+689D)	e6a29d
+梞	U+689E (U+689E)	e6a29e
+梟	an owl; thus, something evil (U+689F)	e6a29f
+梠	a small beam supporting the rafters at the eaves (U+68A0)	e6a2a0
+梡	tray for carrying sacrificial meat (U+68A1)	e6a2a1
+梢	pointed tip of something long like a branch; rudder (U+68A2)	e6a2a2
+梣	U+68A3 (U+68A3)	e6a2a3
+梤	U+68A4 (U+68A4)	e6a2a4
+梥	U+68A5 (U+68A5)	e6a2a5
+梦	dream; visionary; wishful (U+68A6)	e6a2a6
+梧	Chinese parasoltree, Sterculia platanifolia (U+68A7)	e6a2a7
+梨	pear; opera; cut, slash (U+68A8)	e6a2a8
+梩	a hod, a basket in which to carry earth (U+68A9)	e6a2a9
+梪	U+68AA (U+68AA)	e6a2aa
+梫	U+68AB (U+68AB)	e6a2ab
+梬	U+68AC (U+68AC)	e6a2ac
+梭	weaver's shuttle; go to and fro (U+68AD)	e6a2ad
+梮	snowshoes (U+68AE)	e6a2ae
+梯	ladder, steps, stairs; lean (U+68AF)	e6a2af
+械	weapons; implements, instruments (U+68B0)	e6a2b0
+梱	doorsill; doorjamb (U+68B1)	e6a2b1
+梲	joist; cane, club; king-post (U+68B2)	e6a2b2
+梳	comb; brush (U+68B3)	e6a2b3
+梴	long (U+68B4)	e6a2b4
+梵	Buddhist, Sanskrit (U+68B5)	e6a2b5
+梶	oar, shaft (U+68B6)	e6a2b6
+梷	U+68B7 (U+68B7)	e6a2b7
+梸	U+68B8 (U+68B8)	e6a2b8
+梹	the areca-nut; the betel-nut (U+68B9)	e6a2b9
+梺	U+68BA (U+68BA)	e6a2ba
+梻	a tree whose branches are placed on Buddhist graves (U+68BB)	e6a2bb
+梼	block of wood; blockhead; stupid (U+68BC)	e6a2bc
+梽	U+68BD (U+68BD)	e6a2bd
+梾	U+68BE (U+68BE)	e6a2be
+梿	U+68BF (U+68BF)	e6a2bf
+检	check; examine (U+68C0)	e6a380
+棁	joist; cane (U+68C1)	e6a381
+棂	carved or patterned window sills (U+68C2)	e6a382
+棃	a pear (U+68C3)	e6a383
+棄	reject, abandon, discard (U+68C4)	e6a384
+棅	handle, lever, knob; authority (U+68C5)	e6a385
+棆	camphor tree (U+68C6)	e6a386
+棇	U+68C7 (U+68C7)	e6a387
+棈	U+68C8 (U+68C8)	e6a388
+棉	cotton; cotton padded (U+68C9)	e6a389
+棊	chess; any game similar to chess (U+68CA)	e6a38a
+棋	chess; any game similar to chess (U+68CB)	e6a38b
+棌	U+68CC (U+68CC)	e6a38c
+棍	stick, cudgel; scoundrel (U+68CD)	e6a38d
+棎	U+68CE (U+68CE)	e6a38e
+棏	U+68CF (U+68CF)	e6a38f
+棐	species of yew (U+68D0)	e6a390
+棑	raft (U+68D1)	e6a391
+棒	stick, club, truncheon; hit (U+68D2)	e6a392
+棓	hit, strike (U+68D3)	e6a393
+棔	U+68D4 (U+68D4)	e6a394
+棕	hemp palm; palm tree (U+68D5)	e6a395
+棖	door stop, door jam; touch; a prop, post (U+68D6)	e6a396
+棗	date tree; dates, jujubes; surname (U+68D7)	e6a397
+棘	jujube tree; thorns, brambles (U+68D8)	e6a398
+棙	obstinate; to draw the fingers across; to steer (U+68D9)	e6a399
+棚	tent, awning; booth; shed (U+68DA)	e6a39a
+棛	U+68DB (U+68DB)	e6a39b
+棜	branch, fork; tray (U+68DC)	e6a39c
+棝	U+68DD (U+68DD)	e6a39d
+棞	U+68DE (U+68DE)	e6a39e
+棟	the main beams supporting a house (U+68DF)	e6a39f
+棠	crab apple tree; wild plums (U+68E0)	e6a3a0
+棡	U+68E1 (U+68E1)	e6a3a1
+棢	the felloe or rim of a wheel (U+68E2)	e6a3a2
+棣	kerria japonica plant, cherry (U+68E3)	e6a3a3
+棤	U+68E4 (U+68E4)	e6a3a4
+棥	a railing; a fence an enclosed place (U+68E5)	e6a3a5
+棦	U+68E6 (U+68E6)	e6a3a6
+棧	warehouse; tavern, inn (U+68E7)	e6a3a7
+棨	tally or wooden pass (U+68E8)	e6a3a8
+棩	U+68E9 (U+68E9)	e6a3a9
+棪	tree (U+68EA)	e6a3aa
+棫	thorny shrub with yellow flowers; a kind of oak (U+68EB)	e6a3ab
+棬	bowl (U+68EC)	e6a3ac
+棭	U+68ED (U+68ED)	e6a3ad
+森	forest; luxuriant vegetation (U+68EE)	e6a3ae
+棯	jujube tree (U+68EF)	e6a3af
+棰	U+68F0 (U+68F0)	e6a3b0
+棱	squared timber; angle, edge (U+68F1)	e6a3b1
+棲	perch; roost; stay (U+68F2)	e6a3b2
+棳	small pillars that support the roof, those which rest on the main bean (U+68F3)	e6a3b3
+棴	U+68F4 (U+68F4)	e6a3b4
+棵	numerary adjunct for trees (U+68F5)	e6a3b5
+棶	U+68F6 (U+68F6)	e6a3b6
+棷	U+68F7 (U+68F7)	e6a3b7
+棸	surname (U+68F8)	e6a3b8
+棹	oar; boat (U+68F9)	e6a3b9
+棺	coffin (U+68FA)	e6a3ba
+棻	kind of wood from which perfume (U+68FB)	e6a3bb
+棼	beams in the roof of a house confused, disordered (U+68FC)	e6a3bc
+棽	U+68FD (U+68FD)	e6a3bd
+棾	U+68FE (U+68FE)	e6a3be
+棿	U+68FF (U+68FF)	e6a3bf
+椀	bowl; cup; dish (U+6900)	e6a480
+椁	outer-coffin; vault (U+6901)	e6a481
+椂	U+6902 (U+6902)	e6a482
+椃	U+6903 (U+6903)	e6a483
+椄	to graft (U+6904)	e6a484
+椅	chair, seat (U+6905)	e6a485
+椆	U+6906 (U+6906)	e6a486
+椇	U+6907 (U+6907)	e6a487
+椈	cedar (U+6908)	e6a488
+椉	U+6909 (U+6909)	e6a489
+椊	to fit a handle into a socket; a plug or cork (U+690A)	e6a48a
+椋	fruit (U+690B)	e6a48b
+椌	instrument (U+690C)	e6a48c
+植	plant, trees, plants; grow (U+690D)	e6a48d
+椎	hammer, mallet; vertebra (U+690E)	e6a48e
+椏	the forking branch of a tree (U+690F)	e6a48f
+椐	U+6910 (U+6910)	e6a490
+椑	oval (U+6911)	e6a491
+椒	pepper, spices (U+6912)	e6a492
+椓	strike, hit, beat, hammer (U+6913)	e6a493
+椔	U+6914 (U+6914)	e6a494
+椕	U+6915 (U+6915)	e6a495
+椖	U+6916 (U+6916)	e6a496
+椗	U+6917 (U+6917)	e6a497
+椘	U+6918 (U+6918)	e6a498
+椙	U+6919 (U+6919)	e6a499
+椚	a kind of oak used for charcoal (U+691A)	e6a49a
+椛	type of birch (U+691B)	e6a49b
+検	check; examine (U+691C)	e6a49c
+椝	U+691D (U+691D)	e6a49d
+椞	U+691E (U+691E)	e6a49e
+椟	cabinet, wardrobe; closet (U+691F)	e6a49f
+椠	wooden tablet; edition (U+6920)	e6a4a0
+椡	U+6921 (U+6921)	e6a4a1
+椢	U+6922 (U+6922)	e6a4a2
+椣	U+6923 (U+6923)	e6a4a3
+椤	tree (U+6924)	e6a4a4
+椥	U+6925 (U+6925)	e6a4a5
+椦	U+6926 (U+6926)	e6a4a6
+椧	gutter (U+6927)	e6a4a7
+椨	U+6928 (U+6928)	e6a4a8
+椩	U+6929 (U+6929)	e6a4a9
+椪	Machilus nanmu, variety of evergreen (U+692A)	e6a4aa
+椫	U+692B (U+692B)	e6a4ab
+椬	U+692C (U+692C)	e6a4ac
+椭	oval-shaped, elliptical, tubular (U+692D)	e6a4ad
+椮	U+692E (U+692E)	e6a4ae
+椯	U+692F (U+692F)	e6a4af
+椰	palm tree, coconut palm (U+6930)	e6a4b0
+椱	U+6931 (U+6931)	e6a4b1
+椲	U+6932 (U+6932)	e6a4b2
+椳	the pivots, at the top and bottom of a Chinese door, on which the door turns (U+6933)	e6a4b3
+椴	poplar, aspen (U+6934)	e6a4b4
+椵	pompelmous; canque (U+6935)	e6a4b5
+椶	palm tree (U+6936)	e6a4b6
+椷	box; casket; letter; envelope (U+6937)	e6a4b7
+椸	rack (U+6938)	e6a4b8
+椹	a chopping board (U+6939)	e6a4b9
+椺	beam of a house (U+693A)	e6a4ba
+椻	U+693B (U+693B)	e6a4bb
+椼	U+693C (U+693C)	e6a4bc
+椽	beams, rafters, supports (U+693D)	e6a4bd
+椾	U+693E (U+693E)	e6a4be
+椿	father; a plant with white flowers (U+693F)	e6a4bf
+楀	name of tree; surname (U+6940)	e6a580
+楁	U+6941 (U+6941)	e6a581
+楂	a raft, to hew, to fell trees (U+6942)	e6a582
+楃	U+6943 (U+6943)	e6a583
+楄	block (U+6944)	e6a584
+楅	wooden board (U+6945)	e6a585
+楆	U+6946 (U+6946)	e6a586
+楇	U+6947 (U+6947)	e6a587
+楈	U+6948 (U+6948)	e6a588
+楉	U+6949 (U+6949)	e6a589
+楊	willow, poplar, aspen; surname (U+694A)	e6a58a
+楋	U+694B (U+694B)	e6a58b
+楌	U+694C (U+694C)	e6a58c
+楍	U+694D (U+694D)	e6a58d
+楎	peg (U+694E)	e6a58e
+楏	U+694F (U+694F)	e6a58f
+楐	U+6950 (U+6950)	e6a590
+楑	U+6951 (U+6951)	e6a591
+楒	U+6952 (U+6952)	e6a592
+楓	maple tree (U+6953)	e6a593
+楔	wedge; gatepost; foreword (U+6954)	e6a594
+楕	oval-shaped, elliptical, tubular (U+6955)	e6a595
+楖	U+6956 (U+6956)	e6a596
+楗	bar of door, bolt of lock (U+6957)	e6a597
+楘	band (U+6958)	e6a598
+楙	name of plant; lush (U+6959)	e6a599
+楚	name of feudal state; clear (U+695A)	e6a59a
+楛	coarse, crude; plant (U+695B)	e6a59b
+楜	U+695C (U+695C)	e6a59c
+楝	Melia japonica (U+695D)	e6a59d
+楞	used for Ceylon in Buddhist texts (U+695E)	e6a59e
+楟	tree (U+695F)	e6a59f
+楠	name of tree, machilus nanmu (U+6960)	e6a5a0
+楡	elm tree (U+6961)	e6a5a1
+楢	tinder (U+6962)	e6a5a2
+楣	crossbeam above or under gate (U+6963)	e6a5a3
+楤	U+6964 (U+6964)	e6a5a4
+楥	a last for making shoes; to turn on a lathe (U+6965)	e6a5a5
+楦	a last for making shoes; to turn on a lathe (U+6966)	e6a5a6
+楧	U+6967 (U+6967)	e6a5a7
+楨	hardwood; supports, posts (U+6968)	e6a5a8
+楩	tree (U+6969)	e6a5a9
+楪	small dish; window (U+696A)	e6a5aa
+楫	oar, paddle (U+696B)	e6a5ab
+楬	tablet; a signpost (U+696C)	e6a5ac
+業	profession, business, trade (U+696D)	e6a5ad
+楮	mulberry; paper (U+696E)	e6a5ae
+楯	shield; horizontal bar (U+696F)	e6a5af
+楰	tree (U+6970)	e6a5b0
+楱	U+6971 (U+6971)	e6a5b1
+楲	U+6972 (U+6972)	e6a5b2
+楳	plums; prunes; surname (U+6973)	e6a5b3
+楴	U+6974 (U+6974)	e6a5b4
+極	extreme, utmost, furthest, final (U+6975)	e6a5b5
+楶	U+6976 (U+6976)	e6a5b6
+楷	model style of Chinese writing (U+6977)	e6a5b7
+楸	mallotus japonicus, deciduous tre (U+6978)	e6a5b8
+楹	column, pillar; numerary adjunct (U+6979)	e6a5b9
+楺	U+697A (U+697A)	e6a5ba
+楻	U+697B (U+697B)	e6a5bb
+楼	building of two or more stories (U+697C)	e6a5bc
+楽	happy, glad; enjoyable; music (U+697D)	e6a5bd
+楾	U+697E (U+697E)	e6a5be
+楿	U+697F (U+697F)	e6a5bf
+榀	U+6980 (U+6980)	e6a680
+榁	U+6981 (U+6981)	e6a681
+概	generally, approximately (U+6982)	e6a682
+榃	raised path between fields (U+6983)	e6a683
+榄	olive (U+6984)	e6a684
+榅	pillar, cryptomeria (U+6985)	e6a685
+榆	elm tree (U+6986)	e6a686
+榇	coffin; tung tree (U+6987)	e6a687
+榈	palm (U+6988)	e6a688
+榉	type of elm (U+6989)	e6a689
+榊	a sacred Shinto tree (U+698A)	e6a68a
+榋	U+698B (U+698B)	e6a68b
+榌	wooden ladder (U+698C)	e6a68c
+榍	U+698D (U+698D)	e6a68d
+榎	small evergreen shrub (U+698E)	e6a68e
+榏	U+698F (U+698F)	e6a68f
+榐	U+6990 (U+6990)	e6a690
+榑	U+6991 (U+6991)	e6a691
+榒	U+6992 (U+6992)	e6a692
+榓	U+6993 (U+6993)	e6a693
+榔	betel-nut tree (U+6994)	e6a694
+榕	banyan tree (U+6995)	e6a695
+榖	paper mulberry (U+6996)	e6a696
+榗	U+6997 (U+6997)	e6a697
+榘	carpenter's square, ruler, rule (U+6998)	e6a698
+榙	U+6999 (U+6999)	e6a699
+榚	U+699A (U+699A)	e6a69a
+榛	hazelnut; thicket, underbrush (U+699B)	e6a69b
+榜	placard; list of successful exam candidates (U+699C)	e6a69c
+榝	U+699D (U+699D)	e6a69d
+榞	U+699E (U+699E)	e6a69e
+榟	U+699F (U+699F)	e6a69f
+榠	U+69A0 (U+69A0)	e6a6a0
+榡	U+69A1 (U+69A1)	e6a6a1
+榢	a frame, a stand, a rack. framework or scaffold.to lay on a frame; to put up (U+69A2)	e6a6a2
+榣	U+69A3 (U+69A3)	e6a6a3
+榤	perch for fowls roost on (U+69A4)	e6a6a4
+榥	screen (U+69A5)	e6a6a5
+榦	tree trunk; support, prop (U+69A6)	e6a6a6
+榧	type of yew (U+69A7)	e6a6a7
+榨	to press or extract juices; a press to extract juices; a vegetable (U+69A8)	e6a6a8
+榩	U+69A9 (U+69A9)	e6a6a9
+榪	headboard (U+69AA)	e6a6aa
+榫	mortise and tenon; fit into (U+69AB)	e6a6ab
+榬	U+69AC (U+69AC)	e6a6ac
+榭	kiosk, pavilion (U+69AD)	e6a6ad
+榮	glory, honor; flourish, prosper (U+69AE)	e6a6ae
+榯	U+69AF (U+69AF)	e6a6af
+榰	U+69B0 (U+69B0)	e6a6b0
+榱	rafter (U+69B1)	e6a6b1
+榲	pillar, cryptomeria (U+69B2)	e6a6b2
+榳	U+69B3 (U+69B3)	e6a6b3
+榴	pomegranate (U+69B4)	e6a6b4
+榵	U+69B5 (U+69B5)	e6a6b5
+榶	U+69B6 (U+69B6)	e6a6b6
+榷	footbridge; toll, levy; monopoly (U+69B7)	e6a6b7
+榸	U+69B8 (U+69B8)	e6a6b8
+榹	U+69B9 (U+69B9)	e6a6b9
+榺	U+69BA (U+69BA)	e6a6ba
+榻	cot, couch, bed (U+69BB)	e6a6bb
+榼	wine glass (U+69BC)	e6a6bc
+榽	U+69BD (U+69BD)	e6a6bd
+榾	pieces of wood (U+69BE)	e6a6be
+榿	alder (U+69BF)	e6a6bf
+槀	draft, manuscript (U+69C0)	e6a780
+槁	wither; withered, rotten, dead (U+69C1)	e6a781
+槂	U+69C2 (U+69C2)	e6a782
+槃	tray; turn, rotate; search (U+69C3)	e6a783
+槄	U+69C4 (U+69C4)	e6a784
+槅	U+69C5 (U+69C5)	e6a785
+槆	U+69C6 (U+69C6)	e6a786
+槇	tip of a tree; fallen tree (U+69C7)	e6a787
+槈	U+69C8 (U+69C8)	e6a788
+槉	U+69C9 (U+69C9)	e6a789
+槊	spear, lance (U+69CA)	e6a78a
+構	frame, building, structure (U+69CB)	e6a78b
+槌	hammer, mallet; strike, beat (U+69CC)	e6a78c
+槍	spear, lance; gun, rifle (U+69CD)	e6a78d
+槎	raft; time, occasion; to hew (U+69CE)	e6a78e
+槏	U+69CF (U+69CF)	e6a78f
+槐	locust tree (U+69D0)	e6a790
+槑	U+69D1 (U+69D1)	e6a791
+槒	U+69D2 (U+69D2)	e6a792
+槓	lever, pole, crowbar; sharpen; (Cant.) a wardrobe, trunk (U+69D3)	e6a793
+槔	U+69D4 (U+69D4)	e6a794
+槕	U+69D5 (U+69D5)	e6a795
+槖	a sack; a stamping sound (U+69D6)	e6a796
+槗	U+69D7 (U+69D7)	e6a797
+様	shape, form, pattern, style (U+69D8)	e6a798
+槙	a twig; an ornamental evergreen (U+69D9)	e6a799
+槚	small evergreen shrub (U+69DA)	e6a79a
+槛	threshold, door-sill (U+69DB)	e6a79b
+槜	U+69DC (U+69DC)	e6a79c
+槝	U+69DD (U+69DD)	e6a79d
+槞	U+69DE (U+69DE)	e6a79e
+槟	betel-nut, areca nut (U+69DF)	e6a79f
+槠	Oak (U+69E0)	e6a7a0
+槡	U+69E1 (U+69E1)	e6a7a1
+槢	a hard wood (U+69E2)	e6a7a2
+槣	U+69E3 (U+69E3)	e6a7a3
+槤	a flail (U+69E4)	e6a7a4
+槥	coffin (U+69E5)	e6a7a5
+槦	U+69E6 (U+69E6)	e6a7a6
+槧	wooden tablet; edition (U+69E7)	e6a7a7
+槨	outer-coffin (U+69E8)	e6a7a8
+槩	generally, approximately (U+69E9)	e6a7a9
+槪	generally (U+69EA)	e6a7aa
+槫	U+69EB (U+69EB)	e6a7ab
+槬	U+69EC (U+69EC)	e6a7ac
+槭	maple (U+69ED)	e6a7ad
+槮	U+69EE (U+69EE)	e6a7ae
+槯	U+69EF (U+69EF)	e6a7af
+槰	U+69F0 (U+69F0)	e6a7b0
+槱	firewood for sacrifice (U+69F1)	e6a7b1
+槲	type of oak (U+69F2)	e6a7b2
+槳	oar, paddle (U+69F3)	e6a7b3
+槴	U+69F4 (U+69F4)	e6a7b4
+槵	U+69F5 (U+69F5)	e6a7b5
+槶	U+69F6 (U+69F6)	e6a7b6
+槷	U+69F7 (U+69F7)	e6a7b7
+槸	U+69F8 (U+69F8)	e6a7b8
+槹	spar; well-sweep (U+69F9)	e6a7b9
+槺	U+69FA (U+69FA)	e6a7ba
+槻	zelkova tree (U+69FB)	e6a7bb
+槼	rules, regulations, customs, law (U+69FC)	e6a7bc
+槽	trough; manger; vat, tank; groove; a distillery (U+69FD)	e6a7bd
+槾	paste wall with dirt (U+69FE)	e6a7be
+槿	hibiscus (U+69FF)	e6a7bf
+樀	U+6A00 (U+6A00)	e6a880
+樁	stake, post; affair, matter (U+6A01)	e6a881
+樂	happy, glad; enjoyable; music (U+6A02)	e6a882
+樃	U+6A03 (U+6A03)	e6a883
+樄	U+6A04 (U+6A04)	e6a884
+樅	fir tree (U+6A05)	e6a885
+樆	U+6A06 (U+6A06)	e6a886
+樇	U+6A07 (U+6A07)	e6a887
+樈	U+6A08 (U+6A08)	e6a888
+樉	U+6A09 (U+6A09)	e6a889
+樊	a railing; a fence an enclosed place (U+6A0A)	e6a88a
+樋	tree name (U+6A0B)	e6a88b
+樌	U+6A0C (U+6A0C)	e6a88c
+樍	U+6A0D (U+6A0D)	e6a88d
+樎	U+6A0E (U+6A0E)	e6a88e
+樏	sedan (U+6A0F)	e6a88f
+樐	a lookout turret on a city wall, movable wooden tower for archers; a scull a sweep, an oar (U+6A10)	e6a890
+樑	bridge; beam (U+6A11)	e6a891
+樒	a tree whose branches are placed on Buddhist graves (U+6A12)	e6a892
+樓	building of two or more stories (U+6A13)	e6a893
+樔	U+6A14 (U+6A14)	e6a894
+樕	shrub (U+6A15)	e6a895
+樖	(Cant.) classifier for plants or trees; a tree-trunk (U+6A16)	e6a896
+樗	Ailanthus glandulosa or A. altissima, a kind of tree useless as timber (U+6A17)	e6a897
+樘	U+6A18 (U+6A18)	e6a898
+標	a mark, symbol, label, sign; standard (U+6A19)	e6a899
+樚	a pulley, a windlass, a wheel, a block (U+6A1A)	e6a89a
+樛	bending branches, bent limbs (U+6A1B)	e6a89b
+樜	U+6A1C (U+6A1C)	e6a89c
+樝	a kind of hawthorne (U+6A1D)	e6a89d
+樞	door hinge; pivot; center of power (U+6A1E)	e6a89e
+樟	camphor tree (U+6A1F)	e6a89f
+樠	elm; gum (U+6A20)	e6a8a0
+模	model, standard, pattern; copy (U+6A21)	e6a8a1
+樢	U+6A22 (U+6A22)	e6a8a2
+樣	shape, form, pattern, style (U+6A23)	e6a8a3
+樤	U+6A24 (U+6A24)	e6a8a4
+樥	U+6A25 (U+6A25)	e6a8a5
+樦	U+6A26 (U+6A26)	e6a8a6
+樧	U+6A27 (U+6A27)	e6a8a7
+樨	scrambled eggs (U+6A28)	e6a8a8
+権	power, right, authority (U+6A29)	e6a8a9
+横	across (U+6A2A)	e6a8aa
+樫	evergreen oak (U+6A2B)	e6a8ab
+樬	U+6A2C (U+6A2C)	e6a8ac
+樭	U+6A2D (U+6A2D)	e6a8ad
+樮	U+6A2E (U+6A2E)	e6a8ae
+樯	mast, yard-arm, boom (U+6A2F)	e6a8af
+樰	U+6A30 (U+6A30)	e6a8b0
+樱	cherry, cherry blossom (U+6A31)	e6a8b1
+樲	jujube (U+6A32)	e6a8b2
+樳	tall tree (U+6A33)	e6a8b3
+樴	U+6A34 (U+6A34)	e6a8b4
+樵	woodcutter; firewood; gather wood (U+6A35)	e6a8b5
+樶	a wooden joint (U+6A36)	e6a8b6
+樷	bushy; a grove; crowded (U+6A37)	e6a8b7
+樸	simple, honest; plain; rough (U+6A38)	e6a8b8
+樹	tree; plant; set up, establish (U+6A39)	e6a8b9
+樺	type of birch (U+6A3A)	e6a8ba
+樻	cupboard, wardrobe, counter (U+6A3B)	e6a8bb
+樼	U+6A3C (U+6A3C)	e6a8bc
+樽	goblet; jar, jug; lush (U+6A3D)	e6a8bd
+樾	the shade of trees (U+6A3E)	e6a8be
+樿	coffin (U+6A3F)	e6a8bf
+橀	U+6A40 (U+6A40)	e6a980
+橁	tree (U+6A41)	e6a981
+橂	U+6A42 (U+6A42)	e6a982
+橃	U+6A43 (U+6A43)	e6a983
+橄	olive (U+6A44)	e6a984
+橅	a beech tree (U+6A45)	e6a985
+橆	without, apart from, none; a negative (U+6A46)	e6a986
+橇	a sledge for transportation (U+6A47)	e6a987
+橈	bent or twisted piece of wood; a paddle (U+6A48)	e6a988
+橉	U+6A49 (U+6A49)	e6a989
+橊	variant of 榴 U+69B4, pomegranate (U+6A4A)	e6a98a
+橋	bridge; beam, crosspiece (U+6A4B)	e6a98b
+橌	U+6A4C (U+6A4C)	e6a98c
+橍	U+6A4D (U+6A4D)	e6a98d
+橎	U+6A4E (U+6A4E)	e6a98e
+橏	U+6A4F (U+6A4F)	e6a98f
+橐	a sack, a bag opening at both ends (U+6A50)	e6a990
+橑	U+6A51 (U+6A51)	e6a991
+橒	wood streaks (U+6A52)	e6a992
+橓	hibiscus; transient (U+6A53)	e6a993
+橔	a wooden chopping-block (U+6A54)	e6a994
+橕	a prop; a shore (U+6A55)	e6a995
+橖	U+6A56 (U+6A56)	e6a996
+橗	U+6A57 (U+6A57)	e6a997
+橘	orange, tangerine (U+6A58)	e6a998
+橙	orange (U+6A59)	e6a999
+橚	tall tree (U+6A5A)	e6a99a
+橛	a post, a stake; an axle (U+6A5B)	e6a99b
+橜	a post, a stake; an axle (U+6A5C)	e6a99c
+橝	U+6A5D (U+6A5D)	e6a99d
+橞	U+6A5E (U+6A5E)	e6a99e
+機	machine; moment, chance (U+6A5F)	e6a99f
+橠	U+6A60 (U+6A60)	e6a9a0
+橡	chestnut oak; rubber tree; rubber (U+6A61)	e6a9a1
+橢	oval-shaped, elliptical, tubular (U+6A62)	e6a9a2
+橣	U+6A63 (U+6A63)	e6a9a3
+橤	stamen (U+6A64)	e6a9a4
+橥	wooden peg, post or stick (U+6A65)	e6a9a5
+橦	tree (U+6A66)	e6a9a6
+橧	hut (U+6A67)	e6a9a7
+橨	U+6A68 (U+6A68)	e6a9a8
+橩	U+6A69 (U+6A69)	e6a9a9
+橪	U+6A6A (U+6A6A)	e6a9aa
+橫	across, horizontal, lateral (U+6A6B)	e6a9ab
+橬	U+6A6C (U+6A6C)	e6a9ac
+橭	U+6A6D (U+6A6D)	e6a9ad
+橮	U+6A6E (U+6A6E)	e6a9ae
+橯	U+6A6F (U+6A6F)	e6a9af
+橰	a spar (U+6A70)	e6a9b0
+橱	cabinet, wardrobe, cupboard (U+6A71)	e6a9b1
+橲	U+6A72 (U+6A72)	e6a9b2
+橳	U+6A73 (U+6A73)	e6a9b3
+橴	place name (U+6A74)	e6a9b4
+橵	wood placed under roof tiles (U+6A75)	e6a9b5
+橶	U+6A76 (U+6A76)	e6a9b6
+橷	U+6A77 (U+6A77)	e6a9b7
+橸	U+6A78 (U+6A78)	e6a9b8
+橹	oar, scull; row, scull (U+6A79)	e6a9b9
+橺	(Cant.) a partition; to separate (U+6A7A)	e6a9ba
+橻	U+6A7B (U+6A7B)	e6a9bb
+橼	citrus (U+6A7C)	e6a9bc
+橽	U+6A7D (U+6A7D)	e6a9bd
+橾	the hole in the center of a wheel accommodating the axle (archaic) (U+6A7E)	e6a9be
+橿	a kind of oak (U+6A7F)	e6a9bf
+檀	sandalwood, hardwood; surname (U+6A80)	e6aa80
+檁	the bole of a tree; a cross beam; the combing round the hatches of a ship (U+6A81)	e6aa81
+檂	U+6A82 (U+6A82)	e6aa82
+檃	U+6A83 (U+6A83)	e6aa83
+檄	call arms; urgency (U+6A84)	e6aa84
+檅	U+6A85 (U+6A85)	e6aa85
+檆	U+6A86 (U+6A86)	e6aa86
+檇	wooden rammer or pestle; place (U+6A87)	e6aa87
+檈	U+6A88 (U+6A88)	e6aa88
+檉	type of willow; tamarisk (U+6A89)	e6aa89
+檊	U+6A8A (U+6A8A)	e6aa8a
+檋	U+6A8B (U+6A8B)	e6aa8b
+檌	U+6A8C (U+6A8C)	e6aa8c
+檍	ilex (U+6A8D)	e6aa8d
+檎	small red apple (U+6A8E)	e6aa8e
+檏	U+6A8F (U+6A8F)	e6aa8f
+檐	eaves of house; brim, rim (U+6A90)	e6aa90
+檑	U+6A91 (U+6A91)	e6aa91
+檒	U+6A92 (U+6A92)	e6aa92
+檓	U+6A93 (U+6A93)	e6aa93
+檔	shelf; frame, crosspiece (U+6A94)	e6aa94
+檕	U+6A95 (U+6A95)	e6aa95
+檖	wild pear tree (U+6A96)	e6aa96
+檗	tree (U+6A97)	e6aa97
+檘	U+6A98 (U+6A98)	e6aa98
+檙	U+6A99 (U+6A99)	e6aa99
+檚	U+6A9A (U+6A9A)	e6aa9a
+檛	a switch, whip (U+6A9B)	e6aa9b
+檜	Chinese cypress, Chinese juniper (U+6A9C)	e6aa9c
+檝	oar (U+6A9D)	e6aa9d
+檞	a kind of oak (U+6A9E)	e6aa9e
+檟	small evergreen shrub (U+6A9F)	e6aa9f
+檠	stand for lamp; frame for bow (U+6AA0)	e6aaa0
+檡	U+6AA1 (U+6AA1)	e6aaa1
+檢	check; examine (U+6AA2)	e6aaa2
+檣	mast, yard-arm, boom (U+6AA3)	e6aaa3
+檤	U+6AA4 (U+6AA4)	e6aaa4
+檥	variant of 艤 U+8264, to moor a boat to the bank (U+6AA5)	e6aaa5
+檦	U+6AA6 (U+6AA6)	e6aaa6
+檧	U+6AA7 (U+6AA7)	e6aaa7
+檨	mango (U+6AA8)	e6aaa8
+檩	the bole of a tree; a cross beam; the combing round the hatches of a ship (U+6AA9)	e6aaa9
+檪	chestnut-leaved oak; oak (U+6AAA)	e6aaaa
+檫	sassafras tzumu (U+6AAB)	e6aaab
+檬	type of locust oracacia (U+6AAC)	e6aaac
+檭	U+6AAD (U+6AAD)	e6aaad
+檮	block of wood; blockhead; stupid (U+6AAE)	e6aaae
+檯	table (U+6AAF)	e6aaaf
+檰	U+6AB0 (U+6AB0)	e6aab0
+檱	U+6AB1 (U+6AB1)	e6aab1
+檲	U+6AB2 (U+6AB2)	e6aab2
+檳	betel-nut, areca nut (U+6AB3)	e6aab3
+檴	tree (U+6AB4)	e6aab4
+檵	U+6AB5 (U+6AB5)	e6aab5
+檶	U+6AB6 (U+6AB6)	e6aab6
+檷	U+6AB7 (U+6AB7)	e6aab7
+檸	lemon (U+6AB8)	e6aab8
+檹	U+6AB9 (U+6AB9)	e6aab9
+檺	U+6ABA (U+6ABA)	e6aaba
+檻	threshold, door-sill (U+6ABB)	e6aabb
+檼	ridge pole; shape wood by use of heat; tool for shaping bent wood (U+6ABC)	e6aabc
+檽	U+6ABD (U+6ABD)	e6aabd
+檾	grassy plant with fibres from which cloth is made (U+6ABE)	e6aabe
+檿	mulberry (U+6ABF)	e6aabf
+櫀	U+6AC0 (U+6AC0)	e6ab80
+櫁	U+6AC1 (U+6AC1)	e6ab81
+櫂	oar, scull, paddle; row (U+6AC2)	e6ab82
+櫃	cupboard, wardrobe, counter (U+6AC3)	e6ab83
+櫄	U+6AC4 (U+6AC4)	e6ab84
+櫅	a kind of tree suitable for use to make axles for large carts (U+6AC5)	e6ab85
+櫆	Polaris, the north star (U+6AC6)	e6ab86
+櫇	U+6AC7 (U+6AC7)	e6ab87
+櫈	bench; stool (U+6AC8)	e6ab88
+櫉	U+6AC9 (U+6AC9)	e6ab89
+櫊	U+6ACA (U+6ACA)	e6ab8a
+櫋	U+6ACB (U+6ACB)	e6ab8b
+櫌	a kind of hoe (U+6ACC)	e6ab8c
+櫍	U+6ACD (U+6ACD)	e6ab8d
+櫎	U+6ACE (U+6ACE)	e6ab8e
+櫏	U+6ACF (U+6ACF)	e6ab8f
+櫐	U+6AD0 (U+6AD0)	e6ab90
+櫑	U+6AD1 (U+6AD1)	e6ab91
+櫒	U+6AD2 (U+6AD2)	e6ab92
+櫓	oar, scull; row (U+6AD3)	e6ab93
+櫔	U+6AD4 (U+6AD4)	e6ab94

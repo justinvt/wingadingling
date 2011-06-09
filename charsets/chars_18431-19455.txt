@@ -1,0 +1,1024 @@
+仕	official; serve government (U+4ED5)	e4bb95
+他	other, another; he, she, it (U+4ED6)	e4bb96
+仗	rely upon; protector; fight; war, weaponry (U+4ED7)	e4bb97
+付	give, deliver, pay, hand over; entrust (U+4ED8)	e4bb98
+仙	Taoist super-being, transcendent, immortal (U+4ED9)	e4bb99
+仚	to fly (U+4EDA)	e4bb9a
+仛	young girl; strange, different (U+4EDB)	e4bb9b
+仜	U+4EDC (U+4EDC)	e4bb9c
+仝	together, same; surname (U+4EDD)	e4bb9d
+仞	ancient unit of measure (8 feet); 'fathom' (U+4EDE)	e4bb9e
+仟	one thousand; leader of one thousand men (U+4EDF)	e4bb9f
+仠	U+4EE0 (U+4EE0)	e4bba0
+仡	strong; valiant (U+4EE1)	e4bba1
+仢	U+4EE2 (U+4EE2)	e4bba2
+代	replace, replacement (of person or generation); era, generation (U+4EE3)	e4bba3
+令	command, order; 'commandant', magistrate; allow, cause (U+4EE4)	e4bba4
+以	by means of; thereby, therefore; consider as; in order to (U+4EE5)	e4bba5
+仦	U+4EE6 (U+4EE6)	e4bba6
+仧	U+4EE7 (U+4EE7)	e4bba7
+仨	(coll.) three (cannot be followed by a measure word) (U+4EE8)	e4bba8
+仩	U+4EE9 (U+4EE9)	e4bba9
+仪	ceremony, rites gifts; admire (U+4EEA)	e4bbaa
+仫	tribe (U+4EEB)	e4bbab
+们	adjunct pronoun indicate plural (U+4EEC)	e4bbac
+仭	ancient unit of measure (8 feet); 'fathom' (U+4EED)	e4bbad
+仮	falsehood, deception; vacation (U+4EEE)	e4bbae
+仯	U+4EEF (U+4EEF)	e4bbaf
+仰	raise the head to look; look up to, rely on, admire (U+4EF0)	e4bbb0
+仱	U+4EF1 (U+4EF1)	e4bbb1
+仲	middle brother; go between, mediator; surname (U+4EF2)	e4bbb2
+仳	separate, part company (U+4EF3)	e4bbb3
+仴	U+4EF4 (U+4EF4)	e4bbb4
+仵	similar (U+4EF5)	e4bbb5
+件	numerary adjunct for article; matter (U+4EF6)	e4bbb6
+价	price, value (U+4EF7)	e4bbb7
+仸	bent, distorted, crooked; feeble (U+4EF8)	e4bbb8
+仹	U+4EF9 (U+4EF9)	e4bbb9
+仺	U+4EFA (U+4EFA)	e4bbba
+任	trust to, rely on, appoint; to bear, duty, office; allow (U+4EFB)	e4bbbb
+仼	U+4EFC (U+4EFC)	e4bbbc
+份	portion, part; duty (U+4EFD)	e4bbbd
+仾	to hang or bow the head, to droop, to lower; low, beneath (U+4EFE)	e4bbbe
+仿	imitate, copy; as if (U+4EFF)	e4bbbf
+伀	excited (U+4F00)	e4bc80
+企	plan a project; stand on tiptoe (U+4F01)	e4bc81
+伂	U+4F02 (U+4F02)	e4bc82
+伃	handsome (U+4F03)	e4bc83
+伄	U+4F04 (U+4F04)	e4bc84
+伅	U+4F05 (U+4F05)	e4bc85
+伆	U+4F06 (U+4F06)	e4bc86
+伇	U+4F07 (U+4F07)	e4bc87
+伈	nervous, fearful (U+4F08)	e4bc88
+伉	compare, match; pair; spouse (U+4F09)	e4bc89
+伊	third person pronoun; he, she, this, that (U+4F0A)	e4bc8a
+伋	deceptive (U+4F0B)	e4bc8b
+伌	U+4F0C (U+4F0C)	e4bc8c
+伍	five, company of five; troops (U+4F0D)	e4bc8d
+伎	talent, skill, ability (U+4F0E)	e4bc8e
+伏	crouch, crawl, lie hidden, conceal (U+4F0F)	e4bc8f
+伐	cut down, subjugate, attack (U+4F10)	e4bc90
+休	rest, stop; retire; do not! (U+4F11)	e4bc91
+伒	U+4F12 (U+4F12)	e4bc92
+伓	U+4F13 (U+4F13)	e4bc93
+伔	U+4F14 (U+4F14)	e4bc94
+伕	common laborer (U+4F15)	e4bc95
+伖	U+4F16 (U+4F16)	e4bc96
+众	multitude, crowd; masses, public (U+4F17)	e4bc97
+优	superior, excellent; actor (U+4F18)	e4bc98
+伙	companion, colleague; utensils (U+4F19)	e4bc99
+会	assemble, meet together; meeting (U+4F1A)	e4bc9a
+伛	humpback; stoop (U+4F1B)	e4bc9b
+伜	deputy, vice- (U+4F1C)	e4bc9c
+伝	summon; propagate, transmit (U+4F1D)	e4bc9d
+伞	umbrella, parasol, parachute (U+4F1E)	e4bc9e
+伟	great, robust; extraordinary (U+4F1F)	e4bc9f
+传	summon; propagate, transmit (U+4F20)	e4bca0
+伡	U+4F21 (U+4F21)	e4bca1
+伢	child (U+4F22)	e4bca2
+伣	like (U+4F23)	e4bca3
+伤	wound, injury; fall ill from (U+4F24)	e4bca4
+伥	ghost of one devoured by tiger (U+4F25)	e4bca5
+伦	normal human relationships (U+4F26)	e4bca6
+伧	vulgar person, country man (U+4F27)	e4bca7
+伨	U+4F28 (U+4F28)	e4bca8
+伩	trust, believe; letter; (Cant.) small (U+4F29)	e4bca9
+伪	false, counterfeit, bogus (U+4F2A)	e4bcaa
+伫	look towards; turn one's back on (U+4F2B)	e4bcab
+伬	U+4F2C (U+4F2C)	e4bcac
+伭	dark, somber; deep, profound (U+4F2D)	e4bcad
+伮	to make a great effort (U+4F2E)	e4bcae
+伯	older brother; father's elder brother; senior male 'sire'; feudal rank 'count' (U+4F2F)	e4bcaf
+估	merchant; estimate, guess, presume (U+4F30)	e4bcb0
+伱	thou, you (U+4F31)	e4bcb1
+伲	we (Shanghai dialect) (U+4F32)	e4bcb2
+伳	U+4F33 (U+4F33)	e4bcb3
+伴	companion, comrade, partner; accompany (U+4F34)	e4bcb4
+伵	U+4F35 (U+4F35)	e4bcb5
+伶	lonely, solitary; actor (U+4F36)	e4bcb6
+伷	descendent (U+4F37)	e4bcb7
+伸	extend, stretch out, open up; trust (U+4F38)	e4bcb8
+伹	dull, slow, unskillful (U+4F39)	e4bcb9
+伺	serve, wait upon, attend; examine (U+4F3A)	e4bcba
+伻	messenger, emissary; send emissary (U+4F3B)	e4bcbb
+似	resemble, similar to; as if, seem (U+4F3C)	e4bcbc
+伽	transcription of sanskrit 'gha' in buddhist texts ('samgha', etc.); (nursing; attending; entertainer) (Jap.); tample; in Chinese this character is not used alone (U+4F3D)	e4bcbd
+伾	mighty (U+4F3E)	e4bcbe
+伿	U+4F3F (U+4F3F)	e4bcbf
+佀	resemble (U+4F40)	e4bd80
+佁	U+4F41 (U+4F41)	e4bd81
+佂	U+4F42 (U+4F42)	e4bd82
+佃	tenant farmer; be a tenant farmer (U+4F43)	e4bd83
+佄	U+4F44 (U+4F44)	e4bd84
+佅	U+4F45 (U+4F45)	e4bd85
+但	only; but, however, yet, still (U+4F46)	e4bd86
+佇	wait; look towards; turn one's back on (U+4F47)	e4bd87
+佈	spread, publicize, announce (U+4F48)	e4bd88
+佉	surname; name of a divine being; transliteration of Sanskrit 'kh' (U+4F49)	e4bd89
+佊	U+4F4A (U+4F4A)	e4bd8a
+佋	continue, carry on; hand down; to join (U+4F4B)	e4bd8b
+佌	small (U+4F4C)	e4bd8c
+位	throne; position, post; rank, status; seat (U+4F4D)	e4bd8d
+低	low; to lower, hang, bend, bow (U+4F4E)	e4bd8e
+住	reside, live at, dwell, lodge; stop (U+4F4F)	e4bd8f
+佐	assist, aid, second; subordinate (U+4F50)	e4bd90
+佑	help, protect, bless (U+4F51)	e4bd91
+佒	U+4F52 (U+4F52)	e4bd92
+体	body; group, class, body, unit; inferior (U+4F53)	e4bd93
+佔	occupy by force, usurp; possess (U+4F54)	e4bd94
+何	what, why, where, which, how (U+4F55)	e4bd95
+佖	U+4F56 (U+4F56)	e4bd96
+佗	other, he; surname; a load (U+4F57)	e4bd97
+佘	surname (U+4F58)	e4bd98
+余	I, my, me; surname; surplus (U+4F59)	e4bd99
+佚	indulge in pleasures; flee (U+4F5A)	e4bd9a
+佛	Buddha; of Buddhism; merciful person; Buddhist image; the dead (Jap.) (U+4F5B)	e4bd9b
+作	make; work; compose, write; act, perform (U+4F5C)	e4bd9c
+佝	rickets (U+4F5D)	e4bd9d
+佞	flattery; glib (U+4F5E)	e4bd9e
+佟	a name (U+4F5F)	e4bd9f
+你	you, second person pronoun (U+4F60)	e4bda0
+佡	make effort, endeavor (U+4F61)	e4bda1
+佢	(Cant.) he, she, it (U+4F62)	e4bda2
+佣	commission fee (U+4F63)	e4bda3
+佤	the Va (Wa) nationality, living in Yunnan (U+4F64)	e4bda4
+佥	all, together, unanimous (U+4F65)	e4bda5
+佦	U+4F66 (U+4F66)	e4bda6
+佧	U+4F67 (U+4F67)	e4bda7
+佨	U+4F68 (U+4F68)	e4bda8
+佩	belt ornament, pendant; wear at waist, tie to the belt; respect (U+4F69)	e4bda9
+佪	hesitate (U+4F6A)	e4bdaa
+佫	U+4F6B (U+4F6B)	e4bdab
+佬	(Cant.) man, person; mature (U+4F6C)	e4bdac
+佭	unsubmissive; obstreperous (U+4F6D)	e4bdad
+佮	(Cant.) intensive particle (U+4F6E)	e4bdae
+佯	pretend, feign; false, deceitful (U+4F6F)	e4bdaf
+佰	hundred (U+4F70)	e4bdb0
+佱	U+4F71 (U+4F71)	e4bdb1
+佲	U+4F72 (U+4F72)	e4bdb2
+佳	good, auspicious; beautiful; delightful (U+4F73)	e4bdb3
+佴	a second, an assistant (U+4F74)	e4bdb4
+併	combine, annex (U+4F75)	e4bdb5
+佶	strong, robust; exact, correct (U+4F76)	e4bdb6
+佷	to act contrary to (U+4F77)	e4bdb7
+佸	meet (U+4F78)	e4bdb8
+佹	depend upon; support; go against; (variant deceive) (U+4F79)	e4bdb9
+佺	fairy (U+4F7A)	e4bdba
+佻	frivolous; unsteady; delay (U+4F7B)	e4bdbb
+佼	beautiful, handsome, good-looking (U+4F7C)	e4bdbc
+佽	aid; help (U+4F7D)	e4bdbd
+佾	a row or file of dancers (U+4F7E)	e4bdbe
+使	cause, send on a mission, order; envoy, messenger, ambassador (U+4F7F)	e4bdbf
+侀	form (U+4F80)	e4be80
+侁	crowd (U+4F81)	e4be81
+侂	to commission, to entrust to, to depute; to request, to ask (U+4F82)	e4be82
+侃	upright and strong; amiable (U+4F83)	e4be83
+侄	nephew (U+4F84)	e4be84
+侅	to give; prepared for included in; embraced in (U+4F85)	e4be85
+來	come, coming; return, returning (U+4F86)	e4be86
+侇	a class, a category a corpse (U+4F87)	e4be87
+侈	luxurious, extravagant (U+4F88)	e4be88
+侉	U+4F89 (U+4F89)	e4be89
+侊	big (U+4F8A)	e4be8a
+例	precedent, example; regulation (U+4F8B)	e4be8b
+侌	U+4F8C (U+4F8C)	e4be8c
+侍	serve, attend upon; attendant, servant; samurai (U+4F8D)	e4be8d
+侎	to soothe, to pacify; to settle, to establish (U+4F8E)	e4be8e
+侏	small, little, tiny, dwarf (U+4F8F)	e4be8f
+侐	quiet (U+4F90)	e4be90
+侑	help, assist, repay kindness (U+4F91)	e4be91
+侒	U+4F92 (U+4F92)	e4be92
+侓	U+4F93 (U+4F93)	e4be93
+侔	equal (U+4F94)	e4be94
+侕	U+4F95 (U+4F95)	e4be95
+侖	logical reasons, logical order (U+4F96)	e4be96
+侗	big; ignorant; rude, rustic (U+4F97)	e4be97
+侘	disappointed, forlorn (U+4F98)	e4be98
+侙	U+4F99 (U+4F99)	e4be99
+侚	fast (U+4F9A)	e4be9a
+供	supply, provide for; offer in worship (U+4F9B)	e4be9b
+侜	lies (U+4F9C)	e4be9c
+依	rely on, be set in; consent, obey a wish (U+4F9D)	e4be9d
+侞	U+4F9E (U+4F9E)	e4be9e
+侟	U+4F9F (U+4F9F)	e4be9f
+侠	chivalrous person; knight-errant (U+4FA0)	e4bea0
+価	price, value (U+4FA1)	e4bea1
+侢	load (U+4FA2)	e4bea2
+侣	companion; associate with (U+4FA3)	e4bea3
+侤	U+4FA4 (U+4FA4)	e4bea4
+侥	be lucky; by chance, by luck (U+4FA5)	e4bea5
+侦	spy, reconnoiter; detective (U+4FA6)	e4bea6
+侧	side; incline, slant, lean (U+4FA7)	e4bea7
+侨	sojourn, lodge (U+4FA8)	e4bea8
+侩	go-between, broker, proxy (U+4FA9)	e4bea9
+侪	a company, companion; together (U+4FAA)	e4beaa
+侫	flattery; glib (U+4FAB)	e4beab
+侬	I; you; family name (U+4FAC)	e4beac
+侭	complete, utmost (U+4FAD)	e4bead
+侮	insult, ridicule, disgrace (U+4FAE)	e4beae
+侯	marquis, lord; target in archery (U+4FAF)	e4beaf
+侰	U+4FB0 (U+4FB0)	e4beb0
+侱	U+4FB1 (U+4FB1)	e4beb1
+侲	U+4FB2 (U+4FB2)	e4beb2
+侳	U+4FB3 (U+4FB3)	e4beb3
+侴	surname (U+4FB4)	e4beb4
+侵	invade, encroach upon, raid (U+4FB5)	e4beb5
+侶	companion; associate with (U+4FB6)	e4beb6
+侷	narrow, cramped, confined (U+4FB7)	e4beb7
+侸	U+4FB8 (U+4FB8)	e4beb8
+侹	U+4FB9 (U+4FB9)	e4beb9
+侺	U+4FBA (U+4FBA)	e4beba
+侻	U+4FBB (U+4FBB)	e4bebb
+侼	U+4FBC (U+4FBC)	e4bebc
+侽	U+4FBD (U+4FBD)	e4bebd
+侾	U+4FBE (U+4FBE)	e4bebe
+便	convenience, ease; expedient (U+4FBF)	e4bebf
+俀	U+4FC0 (U+4FC0)	e4bf80
+俁	big (U+4FC1)	e4bf81
+係	bind, tie up; involve, relation (U+4FC2)	e4bf82
+促	urge, press, hurry; close (U+4FC3)	e4bf83
+俄	sudden(ly), soon; Russian (U+4FC4)	e4bf84
+俅	ornamental cap (U+4FC5)	e4bf85
+俆	U+4FC6 (U+4FC6)	e4bf86
+俇	U+4FC7 (U+4FC7)	e4bf87
+俈	to inform quickly; an urgent communication (U+4FC8)	e4bf88
+俉	U+4FC9 (U+4FC9)	e4bf89
+俊	talented, capable; handsome (U+4FCA)	e4bf8a
+俋	U+4FCB (U+4FCB)	e4bf8b
+俌	U+4FCC (U+4FCC)	e4bf8c
+俍	U+4FCD (U+4FCD)	e4bf8d
+俎	chopping board or block; painted (U+4FCE)	e4bf8e
+俏	like, similar; resemble; pretty (U+4FCF)	e4bf8f
+俐	smooth; active; clever, sharp (U+4FD0)	e4bf90
+俑	wooden figure buried with dead (U+4FD1)	e4bf91
+俒	U+4FD2 (U+4FD2)	e4bf92
+俓	straight; pass (U+4FD3)	e4bf93
+俔	like (U+4FD4)	e4bf94
+俕	U+4FD5 (U+4FD5)	e4bf95
+俖	U+4FD6 (U+4FD6)	e4bf96
+俗	social customs; vulgar, unrefined (U+4FD7)	e4bf97
+俘	prisoner of war; take as prisoner (U+4FD8)	e4bf98
+俙	to pretend, appear as if (U+4FD9)	e4bf99
+俚	rustic, vulgar, unpolished; mean (U+4FDA)	e4bf9a
+俛	make effort, endeavor; to lower the head (U+4FDB)	e4bf9b
+俜	to trust to; send a message (U+4FDC)	e4bf9c
+保	protect, safeguard, defend, care (U+4FDD)	e4bf9d
+俞	surname; consent, approve (U+4FDE)	e4bf9e
+俟	wait for, wait until, as soon as (U+4FDF)	e4bf9f
+俠	chivalrous person; knight-errant (U+4FE0)	e4bfa0
+信	trust, believe; letter (U+4FE1)	e4bfa1
+俢	U+4FE2 (U+4FE2)	e4bfa2
+俣	big (U+4FE3)	e4bfa3
+俤	(J) same as 面影 U+9762 U+5F71, visage, face; trace, shadow; memory (U+4FE4)	e4bfa4
+俥	rickshaw, cart, vehicle; name of piece in Chinese chess (U+4FE5)	e4bfa5
+俦	companion, mate, colleague (U+4FE6)	e4bfa6
+俧	U+4FE7 (U+4FE7)	e4bfa7
+俨	grave, respectful, majestic (U+4FE8)	e4bfa8
+俩	two, pair (U+4FE9)	e4bfa9
+俪	spouse, couple, pair (U+4FEA)	e4bfaa
+俫	to induce to come; to encourage (U+4FEB)	e4bfab
+俬	(Cant.) 傢俬, furniture (U+4FEC)	e4bfac
+俭	temperate, frugal, economical (U+4FED)	e4bfad
+修	study; repair; cultivate (U+4FEE)	e4bfae
+俯	bow down, face down, look down (U+4FEF)	e4bfaf
+俰	U+4FF0 (U+4FF0)	e4bfb0
+俱	all, together; accompany (U+4FF1)	e4bfb1
+俲	same as 傚 U+509A, imitate, mimic (U+4FF2)	e4bfb2
+俳	actor; vaudeville show; insincere (U+4FF3)	e4bfb3
+俴	thin (U+4FF4)	e4bfb4
+俵	divide, distribute (U+4FF5)	e4bfb5
+俶	start, begin; beginning; arrange (U+4FF6)	e4bfb6
+俷	U+4FF7 (U+4FF7)	e4bfb7
+俸	wages, salary, official emolument (U+4FF8)	e4bfb8
+俹	U+4FF9 (U+4FF9)	e4bfb9
+俺	personal pronoun, I (U+4FFA)	e4bfba
+俻	to prepare; to provide; to put in order; to complete perfection; completeness (U+4FFB)	e4bfbb
+俼	U+4FFC (U+4FFC)	e4bfbc
+俽	U+4FFD (U+4FFD)	e4bfbd
+俾	so that, in order that; cause (U+4FFE)	e4bfbe
+俿	U+4FFF (U+4FFF)	e4bfbf
+倀	bewildered; rash, wildly (U+5000)	e58080
+倁	U+5001 (U+5001)	e58081
+倂	combine (U+5002)	e58082
+倃	damage, destroy (U+5003)	e58083
+倄	U+5004 (U+5004)	e58084
+倅	deputy, vice- (U+5005)	e58085
+倆	clever, skilled; two, pair (U+5006)	e58086
+倇	U+5007 (U+5007)	e58087
+倈	to induce to come; to encourage (U+5008)	e58088
+倉	granary; berth; sea (U+5009)	e58089
+倊	U+500A (U+500A)	e5808a
+個	numerary adjunct, piece; single (U+500B)	e5808b
+倌	assistant in wine shop, groom (U+500C)	e5808c
+倍	times, fold, multiple times (U+500D)	e5808d
+倎	U+500E (U+500E)	e5808e
+倏	hastily, suddenly, abruptly (U+500F)	e5808f
+倐	hastily; suddenly (U+5010)	e58090
+們	adjunct pronoun indicate plural (U+5011)	e58091
+倒	fall over; lie down; take turns (U+5012)	e58092
+倓	U+5013 (U+5013)	e58093
+倔	stubborn, obstinate, intransigent; firm (U+5014)	e58094
+倕	U+5015 (U+5015)	e58095
+倖	lucky, fortunate; dote on, spoil (U+5016)	e58096
+倗	U+5017 (U+5017)	e58097
+倘	if, supposing, in event of (U+5018)	e58098
+候	wait; expect; visit; greet (U+5019)	e58099
+倚	rely on, depend on; lean heavily (U+501A)	e5809a
+倛	U+501B (U+501B)	e5809b
+倜	raise high; unrestrained (U+501C)	e5809c
+倝	sunrise; dawn (U+501D)	e5809d
+倞	far (U+501E)	e5809e
+借	borrow; lend; make pretext of (U+501F)	e5809f
+倠	U+5020 (U+5020)	e580a0
+倡	guide, leader; lead, introduce (U+5021)	e580a1
+倢	beautiful, handsome; woman (U+5022)	e580a2
+倣	imitate (U+5023)	e580a3
+値	price, cost, worth (U+5024)	e580a4
+倥	boorish, ignorant; urgent, pressing (U+5025)	e580a5
+倦	be tired of, weary (U+5026)	e580a6
+倧	U+5027 (U+5027)	e580a7
+倨	arrogant, haughty, rude (U+5028)	e580a8
+倩	beautiful, lovely; son-in-law (U+5029)	e580a9
+倪	feeble, tiny, young and weak (U+502A)	e580aa
+倫	normal human relationships (U+502B)	e580ab
+倬	noticeable, large; clear, distinct (U+502C)	e580ac
+倭	dwarf; dwarfish, short (U+502D)	e580ad
+倮	bare, naked, uncovered (U+502E)	e580ae
+倯	U+502F (U+502F)	e580af
+倰	U+5030 (U+5030)	e580b0
+倱	U+5031 (U+5031)	e580b1
+倲	U+5032 (U+5032)	e580b2
+倳	to stick in, to stab; to erect (U+5033)	e580b3
+倴	U+5034 (U+5034)	e580b4
+倵	U+5035 (U+5035)	e580b5
+倶	all (U+5036)	e580b6
+倷	U+5037 (U+5037)	e580b7
+倸	U+5038 (U+5038)	e580b8
+倹	temperate, frugal, economical (U+5039)	e580b9
+债	debt, loan, liabilities (U+503A)	e580ba
+倻	phonetic used in Korean place names (U+503B)	e580bb
+值	price (U+503C)	e580bc
+倽	what; which; who; why (U+503D)	e580bd
+倾	upset, pour out, overflow (U+503E)	e580be
+倿	U+503F (U+503F)	e580bf
+偀	U+5040 (U+5040)	e58180
+偁	state (U+5041)	e58181
+偂	U+5042 (U+5042)	e58182
+偃	cease, lay off, lay down (U+5043)	e58183
+偄	weak (U+5044)	e58184
+偅	U+5045 (U+5045)	e58185
+偆	U+5046 (U+5046)	e58186
+假	falsehood, deception; vacation (U+5047)	e58187
+偈	brave; martial; hasty; scudding (U+5048)	e58188
+偉	great, robust; extraordinary (U+5049)	e58189
+偊	to walk alone; self-reliant (U+504A)	e5818a
+偋	U+504B (U+504B)	e5818b
+偌	thus, so, like, such (U+504C)	e5818c
+偍	U+504D (U+504D)	e5818d
+偎	cling to, cuddle, embrace, fondle (U+504E)	e5818e
+偏	inclined one side; slanting (U+504F)	e5818f
+偐	false, counterfeit, spurious (U+5050)	e58190
+偑	U+5051 (U+5051)	e58191
+偒	U+5052 (U+5052)	e58192
+偓	to fuss (U+5053)	e58193
+偔	U+5054 (U+5054)	e58194
+偕	together; be in order (U+5055)	e58195
+偖	rip up, tear down; raise; haul (U+5056)	e58196
+偗	U+5057 (U+5057)	e58197
+偘	ancient family name (U+5058)	e58198
+偙	U+5059 (U+5059)	e58199
+做	work, make; act (U+505A)	e5819a
+偛	U+505B (U+505B)	e5819b
+停	stop, suspend, delay; suitable (U+505C)	e5819c
+偝	not facing; desert (U+505D)	e5819d
+偞	U+505E (U+505E)	e5819e
+偟	agitated; alarmed (U+505F)	e5819f
+偠	U+5060 (U+5060)	e581a0
+偡	U+5061 (U+5061)	e581a1
+偢	to stare at (U+5062)	e581a2
+偣	U+5063 (U+5063)	e581a3
+偤	U+5064 (U+5064)	e581a4
+健	strong, robust, healthy; strength (U+5065)	e581a5
+偦	U+5066 (U+5066)	e581a6
+偧	U+5067 (U+5067)	e581a7
+偨	uneven (U+5068)	e581a8
+偩	follow (U+5069)	e581a9
+偪	compel, pressure, force; bother (U+506A)	e581aa
+偫	wait for; lay in (U+506B)	e581ab
+偬	urgent (U+506C)	e581ac
+偭	transgress (U+506D)	e581ad
+偮	U+506E (U+506E)	e581ae
+偯	sob (U+506F)	e581af
+偰	U+5070 (U+5070)	e581b0
+偱	U+5071 (U+5071)	e581b1
+偲	talented; urgent (U+5072)	e581b2
+偳	U+5073 (U+5073)	e581b3
+側	side; incline, slant, lean (U+5074)	e581b4
+偵	spy, reconnoiter; detective (U+5075)	e581b5
+偶	accidentally, coincidently; an idol (U+5076)	e581b6
+偷	to steal, burglar, thief (U+5077)	e581b7
+偸	to steal (U+5078)	e581b8
+偹	prepare, ready, perfect (U+5079)	e581b9
+偺	(same as U+54B1 咱) we, us (U+507A)	e581ba
+偻	humpback; surname (U+507B)	e581bb
+偼	U+507C (U+507C)	e581bc
+偽	false, counterfeit, bogus (U+507D)	e581bd
+偾	ruin, cause fail; overthrown (U+507E)	e581be
+偿	repay, recompense; restitution (U+507F)	e581bf
+傀	great, gigantic; puppet (U+5080)	e58280
+傁	old man (U+5081)	e58281
+傂	U+5082 (U+5082)	e58282
+傃	U+5083 (U+5083)	e58283
+傄	U+5084 (U+5084)	e58284
+傅	tutor, teacher; assist; surname (U+5085)	e58285
+傆	U+5086 (U+5086)	e58286
+傇	U+5087 (U+5087)	e58287
+傈	tribe (U+5088)	e58288
+傉	U+5089 (U+5089)	e58289
+傊	U+508A (U+508A)	e5828a
+傋	U+508B (U+508B)	e5828b
+傌	to curse, to revile, to abuse; to scold (U+508C)	e5828c
+傍	by side of, beside, near, close (U+508D)	e5828d
+傎	topple (U+508E)	e5828e
+傏	to ward off; to parry; to keep out, as wind, rain, or cold (U+508F)	e5828f
+傐	U+5090 (U+5090)	e58290
+傑	hero; outstanding, remarkable (U+5091)	e58291
+傒	personal name; servant (U+5092)	e58292
+傓	U+5093 (U+5093)	e58293
+傔	servant (U+5094)	e58294
+傕	used in old names (U+5095)	e58295
+傖	vulgar person, country man (U+5096)	e58296
+傗	U+5097 (U+5097)	e58297
+傘	umbrella, parasol, parachute (U+5098)	e58298
+備	prepare, ready, perfect (U+5099)	e58299
+傚	imitate, mimic (U+509A)	e5829a
+傛	U+509B (U+509B)	e5829b
+傜	a minority tribe (U+509C)	e5829c
+傝	U+509D (U+509D)	e5829d
+傞	unsteady (U+509E)	e5829e
+傟	U+509F (U+509F)	e5829f
+傠	U+50A0 (U+50A0)	e582a0
+傡	U+50A1 (U+50A1)	e582a1
+傢	stubborn, obstinate, intransigent (U+50A2)	e582a2
+傣	the Dai minority living in South China (U+50A3)	e582a3
+傤	U+50A4 (U+50A4)	e582a4
+傥	if, supposing, in case (U+50A5)	e582a5
+傦	U+50A6 (U+50A6)	e582a6
+傧	entertain guests (U+50A7)	e582a7
+储	save money, store, reserve; heir (U+50A8)	e582a8
+傩	rich (U+50A9)	e582a9
+傪	U+50AA (U+50AA)	e582aa
+傫	tired, exhausted; surname (U+50AB)	e582ab
+催	press, urge (U+50AC)	e582ac
+傭	hire, employ, charter; servant (U+50AD)	e582ad
+傮	finish, to go around (U+50AE)	e582ae
+傯	urgent (U+50AF)	e582af
+傰	U+50B0 (U+50B0)	e582b0
+傱	U+50B1 (U+50B1)	e582b1
+傲	proud, haughty, overbearing (U+50B2)	e582b2
+傳	summon; propagate, transmit (U+50B3)	e582b3
+傴	humpback; stoop (U+50B4)	e582b4
+債	debt, loan, liabilities (U+50B5)	e582b5
+傶	U+50B6 (U+50B6)	e582b6
+傷	wound, injury; fall ill from (U+50B7)	e582b7
+傸	U+50B8 (U+50B8)	e582b8
+傹	U+50B9 (U+50B9)	e582b9
+傺	to hinder; to detain (U+50BA)	e582ba
+傻	foolish, silly, stupid; an imbecile (U+50BB)	e582bb
+傼	surname (U+50BC)	e582bc
+傽	terror-stricken (U+50BD)	e582bd
+傾	upset, pour out, overflow (U+50BE)	e582be
+傿	U+50BF (U+50BF)	e582bf
+僀	U+50C0 (U+50C0)	e58380
+僁	U+50C1 (U+50C1)	e58381
+僂	humpback; surname (U+50C2)	e58382
+僃	prepared (U+50C3)	e58383
+僄	light; airy (U+50C4)	e58384
+僅	only, merely, solely, just (U+50C5)	e58385
+僆	U+50C6 (U+50C6)	e58386
+僇	humiliate; treat with contempt (U+50C7)	e58387
+僈	negligent, remiss (U+50C8)	e58388
+僉	all, together, unanimous (U+50C9)	e58389
+僊	Taoist super-being, transcendent, immortal (U+50CA)	e5838a
+僋	U+50CB (U+50CB)	e5838b
+僌	U+50CC (U+50CC)	e5838c
+働	labor; work (U+50CD)	e5838d
+僎	collect (U+50CE)	e5838e
+像	a picture, image, figure; to resemble (U+50CF)	e5838f
+僐	U+50D0 (U+50D0)	e58390
+僑	sojourn, lodge (U+50D1)	e58391
+僒	U+50D2 (U+50D2)	e58392
+僓	U+50D3 (U+50D3)	e58393
+僔	U+50D4 (U+50D4)	e58394
+僕	slave, servant, I (U+50D5)	e58395
+僖	joy, gladness, delight; surname (U+50D6)	e58396
+僗	U+50D7 (U+50D7)	e58397
+僘	U+50D8 (U+50D8)	e58398
+僙	U+50D9 (U+50D9)	e58399
+僚	companion, colleague; officials; bureaucracy; a pretty face (U+50DA)	e5839a
+僛	U+50DB (U+50DB)	e5839b
+僜	U+50DC (U+50DC)	e5839c
+僝	to revile; to abuse (U+50DD)	e5839d
+僞	false, counterfeit, bogus (U+50DE)	e5839e
+僟	U+50DF (U+50DF)	e5839f
+僠	U+50E0 (U+50E0)	e583a0
+僡	U+50E1 (U+50E1)	e583a1
+僢	U+50E2 (U+50E2)	e583a2
+僣	assume, usurp (U+50E3)	e583a3
+僤	sincere (U+50E4)	e583a4
+僥	be lucky; by chance, by luck (U+50E5)	e583a5
+僦	to heir; to rent (U+50E6)	e583a6
+僧	Buddhist priest, monk; san of Sanskrit sangha (U+50E7)	e583a7
+僨	ruin, cause fail; overthrown (U+50E8)	e583a8
+僩	courageous; martial; dignified (U+50E9)	e583a9
+僪	U+50EA (U+50EA)	e583aa
+僫	U+50EB (U+50EB)	e583ab
+僬	clever; alert in mind pigmies (U+50EC)	e583ac
+僭	assume, usurp (U+50ED)	e583ad
+僮	page, boy servant (U+50EE)	e583ae
+僯	ashamed (U+50EF)	e583af
+僰	ancient aboriginal tribe (U+50F0)	e583b0
+僱	employ, hire (U+50F1)	e583b1
+僲	U+50F2 (U+50F2)	e583b2
+僳	minority name (U+50F3)	e583b3
+僴	U+50F4 (U+50F4)	e583b4
+僵	stiff and motionless, stock still (U+50F5)	e583b5
+僶	forcefully (U+50F6)	e583b6
+僷	U+50F7 (U+50F7)	e583b7
+僸	U+50F8 (U+50F8)	e583b8
+價	price, value (U+50F9)	e583b9
+僺	U+50FA (U+50FA)	e583ba
+僻	out-of-the-way, remote; unorthodox (U+50FB)	e583bb
+僼	U+50FC (U+50FC)	e583bc
+僽	U+50FD (U+50FD)	e583bd
+僾	like (U+50FE)	e583be
+僿	small, minute; lacking sincerity (U+50FF)	e583bf
+儀	ceremony, rites gifts; admire (U+5100)	e58480
+儁	outstanding, fine; superior; talented, capable; handsome (U+5101)	e58481
+儂	I; you; family name (U+5102)	e58482
+儃	U+5103 (U+5103)	e58483
+億	hundred million; many (U+5104)	e58484
+儅	stop (U+5105)	e58485
+儆	warn; warning (U+5106)	e58486
+儇	clever, nimble (U+5107)	e58487
+儈	go-between, broker, proxy (U+5108)	e58488
+儉	temperate, frugal, economical (U+5109)	e58489
+儊	rough and rugged (U+510A)	e5848a
+儋	a small jar; to bear a burden; a load of two (U+510B)	e5848b
+儌	lucky, fortunate (U+510C)	e5848c
+儍	foolish, silly, an imbecile (U+510D)	e5848d
+儎	carry, contain, load (U+510E)	e5848e
+儏	U+510F (U+510F)	e5848f
+儐	entertain guests (U+5110)	e58490
+儑	U+5111 (U+5111)	e58491
+儒	Confucian scholar (U+5112)	e58492
+儓	servant (U+5113)	e58493
+儔	companion, mate, colleague (U+5114)	e58494
+儕	a company, companion; together (U+5115)	e58495
+儖	U+5116 (U+5116)	e58496
+儗	compare with, draw analogy with (U+5117)	e58497
+儘	utmost (U+5118)	e58498
+儙	U+5119 (U+5119)	e58499
+儚	(J) equivalent to 果敢 U+679C U+6562, fleeting, momentary, ephemeral; vain, empty; fickle (U+511A)	e5849a
+儛	to skip about, to dance for joy (U+511B)	e5849b
+儜	weak; wearied; in distress (U+511C)	e5849c
+儝	U+511D (U+511D)	e5849d
+儞	U+511E (U+511E)	e5849e
+償	repay, recompense; restitution (U+511F)	e5849f
+儠	U+5120 (U+5120)	e584a0
+儡	puppet, dummy (U+5121)	e584a1
+儢	U+5122 (U+5122)	e584a2
+儣	U+5123 (U+5123)	e584a3
+儤	on duty (U+5124)	e584a4
+儥	U+5125 (U+5125)	e584a5
+儦	milling (U+5126)	e584a6
+儧	U+5127 (U+5127)	e584a7
+儨	U+5128 (U+5128)	e584a8
+儩	complete (U+5129)	e584a9
+優	superior, excellent; actor (U+512A)	e584aa
+儫	U+512B (U+512B)	e584ab
+儬	U+512C (U+512C)	e584ac
+儭	to assist; to give alms (U+512D)	e584ad
+儮	U+512E (U+512E)	e584ae
+儯	U+512F (U+512F)	e584af
+儰	U+5130 (U+5130)	e584b0
+儱	rude; barbarous (U+5131)	e584b1
+儲	to save money, store, reserve; an heir (U+5132)	e584b2
+儳	obstinate; stupid; uneven; mix (U+5133)	e584b3
+儴	U+5134 (U+5134)	e584b4
+儵	U+5135 (U+5135)	e584b5
+儶	valiant, brave; eminent (U+5136)	e584b6
+儷	spouse, couple, pair (U+5137)	e584b7
+儸	bandit, daredevil (U+5138)	e584b8
+儹	to accumulate, to hoard, to store up (U+5139)	e584b9
+儺	rich (U+513A)	e584ba
+儻	if, supposing, in case (U+513B)	e584bb
+儼	grave, respectful, majestic (U+513C)	e584bc
+儽	lazy; tired out, worn fatigued (U+513D)	e584bd
+儾	slow, dull; irresolute (U+513E)	e584be
+儿	son, child; KangXi radical 10 (U+513F)	e584bf
+兀	to cut off the feet (U+5140)	e58580
+允	to grant, to allow, to consent (U+5141)	e58581
+兂	hairpin, clasp; wear in hair (U+5142)	e58582
+元	first; dollar; origin; head (U+5143)	e58583
+兄	elder brother (U+5144)	e58584
+充	fill, be full, supply (U+5145)	e58585
+兆	omen; million; mega; also trillion. China = million; Japan and Taiwan = trillion (U+5146)	e58586
+兇	atrocious, ferocious, brutal (U+5147)	e58587
+先	first, former, previous (U+5148)	e58588
+光	light, brilliant, shine; only (U+5149)	e58589
+兊	U+514A (U+514A)	e5858a
+克	gram; overcome; transliteration (U+514B)	e5858b
+兌	cash; exchange, barter; weight (U+514C)	e5858c
+免	spare; excuse from; evade (U+514D)	e5858d
+兎	rabbit, hare (U+514E)	e5858e
+兏	U+514F (U+514F)	e5858f
+児	son, child, oneself; final part (U+5150)	e58590
+兑	cash; exchange (U+5151)	e58591
+兒	son, child, oneself; final part (U+5152)	e58592
+兓	U+5153 (U+5153)	e58593
+兔	rabbit, hare (U+5154)	e58594
+兕	a female rhinoceros (U+5155)	e58595
+兖	establish; one of nine empire divisions (U+5156)	e58596
+兗	establish; one of nine empire divisions (U+5157)	e58597
+兘	U+5158 (U+5158)	e58598
+兙	decagram (U+5159)	e58599
+党	political party, gang, faction (U+515A)	e5859a
+兛	kilogram (U+515B)	e5859b
+兜	pouch (U+515C)	e5859c
+兝	decigram (U+515D)	e5859d
+兞	milligram (U+515E)	e5859e
+兟	to advance (U+515F)	e5859f
+兠	U+5160 (U+5160)	e585a0
+兡	mercury (chemical element) (U+5161)	e585a1
+兢	fearful, cautious, wary (U+5162)	e585a2
+兣	decigram; centigram (U+5163)	e585a3
+兤	U+5164 (U+5164)	e585a4
+入	enter, come in(to), join (U+5165)	e585a5
+兦	destruction (U+5166)	e585a6
+內	inside, interior; domestic (U+5167)	e585a7
+全	maintain, keep whole or intact (U+5168)	e585a8
+兩	two, both, pair, couple; ounce (U+5169)	e585a9
+兪	surname; consent (U+516A)	e585aa
+八	eight; all around, all sides (U+516B)	e585ab
+公	fair, equitable; public; duke (U+516C)	e585ac
+六	number six (U+516D)	e585ad
+兮	exclamatory particle (U+516E)	e585ae
+兯	kwukyel (U+516F)	e585af
+兰	orchid; elegant, graceful (U+5170)	e585b0
+共	together with, all, total; to share (U+5171)	e585b1
+兲	heaven; sky (U+5172)	e585b2
+关	frontier pass; close; relation (U+5173)	e585b3
+兴	thrive, prosper, flourish (U+5174)	e585b4
+兵	soldier, troops (U+5175)	e585b5
+其	his, her, its, their; that (U+5176)	e585b6
+具	tool, implement; draw up, write (U+5177)	e585b7
+典	law, canon; documentation; classic, scripture (U+5178)	e585b8
+兹	now, here; this; time, year (U+5179)	e585b9
+兺	U+517A (U+517A)	e585ba
+养	raise, rear, bring up; support (U+517B)	e585bb
+兼	unite, combine; connect; and (U+517C)	e585bc
+兽	beast, animal; bestial (U+517D)	e585bd
+兾	same as 冀 U+5180 to hope for; to wish (U+517E)	e585be
+兿	U+517F (U+517F)	e585bf
+冀	hope for; wish; Hebei province (U+5180)	e58680
+冁	smile (U+5181)	e58681
+冂	wide; KangXi radical 13 (U+5182)	e58682
+冃	U+5183 (U+5183)	e58683
+冄	tender; weak; gradually alterrrrating (U+5184)	e58684
+内	inside (U+5185)	e58685
+円	yen (U+5186)	e58686
+冇	(Cant.) have not (U+5187)	e58687
+冈	ridge or crest of hill (U+5188)	e58688
+冉	tender; weak; proceed gradually (U+5189)	e58689
+冊	book, volume (U+518A)	e5868a
+冋	a desert, a border (U+518B)	e5868b
+册	book, volume, register, list (U+518C)	e5868c
+再	again, twice, re- (U+518D)	e5868d
+冎	U+518E (U+518E)	e5868e
+冏	(archaic form of U+70AF 炯) light, bright (U+518F)	e5868f
+冐	risk, brave, dare (U+5190)	e58690
+冑	helmet (U+5191)	e58691
+冒	risk, brave, dare (U+5192)	e58692
+冓	a secluded place; secret cabinet (U+5193)	e58693
+冔	cap worn during the Yin dynasty (U+5194)	e58694
+冕	crown; ceremonial cap (U+5195)	e58695
+冖	cover; KangXi radical 14 (U+5196)	e58696
+冗	excessive; superfluous (U+5197)	e58697
+冘	to move on; coubtful (U+5198)	e58698
+写	write; draw, sketch; compose (U+5199)	e58699
+冚	(Cant.) cover, lid (U+519A)	e5869a
+军	army, military; soldiers, troops (U+519B)	e5869b
+农	agriculture, farming; farmer (U+519C)	e5869c
+冝	suitable, right, fitting, proper (U+519D)	e5869d
+冞	far (U+519E)	e5869e
+冟	U+519F (U+519F)	e5869f
+冠	cap, crown, headgear (U+51A0)	e586a0
+冡	U+51A1 (U+51A1)	e586a1
+冢	burial mound, mausoleum; grand (U+51A2)	e586a2
+冣	U+51A3 (U+51A3)	e586a3
+冤	grievance, injustice, wrong (U+51A4)	e586a4
+冥	dark, gloomy, night; deep (U+51A5)	e586a5
+冦	bandits, thieves; enemy; invade (U+51A6)	e586a6
+冧	(Cant.) a bud; to bend; phonetic 'num' as in 'number' (U+51A7)	e586a7
+冨	abundant, ample; rich, wealthy (U+51A8)	e586a8
+冩	write; draw, sketch; compose (U+51A9)	e586a9
+冪	cover-cloth, cover with cloth (U+51AA)	e586aa
+冫	ice; KangXi radical 15 (U+51AB)	e586ab
+冬	winter, 11th lunar month (U+51AC)	e586ac
+冭	U+51AD (U+51AD)	e586ad
+冮	U+51AE (U+51AE)	e586ae
+冯	surname; gallop; by dint of (U+51AF)	e586af
+冰	ice; ice-cold (U+51B0)	e586b0
+冱	freezing; stopped up, closed off (U+51B1)	e586b1
+冲	soar; pour boiling water over (U+51B2)	e586b2
+决	decide, determine, judge (U+51B3)	e586b3
+冴	freezing; stopped up, closed off (U+51B4)	e586b4
+况	condition, situation; furthermore (U+51B5)	e586b5
+冶	smelt, fuse metals; cast, found (U+51B6)	e586b6
+冷	cold, cool; lonely (U+51B7)	e586b7
+冸	U+51B8 (U+51B8)	e586b8
+冹	U+51B9 (U+51B9)	e586b9
+冺	U+51BA (U+51BA)	e586ba
+冻	freeze; cold, congeal; jelly (U+51BB)	e586bb
+冼	a surname (U+51BC)	e586bc
+冽	cold and raw; pure, clear (U+51BD)	e586bd
+冾	U+51BE (U+51BE)	e586be
+冿	U+51BF (U+51BF)	e586bf
+净	clean, pure; cleanse (U+51C0)	e58780
+凁	U+51C1 (U+51C1)	e58781
+凂	to request; to ask a favour of (U+51C2)	e58782
+凃	mud; surname (U+51C3)	e58783
+凄	bitter cold, miserable, dreary (U+51C4)	e58784
+凅	dried up; exhausted, tired; dry (U+51C5)	e58785
+准	approve, allow, permit; in accord (U+51C6)	e58786
+凇	dewdrop; icicle (U+51C7)	e58787
+凈	clean, pure; cleanse (U+51C8)	e58788
+凉	cool, cold; disheartened (U+51C9)	e58789
+凊	surname (U+51CA)	e5878a
+凋	be withered, fallen; exhausted (U+51CB)	e5878b
+凌	pure; virtuous; insult; maltreat (U+51CC)	e5878c
+凍	freeze; cold, congeal; jelly (U+51CD)	e5878d
+凎	U+51CE (U+51CE)	e5878e
+减	decrease, subtract, diminish (U+51CF)	e5878f
+凐	U+51D0 (U+51D0)	e58790
+凑	piece together, assemble (U+51D1)	e58791
+凒	U+51D2 (U+51D2)	e58792
+凓	shiver; severe cold (U+51D3)	e58793
+凔	cold (U+51D4)	e58794
+凕	U+51D5 (U+51D5)	e58795
+凖	rule, guideline, standard (U+51D6)	e58796
+凗	U+51D7 (U+51D7)	e58797
+凘	U+51D8 (U+51D8)	e58798
+凙	an icicle (U+51D9)	e58799
+凚	cold; chilly (U+51DA)	e5879a
+凛	to shiver with cold or fear (U+51DB)	e5879b
+凜	shiver with cold or fear, fearful (U+51DC)	e5879c
+凝	coagulate; congeal; freeze (U+51DD)	e5879d
+凞	bright, splendid, glorious (U+51DE)	e5879e
+凟	to be rude to, to annoy, to profane; to trouble, to harass (U+51DF)	e5879f
+几	small table (U+51E0)	e587a0
+凡	all, any, every; ordinary, common (U+51E1)	e587a1
+凢	all, any, every; ordinary, common (U+51E2)	e587a2
+凣	all; common; general; every, whenever; generally (U+51E3)	e587a3
+凤	male phoenix; symbol of joy (U+51E4)	e587a4
+凥	to dwell (U+51E5)	e587a5
+処	place, locale; department (U+51E6)	e587a6
+凧	kite (U+51E7)	e587a7
+凨	wind; air; manners, atmosphere (U+51E8)	e587a8
+凩	wintry wind (U+51E9)	e587a9
+凪	calm, lull (U+51EA)	e587aa
+凫	wild duck, teal; swim (U+51EB)	e587ab
+凬	U+51EC (U+51EC)	e587ac
+凭	lean on, depend on, rely on (U+51ED)	e587ad
+凮	wind (U+51EE)	e587ae
+凯	triumphant; triumph, victory (U+51EF)	e587af
+凰	female phoenix (U+51F0)	e587b0
+凱	triumphant; triumph, victory (U+51F1)	e587b1
+凲	U+51F2 (U+51F2)	e587b2
+凳	bench; stool (U+51F3)	e587b3
+凴	to rely on, depend on; evidence, proof (U+51F4)	e587b4
+凵	receptacle; KangXi radical 17 (U+51F5)	e587b5
+凶	culprit; murder; bad, sad (U+51F6)	e587b6
+凷	dirt clod; piece (U+51F7)	e587b7
+凸	protrude, bulge out, convex (U+51F8)	e587b8
+凹	concave, hollow, depressed; a pass, valley (U+51F9)	e587b9
+出	go out, send out; stand; produce (U+51FA)	e587ba
+击	strike, hit, beat; attack, fight (U+51FB)	e587bb
+凼	ditch; pool (U+51FC)	e587bc
+函	correspondence; a case; a box (U+51FD)	e587bd
+凾	correspondence; a case; a box (U+51FE)	e587be
+凿	chisel; bore, pierce (U+51FF)	e587bf
+刀	knife; old coin; measure (U+5200)	e58880
+刁	tricky, sly, crafty, cunning (U+5201)	e58881
+刂	knife; radical number 18 (U+5202)	e58882
+刃	edged tool, cutlery, knife edge (U+5203)	e58883
+刄	edged tool, cutlery, knife edge (U+5204)	e58884
+刅	to create, to make to invent; to begin (U+5205)	e58885
+分	divide; small unit of time etc. (U+5206)	e58886
+切	cut, mince, slice, carve (U+5207)	e58887
+刈	cut off, reap, mow; sickle (U+5208)	e58888
+刉	U+5209 (U+5209)	e58889
+刊	publication, periodical; publish (U+520A)	e5888a
+刋	publication, periodical; publish (U+520B)	e5888b
+刌	U+520C (U+520C)	e5888c
+刍	mow, cut grass; hay, fodder (U+520D)	e5888d
+刎	behead, cut throat (U+520E)	e5888e
+刏	U+520F (U+520F)	e5888f
+刐	U+5210 (U+5210)	e58890
+刑	punishment, penalty; law (U+5211)	e58891
+划	to row or paddle boat; to scratch (U+5212)	e58892
+刓	trim (U+5213)	e58893
+刔	scoop out; gouge (U+5214)	e58894
+刕	U+5215 (U+5215)	e58895
+刖	cutting off feet as form of punishment (U+5216)	e58896
+列	a line; to arrange in order, classify (U+5217)	e58897
+刘	surname; kill, destroy (U+5218)	e58898
+则	rule, law, regulation; grades (U+5219)	e58899
+刚	hard, tough, rigid, strong (U+521A)	e5889a
+创	establish, create; knife cut (U+521B)	e5889b
+刜	chop (U+521C)	e5889c
+初	beginning, initial, primary (U+521D)	e5889d
+刞	U+521E (U+521E)	e5889e
+刟	U+521F (U+521F)	e5889f
+删	to cut; delete (U+5220)	e588a0
+刡	to scrape; to pare (U+5221)	e588a1
+刢	U+5222 (U+5222)	e588a2
+刣	U+5223 (U+5223)	e588a3
+判	judge; discriminate; conclude (U+5224)	e588a4
+別	separate, other; do not (U+5225)	e588a5
+刦	take by force, coerce; disaster (U+5226)	e588a6
+刧	disaster, misfortune; coerce (U+5227)	e588a7
+刨	carpenter's plane; plane, level (U+5228)	e588a8
+利	gains, advantage, profit, merit (U+5229)	e588a9
+刪	to cut; delete, erase; to geld (U+522A)	e588aa
+别	separate, other; do not (U+522B)	e588ab
+刬	to level off; to trim; to pare down (U+522C)	e588ac
+刭	cut throat (U+522D)	e588ad
+刮	shave, pare off, scrape (U+522E)	e588ae
+刯	U+522F (U+522F)	e588af
+到	go to, arrive, been to (U+5230)	e588b0
+刱	establish, create; knife cut (U+5231)	e588b1
+刲	cut, slice off (U+5232)	e588b2
+刳	cut out, dig, rip up, scoop out (U+5233)	e588b3
+刴	chop by pounding, mince, hash (U+5234)	e588b4
+刵	punishment by cutting off ears (U+5235)	e588b5
+制	system; establish; overpower (U+5236)	e588b6
+刷	brush; clean with brush, scrub (U+5237)	e588b7
+券	certificate, ticket; title deeds (U+5238)	e588b8
+刹	temple, shrine, monastary (U+5239)	e588b9
+刺	stab; prick, irritate; prod (U+523A)	e588ba
+刻	carve, engrave; quarter hour (U+523B)	e588bb
+刼	to plunder; to rob openly (U+523C)	e588bc
+刽	amputate, cut off (U+523D)	e588bd
+刾	stab; prick, irritate; prod (U+523E)	e588be
+刿	to cut, injure, stab, stick on (U+523F)	e588bf
+剀	sharpen; carefully, thorough (U+5240)	e58980
+剁	chop by pounding, mince, hash (U+5241)	e58981
+剂	medicinal preparation (U+5242)	e58982
+剃	shave (U+5243)	e58983
+剄	cut throat (U+5244)	e58984
+剅	U+5245 (U+5245)	e58985
+剆	U+5246 (U+5246)	e58986
+則	rule, law, regulation; grades (U+5247)	e58987
+剈	U+5248 (U+5248)	e58988
+剉	cut, file, trim; file (U+5249)	e58989
+削	scrape off, pare, trim (U+524A)	e5898a
+剋	subdue, overcome; cut down (U+524B)	e5898b
+剌	slash, cut in two; contradict (U+524C)	e5898c
+前	in front, forward; preceding (U+524D)	e5898d
+剎	temple (U+524E)	e5898e
+剏	establish, create; knife cut (U+524F)	e5898f
+剐	cut, cut flesh from bones (U+5250)	e58990
+剑	sword, dagger, saber (U+5251)	e58991
+剒	(Cant.) to jerk (U+5252)	e58992
+剓	U+5253 (U+5253)	e58993
+剔	pick out; scrape off; scrape meat (U+5254)	e58994
+剕	U+5255 (U+5255)	e58995
+剖	split in two, slice; dissect (U+5256)	e58996
+剗	to level off; to trim; to pare down (U+5257)	e58997
+剘	U+5258 (U+5258)	e58998
+剙	establish, create; knife cut (U+5259)	e58999
+剚	stab (U+525A)	e5899a
+剛	hard, tough, rigid, strong (U+525B)	e5899b
+剜	cut, cut out, pick out, scoop out (U+525C)	e5899c
+剝	peel, peel off, to shell, strip (U+525D)	e5899d
+剞	carving or engraving knife; grave (U+525E)	e5899e
+剟	to prick; to cut blocks, to engrave (U+525F)	e5899f
+剠	brand (U+5260)	e589a0
+剡	sharp, sharp-pointed; sharpen (U+5261)	e589a1
+剢	U+5262 (U+5262)	e589a2
+剣	sword, dagger, saber (U+5263)	e589a3
+剤	medicinal preparation (U+5264)	e589a4
+剥	peel (U+5265)	e589a5
+剦	to castrate (U+5266)	e589a6
+剧	theatrical plays, opera, drama (U+5267)	e589a7
+剨	sound of something being smashed (U+5268)	e589a8
+剩	leftovers, residue, remains (U+5269)	e589a9
+剪	scissors; cut, divide, separate (U+526A)	e589aa
+剫	U+526B (U+526B)	e589ab
+剬	U+526C (U+526C)	e589ac
+剭	U+526D (U+526D)	e589ad
+剮	cut, cut flesh from bones (U+526E)	e589ae
+副	assist; supplement; assistant (U+526F)	e589af
+剰	leftovers, residue, remains (U+5270)	e589b0
+剱	sword, dagger, saber (U+5271)	e589b1
+割	cut, divide, partition; cede (U+5272)	e589b2
+剳	brief note; official communique (U+5273)	e589b3
+剴	sharpen; carefully, thorough (U+5274)	e589b4
+創	establish, create; knife cut (U+5275)	e589b5
+剶	U+5276 (U+5276)	e589b6
+剷	to level off, cut off, pare down, raze (U+5277)	e589b7
+剸	cut (U+5278)	e589b8
+剹	U+5279 (U+5279)	e589b9
+剺	mark (U+527A)	e589ba
+剻	U+527B (U+527B)	e589bb
+剼	U+527C (U+527C)	e589bc
+剽	rob, plunder; slice off; fast (U+527D)	e589bd
+剾	to pick up with knife (U+527E)	e589be
+剿	destroy, exterminate, annihilate (U+527F)	e589bf
+劀	U+5280 (U+5280)	e58a80
+劁	U+5281 (U+5281)	e58a81
+劂	chisel for engraving; engrave (U+5282)	e58a82
+劃	divide, mark off, lay boundary (U+5283)	e58a83
+劄	brief note; official communique (U+5284)	e58a84
+劅	U+5285 (U+5285)	e58a85
+劆	sickle (U+5286)	e58a86
+劇	theatrical plays, opera, drama (U+5287)	e58a87
+劈	cut apart, split, chop (U+5288)	e58a88
+劉	surname; kill, destroy (U+5289)	e58a89
+劊	amputate, cut off (U+528A)	e58a8a
+劋	U+528B (U+528B)	e58a8b
+劌	to cut, injure, stab, stick on (U+528C)	e58a8c
+劍	sword, dagger, saber (U+528D)	e58a8d
+劎	sword, dagger (U+528E)	e58a8e
+劏	to butcher (U+528F)	e58a8f
+劐	destroy (U+5290)	e58a90
+劑	medicinal preparation (U+5291)	e58a91
+劒	sword, dagger, saber (U+5292)	e58a92
+劓	cut off nose (U+5293)	e58a93
+劔	sword, dagger, saber (U+5294)	e58a94
+劕	U+5295 (U+5295)	e58a95
+劖	make into mince; cut (U+5296)	e58a96
+劗	U+5297 (U+5297)	e58a97
+劘	make into mince (U+5298)	e58a98
+劙	a divide, to partition (U+5299)	e58a99
+劚	cut (U+529A)	e58a9a
+力	power, capability, influence (U+529B)	e58a9b
+劜	U+529C (U+529C)	e58a9c
+劝	recommend, advise, urge (U+529D)	e58a9d
+办	manage, do, handle; deal with (U+529E)	e58a9e
+功	achievement, merit, good result (U+529F)	e58a9f
+加	add to, increase, augment (U+52A0)	e58aa0
+务	affairs, business; must, should (U+52A1)	e58aa1
+劢	put forth effort, strive forward (U+52A2)	e58aa2
+劣	bad, inferior; slightly (U+52A3)	e58aa3
+劤	strong (U+52A4)	e58aa4
+劥	U+52A5 (U+52A5)	e58aa5
+劦	variant of U+5354 協; cooperate; combined labor (U+52A6)	e58aa6
+劧	U+52A7 (U+52A7)	e58aa7
+动	move, happen; movement, action (U+52A8)	e58aa8
+助	help, aid, assist (U+52A9)	e58aa9
+努	to exert, strive, make an effort; to pout (U+52AA)	e58aaa
+劫	take by force, coerce; disaster (U+52AB)	e58aab
+劬	be diligent, toil, endeavor (U+52AC)	e58aac
+劭	encourage; to excel; excellent (U+52AD)	e58aad
+劮	U+52AE (U+52AE)	e58aae
+劯	U+52AF (U+52AF)	e58aaf
+劰	U+52B0 (U+52B0)	e58ab0
+励	strive; encourage (U+52B1)	e58ab1
+劲	strong, unyielding, tough, power (U+52B2)	e58ab2
+劳	labor, toil, do manual work (U+52B3)	e58ab3
+労	labor, toil, do manual work (U+52B4)	e58ab4
+劵	certificate, ticket; title deeds (U+52B5)	e58ab5
+劶	U+52B6 (U+52B6)	e58ab6
+劷	U+52B7 (U+52B7)	e58ab7
+劸	U+52B8 (U+52B8)	e58ab8
+効	efficacious, effectiveness; to toil, to serve in the army (U+52B9)	e58ab9
+劺	U+52BA (U+52BA)	e58aba
+劻	flurried, be in flurry, zealous (U+52BB)	e58abb
+劼	be discreet, prudent, cautious (U+52BC)	e58abc
+劽	U+52BD (U+52BD)	e58abd
+劾	examine into, impeach, charge (U+52BE)	e58abe
+势	power, force; tendency (U+52BF)	e58abf
+勀	U+52C0 (U+52C0)	e58b80
+勁	strong, unyielding, tough, powerful (U+52C1)	e58b81
+勂	U+52C2 (U+52C2)	e58b82
+勃	suddenly, sudden, quick (U+52C3)	e58b83
+勄	active; clever; prompt witty; smart; earnest; diligent; to hasten (U+52C4)	e58b84
+勅	imperial decree; daoist magic (U+52C5)	e58b85
+勆	U+52C6 (U+52C6)	e58b86
+勇	brave, courageous, fierce (U+52C7)	e58b87
+勈	U+52C8 (U+52C8)	e58b88
+勉	endeavor, make effort; urge (U+52C9)	e58b89
+勊	U+52CA (U+52CA)	e58b8a
+勋	meritorious deed; merits; rank (U+52CB)	e58b8b
+勌	to labor; tired (U+52CC)	e58b8c
+勍	strong, powerful, mighty; violent (U+52CD)	e58b8d
+勎	U+52CE (U+52CE)	e58b8e
+勏	U+52CF (U+52CF)	e58b8f
+勐	imperial degree; daoist magic (U+52D0)	e58b90
+勑	reward; sincere (U+52D1)	e58b91
+勒	strangle, tighten (U+52D2)	e58b92
+勓	U+52D3 (U+52D3)	e58b93
+勔	endeavor, make effort; urge (U+52D4)	e58b94

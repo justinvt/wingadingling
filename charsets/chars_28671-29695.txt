@@ -1,0 +1,1024 @@
+盕	U+76D5 (U+76D5)	e79b95
+盖	cover, hide, protect (U+76D6)	e79b96
+盗	rob, steal; thief, bandit (U+76D7)	e79b97
+盘	tray, plate, dish; examine (U+76D8)	e79b98
+盙	a basket, square outside and round inside, used to hold boiled grain in State worship (U+76D9)	e79b99
+盚	U+76DA (U+76DA)	e79b9a
+盛	abundant, flourishing; contain; fill (U+76DB)	e79b9b
+盜	rob, steal; thief, bandit (U+76DC)	e79b9c
+盝	drip (U+76DD)	e79b9d
+盞	small cup or container; classifier for lamps, etc. (U+76DE)	e79b9e
+盟	swear; oath, covenant, alliance (U+76DF)	e79b9f
+盠	U+76E0 (U+76E0)	e79ba0
+盡	exhaust, use up; deplete (U+76E1)	e79ba1
+盢	U+76E2 (U+76E2)	e79ba2
+監	supervise, control, direct (U+76E3)	e79ba3
+盤	tray, plate, dish; examine (U+76E4)	e79ba4
+盥	wash (U+76E5)	e79ba5
+盦	lid of a caldron; Buddhist cloister (U+76E6)	e79ba6
+盧	cottage, hut; surname; black (U+76E7)	e79ba7
+盨	U+76E8 (U+76E8)	e79ba8
+盩	callus (U+76E9)	e79ba9
+盪	to toss about; to swing; to rock (U+76EA)	e79baa
+盫	U+76EB (U+76EB)	e79bab
+盬	salt pit; leisure; pot; drink (U+76EC)	e79bac
+盭	cruel (U+76ED)	e79bad
+目	eye; look, see; division, topic (U+76EE)	e79bae
+盯	rivet gaze upon, keep eyes on (U+76EF)	e79baf
+盰	U+76F0 (U+76F0)	e79bb0
+盱	wide open eyes; to gaze in astonishment (U+76F1)	e79bb1
+盲	blind; unperceptive, shortsighted (U+76F2)	e79bb2
+盳	U+76F3 (U+76F3)	e79bb3
+直	straight, erect, vertical (U+76F4)	e79bb4
+盵	U+76F5 (U+76F5)	e79bb5
+盶	U+76F6 (U+76F6)	e79bb6
+盷	U+76F7 (U+76F7)	e79bb7
+相	mutual, reciprocal, each other (U+76F8)	e79bb8
+盹	to doze; to nap; to nod (U+76F9)	e79bb9
+盺	U+76FA (U+76FA)	e79bba
+盻	glare; stare (U+76FB)	e79bbb
+盼	look, gaze; expect, hope for (U+76FC)	e79bbc
+盽	U+76FD (U+76FD)	e79bbd
+盾	shield; dutch guilder; Indonesia (U+76FE)	e79bbe
+盿	U+76FF (U+76FF)	e79bbf
+眀	U+7700 (U+7700)	e79c80
+省	province; save, economize (U+7701)	e79c81
+眂	U+7702 (U+7702)	e79c82
+眃	U+7703 (U+7703)	e79c83
+眄	to look askance; looking dull (U+7704)	e79c84
+眅	inlay; border (U+7705)	e79c85
+眆	indistinct (U+7706)	e79c86
+眇	blind in one eye; minute, minuscule (U+7707)	e79c87
+眈	gloat, stare at; to delay, to loiter, to hinder (U+7708)	e79c88
+眉	eyebrows; upper margin of book (U+7709)	e79c89
+眊	dim-sighted; dull, bewildered (U+770A)	e79c8a
+看	look, see; examine, scrutinize (U+770B)	e79c8b
+県	county, district, subdivision (U+770C)	e79c8c
+眍	sunken (U+770D)	e79c8d
+眎	look at, inspect, observe, see (U+770E)	e79c8e
+眏	U+770F (U+770F)	e79c8f
+眐	U+7710 (U+7710)	e79c90
+眑	sunken eyes; deep; abstruse (U+7711)	e79c91
+眒	U+7712 (U+7712)	e79c92
+眓	U+7713 (U+7713)	e79c93
+眔	U+7714 (U+7714)	e79c94
+眕	restraint (U+7715)	e79c95
+眖	U+7716 (U+7716)	e79c96
+眗	U+7717 (U+7717)	e79c97
+眘	U+7718 (U+7718)	e79c98
+眙	to gaze at (U+7719)	e79c99
+眚	disease of the eyes; crime, fault (U+771A)	e79c9a
+眛	dim, dark, obscure; blind (U+771B)	e79c9b
+眜	U+771C (U+771C)	e79c9c
+眝	U+771D (U+771D)	e79c9d
+眞	real, actual, true, genuine (U+771E)	e79c9e
+真	real, actual, true, genuine (U+771F)	e79c9f
+眠	close eyes, sleep; hibernate (U+7720)	e79ca0
+眡	(Cant.) blurred sight (U+7721)	e79ca1
+眢	eyes without brightness (U+7722)	e79ca2
+眣	prominent eyes (U+7723)	e79ca3
+眤	U+7724 (U+7724)	e79ca4
+眥	eye sockets; corner of the eyes (U+7725)	e79ca5
+眦	corner of the eyes, eyesockets (U+7726)	e79ca6
+眧	U+7727 (U+7727)	e79ca7
+眨	wink (U+7728)	e79ca8
+眩	to confuse; dizzy, dazed, disoriented (U+7729)	e79ca9
+眪	U+772A (U+772A)	e79caa
+眫	U+772B (U+772B)	e79cab
+眬	faint, fuzzy, blurred (U+772C)	e79cac
+眭	evil look of deep-set eyes (U+772D)	e79cad
+眮	U+772E (U+772E)	e79cae
+眯	be blinded (U+772F)	e79caf
+眰	U+7730 (U+7730)	e79cb0
+眱	U+7731 (U+7731)	e79cb1
+眲	U+7732 (U+7732)	e79cb2
+眳	U+7733 (U+7733)	e79cb3
+眴	dazzled (U+7734)	e79cb4
+眵	eyes diseased and dim (U+7735)	e79cb5
+眶	eye socket; rim of eye (U+7736)	e79cb6
+眷	take interest in, care for (U+7737)	e79cb7
+眸	pupil of eye; eye (U+7738)	e79cb8
+眹	pupil (U+7739)	e79cb9
+眺	look at, gaze at, scan, survey (U+773A)	e79cba
+眻	U+773B (U+773B)	e79cbb
+眼	eye; eyelet, hole, opening (U+773C)	e79cbc
+眽	to gaze; to ogle to look at (U+773D)	e79cbd
+眾	masses, people, multitude, crowd (U+773E)	e79cbe
+眿	U+773F (U+773F)	e79cbf
+着	make move, take action (U+7740)	e79d80
+睁	open eyes; stare (U+7741)	e79d81
+睂	U+7742 (U+7742)	e79d82
+睃	U+7743 (U+7743)	e79d83
+睄	(Cant.) to glance (U+7744)	e79d84
+睅	big-eyed (U+7745)	e79d85
+睆	bright (U+7746)	e79d86
+睇	look at, glance at; stare at (U+7747)	e79d87
+睈	U+7748 (U+7748)	e79d88
+睉	U+7749 (U+7749)	e79d89
+睊	see, look, gaze at; askance (U+774A)	e79d8a
+睋	U+774B (U+774B)	e79d8b
+睌	U+774C (U+774C)	e79d8c
+睍	to look at fearfully; overly cautious (U+774D)	e79d8d
+睎	to long for; to gaze at (U+774E)	e79d8e
+睏	be tired, sleepy (U+774F)	e79d8f
+睐	squint at; sidelong glance (U+7750)	e79d90
+睑	eyelid (U+7751)	e79d91
+睒	to glance at, to peep; glittering; to shine (U+7752)	e79d92
+睓	U+7753 (U+7753)	e79d93
+睔	U+7754 (U+7754)	e79d94
+睕	U+7755 (U+7755)	e79d95
+睖	to stare straight ahead (U+7756)	e79d96
+睗	a flash (U+7757)	e79d97
+睘	round; stare (U+7758)	e79d98
+睙	U+7759 (U+7759)	e79d99
+睚	corner of eye; stare (U+775A)	e79d9a
+睛	eyeball; pupil of eye (U+775B)	e79d9b
+睜	to open the eyes; stare (U+775C)	e79d9c
+睝	U+775D (U+775D)	e79d9d
+睞	squint at; sidelong glance (U+775E)	e79d9e
+睟	clear-eyed (U+775F)	e79d9f
+睠	to care for; love (U+7760)	e79da0
+睡	sleep, doze (U+7761)	e79da1
+睢	gaze at, stare at; uninhibited (U+7762)	e79da2
+督	supervise, oversee, direct (U+7763)	e79da3
+睤	to look around, look askance (U+7764)	e79da4
+睥	look askance at, glare at (U+7765)	e79da5
+睦	friendly, amiable, peaceful (U+7766)	e79da6
+睧	dull vision (U+7767)	e79da7
+睨	look askance at, glare at; squint (U+7768)	e79da8
+睩	U+7769 (U+7769)	e79da9
+睪	spy on (U+776A)	e79daa
+睫	eyelashes (U+776B)	e79dab
+睬	notice; pay attention to (U+776C)	e79dac
+睭	U+776D (U+776D)	e79dad
+睮	U+776E (U+776E)	e79dae
+睯	U+776F (U+776F)	e79daf
+睰	U+7770 (U+7770)	e79db0
+睱	to gaze slowly; white appearance of the eyes (U+7771)	e79db1
+睲	U+7772 (U+7772)	e79db2
+睳	U+7773 (U+7773)	e79db3
+睴	U+7774 (U+7774)	e79db4
+睵	U+7775 (U+7775)	e79db5
+睶	U+7776 (U+7776)	e79db6
+睷	U+7777 (U+7777)	e79db7
+睸	(Cant.) to close, shut (U+7778)	e79db8
+睹	look at, gaze at; observe (U+7779)	e79db9
+睺	(Cant.) to watch (U+777A)	e79dba
+睻	U+777B (U+777B)	e79dbb
+睼	U+777C (U+777C)	e79dbc
+睽	staring (U+777D)	e79dbd
+睾	testicle (U+777E)	e79dbe
+睿	shrewd, astute, clever, keen (U+777F)	e79dbf
+瞀	to look at closely; nearsighted; dim; indistinct vision (U+7780)	e79e80
+瞁	U+7781 (U+7781)	e79e81
+瞂	U+7782 (U+7782)	e79e82
+瞃	U+7783 (U+7783)	e79e83
+瞄	take aim at; look at (U+7784)	e79e84
+瞅	see, look, gaze at (U+7785)	e79e85
+瞆	dim (U+7786)	e79e86
+瞇	to close (the eyes); to squint (U+7787)	e79e87
+瞈	U+7788 (U+7788)	e79e88
+瞉	U+7789 (U+7789)	e79e89
+瞊	U+778A (U+778A)	e79e8a
+瞋	glare with anger (U+778B)	e79e8b
+瞌	doze off; sleepy (U+778C)	e79e8c
+瞍	blind; no pupil in the eye (U+778D)	e79e8d
+瞎	blind, reckless; rash (U+778E)	e79e8e
+瞏	round (U+778F)	e79e8f
+瞐	U+7790 (U+7790)	e79e90
+瞑	close eyes (U+7791)	e79e91
+瞒	deceive, lie; eyes half-closed (U+7792)	e79e92
+瞓	to sleep (U+7793)	e79e93
+瞔	U+7794 (U+7794)	e79e94
+瞕	cataract in the eye (U+7795)	e79e95
+瞖	a cataract or film over the eye (U+7796)	e79e96
+瞗	U+7797 (U+7797)	e79e97
+瞘	deeply-sunk eyes (U+7798)	e79e98
+瞙	U+7799 (U+7799)	e79e99
+瞚	U+779A (U+779A)	e79e9a
+瞛	U+779B (U+779B)	e79e9b
+瞜	to see; to look at; to observe (U+779C)	e79e9c
+瞝	U+779D (U+779D)	e79e9d
+瞞	deceive, lie; eyes half-closed (U+779E)	e79e9e
+瞟	glare at; look askance at; squint (U+779F)	e79e9f
+瞠	look at, stare at, gaze at (U+77A0)	e79ea0
+瞡	U+77A1 (U+77A1)	e79ea1
+瞢	eyesight obscured; to feel ashamed (U+77A2)	e79ea2
+瞣	U+77A3 (U+77A3)	e79ea3
+瞤	to blink or twitch the eyes (U+77A4)	e79ea4
+瞥	take fleeting glance at (U+77A5)	e79ea5
+瞦	U+77A6 (U+77A6)	e79ea6
+瞧	glance at, look at, see (U+77A7)	e79ea7
+瞨	U+77A8 (U+77A8)	e79ea8
+瞩	watch carefully, stare at, focus on (U+77A9)	e79ea9
+瞪	stare at (U+77AA)	e79eaa
+瞫	look (U+77AB)	e79eab
+瞬	wink, blink; in a wink, a flash (U+77AC)	e79eac
+瞭	bright, clear; clear-sighted (U+77AD)	e79ead
+瞮	U+77AE (U+77AE)	e79eae
+瞯	to peep; to spy (U+77AF)	e79eaf
+瞰	watch, spy; overlook; look down (U+77B0)	e79eb0
+瞱	U+77B1 (U+77B1)	e79eb1
+瞲	U+77B2 (U+77B2)	e79eb2
+瞳	pupil of eye (U+77B3)	e79eb3
+瞴	U+77B4 (U+77B4)	e79eb4
+瞵	to stare at (U+77B5)	e79eb5
+瞶	dim; blurred vision (U+77B6)	e79eb6
+瞷	U+77B7 (U+77B7)	e79eb7
+瞸	U+77B8 (U+77B8)	e79eb8
+瞹	clouded, obscure (U+77B9)	e79eb9
+瞺	U+77BA (U+77BA)	e79eba
+瞻	look; look out for; respect (U+77BB)	e79ebb
+瞼	eyelid (U+77BC)	e79ebc
+瞽	blind; blind musician; stupid (U+77BD)	e79ebd
+瞾	U+77BE (U+77BE)	e79ebe
+瞿	surname (U+77BF)	e79ebf
+矀	U+77C0 (U+77C0)	e79f80
+矁	to look at; to gaze (U+77C1)	e79f81
+矂	U+77C2 (U+77C2)	e79f82
+矃	U+77C3 (U+77C3)	e79f83
+矄	U+77C4 (U+77C4)	e79f84
+矅	U+77C5 (U+77C5)	e79f85
+矆	U+77C6 (U+77C6)	e79f86
+矇	stupid, ignorant; blind (U+77C7)	e79f87
+矈	dense, detailed, fine (U+77C8)	e79f88
+矉	an angry glare; to open the eyes with anger (U+77C9)	e79f89
+矊	U+77CA (U+77CA)	e79f8a
+矋	(Cant.) to stare angrily (U+77CB)	e79f8b
+矌	U+77CC (U+77CC)	e79f8c
+矍	look about in fright or alarm (U+77CD)	e79f8d
+矎	U+77CE (U+77CE)	e79f8e
+矏	U+77CF (U+77CF)	e79f8f
+矐	U+77D0 (U+77D0)	e79f90
+矑	the pupil of the eye; to see (U+77D1)	e79f91
+矒	U+77D2 (U+77D2)	e79f92
+矓	faint, fuzzy, blurred (U+77D3)	e79f93
+矔	U+77D4 (U+77D4)	e79f94
+矕	to see, witness, inspect (U+77D5)	e79f95
+矖	U+77D6 (U+77D6)	e79f96
+矗	straight, upright, erect, lofty (U+77D7)	e79f97
+矘	U+77D8 (U+77D8)	e79f98
+矙	view (U+77D9)	e79f99
+矚	watch carefully, stare at, focus on (U+77DA)	e79f9a
+矛	spear, lance; KangXi radical 110 (U+77DB)	e79f9b
+矜	pity, feel sorry for, show sympat (U+77DC)	e79f9c
+矝	U+77DD (U+77DD)	e79f9d
+矞	bore with awl; bright, charming (U+77DE)	e79f9e
+矟	lance (U+77DF)	e79f9f
+矠	U+77E0 (U+77E0)	e79fa0
+矡	U+77E1 (U+77E1)	e79fa1
+矢	arrow, dart; vow, swear (U+77E2)	e79fa2
+矣	particle of completed action (U+77E3)	e79fa3
+矤	U+77E4 (U+77E4)	e79fa4
+知	know, perceive, comprehend (U+77E5)	e79fa5
+矦	U+77E6 (U+77E6)	e79fa6
+矧	much more, still more; the gums (U+77E7)	e79fa7
+矨	U+77E8 (U+77E8)	e79fa8
+矩	carpenter's square, ruler, rule (U+77E9)	e79fa9
+矪	U+77EA (U+77EA)	e79faa
+矫	correct, rectify, straighten out (U+77EB)	e79fab
+矬	a dwarf (U+77EC)	e79fac
+短	short; brief; deficient, lacking (U+77ED)	e79fad
+矮	short, dwarf; low (U+77EE)	e79fae
+矯	correct, rectify, straighten out (U+77EF)	e79faf
+矰	arrow with attached silk cord (U+77F0)	e79fb0
+矱	measure, standard, criterion (U+77F1)	e79fb1
+矲	U+77F2 (U+77F2)	e79fb2
+石	stone, rock, mineral; rad. 112 (U+77F3)	e79fb3
+矴	anchor; (Cant.) a place (U+77F4)	e79fb4
+矵	U+77F5 (U+77F5)	e79fb5
+矶	jetty; submerged rock; eddy (U+77F6)	e79fb6
+矷	U+77F7 (U+77F7)	e79fb7
+矸	a rock or cliff (U+77F8)	e79fb8
+矹	U+77F9 (U+77F9)	e79fb9
+矺	(Cant.) to press steadily (U+77FA)	e79fba
+矻	toil, slave away; busy (U+77FB)	e79fbb
+矼	stone bridge; stepping stones (U+77FC)	e79fbc
+矽	silicon (U+77FD)	e79fbd
+矾	alum (U+77FE)	e79fbe
+矿	mine; mineral, ore (U+77FF)	e79fbf
+砀	brilliantly colored stone with veined patterns in it (U+7800)	e7a080
+码	number, numerals; yard; symbol (U+7801)	e7a081
+砂	sand; pebbles, gravel; gritty (U+7802)	e7a082
+砃	U+7803 (U+7803)	e7a083
+砄	U+7804 (U+7804)	e7a084
+砅	U+7805 (U+7805)	e7a085
+砆	1/2 pr stone (U+7806)	e7a086
+砇	a stone resembling jade, alabaster (U+7807)	e7a087
+砈	U+7808 (U+7808)	e7a088
+砉	U+7809 (U+7809)	e7a089
+砊	U+780A (U+780A)	e7a08a
+砋	U+780B (U+780B)	e7a08b
+砌	to build, pile up; stone steps, brick walk (U+780C)	e7a08c
+砍	hack, chop, cut, fell (U+780D)	e7a08d
+砎	U+780E (U+780E)	e7a08e
+砏	U+780F (U+780F)	e7a08f
+砐	(Cant.) to nod one's head; to shake, sway (U+7810)	e7a090
+砑	to grind, to calender, to polish; to roll with a stone roller (U+7811)	e7a091
+砒	arsenic (U+7812)	e7a092
+砓	U+7813 (U+7813)	e7a093
+研	grind, rub; study, research (U+7814)	e7a094
+砕	break, smash; broken, busted (U+7815)	e7a095
+砖	tile, brick (U+7816)	e7a096
+砗	giant clam, tridacna gigas (U+7817)	e7a097
+砘	a kind of farm tool (U+7818)	e7a098
+砙	U+7819 (U+7819)	e7a099
+砚	inkstone (U+781A)	e7a09a
+砛	U+781B (U+781B)	e7a09b
+砜	an organic compound (U+781C)	e7a09c
+砝	balance weights (U+781D)	e7a09d
+砞	to smash rock (U+781E)	e7a09e
+砟	stone tablet; monument (U+781F)	e7a09f
+砠	rocky, hilly, uneven (U+7820)	e7a0a0
+砡	U+7821 (U+7821)	e7a0a1
+砢	pile of stones (U+7822)	e7a0a2
+砣	a stone roller; a heavy stone, a weight, a plummet (U+7823)	e7a0a3
+砤	U+7824 (U+7824)	e7a0a4
+砥	a whetstone; to polish (U+7825)	e7a0a5
+砦	stockade, fort, military outpost; brothel (U+7826)	e7a0a6
+砧	anvil; flat stone; exe (U+7827)	e7a0a7
+砨	U+7828 (U+7828)	e7a0a8
+砩	U+7829 (U+7829)	e7a0a9
+砪	U+782A (U+782A)	e7a0aa
+砫	U+782B (U+782B)	e7a0ab
+砬	big stone (U+782C)	e7a0ac
+砭	stone probe; pierce; counsel (U+782D)	e7a0ad
+砮	arrow-tip (U+782E)	e7a0ae
+砯	to make a loud sound (U+782F)	e7a0af
+砰	sound of crashing stones, bang! (U+7830)	e7a0b0
+砱	U+7831 (U+7831)	e7a0b1
+砲	gun, cannon (U+7832)	e7a0b2
+砳	rocky (U+7833)	e7a0b3
+破	break, ruin, destroy; rout (U+7834)	e7a0b4
+砵	(Cant.) port (Eng. loan-word), 西矺 a sideboard (Eng. loan-word) (U+7835)	e7a0b5
+砶	U+7836 (U+7836)	e7a0b6
+砷	arsenic (U+7837)	e7a0b7
+砸	smash, crush, break; pound, mash (U+7838)	e7a0b8
+砹	astatine (U+7839)	e7a0b9
+砺	whetstone; sharpen (U+783A)	e7a0ba
+砻	grind, sharpen; mill (U+783B)	e7a0bb
+砼	concrete (U+783C)	e7a0bc
+砽	U+783D (U+783D)	e7a0bd
+砾	gravel, pebbles (U+783E)	e7a0be
+砿	mine; mineral, ore (U+783F)	e7a0bf
+础	foundation stone, plinth (U+7840)	e7a180
+硁	the sound of stones knocking together (U+7841)	e7a181
+硂	U+7842 (U+7842)	e7a182
+硃	a red mole; cinnabar (U+7843)	e7a183
+硄	U+7844 (U+7844)	e7a184
+硅	silicon (U+7845)	e7a185
+硆	U+7846 (U+7846)	e7a186
+硇	a kind of mineral (U+7847)	e7a187
+硈	U+7848 (U+7848)	e7a188
+硉	bones of a thin horse (U+7849)	e7a189
+硊	U+784A (U+784A)	e7a18a
+硋	U+784B (U+784B)	e7a18b
+硌	U+784C (U+784C)	e7a18c
+硍	strike (U+784D)	e7a18d
+硎	whetstone (U+784E)	e7a18e
+硏	grind (U+784F)	e7a18f
+硐	variant of U+6D1E 洞, cave; chamber; pit (U+7850)	e7a190
+硑	U+7851 (U+7851)	e7a191
+硒	selenium (U+7852)	e7a192
+硓	U+7853 (U+7853)	e7a193
+硔	U+7854 (U+7854)	e7a194
+硕	great, eminent; large, big (U+7855)	e7a195
+硖	(archaic) town in Hebei province (U+7856)	e7a196
+硗	barren land; sandy soil (U+7857)	e7a197
+硘	U+7858 (U+7858)	e7a198
+硙	stone mill; grind; break apart (U+7859)	e7a199
+硚	U+785A (U+785A)	e7a19a
+硛	U+785B (U+785B)	e7a19b
+硜	the sound of stones knocking together (U+785C)	e7a19c
+硝	saltpeter, niter; to tan (U+785D)	e7a19d
+硞	U+785E (U+785E)	e7a19e
+硟	(Cant.) to slip; to work and polish gems (U+785F)	e7a19f
+硠	U+7860 (U+7860)	e7a1a0
+硡	U+7861 (U+7861)	e7a1a1
+硢	U+7862 (U+7862)	e7a1a2
+硣	U+7863 (U+7863)	e7a1a3
+硤	(archaic) town in Hebei province (U+7864)	e7a1a4
+硥	U+7865 (U+7865)	e7a1a5
+硦	U+7866 (U+7866)	e7a1a6
+硧	a grindstone; (same as U+7850 硐) a cave, cavern (U+7867)	e7a1a7
+硨	giant clam, Tridacna gigas (U+7868)	e7a1a8
+硩	U+7869 (U+7869)	e7a1a9
+硪	U+786A (U+786A)	e7a1aa
+硫	sulfur (U+786B)	e7a1ab
+硬	hard, firm, strong; obstinate (U+786C)	e7a1ac
+硭	a crude saltpetre (U+786D)	e7a1ad
+确	sure, certain; real, true (U+786E)	e7a1ae
+硯	inkstone (U+786F)	e7a1af
+硰	U+7870 (U+7870)	e7a1b0
+硱	U+7871 (U+7871)	e7a1b1
+硲	U+7872 (U+7872)	e7a1b2
+硳	U+7873 (U+7873)	e7a1b3
+硴	U+7874 (U+7874)	e7a1b4
+硵	U+7875 (U+7875)	e7a1b5
+硶	U+7876 (U+7876)	e7a1b6
+硷	alkaline, alkali, lye, salt (U+7877)	e7a1b7
+硸	thick-lipped; a grindstone (U+7878)	e7a1b8
+硹	U+7879 (U+7879)	e7a1b9
+硺	U+787A (U+787A)	e7a1ba
+硻	U+787B (U+787B)	e7a1bb
+硼	borax, boron (U+787C)	e7a1bc
+硽	U+787D (U+787D)	e7a1bd
+硾	weight (U+787E)	e7a1be
+硿	U+787F (U+787F)	e7a1bf
+碀	U+7880 (U+7880)	e7a280
+碁	chess; any game similar to chess (U+7881)	e7a281
+碂	U+7882 (U+7882)	e7a282
+碃	U+7883 (U+7883)	e7a283
+碄	U+7884 (U+7884)	e7a284
+碅	U+7885 (U+7885)	e7a285
+碆	arrow-tip (U+7886)	e7a286
+碇	anchor (U+7887)	e7a287
+碈	U+7888 (U+7888)	e7a288
+碉	room made of stone; watchtower (U+7889)	e7a289
+碊	U+788A (U+788A)	e7a28a
+碋	U+788B (U+788B)	e7a28b
+碌	rough, uneven, rocky; mediocre (U+788C)	e7a28c
+碍	obstruct, hinder, block, deter (U+788D)	e7a28d
+碎	break, smash; broken, busted (U+788E)	e7a28e
+碏	coloured (U+788F)	e7a28f
+碐	U+7890 (U+7890)	e7a290
+碑	stone tablet; gravestone (U+7891)	e7a291
+碒	U+7892 (U+7892)	e7a292
+碓	pestle (U+7893)	e7a293
+碔	1/2 pr stone (U+7894)	e7a294
+碕	a cape, spit, promontory (U+7895)	e7a295
+碖	U+7896 (U+7896)	e7a296
+碗	bowl, small dish (U+7897)	e7a297
+碘	iodine (U+7898)	e7a298
+碙	U+7899 (U+7899)	e7a299
+碚	suburb (U+789A)	e7a29a
+碛	sand and gravel (U+789B)	e7a29b
+碜	gritty (U+789C)	e7a29c
+碝	U+789D (U+789D)	e7a29d
+碞	room made of stone; watchtower (U+789E)	e7a29e
+碟	small dish, plate (U+789F)	e7a29f
+碠	U+78A0 (U+78A0)	e7a2a0
+碡	stone roller used to level fields (U+78A1)	e7a2a1
+碢	U+78A2 (U+78A2)	e7a2a2
+碣	stone tablet (U+78A3)	e7a2a3
+碤	U+78A4 (U+78A4)	e7a2a4
+碥	U+78A5 (U+78A5)	e7a2a5
+碦	U+78A6 (U+78A6)	e7a2a6
+碧	jade; green, blue (U+78A7)	e7a2a7
+碨	U+78A8 (U+78A8)	e7a2a8
+碩	great, eminent; large, big (U+78A9)	e7a2a9
+碪	stone slab used for washing clothes; an anvil (U+78AA)	e7a2aa
+碫	U+78AB (U+78AB)	e7a2ab
+碬	whetstone (U+78AC)	e7a2ac
+碭	brilliantly colored stone with veined patterns in it (U+78AD)	e7a2ad
+碮	U+78AE (U+78AE)	e7a2ae
+碯	agate, cornelian (U+78AF)	e7a2af
+碰	collide, bump into (U+78B0)	e7a2b0
+碱	alkaline, alkali, lye, salt (U+78B1)	e7a2b1
+碲	U+78B2 (U+78B2)	e7a2b2
+碳	carbon (U+78B3)	e7a2b3
+碴	chipped edge of a container (U+78B4)	e7a2b4
+碵	U+78B5 (U+78B5)	e7a2b5
+碶	a flood-gate, a water-gate (U+78B6)	e7a2b6
+碷	U+78B7 (U+78B7)	e7a2b7
+碸	an organic compound (U+78B8)	e7a2b8
+碹	U+78B9 (U+78B9)	e7a2b9
+確	sure, certain; real, true (U+78BA)	e7a2ba
+碻	solid (U+78BB)	e7a2bb
+碼	number, numerals; yard; symbol (U+78BC)	e7a2bc
+碽	U+78BD (U+78BD)	e7a2bd
+碾	roller, crush; roll (U+78BE)	e7a2be
+碿	U+78BF (U+78BF)	e7a2bf
+磀	U+78C0 (U+78C0)	e7a380
+磁	magnetic; magnetism; porcelain (U+78C1)	e7a381
+磂	U+78C2 (U+78C2)	e7a382
+磃	U+78C3 (U+78C3)	e7a383
+磄	U+78C4 (U+78C4)	e7a384
+磅	pound; weigh (U+78C5)	e7a385
+磆	U+78C6 (U+78C6)	e7a386
+磇	arsenic (U+78C7)	e7a387
+磈	U+78C8 (U+78C8)	e7a388
+磉	the stone base or plinth of a pillar (U+78C9)	e7a389
+磊	pile of rocks or stones; great (U+78CA)	e7a38a
+磋	polish, buff; scrutinize (U+78CB)	e7a38b
+磌	U+78CC (U+78CC)	e7a38c
+磍	U+78CD (U+78CD)	e7a38d
+磎	mountain stream, creek (U+78CE)	e7a38e
+磏	U+78CF (U+78CF)	e7a38f
+磐	large rock, boulder; firm (U+78D0)	e7a390
+磑	stone mill; grind; break apart (U+78D1)	e7a391
+磒	to fall from or into (U+78D2)	e7a392
+磓	to throw (a stone) (U+78D3)	e7a393
+磔	to dismember, tear apart; downward stroke slanting right (U+78D4)	e7a394
+磕	hit; collide, knock into; sound (U+78D5)	e7a395
+磖	U+78D6 (U+78D6)	e7a396
+磗	U+78D7 (U+78D7)	e7a397
+磘	U+78D8 (U+78D8)	e7a398
+磙	roller (U+78D9)	e7a399
+磚	tile, brick (U+78DA)	e7a39a
+磛	cliff (U+78DB)	e7a39b
+磜	U+78DC (U+78DC)	e7a39c
+磝	U+78DD (U+78DD)	e7a39d
+磞	U+78DE (U+78DE)	e7a39e
+磟	mediocre; busy; occupied; roller (U+78DF)	e7a39f
+磠	sal ammoniac; sand; pebble (U+78E0)	e7a3a0
+磡	cliff, ledge, bank; step (U+78E1)	e7a3a1
+磢	(Cant.) to grind; a roller (U+78E2)	e7a3a2
+磣	gritty (U+78E3)	e7a3a3
+磤	U+78E4 (U+78E4)	e7a3a4
+磥	a heap of stones; boulders (U+78E5)	e7a3a5
+磦	U+78E6 (U+78E6)	e7a3a6
+磧	sand and gravel; rocks exposed at low tide; to crush (U+78E7)	e7a3a7
+磨	grind; polish; rub; wear out; a millstone (U+78E8)	e7a3a8
+磩	U+78E9 (U+78E9)	e7a3a9
+磪	a high mountain; precipitous (U+78EA)	e7a3aa
+磫	U+78EB (U+78EB)	e7a3ab
+磬	musical instrument; musical stone (U+78EC)	e7a3ac
+磭	U+78ED (U+78ED)	e7a3ad
+磮	U+78EE (U+78EE)	e7a3ae
+磯	jetty; submerged rock; eddy (U+78EF)	e7a3af
+磰	U+78F0 (U+78F0)	e7a3b0
+磱	U+78F1 (U+78F1)	e7a3b1
+磲	U+78F2 (U+78F2)	e7a3b2
+磳	U+78F3 (U+78F3)	e7a3b3
+磴	steps on ledge, cliff, or hill (U+78F4)	e7a3b4
+磵	brook, mountain stream (U+78F5)	e7a3b5
+磶	U+78F6 (U+78F6)	e7a3b6
+磷	phosphorus; water rushing between (U+78F7)	e7a3b7
+磸	U+78F8 (U+78F8)	e7a3b8
+磹	U+78F9 (U+78F9)	e7a3b9
+磺	sulphur; brimstone (U+78FA)	e7a3ba
+磻	a tributary of the Wei river in Shanxi (U+78FB)	e7a3bb
+磼	U+78FC (U+78FC)	e7a3bc
+磽	barren land; sandy soil (U+78FD)	e7a3bd
+磾	U+78FE (U+78FE)	e7a3be
+磿	U+78FF (U+78FF)	e7a3bf
+礀	U+7900 (U+7900)	e7a480
+礁	reef; jetty; submerged rocks (U+7901)	e7a481
+礂	U+7902 (U+7902)	e7a482
+礃	U+7903 (U+7903)	e7a483
+礄	place in Sichuan province (U+7904)	e7a484
+礅	U+7905 (U+7905)	e7a485
+礆	alkaline, alkali, lye, salt (U+7906)	e7a486
+礇	U+7907 (U+7907)	e7a487
+礈	U+7908 (U+7908)	e7a488
+礉	U+7909 (U+7909)	e7a489
+礊	U+790A (U+790A)	e7a48a
+礋	U+790B (U+790B)	e7a48b
+礌	U+790C (U+790C)	e7a48c
+礍	U+790D (U+790D)	e7a48d
+礎	foundation stone, plinth (U+790E)	e7a48e
+礏	U+790F (U+790F)	e7a48f
+礐	U+7910 (U+7910)	e7a490
+礑	U+7911 (U+7911)	e7a491
+礒	U+7912 (U+7912)	e7a492
+礓	U+7913 (U+7913)	e7a493
+礔	U+7914 (U+7914)	e7a494
+礕	U+7915 (U+7915)	e7a495
+礖	U+7916 (U+7916)	e7a496
+礗	U+7917 (U+7917)	e7a497
+礘	U+7918 (U+7918)	e7a498
+礙	obstruct, hinder, block, deter (U+7919)	e7a499
+礚	U+791A (U+791A)	e7a49a
+礛	U+791B (U+791B)	e7a49b
+礜	U+791C (U+791C)	e7a49c
+礝	U+791D (U+791D)	e7a49d
+礞	U+791E (U+791E)	e7a49e
+礟	ancient ballista for throwing heavy stones; a cannon, a gun (U+791F)	e7a49f
+礠	U+7920 (U+7920)	e7a4a0
+礡	fill, extend (U+7921)	e7a4a1
+礢	U+7922 (U+7922)	e7a4a2
+礣	U+7923 (U+7923)	e7a4a3
+礤	U+7924 (U+7924)	e7a4a4
+礥	U+7925 (U+7925)	e7a4a5
+礦	mine; mineral, ore (U+7926)	e7a4a6
+礧	roll (U+7927)	e7a4a7
+礨	U+7928 (U+7928)	e7a4a8
+礩	U+7929 (U+7929)	e7a4a9
+礪	whetstone; sharpen (U+792A)	e7a4aa
+礫	gravel, pebbles, potsherds (U+792B)	e7a4ab
+礬	alum (U+792C)	e7a4ac
+礭	U+792D (U+792D)	e7a4ad
+礮	ancient ballista for throwing heavy stones a cannon, a gun (U+792E)	e7a4ae
+礯	U+792F (U+792F)	e7a4af
+礰	U+7930 (U+7930)	e7a4b0
+礱	grind, sharpen; mill (U+7931)	e7a4b1
+礲	U+7932 (U+7932)	e7a4b2
+礳	name of place in shan xi province (U+7933)	e7a4b3
+礴	fill, extend (U+7934)	e7a4b4
+礵	arsenic (U+7935)	e7a4b5
+礶	a jug, a pitcher, a jar, a pot (U+7936)	e7a4b6
+礷	U+7937 (U+7937)	e7a4b7
+礸	U+7938 (U+7938)	e7a4b8
+礹	U+7939 (U+7939)	e7a4b9
+示	show, manifest; demonstrate (U+793A)	e7a4ba
+礻	cult; radical number 113 (U+793B)	e7a4bb
+礼	social custom; manners; courtesy (U+793C)	e7a4bc
+礽	blessings, happiness (U+793D)	e7a4bd
+社	god of the soil and altars to him; group of families; company, society (U+793E)	e7a4be
+礿	sacrifice (U+793F)	e7a4bf
+祀	to sacrifice, worship (U+7940)	e7a580
+祁	pray; numerous, ample, abundant (U+7941)	e7a581
+祂	he (honorific form, generally used for the Abrahamic God) (U+7942)	e7a582
+祃	a sacrifice at the beginning of a military campaign (U+7943)	e7a583
+祄	U+7944 (U+7944)	e7a584
+祅	calamities, disasters; ormazda (U+7945)	e7a585
+祆	Ormazda, god of the Zoroastrians; extended to god of the Manicheans (U+7946)	e7a586
+祇	the spirit of the earth; (used for U+53EA 只) only, merely, but (U+7947)	e7a587
+祈	pray; entreat, beseech (U+7948)	e7a588
+祉	happiness, blessings, good luck (U+7949)	e7a589
+祊	river in Shandong; space inside (U+794A)	e7a58a
+祋	U+794B (U+794B)	e7a58b
+祌	U+794C (U+794C)	e7a58c
+祍	U+794D (U+794D)	e7a58d
+祎	excellent (U+794E)	e7a58e
+祏	shrine (U+794F)	e7a58f
+祐	divine intervention, protection (U+7950)	e7a590
+祑	U+7951 (U+7951)	e7a591
+祒	U+7952 (U+7952)	e7a592
+祓	exorcise, remove evil; clean (U+7953)	e7a593
+祔	worship one's ancestors; entomb (U+7954)	e7a594
+祕	mysterious, secret, abstruse (U+7955)	e7a595
+祖	ancestor, forefather; grandfather (U+7956)	e7a596
+祗	respect, look up to, revere (U+7957)	e7a597
+祘	to calculate (U+7958)	e7a598
+祙	demon (U+7959)	e7a599
+祚	throne; bless; blessing, happiness (U+795A)	e7a59a
+祛	expel, disperse, exorcise (U+795B)	e7a59b
+祜	blessing, happiness, prosperity (U+795C)	e7a59c
+祝	pray for happiness or blessings (U+795D)	e7a59d
+神	spirit, god, supernatural being (U+795E)	e7a59e
+祟	evil spirit; evil influence (U+795F)	e7a59f
+祠	ancestral temple; offer sacrifice (U+7960)	e7a5a0
+祡	U+7961 (U+7961)	e7a5a1
+祢	one's deceased father (U+7962)	e7a5a2
+祣	U+7963 (U+7963)	e7a5a3
+祤	U+7964 (U+7964)	e7a5a4
+祥	good luck, good omen; happiness (U+7965)	e7a5a5
+祦	happiness; good fortune good luck; blessing; bliss (U+7966)	e7a5a6
+祧	an ancestral hall (U+7967)	e7a5a7
+票	slip of paper or bamboo; ticket (U+7968)	e7a5a8
+祩	U+7969 (U+7969)	e7a5a9
+祪	U+796A (U+796A)	e7a5aa
+祫	triennial sacrifice to one's ancestors (U+796B)	e7a5ab
+祬	U+796C (U+796C)	e7a5ac
+祭	sacrifice to, worship (U+796D)	e7a5ad
+祮	U+796E (U+796E)	e7a5ae
+祯	lucky, auspicious, good omen (U+796F)	e7a5af
+祰	U+7970 (U+7970)	e7a5b0
+祱	U+7971 (U+7971)	e7a5b1
+祲	ominous or sinister spirit; vigor (U+7972)	e7a5b2
+祳	U+7973 (U+7973)	e7a5b3
+祴	U+7974 (U+7974)	e7a5b4
+祵	U+7975 (U+7975)	e7a5b5
+祶	U+7976 (U+7976)	e7a5b6
+祷	pray; entreat, beg, plead; prayer (U+7977)	e7a5b7
+祸	misfortune, calamity, disaster (U+7978)	e7a5b8
+祹	U+7979 (U+7979)	e7a5b9
+祺	good luck, good fortune (U+797A)	e7a5ba
+祻	U+797B (U+797B)	e7a5bb
+祼	libation (U+797C)	e7a5bc
+祽	U+797D (U+797D)	e7a5bd
+祾	U+797E (U+797E)	e7a5be
+祿	blessing, happiness, prosperity (U+797F)	e7a5bf
+禀	report to, petition (U+7980)	e7a680
+禁	restrict, prohibit, forbid (U+7981)	e7a681
+禂	to pray; prayer (U+7982)	e7a682
+禃	U+7983 (U+7983)	e7a683
+禄	blessing, happiness, prosperity (U+7984)	e7a684
+禅	meditation, contemplation (DKW: 24787') (U+7985)	e7a685
+禆	U+7986 (U+7986)	e7a686
+禇	U+7987 (U+7987)	e7a687
+禈	U+7988 (U+7988)	e7a688
+禉	U+7989 (U+7989)	e7a689
+禊	semi-annual ceremony of purification (U+798A)	e7a68a
+禋	offer sacrifice; sacrifice (U+798B)	e7a68b
+禌	U+798C (U+798C)	e7a68c
+禍	misfortune, calamity, disaster (U+798D)	e7a68d
+禎	lucky, auspicious, good omen (U+798E)	e7a68e
+福	happiness, good fortune, blessing (U+798F)	e7a68f
+禐	U+7990 (U+7990)	e7a690
+禑	happy; used in historical names (U+7991)	e7a691
+禒	U+7992 (U+7992)	e7a692
+禓	to drive out demons, etc., as was done at the new-year (U+7993)	e7a693
+禔	happiness; peace; good fortune (U+7994)	e7a694
+禕	excellent, rare; beautiful, fine (U+7995)	e7a695
+禖	sacrifice (U+7996)	e7a696
+禗	U+7997 (U+7997)	e7a697
+禘	imperial ancestor worship (U+7998)	e7a698
+禙	U+7999 (U+7999)	e7a699
+禚	place name (U+799A)	e7a69a
+禛	to receive blessings in a sincere spirit (U+799B)	e7a69b
+禜	sacrifice (U+799C)	e7a69c
+禝	U+799D (U+799D)	e7a69d
+禞	U+799E (U+799E)	e7a69e
+禟	U+799F (U+799F)	e7a69f
+禠	happy (U+79A0)	e7a6a0
+禡	a sacrifice at the beginning of a military campaign or on the 2nd and 16th day of the lunar month (U+79A1)	e7a6a1
+禢	surname (U+79A2)	e7a6a2
+禣	U+79A3 (U+79A3)	e7a6a3
+禤	surname Xuan (U+79A4)	e7a6a4
+禥	U+79A5 (U+79A5)	e7a6a5
+禦	defend, resist, hold out against (U+79A6)	e7a6a6
+禧	happiness; congratulations (U+79A7)	e7a6a7
+禨	pray for good fortune (U+79A8)	e7a6a8
+禩	U+79A9 (U+79A9)	e7a6a9
+禪	meditation, contemplation (dhyana); to level ground for altar; abdicate (U+79AA)	e7a6aa
+禫	sacrifice offered at the end of the three years' mourning the death of a parent (U+79AB)	e7a6ab
+禬	U+79AC (U+79AC)	e7a6ac
+禭	U+79AD (U+79AD)	e7a6ad
+禮	social custom; manners; courtesy; rites (U+79AE)	e7a6ae
+禯	U+79AF (U+79AF)	e7a6af
+禰	one's deceased father (U+79B0)	e7a6b0
+禱	pray; entreat, beg, plead; prayer (U+79B1)	e7a6b1
+禲	U+79B2 (U+79B2)	e7a6b2
+禳	pray or sacrifice, exorcise (U+79B3)	e7a6b3
+禴	sacrifice (U+79B4)	e7a6b4
+禵	U+79B5 (U+79B5)	e7a6b5
+禶	U+79B6 (U+79B6)	e7a6b6
+禷	U+79B7 (U+79B7)	e7a6b7
+禸	rump; KangXi radical 114 (U+79B8)	e7a6b8
+禹	legendary hsia dynasty founder (U+79B9)	e7a6b9
+禺	district; mountain in Zhejiang (U+79BA)	e7a6ba
+离	rare beast; strange; elegant (U+79BB)	e7a6bb
+禼	U+79BC (U+79BC)	e7a6bc
+禽	birds, fowl; surname;; capture (U+79BD)	e7a6bd
+禾	grain still on stalk; rice plant (U+79BE)	e7a6be
+禿	bald, bare, stripped (U+79BF)	e7a6bf
+秀	ear of grain; flowering, luxuriant; refined, elegant, graceful (U+79C0)	e7a780
+私	private, personal; secret (U+79C1)	e7a781
+秂	U+79C2 (U+79C2)	e7a782
+秃	bald (U+79C3)	e7a783
+秄	to hoe (U+79C4)	e7a784
+秅	U+79C5 (U+79C5)	e7a785
+秆	straw; stalk of grain (U+79C6)	e7a786
+秇	skill, ability in handicraft a craft, an art, a calling; a trade; an accomplishment (U+79C7)	e7a787
+秈	non-glutinous long grain rice (U+79C8)	e7a788
+秉	grasp, hold; bundle; authority (U+79C9)	e7a789
+秊	year; new-years; person's age (U+79CA)	e7a78a
+秋	autumn, fall; year (U+79CB)	e7a78b
+秌	(same as U+79CB 秋) autumn, fall; year (U+79CC)	e7a78c
+种	seed; race, breed; to plant (U+79CD)	e7a78d
+秎	U+79CE (U+79CE)	e7a78e
+秏	to waste, to destroy, to diminish; hence it came to mean, a rat (U+79CF)	e7a78f
+秐	to weed (U+79D0)	e7a790
+科	section, department, science (U+79D1)	e7a791
+秒	beard of grain or corn; a second (U+79D2)	e7a792
+秓	U+79D3 (U+79D3)	e7a793
+秔	non-glutinous rice (U+79D4)	e7a794
+秕	empty grain or rice husk, chaff (U+79D5)	e7a795
+秖	U+79D6 (U+79D6)	e7a796
+秗	U+79D7 (U+79D7)	e7a797
+秘	secret, mysterious, abstruse (U+79D8)	e7a798
+秙	U+79D9 (U+79D9)	e7a799
+秚	U+79DA (U+79DA)	e7a79a
+秛	U+79DB (U+79DB)	e7a79b
+秜	U+79DC (U+79DC)	e7a79c
+秝	(Cant.) excessively thin (U+79DD)	e7a79d
+秞	U+79DE (U+79DE)	e7a79e
+租	rent, lease; rental; tax (U+79DF)	e7a79f
+秠	millet (U+79E0)	e7a7a0
+秡	U+79E1 (U+79E1)	e7a7a1
+秢	U+79E2 (U+79E2)	e7a7a2
+秣	fodder, horse feed; feed horse (U+79E3)	e7a7a3
+秤	balance, scale, steelyard (U+79E4)	e7a7a4
+秥	U+79E5 (U+79E5)	e7a7a5
+秦	feudal state of Qin; the Qin dynasty (from which the name 'China' comes) (U+79E6)	e7a7a6
+秧	rice seedlings, young rice plants (U+79E7)	e7a7a7
+秨	U+79E8 (U+79E8)	e7a7a8
+秩	order; orderly; salary; decade (U+79E9)	e7a7a9
+秪	only, merely (U+79EA)	e7a7aa
+秫	glutinous variety of millet (U+79EB)	e7a7ab
+秬	black millet (U+79EC)	e7a7ac
+秭	one thousand millions, sometimes used for one hundred millions (U+79ED)	e7a7ad
+秮	U+79EE (U+79EE)	e7a7ae
+积	accumulate, store up, amass (U+79EF)	e7a7af
+称	call; name, brand; address; say (U+79F0)	e7a7b0
+秱	U+79F1 (U+79F1)	e7a7b1
+秲	U+79F2 (U+79F2)	e7a7b2
+秳	U+79F3 (U+79F3)	e7a7b3
+秴	U+79F4 (U+79F4)	e7a7b4
+秵	U+79F5 (U+79F5)	e7a7b5
+秶	U+79F6 (U+79F6)	e7a7b6
+秷	U+79F7 (U+79F7)	e7a7b7
+秸	stalks of millet, corn (U+79F8)	e7a7b8
+秹	U+79F9 (U+79F9)	e7a7b9
+秺	U+79FA (U+79FA)	e7a7ba
+移	change place, shift; move about (U+79FB)	e7a7bb
+秼	U+79FC (U+79FC)	e7a7bc
+秽	dirty, unclean; immoral, obscene (U+79FD)	e7a7bd
+秾	thick, lush, in clusters (U+79FE)	e7a7be
+秿	U+79FF (U+79FF)	e7a7bf
+稀	rare, unusual, scarce; sparse (U+7A00)	e7a880
+稁	U+7A01 (U+7A01)	e7a881
+稂	grass; weeds (U+7A02)	e7a882
+稃	U+7A03 (U+7A03)	e7a883
+稄	U+7A04 (U+7A04)	e7a884
+稅	taxes, revenue, duty; tax (U+7A05)	e7a885
+稆	wild grain (U+7A06)	e7a886
+稇	to bind, as faggots of sheaves (U+7A07)	e7a887
+稈	stalk of grain; straw (U+7A08)	e7a888
+稉	non-glutinous rice (U+7A09)	e7a889
+稊	darnels, tares (U+7A0A)	e7a88a
+程	journey, trip; schedule, agenda (U+7A0B)	e7a88b
+稌	glutinous rice (U+7A0C)	e7a88c
+稍	little, slightly; rather (U+7A0D)	e7a88d
+税	taxes (U+7A0E)	e7a88e
+稏	a kind of rice plant; shaking and waving of the rice plant (U+7A0F)	e7a88f
+稐	U+7A10 (U+7A10)	e7a890
+稑	rice (U+7A11)	e7a891
+稒	U+7A12 (U+7A12)	e7a892
+稓	U+7A13 (U+7A13)	e7a893
+稔	ripe grain; harvest; to know, be familiar with (U+7A14)	e7a894
+稕	U+7A15 (U+7A15)	e7a895
+稖	U+7A16 (U+7A16)	e7a896
+稗	darnels, weeds, tares small (U+7A17)	e7a897
+稘	a full year, an anniversary (U+7A18)	e7a898
+稙	grain ready for grinding (U+7A19)	e7a899
+稚	young, immature; childhood (U+7A1A)	e7a89a
+稛	bind (U+7A1B)	e7a89b
+稜	corner, edge, angle; square block (U+7A1C)	e7a89c
+稝	U+7A1D (U+7A1D)	e7a89d
+稞	grain ready for grinding; grain (U+7A1E)	e7a89e
+稟	report to, petition (U+7A1F)	e7a89f
+稠	dense, crowded, packed; soupy (U+7A20)	e7a8a0
+稡	U+7A21 (U+7A21)	e7a8a1
+稢	U+7A22 (U+7A22)	e7a8a2
+稣	revive, to rise again; collect (U+7A23)	e7a8a3
+稤	U+7A24 (U+7A24)	e7a8a4
+稥	U+7A25 (U+7A25)	e7a8a5
+稦	U+7A26 (U+7A26)	e7a8a6
+稧	U+7A27 (U+7A27)	e7a8a7
+稨	U+7A28 (U+7A28)	e7a8a8
+稩	U+7A29 (U+7A29)	e7a8a9
+稪	U+7A2A (U+7A2A)	e7a8aa
+稫	U+7A2B (U+7A2B)	e7a8ab
+稬	glutinous, sticky (U+7A2C)	e7a8ac
+稭	stalk of grain, rice, corn, hemp (U+7A2D)	e7a8ad
+種	seed; race; offspring; to plant (U+7A2E)	e7a8ae
+稯	U+7A2F (U+7A2F)	e7a8af
+稰	U+7A30 (U+7A30)	e7a8b0
+稱	call; name, brand; address; say (U+7A31)	e7a8b1
+稲	rice growing in field, rice plant (U+7A32)	e7a8b2
+稳	stable, firm, solid, steady (U+7A33)	e7a8b3
+稴	U+7A34 (U+7A34)	e7a8b4
+稵	U+7A35 (U+7A35)	e7a8b5
+稶	U+7A36 (U+7A36)	e7a8b6
+稷	god of cereals; minister of agriculture (U+7A37)	e7a8b7
+稸	U+7A38 (U+7A38)	e7a8b8
+稹	U+7A39 (U+7A39)	e7a8b9
+稺	variant of 穉 U+7A49, young grain; young, tender (U+7A3A)	e7a8ba
+稻	rice growing in field, rice plant (U+7A3B)	e7a8bb
+稼	sow grain; sheaves of grain (U+7A3C)	e7a8bc
+稽	examine, investigate; delay (U+7A3D)	e7a8bd
+稾	draft, manuscript, rough copy (U+7A3E)	e7a8be
+稿	draft, manuscript, rough copy (U+7A3F)	e7a8bf
+穀	corn, grain, cereal; lucky (U+7A40)	e7a980
+穁	U+7A41 (U+7A41)	e7a981
+穂	ear of grain; tassel; Guangzhou (U+7A42)	e7a982
+穃	U+7A43 (U+7A43)	e7a983
+穄	panicled millet (U+7A44)	e7a984
+穅	chaff, bran, husks of grain, from which comes: --poor, remiss (U+7A45)	e7a985
+穆	majestic, solemn, reverent; calm (U+7A46)	e7a986
+穇	deccan grass, a barnyard grass (U+7A47)	e7a987
+穈	millet (U+7A48)	e7a988
+穉	young grain; young, tender (U+7A49)	e7a989
+穊	plough deep; sown slowly (U+7A4A)	e7a98a
+穋	rice (U+7A4B)	e7a98b
+穌	revive, to rise again; collect (U+7A4C)	e7a98c
+積	accumulate, store up, amass (U+7A4D)	e7a98d
+穎	rice tassel; sharp point; clever (U+7A4E)	e7a98e
+穏	calm, quiet, peace; moderation (U+7A4F)	e7a98f
+穐	fall, autumn (U+7A50)	e7a990
+穑	farm, harvest grain; stingy (U+7A51)	e7a991
+穒	U+7A52 (U+7A52)	e7a992
+穓	U+7A53 (U+7A53)	e7a993
+穔	U+7A54 (U+7A54)	e7a994
+穕	U+7A55 (U+7A55)	e7a995
+穖	U+7A56 (U+7A56)	e7a996
+穗	ear of grain; tassel; Guangzhou (U+7A57)	e7a997
+穘	U+7A58 (U+7A58)	e7a998
+穙	U+7A59 (U+7A59)	e7a999
+穚	U+7A5A (U+7A5A)	e7a99a
+穛	U+7A5B (U+7A5B)	e7a99b
+穜	rice (U+7A5C)	e7a99c
+穝	U+7A5D (U+7A5D)	e7a99d
+穞	U+7A5E (U+7A5E)	e7a99e
+穟	ear of grain; ripe grain (U+7A5F)	e7a99f
+穠	thick, lush, in clusters (U+7A60)	e7a9a0
+穡	farm, harvest grain; stingy (U+7A61)	e7a9a1
+穢	dirty, unclean; immoral, obscene (U+7A62)	e7a9a2
+穣	stalks of grain; lush, abundant (U+7A63)	e7a9a3
+穤	glutinous rice (U+7A64)	e7a9a4
+穥	U+7A65 (U+7A65)	e7a9a5
+穦	U+7A66 (U+7A66)	e7a9a6
+穧	sheaf (U+7A67)	e7a9a7
+穨	ruined, decayed; disintegrate (U+7A68)	e7a9a8
+穩	stable, firm, solid, steady (U+7A69)	e7a9a9
+穪	to praise (U+7A6A)	e7a9aa
+穫	harvest, cut grain (U+7A6B)	e7a9ab
+穬	U+7A6C (U+7A6C)	e7a9ac
+穭	wild grain (U+7A6D)	e7a9ad
+穮	weed (U+7A6E)	e7a9ae
+穯	U+7A6F (U+7A6F)	e7a9af
+穰	stalks of grain; lush, abundant (U+7A70)	e7a9b0
+穱	U+7A71 (U+7A71)	e7a9b1
+穲	U+7A72 (U+7A72)	e7a9b2
+穳	U+7A73 (U+7A73)	e7a9b3
+穴	cave, den, hole; KangXi radical 116 (U+7A74)	e7a9b4
+穵	deep hollow;, gouge, dig out (U+7A75)	e7a9b5
+究	examine, investigate (U+7A76)	e7a9b6
+穷	poor, destitute, impoverished (U+7A77)	e7a9b7
+穸	the gloom of the grave a tomb or grave; death (U+7A78)	e7a9b8
+穹	high and vast; elevated; arched (U+7A79)	e7a9b9
+空	empty, hollow, bare, deserted (U+7A7A)	e7a9ba
+穻	U+7A7B (U+7A7B)	e7a9bb
+穼	U+7A7C (U+7A7C)	e7a9bc
+穽	hole; pitfall, trap (U+7A7D)	e7a9bd
+穾	U+7A7E (U+7A7E)	e7a9be
+穿	penetrate, pierce, drill; wear (U+7A7F)	e7a9bf
+窀	to bury (U+7A80)	e7aa80
+突	suddenly, abruptly, unexpectedly (U+7A81)	e7aa81
+窂	U+7A82 (U+7A82)	e7aa82
+窃	secretly, stealthily; steal; thief (U+7A83)	e7aa83
+窄	narrow, tight; narrow-minded (U+7A84)	e7aa84
+窅	far, deep; sunken eyes; sad (U+7A85)	e7aa85
+窆	to put a coffin in a grave (U+7A86)	e7aa86
+窇	U+7A87 (U+7A87)	e7aa87
+窈	obscure, secluded; refined (U+7A88)	e7aa88
+窉	(Cant.) to hide things, to conceal (U+7A89)	e7aa89
+窊	pit, vault; store in pit; (Cant.) 手窊, the arm (U+7A8A)	e7aa8a
+窋	U+7A8B (U+7A8B)	e7aa8b
+窌	pit, vault; store in pit (U+7A8C)	e7aa8c
+窍	hole, opening, aperture (U+7A8D)	e7aa8d
+窎	deep; distant (U+7A8E)	e7aa8e
+窏	U+7A8F (U+7A8F)	e7aa8f
+窐	U+7A90 (U+7A90)	e7aa90
+窑	kiln; coal mine pit (U+7A91)	e7aa91
+窒	stop up, obstruct (U+7A92)	e7aa92
+窓	window (U+7A93)	e7aa93
+窔	corner (U+7A94)	e7aa94
+窕	slender; quiet and modest, charming (U+7A95)	e7aa95
+窖	pit, cellar (U+7A96)	e7aa96
+窗	window (U+7A97)	e7aa97
+窘	embarrassed; hard-pressed (U+7A98)	e7aa98
+窙	U+7A99 (U+7A99)	e7aa99
+窚	U+7A9A (U+7A9A)	e7aa9a
+窛	U+7A9B (U+7A9B)	e7aa9b
+窜	run away; revise, edit; expel (U+7A9C)	e7aa9c
+窝	nest; cave, den; hiding place (U+7A9D)	e7aa9d
+窞	pit (U+7A9E)	e7aa9e
+窟	hole, cave; cellar; underground (U+7A9F)	e7aa9f
+窠	nest; hole, indention; den (U+7AA0)	e7aaa0
+窡	U+7AA1 (U+7AA1)	e7aaa1
+窢	U+7AA2 (U+7AA2)	e7aaa2
+窣	to rush out of a den; rustling, whispering (U+7AA3)	e7aaa3
+窤	U+7AA4 (U+7AA4)	e7aaa4
+窥	peep, watch, spy on, pry (U+7AA5)	e7aaa5
+窦	surname; hole, burrow; corrupt (U+7AA6)	e7aaa6
+窧	U+7AA7 (U+7AA7)	e7aaa7
+窨	a cellar, a store-room (U+7AA8)	e7aaa8
+窩	nest; cave, den; hiding place (U+7AA9)	e7aaa9
+窪	hollow; pit; depression; swamp (U+7AAA)	e7aaaa
+窫	U+7AAB (U+7AAB)	e7aaab
+窬	a small door or window; a hole in the wall to cut through a wall (U+7AAC)	e7aaac
+窭	poor, impoverished (U+7AAD)	e7aaad
+窮	poor, destitute, impoverished (U+7AAE)	e7aaae
+窯	kiln; coal mine pit (U+7AAF)	e7aaaf
+窰	brick kiln; furnace; coal mine pit (U+7AB0)	e7aab0
+窱	U+7AB1 (U+7AB1)	e7aab1
+窲	U+7AB2 (U+7AB2)	e7aab2
+窳	dirty, useless, weak, powerless; cracked, a flaw (U+7AB3)	e7aab3
+窴	glance at, look at; wink at (U+7AB4)	e7aab4
+窵	deep; distant (U+7AB5)	e7aab5
+窶	poor, impoverished (U+7AB6)	e7aab6
+窷	U+7AB7 (U+7AB7)	e7aab7
+窸	faint sound, whisper (U+7AB8)	e7aab8
+窹	U+7AB9 (U+7AB9)	e7aab9
+窺	peep, watch, spy on, pry (U+7ABA)	e7aaba
+窻	window (U+7ABB)	e7aabb
+窼	U+7ABC (U+7ABC)	e7aabc
+窽	empty; vacant (U+7ABD)	e7aabd
+窾	hole; hallow; empty (U+7ABE)	e7aabe
+窿	mine shaft; cavity, hole (U+7ABF)	e7aabf
+竀	U+7AC0 (U+7AC0)	e7ab80
+竁	bore (U+7AC1)	e7ab81
+竂	U+7AC2 (U+7AC2)	e7ab82
+竃	furnace; kitchen range (U+7AC3)	e7ab83
+竄	run away; revise, edit; expel (U+7AC4)	e7ab84
+竅	hole, opening, aperture (U+7AC5)	e7ab85
+竆	exhausted; impoverished; poor (U+7AC6)	e7ab86
+竇	surname; hole, burrow; corrupt (U+7AC7)	e7ab87
+竈	furnace; kitchen stove (U+7AC8)	e7ab88
+竉	a hole; a cleft; empty (U+7AC9)	e7ab89
+竊	secretly, stealthily; steal; thief (U+7ACA)	e7ab8a
+立	stand; let stand; establish, set (U+7ACB)	e7ab8b
+竌	U+7ACC (U+7ACC)	e7ab8c
+竍	decaliter (U+7ACD)	e7ab8d
+竎	U+7ACE (U+7ACE)	e7ab8e
+竏	kiloliter (U+7ACF)	e7ab8f
+竐	U+7AD0 (U+7AD0)	e7ab90
+竑	be vast and endless; broad (U+7AD1)	e7ab91
+竒	strange, unusual, uncanny, occult (U+7AD2)	e7ab92
+竓	milliliter (U+7AD3)	e7ab93
+竔	litre (U+7AD4)	e7ab94

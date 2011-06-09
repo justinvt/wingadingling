@@ -1,0 +1,1024 @@
+鋕	engrave (U+92D5)	e98b95
+鋖	U+92D6 (U+92D6)	e98b96
+鋗	a small basin; rings on a cart of carriage (U+92D7)	e98b97
+鋘	sword (U+92D8)	e98b98
+鋙	misfit; disordant; music instrument; hoe (U+92D9)	e98b99
+鋚	iron; bronze decoration on bridle (U+92DA)	e98b9a
+鋛	U+92DB (U+92DB)	e98b9b
+鋜	fetters, shackles (U+92DC)	e98b9c
+鋝	6 oz; ancient measurement (U+92DD)	e98b9d
+鋞	U+92DE (U+92DE)	e98b9e
+鋟	carve (U+92DF)	e98b9f
+鋠	U+92E0 (U+92E0)	e98ba0
+鋡	U+92E1 (U+92E1)	e98ba1
+鋢	U+92E2 (U+92E2)	e98ba2
+鋣	sword (U+92E3)	e98ba3
+鋤	hoe; eradicate (U+92E4)	e98ba4
+鋥	polish (U+92E5)	e98ba5
+鋦	curium (U+92E6)	e98ba6
+鋧	U+92E7 (U+92E7)	e98ba7
+鋨	an ancient name for iron; osmium (U+92E8)	e98ba8
+鋩	point of sword; sharp point (U+92E9)	e98ba9
+鋪	spread out, arrange; shop, store; place to sleep, bed (U+92EA)	e98baa
+鋫	U+92EB (U+92EB)	e98bab
+鋬	U+92EC (U+92EC)	e98bac
+鋭	sharp (U+92ED)	e98bad
+鋮	person's name (U+92EE)	e98bae
+鋯	zirconium (U+92EF)	e98baf
+鋰	lithium (U+92F0)	e98bb0
+鋱	terbium (U+92F1)	e98bb1
+鋲	rivet (U+92F2)	e98bb2
+鋳	melt, cast; coin, mint (U+92F3)	e98bb3
+鋴	U+92F4 (U+92F4)	e98bb4
+鋵	U+92F5 (U+92F5)	e98bb5
+鋶	U+92F6 (U+92F6)	e98bb6
+鋷	U+92F7 (U+92F7)	e98bb7
+鋸	a saw; to saw; amputate (U+92F8)	e98bb8
+鋹	sharp; a keen edge; sharp point (U+92F9)	e98bb9
+鋺	a metal bowl (U+92FA)	e98bba
+鋻	U+92FB (U+92FB)	e98bbb
+鋼	steel; hard, strong, tough (U+92FC)	e98bbc
+鋽	U+92FD (U+92FD)	e98bbd
+鋾	U+92FE (U+92FE)	e98bbe
+鋿	U+92FF (U+92FF)	e98bbf
+錀	U+9300 (U+9300)	e98c80
+錁	ingot; acrobatic move (U+9301)	e98c81
+錂	U+9302 (U+9302)	e98c82
+錃	U+9303 (U+9303)	e98c83
+錄	copy, write down, record (U+9304)	e98c84
+錅	U+9305 (U+9305)	e98c85
+錆	the color of a mineral (U+9306)	e98c86
+錇	berkelium (U+9307)	e98c87
+錈	to bend iron (U+9308)	e98c88
+錉	U+9309 (U+9309)	e98c89
+錊	U+930A (U+930A)	e98c8a
+錋	U+930B (U+930B)	e98c8b
+錌	U+930C (U+930C)	e98c8c
+錍	U+930D (U+930D)	e98c8d
+錎	U+930E (U+930E)	e98c8e
+錏	soft steel; ammonium (U+930F)	e98c8f
+錐	gimlet, awl, drill, auger; bore (U+9310)	e98c90
+錑	U+9311 (U+9311)	e98c91
+錒	actinium (U+9312)	e98c92
+錓	U+9313 (U+9313)	e98c93
+錔	cap (U+9314)	e98c94
+錕	ancient treasured sword (U+9315)	e98c95
+錖	U+9316 (U+9316)	e98c96
+錗	U+9317 (U+9317)	e98c97
+錘	balance weight on scale; hammer (U+9318)	e98c98
+錙	8 oz; an ancient unit of weight (U+9319)	e98c99
+錚	clanging sound; small gong (U+931A)	e98c9a
+錛	adz; adze (U+931B)	e98c9b
+錜	U+931C (U+931C)	e98c9c
+錝	U+931D (U+931D)	e98c9d
+錞	instrument (U+931E)	e98c9e
+錟	long spear (U+931F)	e98c9f
+錠	spindle, slab, cake, tablet (U+9320)	e98ca0
+錡	a kind of pen; a kind of chisel (U+9321)	e98ca1
+錢	money, currency, coins (U+9322)	e98ca2
+錣	armor neckplates (U+9323)	e98ca3
+錤	hoe (U+9324)	e98ca4
+錥	U+9325 (U+9325)	e98ca5
+錦	brocade, tapestry; embroidered (U+9326)	e98ca6
+錧	U+9327 (U+9327)	e98ca7
+錨	anchor (U+9328)	e98ca8
+錩	vessel (U+9329)	e98ca9
+錪	U+932A (U+932A)	e98caa
+錫	tin, stannum; bestow, confer (U+932B)	e98cab
+錬	smelt metals (U+932C)	e98cac
+錭	U+932D (U+932D)	e98cad
+錮	run metal into cracks; confine (U+932E)	e98cae
+錯	error, blunder, mistake, wrong (U+932F)	e98caf
+錰	U+9330 (U+9330)	e98cb0
+錱	U+9331 (U+9331)	e98cb1
+録	copy (U+9332)	e98cb2
+錳	manganese (U+9333)	e98cb3
+錴	U+9334 (U+9334)	e98cb4
+錵	U+9335 (U+9335)	e98cb5
+錶	a watch, clock (U+9336)	e98cb6
+錷	U+9337 (U+9337)	e98cb7
+錸	rhenium (U+9338)	e98cb8
+錹	U+9339 (U+9339)	e98cb9
+錺	metal jewelry (U+933A)	e98cba
+錻	a tin plate (U+933B)	e98cbb
+錼	neptunium (Np) (U+933C)	e98cbc
+錽	U+933D (U+933D)	e98cbd
+錾	engraving tool, chisel (U+933E)	e98cbe
+錿	U+933F (U+933F)	e98cbf
+鍀	technetium (U+9340)	e98d80
+鍁	shovel (U+9341)	e98d81
+鍂	U+9342 (U+9342)	e98d82
+鍃	a kind of tool (U+9343)	e98d83
+鍄	U+9344 (U+9344)	e98d84
+鍅	U+9345 (U+9345)	e98d85
+鍆	mendelevium (Md) (U+9346)	e98d86
+鍇	high quality iron (U+9347)	e98d87
+鍈	U+9348 (U+9348)	e98d88
+鍉	spoon, key (U+9349)	e98d89
+鍊	smelt metals, forge; refine (U+934A)	e98d8a
+鍋	cooking-pot, saucepan (U+934B)	e98d8b
+鍌	U+934C (U+934C)	e98d8c
+鍍	plate, coat, gild (U+934D)	e98d8d
+鍎	U+934E (U+934E)	e98d8e
+鍏	U+934F (U+934F)	e98d8f
+鍐	a headstall, ornament on a bride (U+9350)	e98d90
+鍑	U+9351 (U+9351)	e98d91
+鍒	U+9352 (U+9352)	e98d92
+鍓	U+9353 (U+9353)	e98d93
+鍔	high, lofty; edge of knife (U+9354)	e98d94
+鍕	U+9355 (U+9355)	e98d95
+鍖	U+9356 (U+9356)	e98d96
+鍗	U+9357 (U+9357)	e98d97
+鍘	sickle for cutting grass or hay (U+9358)	e98d98
+鍙	U+9359 (U+9359)	e98d99
+鍚	frontlet (U+935A)	e98d9a
+鍛	forge metal; temper, refine (U+935B)	e98d9b
+鍜	to forge, work (U+935C)	e98d9c
+鍝	U+935D (U+935D)	e98d9d
+鍞	U+935E (U+935E)	e98d9e
+鍟	(Cant.) rust (U+935F)	e98d9f
+鍠	weapon (U+9360)	e98da0
+鍡	U+9361 (U+9361)	e98da1
+鍢	U+9362 (U+9362)	e98da2
+鍣	U+9363 (U+9363)	e98da3
+鍤	spade, shovel; marking pin (U+9364)	e98da4
+鍥	sickle; cut, carve, engrave (U+9365)	e98da5
+鍦	U+9366 (U+9366)	e98da6
+鍧	U+9367 (U+9367)	e98da7
+鍨	U+9368 (U+9368)	e98da8
+鍩	nobelium (U+9369)	e98da9
+鍪	an iron pan; a metal cap (U+936A)	e98daa
+鍫	shovel (U+936B)	e98dab
+鍬	shovel (U+936C)	e98dac
+鍭	arrow (U+936D)	e98dad
+鍮	brass (U+936E)	e98dae
+鍯	U+936F (U+936F)	e98daf
+鍰	measure; money, coins (U+9370)	e98db0
+鍱	thin plates of metal (U+9371)	e98db1
+鍲	U+9372 (U+9372)	e98db2
+鍳	U+9373 (U+9373)	e98db3
+鍴	U+9374 (U+9374)	e98db4
+鍵	door bolt, lock bolt; key (U+9375)	e98db5
+鍶	strontium; an iron utensil (U+9376)	e98db6
+鍷	U+9377 (U+9377)	e98db7
+鍸	food, gruel (U+9378)	e98db8
+鍹	U+9379 (U+9379)	e98db9
+鍺	germanium; metal flashing on the axle of a cart (U+937A)	e98dba
+鍻	U+937B (U+937B)	e98dbb
+鍼	needle, pin, tack; prick; inject (U+937C)	e98dbc
+鍽	U+937D (U+937D)	e98dbd
+鍾	cup, glass, goblet; surname (U+937E)	e98dbe
+鍿	U+937F (U+937F)	e98dbf
+鎀	U+9380 (U+9380)	e98e80
+鎁	U+9381 (U+9381)	e98e81
+鎂	magnesium (U+9382)	e98e82
+鎃	U+9383 (U+9383)	e98e83
+鎄	iridium einsteinium (U+9384)	e98e84
+鎅	(Cant.) to saw; to cut (U+9385)	e98e85
+鎆	U+9386 (U+9386)	e98e86
+鎇	americium (U+9387)	e98e87
+鎈	U+9388 (U+9388)	e98e88
+鎉	thallium (U+9389)	e98e89
+鎊	pound sterling; to scrape (U+938A)	e98e8a
+鎋	the linch-pin of a wheel to govern or control the noise of a barrow (U+938B)	e98e8b
+鎌	sickle (U+938C)	e98e8c
+鎍	chain; wire (U+938D)	e98e8d
+鎎	U+938E (U+938E)	e98e8e
+鎏	pure gold (U+938F)	e98e8f
+鎐	family name; wine cup (U+9390)	e98e90
+鎑	U+9391 (U+9391)	e98e91
+鎒	to hoe; to weed (U+9392)	e98e92
+鎓	U+9393 (U+9393)	e98e93
+鎔	fuse, melt, smelt; mold (U+9394)	e98e94
+鎕	U+9395 (U+9395)	e98e95
+鎖	lock, padlock; shackles, chains (U+9396)	e98e96
+鎗	rifle, small arms, hand gun (U+9397)	e98e97
+鎘	cadmium (U+9398)	e98e98
+鎙	large spear; chess board (U+9399)	e98e99
+鎚	hammer, mallet; club (U+939A)	e98e9a
+鎛	large bell; hoe, spade (U+939B)	e98e9b
+鎜	U+939C (U+939C)	e98e9c
+鎝	technetium (U+939D)	e98e9d
+鎞	plowshare; barb, lancet (U+939E)	e98e9e
+鎟	U+939F (U+939F)	e98e9f
+鎠	U+93A0 (U+93A0)	e98ea0
+鎡	hoe; mattock (U+93A1)	e98ea1
+鎢	tungsten (wolfram) (U+93A2)	e98ea2
+鎣	polish (U+93A3)	e98ea3
+鎤	sound of a bell; small bell (U+93A4)	e98ea4
+鎥	U+93A5 (U+93A5)	e98ea5
+鎦	distil; lutetium; surname (U+93A6)	e98ea6
+鎧	armor, chain mail (U+93A7)	e98ea7
+鎨	U+93A8 (U+93A8)	e98ea8
+鎩	moult samarium (U+93A9)	e98ea9
+鎪	to engrave (metal of wood) (U+93AA)	e98eaa
+鎫	ornament over the horse's head (U+93AB)	e98eab
+鎬	stove; bright (U+93AC)	e98eac
+鎭	town, market place; suppress (U+93AD)	e98ead
+鎮	town, market place; suppress (U+93AE)	e98eae
+鎯	large hammer (U+93AF)	e98eaf
+鎰	measure of weight for gold (U+93B0)	e98eb0
+鎱	U+93B1 (U+93B1)	e98eb1
+鎲	U+93B2 (U+93B2)	e98eb2
+鎳	nickel (U+93B3)	e98eb3
+鎴	U+93B4 (U+93B4)	e98eb4
+鎵	gallium (U+93B5)	e98eb5
+鎶	U+93B6 (U+93B6)	e98eb6
+鎷	U+93B7 (U+93B7)	e98eb7
+鎸	engraving tool; carve, engrave (U+93B8)	e98eb8
+鎹	a clamp (U+93B9)	e98eb9
+鎺	U+93BA (U+93BA)	e98eba
+鎻	lock, padlock; shackles, chains (U+93BB)	e98ebb
+鎼	U+93BC (U+93BC)	e98ebc
+鎽	U+93BD (U+93BD)	e98ebd
+鎾	U+93BE (U+93BE)	e98ebe
+鎿	neptunium (U+93BF)	e98ebf
+鏀	U+93C0 (U+93C0)	e98f80
+鏁	variant of 鎖 U+9396, a lock, padlock; shackles, chains (U+93C1)	e98f81
+鏂	U+93C2 (U+93C2)	e98f82
+鏃	arrowhead, barb; swift, quick (U+93C3)	e98f83
+鏄	U+93C4 (U+93C4)	e98f84
+鏅	U+93C5 (U+93C5)	e98f85
+鏆	U+93C6 (U+93C6)	e98f86
+鏇	lathe (U+93C7)	e98f87
+鏈	chain, wire, cable; chain, shack (U+93C8)	e98f88
+鏉	U+93C9 (U+93C9)	e98f89
+鏊	a flat, iron cooking-plate for cakes (U+93CA)	e98f8a
+鏋	U+93CB (U+93CB)	e98f8b
+鏌	sword (U+93CC)	e98f8c
+鏍	U+93CD (U+93CD)	e98f8d
+鏎	U+93CE (U+93CE)	e98f8e
+鏏	U+93CF (U+93CF)	e98f8f
+鏐	pure gold (U+93D0)	e98f90
+鏑	dysprosium; the barb of an arrow; the head of a javelin (U+93D1)	e98f91
+鏒	U+93D2 (U+93D2)	e98f92
+鏓	U+93D3 (U+93D3)	e98f93
+鏔	U+93D4 (U+93D4)	e98f94
+鏕	U+93D5 (U+93D5)	e98f95
+鏖	to fight to the end, engage in a fierce battle (U+93D6)	e98f96
+鏗	strike, beat, stroke; jingling (U+93D7)	e98f97
+鏘	tinkle, clang, jingle (U+93D8)	e98f98
+鏙	U+93D9 (U+93D9)	e98f99
+鏚	axe (U+93DA)	e98f9a
+鏛	to polish; iron rim on a wagon wheel (U+93DB)	e98f9b
+鏜	boring tool (U+93DC)	e98f9c
+鏝	trowel (U+93DD)	e98f9d
+鏞	a large bell used as a musical instrument (U+93DE)	e98f9e
+鏟	spade, shovel, trowel, scoop (U+93DF)	e98f9f
+鏠	U+93E0 (U+93E0)	e98fa0
+鏡	mirror; lens; glass; glasses (U+93E1)	e98fa1
+鏢	dart, spear, harpoon; escort (U+93E2)	e98fa2
+鏣	U+93E3 (U+93E3)	e98fa3
+鏤	carve, inlay, engrave, tattoo (U+93E4)	e98fa4
+鏥	rust, corrosion (U+93E5)	e98fa5
+鏦	a short spear (U+93E6)	e98fa6
+鏧	U+93E7 (U+93E7)	e98fa7
+鏨	engraving tool, chisel (U+93E8)	e98fa8
+鏩	U+93E9 (U+93E9)	e98fa9
+鏪	U+93EA (U+93EA)	e98faa
+鏫	U+93EB (U+93EB)	e98fab
+鏬	U+93EC (U+93EC)	e98fac
+鏭	U+93ED (U+93ED)	e98fad
+鏮	U+93EE (U+93EE)	e98fae
+鏯	U+93EF (U+93EF)	e98faf
+鏰	coin, money (U+93F0)	e98fb0
+鏱	U+93F1 (U+93F1)	e98fb1
+鏲	U+93F2 (U+93F2)	e98fb2
+鏳	U+93F3 (U+93F3)	e98fb3
+鏴	to plug a hole (U+93F4)	e98fb4
+鏵	spade, shovel, plowshare (U+93F5)	e98fb5
+鏶	U+93F6 (U+93F6)	e98fb6
+鏷	protactinium (U+93F7)	e98fb7
+鏸	U+93F8 (U+93F8)	e98fb8
+鏹	coins, money, wealth; (Cant.) 鏹水, sulfuric acid (U+93F9)	e98fb9
+鏺	U+93FA (U+93FA)	e98fba
+鏻	phosphonium (U+93FB)	e98fbb
+鏼	U+93FC (U+93FC)	e98fbc
+鏽	rust, corrode (U+93FD)	e98fbd
+鏾	the trigger of a crossbow; crossbow (U+93FE)	e98fbe
+鏿	U+93FF (U+93FF)	e98fbf
+鐀	a cupboard; a press; a wardrobe shop-counter (U+9400)	e99080
+鐁	U+9401 (U+9401)	e99081
+鐂	U+9402 (U+9402)	e99082
+鐃	cymbals; hand bell; disturb (U+9403)	e99083
+鐄	bell (U+9404)	e99084
+鐅	U+9405 (U+9405)	e99085
+鐆	U+9406 (U+9406)	e99086
+鐇	vanadium (U+9407)	e99087
+鐈	U+9408 (U+9408)	e99088
+鐉	U+9409 (U+9409)	e99089
+鐊	U+940A (U+940A)	e9908a
+鐋	gong (U+940B)	e9908b
+鐌	U+940C (U+940C)	e9908c
+鐍	hasp of a lock (U+940D)	e9908d
+鐎	U+940E (U+940E)	e9908e
+鐏	cap (U+940F)	e9908f
+鐐	fetters (U+9410)	e99090
+鐑	U+9411 (U+9411)	e99091
+鐒	lawrencium (U+9412)	e99092
+鐓	ferrule; castrate (U+9413)	e99093
+鐔	dagger; small sword (U+9414)	e99094
+鐕	U+9415 (U+9415)	e99095
+鐖	U+9416 (U+9416)	e99096
+鐗	U+9417 (U+9417)	e99097
+鐘	clock; bell (U+9418)	e99098
+鐙	lamp; a kind of cooking vessel (U+9419)	e99099
+鐚	soft steel; ammonium (U+941A)	e9909a
+鐛	U+941B (U+941B)	e9909b
+鐜	U+941C (U+941C)	e9909c
+鐝	a pick, a hoe (U+941D)	e9909d
+鐞	U+941E (U+941E)	e9909e
+鐟	U+941F (U+941F)	e9909f
+鐠	praseodymium (U+9420)	e990a0
+鐡	iron; strong, solid, firm (U+9421)	e990a1
+鐢	U+9422 (U+9422)	e990a2
+鐣	U+9423 (U+9423)	e990a3
+鐤	huge tripod of bronze with two ears; sacrificial vessel (U+9424)	e990a4
+鐥	U+9425 (U+9425)	e990a5
+鐦	californium (U+9426)	e990a6
+鐧	kind of rapier (U+9427)	e990a7
+鐨	fermium (U+9428)	e990a8
+鐩	lens (U+9429)	e990a9
+鐪	U+942A (U+942A)	e990aa
+鐫	engraving tool; carve, engrave (U+942B)	e990ab
+鐬	U+942C (U+942C)	e990ac
+鐭	U+942D (U+942D)	e990ad
+鐮	sickle (U+942E)	e990ae
+鐯	U+942F (U+942F)	e990af
+鐰	U+9430 (U+9430)	e990b0
+鐱	U+9431 (U+9431)	e990b1
+鐲	bracelet, armband; small bell (U+9432)	e990b2
+鐳	radium (U+9433)	e990b3
+鐴	U+9434 (U+9434)	e990b4
+鐵	iron; strong, solid, firm (U+9435)	e990b5
+鐶	metal ring; measure of currency (U+9436)	e990b6
+鐷	U+9437 (U+9437)	e990b7
+鐸	bell; surname (U+9438)	e990b8
+鐹	U+9439 (U+9439)	e990b9
+鐺	frying pan; warming vessel (U+943A)	e990ba
+鐻	drumstick (U+943B)	e990bb
+鐼	U+943C (U+943C)	e990bc
+鐽	U+943D (U+943D)	e990bd
+鐾	U+943E (U+943E)	e990be
+鐿	ytterbium (U+943F)	e990bf
+鑀	ionium (U+9440)	e99180
+鑁	U+9441 (U+9441)	e99181
+鑂	U+9442 (U+9442)	e99182
+鑃	U+9443 (U+9443)	e99183
+鑄	melt, cast; coin, mint (U+9444)	e99184
+鑅	U+9445 (U+9445)	e99185
+鑆	U+9446 (U+9446)	e99186
+鑇	U+9447 (U+9447)	e99187
+鑈	U+9448 (U+9448)	e99188
+鑉	U+9449 (U+9449)	e99189
+鑊	cauldron, large iron pot; a wok (U+944A)	e9918a
+鑋	U+944B (U+944B)	e9918b
+鑌	high quality iron (U+944C)	e9918c
+鑍	U+944D (U+944D)	e9918d
+鑎	U+944E (U+944E)	e9918e
+鑏	U+944F (U+944F)	e9918f
+鑐	bolt of a Chinese lock (U+9450)	e99190
+鑑	mirror, looking glass; reflect (U+9451)	e99191
+鑒	mirror, looking glass; reflect (U+9452)	e99192
+鑓	spear, lance, javelin (U+9453)	e99193
+鑔	cymbals (U+9454)	e99194
+鑕	tungsten, wolfram (U+9455)	e99195
+鑖	U+9456 (U+9456)	e99196
+鑗	U+9457 (U+9457)	e99197
+鑘	U+9458 (U+9458)	e99198
+鑙	U+9459 (U+9459)	e99199
+鑚	drill, bore; pierce; diamond (U+945A)	e9919a
+鑛	mine; mineral, ore (U+945B)	e9919b
+鑜	U+945C (U+945C)	e9919c
+鑝	U+945D (U+945D)	e9919d
+鑞	solder; tin (U+945E)	e9919e
+鑟	U+945F (U+945F)	e9919f
+鑠	melt, smelt; shine (U+9460)	e991a0
+鑡	U+9461 (U+9461)	e991a1
+鑢	file, rasp; file; polish; (Cant.) to cut (U+9462)	e991a2
+鑣	bit, bridle; ride (U+9463)	e991a3
+鑤	carpenter's plane (U+9464)	e991a4
+鑥	lutetium (U+9465)	e991a5
+鑦	U+9466 (U+9466)	e991a6
+鑧	U+9467 (U+9467)	e991a7
+鑨	U+9468 (U+9468)	e991a8
+鑩	U+9469 (U+9469)	e991a9
+鑪	fireplace, stove, oven, furnace (U+946A)	e991aa
+鑫	used in names (U+946B)	e991ab
+鑬	U+946C (U+946C)	e991ac
+鑭	lanthanum (U+946D)	e991ad
+鑮	U+946E (U+946E)	e991ae
+鑯	U+946F (U+946F)	e991af
+鑰	key; lock (U+9470)	e991b0
+鑱	spade, trowel (U+9471)	e991b1
+鑲	insert, inlay, set, mount; fill (U+9472)	e991b2
+鑳	U+9473 (U+9473)	e991b3
+鑴	to engrave or carve, as a block for printing (U+9474)	e991b4
+鑵	jar; can (U+9475)	e991b5
+鑶	U+9476 (U+9476)	e991b6
+鑷	tweezers, forceps, pincers (U+9477)	e991b7
+鑸	U+9478 (U+9478)	e991b8
+鑹	pick, poker (U+9479)	e991b9
+鑺	U+947A (U+947A)	e991ba
+鑻	U+947B (U+947B)	e991bb
+鑼	gong (U+947C)	e991bc
+鑽	drill, bore; pierce; diamond (U+947D)	e991bd
+鑾	bells hung on horse; bells hung (U+947E)	e991be
+鑿	chisel; bore, pierce (U+947F)	e991bf
+钀	U+9480 (U+9480)	e99280
+钁	a mattock; a billhook (U+9481)	e99281
+钂	U+9482 (U+9482)	e99282
+钃	U+9483 (U+9483)	e99283
+钄	U+9484 (U+9484)	e99284
+钅	gold; money; KangXi radical 167 (U+9485)	e99285
+钆	gadolinium (U+9486)	e99286
+钇	yttrium (U+9487)	e99287
+针	needle; pin; tack; acupuncture (U+9488)	e99288
+钉	nail, spike; pursue closely (U+9489)	e99289
+钊	endeavor, strive; encourage; cut (U+948A)	e9928a
+钋	polonium (U+948B)	e9928b
+钌	ruthenium (U+948C)	e9928c
+钍	thorium (U+948D)	e9928d
+钎	tool for boring holes (U+948E)	e9928e
+钏	bracelet, armlet (U+948F)	e9928f
+钐	samarium (U+9490)	e99290
+钑	spear (U+9491)	e99291
+钒	vanadium (U+9492)	e99292
+钓	fish; fishhook; tempt, lure (U+9493)	e99293
+钔	mendelevium (Md) (U+9494)	e99294
+钕	neodymium (U+9495)	e99295
+钖	frontlet (U+9496)	e99296
+钗	ornamental hairpin (U+9497)	e99297
+钘	ancient wine vessel (U+9498)	e99298
+钙	calcium (U+9499)	e99299
+钚	plutonium (U+949A)	e9929a
+钛	titanium (U+949B)	e9929b
+钜	steel, iron; great (U+949C)	e9929c
+钝	blunt, obtuse; dull; flat; dull-witted (U+949D)	e9929d
+钞	paper money, bank notes; copy (U+949E)	e9929e
+钟	clock; bell (U+949F)	e9929f
+钠	sodium, natrium; sharpen wood (U+94A0)	e992a0
+钡	barium (U+94A1)	e992a1
+钢	steel; hard, strong, tough (U+94A2)	e992a2
+钣	plate (U+94A3)	e992a3
+钤	lock, latch; stamp, seal (U+94A4)	e992a4
+钥	key; lock (U+94A5)	e992a5
+钦	respect, admire; respectful (U+94A6)	e992a6
+钧	unit of measure equivalent to thirty catties (U+94A7)	e992a7
+钨	tungsten, wolfram (U+94A8)	e992a8
+钩	hook, barb; sickle; stroke with (U+94A9)	e992a9
+钪	scandium (U+94AA)	e992aa
+钫	francium (U+94AB)	e992ab
+钬	holmium (U+94AC)	e992ac
+钭	a wine flagon (U+94AD)	e992ad
+钮	button, knob; surname (U+94AE)	e992ae
+钯	palladium (U+94AF)	e992af
+钰	rare treasure (U+94B0)	e992b0
+钱	money, currency, coins (U+94B1)	e992b1
+钲	kind of gong used in ancient times by troops on the march (U+94B2)	e992b2
+钳	pincers, pliers, tongs; to compress (U+94B3)	e992b3
+钴	cobalt; household iron (U+94B4)	e992b4
+钵	earthenware basin; alms bowl (U+94B5)	e992b5
+钶	columbium (U+94B6)	e992b6
+钷	promethium (U+94B7)	e992b7
+钸	plutonium (U+94B8)	e992b8
+钹	cymbals (U+94B9)	e992b9
+钺	broad-axe, a battle axe, halberd (U+94BA)	e992ba
+钻	drill, bore; pierce; diamond (U+94BB)	e992bb
+钼	molybdenum (U+94BC)	e992bc
+钽	tantalum (U+94BD)	e992bd
+钾	potassium (U+94BE)	e992be
+钿	hairpin; gold inlaid work, filigree (U+94BF)	e992bf
+铀	uranium (U+94C0)	e99380
+铁	iron; strong, solid, firm (U+94C1)	e99381
+铂	platinum; thin sheet of metal (U+94C2)	e99382
+铃	bell (U+94C3)	e99383
+铄	melt, smelt; shine (U+94C4)	e99384
+铅	lead (U+94C5)	e99385
+铆	rivet (U+94C6)	e99386
+铇	carpenter's plane (U+94C7)	e99387
+铈	cerium (U+94C8)	e99388
+铉	device for carrying a tripod (U+94C9)	e99389
+铊	thallium (U+94CA)	e9938a
+铋	bismuth (U+94CB)	e9938b
+铌	niobium (U+94CC)	e9938c
+铍	beryllium (U+94CD)	e9938d
+铎	bell; surname (U+94CE)	e9938e
+铏	sacrificial cauldron (U+94CF)	e9938f
+铐	shackles, manacles (U+94D0)	e99390
+铑	rhodium (U+94D1)	e99391
+铒	erbium (U+94D2)	e99392
+铓	point of sword; sharp point (U+94D3)	e99393
+铔	soft steel; ammonium (U+94D4)	e99394
+铕	europium (U+94D5)	e99395
+铖	person's name (U+94D6)	e99396
+铗	tongs, pincers; dagger; sword (U+94D7)	e99397
+铘	sword (U+94D8)	e99398
+铙	cymbals; hand bell; disturb (U+94D9)	e99399
+铚	a sickle (U+94DA)	e9939a
+铛	frying pan; warming vessel (U+94DB)	e9939b
+铜	copper, brass, bronze (U+94DC)	e9939c
+铝	aluminum (U+94DD)	e9939d
+铞	U+94DE (U+94DE)	e9939e
+铟	indium (U+94DF)	e9939f
+铠	armor, chain mail (U+94E0)	e993a0
+铡	sickle for cutting grass or hay (U+94E1)	e993a1
+铢	unit of weight, one twenty-fourth of a Chinese ounce (liang) (U+94E2)	e993a2
+铣	mill (U+94E3)	e993a3
+铤	ingots, bars of metal; hurry (U+94E4)	e993a4
+铥	thulium (U+94E5)	e993a5
+铦	sharp, keen-edged; a kind of hoe (U+94E6)	e993a6
+铧	spade, shovel, plowshare (U+94E7)	e993a7
+铨	weigh, measure; select officials (U+94E8)	e993a8
+铩	moult (U+94E9)	e993a9
+铪	hafnium (U+94EA)	e993aa
+铫	large hoe; surname; a spear (U+94EB)	e993ab
+铬	chromium (U+94EC)	e993ac
+铭	inscribe, engrave (U+94ED)	e993ad
+铮	clanging sound; small gong (U+94EE)	e993ae
+铯	cesium (U+94EF)	e993af
+铰	hinge; shears, scissors (U+94F0)	e993b0
+铱	iridium (U+94F1)	e993b1
+铲	spade, shovel, trowel, scoop (U+94F2)	e993b2
+铳	ancient weapon, blunderbuss (U+94F3)	e993b3
+铴	gong (U+94F4)	e993b4
+铵	ammonium (U+94F5)	e993b5
+银	silver; cash, money, wealth (U+94F6)	e993b6
+铷	rubidium (U+94F7)	e993b7
+铸	melt, cast; coin, mint (U+94F8)	e993b8
+铹	lawrencium (Lr) (U+94F9)	e993b9
+铺	shop, store; place sleep, bed (U+94FA)	e993ba
+铻	misfit; disordant; music instrument; hoe (U+94FB)	e993bb
+铼	rhenium (U+94FC)	e993bc
+铽	terbium (U+94FD)	e993bd
+链	chain, wire, cable; chain, shack (U+94FE)	e993be
+铿	strike, beat, stroke; jingling (U+94FF)	e993bf
+销	melt, fuse; market, sell (U+9500)	e99480
+锁	lock, padlock; shackles, chains (U+9501)	e99481
+锂	lithium (U+9502)	e99482
+锃	polish (U+9503)	e99483
+锄	hoe; eradicate (U+9504)	e99484
+锅	cooking-pot, saucepan (U+9505)	e99485
+锆	zirconium (U+9506)	e99486
+锇	osmium (U+9507)	e99487
+锈	rust, corrode (U+9508)	e99488
+锉	carpenter's file, file smooth (U+9509)	e99489
+锊	6 oz; ancient measurement (U+950A)	e9948a
+锋	point of spear, sharp point (U+950B)	e9948b
+锌	zinc (U+950C)	e9948c
+锍	U+950D (U+950D)	e9948d
+锎	caesium (U+950E)	e9948e
+锏	kind of rapier (U+950F)	e9948f
+锐	sharp, keen, acute, pointed (U+9510)	e99490
+锑	antimony (U+9511)	e99491
+锒	lock (U+9512)	e99492
+锓	carve (U+9513)	e99493
+锔	curium (U+9514)	e99494
+锕	actinium (Ac) (U+9515)	e99495
+锖	the color of the a mineral (U+9516)	e99496
+锗	germanium (U+9517)	e99497
+锘	nobelium (No) (U+9518)	e99498
+错	error, blunder, mistake; wrong (U+9519)	e99499
+锚	anchor (U+951A)	e9949a
+锛	adze (U+951B)	e9949b
+锜	a kind of pen; a kind of chisel (U+951C)	e9949c
+锝	technetium (U+951D)	e9949d
+锞	ingot; acrobatic move (U+951E)	e9949e
+锟	ancient treasured sword (U+951F)	e9949f
+锠	vessel (U+9520)	e994a0
+锡	tin, stannum; bestow, confer (U+9521)	e994a1
+锢	run metal into cracks; confine (U+9522)	e994a2
+锣	gong (U+9523)	e994a3
+锤	balance weight on scale; hammer (U+9524)	e994a4
+锥	gimlet, awl, drill, auger; bore (U+9525)	e994a5
+锦	brocade, tapestry; embroidered (U+9526)	e994a6
+锧	tungsten, wolfram (U+9527)	e994a7
+锨	shovel (U+9528)	e994a8
+锩	to bend iron (U+9529)	e994a9
+锪	a kind of tool (U+952A)	e994aa
+锫	berkelium (U+952B)	e994ab
+锬	long spear (U+952C)	e994ac
+锭	spindle, slab, cake, tablet (U+952D)	e994ad
+键	door bolt, lock bolt; key (U+952E)	e994ae
+锯	a saw; to saw; amputate (U+952F)	e994af
+锰	manganese (U+9530)	e994b0
+锱	8 oz; an ancient unit of weight (U+9531)	e994b1
+锲	sickle; cut, carve, engrave (U+9532)	e994b2
+锳	U+9533 (U+9533)	e994b3
+锴	high quality iron (U+9534)	e994b4
+锵	tinkle, clang, jingle (U+9535)	e994b5
+锶	strontium (U+9536)	e994b6
+锷	high, lofty; edge of knife (U+9537)	e994b7
+锸	spade, shovel; marking pin (U+9538)	e994b8
+锹	shovel (U+9539)	e994b9
+锺	cup, glass, goblet; surname (U+953A)	e994ba
+锻	forge metal; temper, refine (U+953B)	e994bb
+锼	carve (U+953C)	e994bc
+锽	weapon (U+953D)	e994bd
+锾	measure; money, coins (U+953E)	e994be
+锿	einsteinium (Es) (U+953F)	e994bf
+镀	plate, coat, gild (U+9540)	e99580
+镁	magnesium (U+9541)	e99581
+镂	carve, inlay, engrave, tattoo (U+9542)	e99582
+镃	hoe; mattock (U+9543)	e99583
+镄	fermium (U+9544)	e99584
+镅	americium (U+9545)	e99585
+镆	sword (U+9546)	e99586
+镇	town, market place; suppress (U+9547)	e99587
+镈	large bell; hoe, spade (U+9548)	e99588
+镉	cadmium (U+9549)	e99589
+镊	tweezers, forceps, pincers (U+954A)	e9958a
+镋	U+954B (U+954B)	e9958b
+镌	engraving tool; carve, engrave (U+954C)	e9958c
+镍	nickel (U+954D)	e9958d
+镎	neptunium (Np) (U+954E)	e9958e
+镏	distil; lutetium; surname (U+954F)	e9958f
+镐	stove; bright (U+9550)	e99590
+镑	pound sterling (U+9551)	e99591
+镒	measure of weight for gold (U+9552)	e99592
+镓	gallium (U+9553)	e99593
+镔	high quality iron (U+9554)	e99594
+镕	fuse, melt, smelt; mold (U+9555)	e99595
+镖	dart, spear, harpoon; escort (U+9556)	e99596
+镗	boring tool (U+9557)	e99597
+镘	trowel (U+9558)	e99598
+镙	U+9559 (U+9559)	e99599
+镚	small coin (U+955A)	e9959a
+镛	large bell used as musical instrument (U+955B)	e9959b
+镜	mirror; lens; glass; glasses (U+955C)	e9959c
+镝	dysprosium (U+955D)	e9959d
+镞	arrowhead, barb; swift, quick (U+955E)	e9959e
+镟	lathe (U+955F)	e9959f
+镠	pure gold (U+9560)	e995a0
+镡	dagger; small sword (U+9561)	e995a1
+镢	hoe (U+9562)	e995a2
+镣	fetters (U+9563)	e995a3
+镤	protactinium (Pa) (U+9564)	e995a4
+镥	lutetium (U+9565)	e995a5
+镦	ferrule; castrate (U+9566)	e995a6
+镧	lanthanum (U+9567)	e995a7
+镨	praseodymium (U+9568)	e995a8
+镩	pick, poker (U+9569)	e995a9
+镪	coins, money, wealth (U+956A)	e995aa
+镫	lamp; a kind of cooking vessel (U+956B)	e995ab
+镬	cauldron, large iron pot (U+956C)	e995ac
+镭	radium (U+956D)	e995ad
+镮	metal ring; measure of currency (U+956E)	e995ae
+镯	bracelet, armband; small bell (U+956F)	e995af
+镰	sickle (U+9570)	e995b0
+镱	ytterbium (U+9571)	e995b1
+镲	cymbals (U+9572)	e995b2
+镳	bit, bridle; ride (U+9573)	e995b3
+镴	solder; tin (U+9574)	e995b4
+镵	spade, trowel (U+9575)	e995b5
+镶	insert, inlay, set, mount; fill (U+9576)	e995b6
+長	long; length; excel in; leader (U+9577)	e995b7
+镸	long (U+9578)	e995b8
+镹	U+9579 (U+9579)	e995b9
+镺	U+957A (U+957A)	e995ba
+镻	U+957B (U+957B)	e995bb
+镼	U+957C (U+957C)	e995bc
+镽	U+957D (U+957D)	e995bd
+镾	U+957E (U+957E)	e995be
+长	long; length; excel in; leader (U+957F)	e995bf
+門	gate, door, entrance, opening (U+9580)	e99680
+閁	U+9581 (U+9581)	e99681
+閂	bolt, latch, crossbar (U+9582)	e99682
+閃	flash; avoid, dodge, evade (U+9583)	e99683
+閄	U+9584 (U+9584)	e99684
+閅	U+9585 (U+9585)	e99685
+閆	village gate (U+9586)	e99686
+閇	shut, close; obstruct, block up (U+9587)	e99687
+閈	village (U+9588)	e99688
+閉	shut, close; obstruct, block up (U+9589)	e99689
+閊	to be obstructed, blocked; to break down (U+958A)	e9968a
+開	open; initiate, begin, start (U+958B)	e9968b
+閌	door (U+958C)	e9968c
+閍	U+958D (U+958D)	e9968d
+閎	gate, barrier; wide, vast, expand (U+958E)	e9968e
+閏	intercalary; extra, surplus (U+958F)	e9968f
+閐	U+9590 (U+9590)	e99690
+閑	fence, barrier; defend; idle time (U+9591)	e99691
+閒	liesure; idle; peaceful, tranquil, calm (U+9592)	e99692
+間	interval, space; place, between (U+9593)	e99693
+閔	mourn, grieve; urge on, incite (U+9594)	e99694
+閕	U+9595 (U+9595)	e99695
+閖	(J) flower name; a water-gate, sluice; toponym (U+9596)	e99696
+閗	U+9597 (U+9597)	e99697
+閘	sluice; flood gate, canal lock (U+9598)	e99698
+閙	quarrel; dispute hotly (U+9599)	e99699
+閚	U+959A (U+959A)	e9969a
+閛	U+959B (U+959B)	e9969b
+閜	U+959C (U+959C)	e9969c
+閝	U+959D (U+959D)	e9969d
+閞	U+959E (U+959E)	e9969e
+閟	hide, keep secret; hideaway (U+959F)	e9969f
+閠	intercalary; extra, surplus (U+95A0)	e996a0
+閡	blocked or separated; to prevent (U+95A1)	e996a1
+関	frontier pass; close; relation (U+95A2)	e996a2
+閣	chamber, pavilion; cabinet (U+95A3)	e996a3
+閤	small side door; chamber (U+95A4)	e996a4
+閥	powerful and influential group (U+95A5)	e996a5
+閦	crowd; transliteration of Sanskrit 'kso', e.g. 'aksobhya' (U+95A6)	e996a6
+閧	boisterous; clamor, noise (U+95A7)	e996a7
+閨	small entrance; women's quarters (U+95A8)	e996a8
+閩	Fujian province; a river; a tribe (U+95A9)	e996a9
+閪	to lose lost item; (Cant.) vagina (vulg.) (U+95AA)	e996aa
+閫	threshold; women's quarters (U+95AB)	e996ab
+閬	high door; high gate; high, lofty (U+95AC)	e996ac
+閭	village of twenty-five families (U+95AD)	e996ad
+閮	U+95AE (U+95AE)	e996ae
+閯	U+95AF (U+95AF)	e996af
+閰	U+95B0 (U+95B0)	e996b0
+閱	examine, inspect, review, read (U+95B1)	e996b1
+閲	examine (U+95B2)	e996b2
+閳	U+95B3 (U+95B3)	e996b3
+閴	quiet (U+95B4)	e996b4
+閵	U+95B5 (U+95B5)	e996b5
+閶	gate of heaven; main gate of palace (U+95B6)	e996b6
+閷	U+95B7 (U+95B7)	e996b7
+閸	U+95B8 (U+95B8)	e996b8
+閹	castrate; eunuch (U+95B9)	e996b9
+閺	U+95BA (U+95BA)	e996ba
+閻	village gate; surname (U+95BB)	e996bb
+閼	block, obstruct, stop up, conceal (U+95BC)	e996bc
+閽	gatekeeper; gate, door (U+95BD)	e996bd
+閾	threshold; separated, confined (U+95BE)	e996be
+閿	name of a district in Henan province (U+95BF)	e996bf
+闀	U+95C0 (U+95C0)	e99780
+闁	U+95C1 (U+95C1)	e99781
+闂	U+95C2 (U+95C2)	e99782
+闃	alone; quiet, still (U+95C3)	e99783
+闄	U+95C4 (U+95C4)	e99784
+闅	U+95C5 (U+95C5)	e99785
+闆	boss, the owner, person in charge (U+95C6)	e99786
+闇	close, shut; dark, dismal (U+95C7)	e99787
+闈	gate, door; living quarters (U+95C8)	e99788
+闉	curved, bent; a curved wall (U+95C9)	e99789
+闊	broad, ample, wide; be apart (U+95CA)	e9978a
+闋	close, shut; watch tower (U+95CB)	e9978b
+闌	door screen; railing fence (U+95CC)	e9978c
+闍	tower over city gate (U+95CD)	e9978d
+闎	U+95CE (U+95CE)	e9978e
+闏	U+95CF (U+95CF)	e9978f
+闐	a place in Xinjiang province (U+95D0)	e99790
+闑	the doorsill (U+95D1)	e99791
+闒	upper-story door or window (U+95D2)	e99792
+闓	open; peaceful (U+95D3)	e99793
+闔	close; whole, entire; all; leaf (U+95D4)	e99794
+闕	watch tower; palace (U+95D5)	e99795
+闖	rush in, burst in, charge in (U+95D6)	e99796
+闗	a frontier pass or gate to shut or close; a custom-house; suburbs of a city (U+95D7)	e99797
+闘	struggle, fight, compete, contend (U+95D8)	e99798
+闙	U+95D9 (U+95D9)	e99799
+闚	flash; flashing; steal look (U+95DA)	e9979a
+闛	U+95DB (U+95DB)	e9979b
+關	frontier pass; close; relation (U+95DC)	e9979c
+闝	U+95DD (U+95DD)	e9979d
+闞	glance, peep; roar, growl (U+95DE)	e9979e
+闟	peacefully; quietly (U+95DF)	e9979f
+闠	gate of a market (U+95E0)	e997a0
+闡	explain, clarify, elucidate (U+95E1)	e997a1
+闢	open; settle, develop, open up (U+95E2)	e997a2
+闣	U+95E3 (U+95E3)	e997a3
+闤	wall around market place (U+95E4)	e997a4
+闥	door; gate (U+95E5)	e997a5
+闦	U+95E6 (U+95E6)	e997a6
+闧	U+95E7 (U+95E7)	e997a7
+门	gate, door, entrance, opening (U+95E8)	e997a8
+闩	bolt, latch, crossbar (U+95E9)	e997a9
+闪	flash; avoid, dodge, evade (U+95EA)	e997aa
+闫	village gate (U+95EB)	e997ab
+闬	village (U+95EC)	e997ac
+闭	shut, close; obstruct, block up (U+95ED)	e997ad
+问	ask about, inquire after (U+95EE)	e997ae
+闯	rush in, burst in, charge in (U+95EF)	e997af
+闰	intercalary; extra, surplus (U+95F0)	e997b0
+闱	gate, door; living quarters (U+95F1)	e997b1
+闲	fence, guard; defend; idle time (U+95F2)	e997b2
+闳	gate, barrier; wide, vast, expand (U+95F3)	e997b3
+间	midpoint, space; place, locality (U+95F4)	e997b4
+闵	mourn, grieve; urge on, incite (U+95F5)	e997b5
+闶	door (U+95F6)	e997b6
+闷	gloomy, depressed, melancholy (U+95F7)	e997b7
+闸	sluice; flood gate, canal lock (U+95F8)	e997b8
+闹	quarrel; dispute hotly (U+95F9)	e997b9
+闺	small entrance; women's quarters (U+95FA)	e997ba
+闻	hear; smell; make known; news (U+95FB)	e997bb
+闼	door; gate (U+95FC)	e997bc
+闽	fujian province; a river; a tribe (U+95FD)	e997bd
+闾	village of twenty-five families (U+95FE)	e997be
+闿	open; peaceful (U+95FF)	e997bf
+阀	powerful and influential group (U+9600)	e99880
+阁	chamber, pavilion; cabinet (U+9601)	e99881
+阂	blocked or separated; to prevent (U+9602)	e99882
+阃	threshold; women's quarters (U+9603)	e99883
+阄	lots (to be drawn); draw lots (U+9604)	e99884
+阅	examine, inspect, review, read (U+9605)	e99885
+阆	high door; high gate; high, lofty (U+9606)	e99886
+阇	a Buddhist high priest (U+9607)	e99887
+阈	threshold; separated, confined (U+9608)	e99888
+阉	castrate; eunuch (U+9609)	e99889
+阊	gate of heaven; main gate of a palace (U+960A)	e9988a
+阋	feud, fight, quarrel (U+960B)	e9988b
+阌	wen xiang, Henan province (U+960C)	e9988c
+阍	gatekeeper; gate, door (U+960D)	e9988d
+阎	village gate; surname (U+960E)	e9988e
+阏	block, obstruct, stop up (U+960F)	e9988f
+阐	explain, clarify, elucidate (U+9610)	e99890
+阑	door screen; railing fence (U+9611)	e99891
+阒	alone; quiet, still (U+9612)	e99892
+阓	gate of a market (U+9613)	e99893
+阔	broad, ample, wide; be apart (U+9614)	e99894
+阕	close, shut; watch tower (U+9615)	e99895
+阖	close; whole, entire; all; leaf (U+9616)	e99896
+阗	a place in Xinjiang province (U+9617)	e99897
+阘	upper-story door or window (U+9618)	e99898
+阙	watch tower; palace (U+9619)	e99899
+阚	glance, peep; roar, growl (U+961A)	e9989a
+阛	wall around market place (U+961B)	e9989b
+阜	mound; abundant, ample, numerous (U+961C)	e9989c
+阝	place; KangXi radical 170 (U+961D)	e9989d
+阞	vein (U+961E)	e9989e
+队	team, group; army unit (U+961F)	e9989f
+阠	U+9620 (U+9620)	e998a0
+阡	footpaths between fields; paths (U+9621)	e998a1
+阢	U+9622 (U+9622)	e998a2
+阣	U+9623 (U+9623)	e998a3
+阤	hill (U+9624)	e998a4
+阥	U+9625 (U+9625)	e998a5
+阦	U+9626 (U+9626)	e998a6
+阧	sloping, steep; suddenly, abruptly (U+9627)	e998a7
+阨	in distress; adverse; strategic; (Cant.) to swindle (U+9628)	e998a8
+阩	U+9629 (U+9629)	e998a9
+阪	hillside farmland; slope (U+962A)	e998aa
+阫	U+962B (U+962B)	e998ab
+阬	pit, hole, shaft (U+962C)	e998ac
+阭	U+962D (U+962D)	e998ad
+阮	ancient musical instrument: surname (U+962E)	e998ae
+阯	foundation; site; address (U+962F)	e998af
+阰	U+9630 (U+9630)	e998b0
+阱	pitfall, trap, snare (U+9631)	e998b1
+防	defend; prevent; embankment (U+9632)	e998b2
+阳	'male' principle; light; sun (U+9633)	e998b3
+阴	'female' principle; dark; secret (U+9634)	e998b4
+阵	column, row or file of troops (U+9635)	e998b5
+阶	stairs, steps; rank, degree (U+9636)	e998b6
+阷	U+9637 (U+9637)	e998b7
+阸	distress; difficulty (U+9638)	e998b8
+阹	a pen; to surround (U+9639)	e998b9
+阺	U+963A (U+963A)	e998ba
+阻	impede, hinder, obstruct; oppose (U+963B)	e998bb
+阼	the steps leading to the eastern door (U+963C)	e998bc
+阽	U+963D (U+963D)	e998bd
+阾	U+963E (U+963E)	e998be
+阿	prefix for people's names; used in transliteration (U+963F)	e998bf
+陀	steep bank, rough terrain (U+9640)	e99980
+陁	a steep bank, a declivity (U+9641)	e99981
+陂	dam, embankment; reservoir (U+9642)	e99982
+陃	U+9643 (U+9643)	e99983
+附	adhere to, append; rely on near to (U+9644)	e99984
+际	border, boundary, juncture (U+9645)	e99985
+陆	land, continental; army (U+9646)	e99986
+陇	mountain located between Shanxi (U+9647)	e99987
+陈	exhibit, display; plead; a surname (U+9648)	e99988
+陉	defile, mountain pass, gorge (U+9649)	e99989
+陊	U+964A (U+964A)	e9998a
+陋	narrow; crude, coarse; ugly (U+964B)	e9998b
+陌	foot path between rice fields (U+964C)	e9998c
+降	descend, fall, drop; lower, down (U+964D)	e9998d
+陎	U+964E (U+964E)	e9998e
+陏	U+964F (U+964F)	e9998f
+限	boundary, limit, line (U+9650)	e99990
+陑	U+9651 (U+9651)	e99991
+陒	U+9652 (U+9652)	e99992
+陓	U+9653 (U+9653)	e99993
+陔	a step, a terrace, a grade a ledge (U+9654)	e99994
+陕	mountain pass; Shanxi province (U+9655)	e99995
+陖	U+9656 (U+9656)	e99996
+陗	a steep hill; precipitous (U+9657)	e99997
+陘	defile, mountain pass, gorge (U+9658)	e99998
+陙	U+9659 (U+9659)	e99999
+陚	U+965A (U+965A)	e9999a
+陛	steps leading throne; throne (U+965B)	e9999b
+陜	narrow; mountain pass (U+965C)	e9999c
+陝	mountain pass; Shaanxi province (U+965D)	e9999d
+陞	promote, rise, ascend (U+965E)	e9999e
+陟	climb, scale, ascend; proceed (U+965F)	e9999f
+陠	U+9660 (U+9660)	e999a0
+陡	steep, sloping; abruptly, sudden (U+9661)	e999a1
+院	courtyard, yard, court; school (U+9662)	e999a2
+陣	column, row or file of troops (U+9663)	e999a3
+除	eliminate, remove, except (U+9664)	e999a4
+陥	submerge, sink, plunge; trap (U+9665)	e999a5
+陦	U+9666 (U+9666)	e999a6
+陧	in disorder; a dangerous condition of the State (U+9667)	e999a7
+陨	fall, slip; let fall; die (U+9668)	e999a8
+险	narrow pass, strategic point (U+9669)	e999a9
+陪	accompany, be with, keep company (U+966A)	e999aa
+陫	U+966B (U+966B)	e999ab
+陬	corner, cranny, nook, niche (U+966C)	e999ac
+陭	U+966D (U+966D)	e999ad
+陮	U+966E (U+966E)	e999ae
+陯	U+966F (U+966F)	e999af
+陰	'female' principle; dark; secret (U+9670)	e999b0
+陱	U+9671 (U+9671)	e999b1
+陲	frontier, border (U+9672)	e999b2
+陳	exhibit, display; plead; surname (U+9673)	e999b3
+陴	a parapet on a city wall (U+9674)	e999b4
+陵	hill, mound; mausoleum (U+9675)	e999b5
+陶	pottery, ceramics (U+9676)	e999b6
+陷	submerge, sink, plunge; trap (U+9677)	e999b7
+陸	land, continental; army; an accounting form of U+516D 六 (six) (U+9678)	e999b8
+陹	U+9679 (U+9679)	e999b9
+険	narrow pass, strategic point (U+967A)	e999ba
+陻	small hill, mound; bury; dam (U+967B)	e999bb
+陼	islet (U+967C)	e999bc
+陽	'male' principle; light; sun (U+967D)	e999bd
+陾	in file (U+967E)	e999be
+陿	U+967F (U+967F)	e999bf
+隀	U+9680 (U+9680)	e99a80
+隁	U+9681 (U+9681)	e99a81
+隂	shady, secret, dark; mysterious; cold; the negative of female principle in nature (U+9682)	e99a82
+隃	to exceed; a state in Shanxi province (U+9683)	e99a83
+隄	dike, embankment (U+9684)	e99a84
+隅	corner, nook, remote place (U+9685)	e99a85
+隆	prosperous, plentiful, abundant (U+9686)	e99a86
+隇	U+9687 (U+9687)	e99a87
+隈	cove, bay, inlet (U+9688)	e99a88
+隉	in disorder; a dangerous condition of the State (U+9689)	e99a89
+隊	team, group; army unit (U+968A)	e99a8a
+隋	Sui dynasty; surname (U+968B)	e99a8b
+隌	U+968C (U+968C)	e99a8c
+隍	dry ditch, dry moat (U+968D)	e99a8d
+階	stairs, steps; rank, degree (U+968E)	e99a8e
+随	follow, listen to, submit to (U+968F)	e99a8f
+隐	hide, conceal; hidden, secret (U+9690)	e99a90
+隑	U+9691 (U+9691)	e99a91
+隒	the appearance of a mountain, as if two pots were standing one upon the other; the steep bank of a stream a rough mountain path (U+9692)	e99a92
+隓	U+9693 (U+9693)	e99a93
+隔	separate, partition (U+9694)	e99a94
+隕	fall, slip; let fall; die (U+9695)	e99a95
+隖	entrenchment, bank, low wall (U+9696)	e99a96
+隗	high; lofty; surname (U+9697)	e99a97
+隘	narrow, confined; a strategic pass (U+9698)	e99a98
+隙	crack, split, fissure; grudge (U+9699)	e99a99
+隚	U+969A (U+969A)	e99a9a
+際	border, boundary, juncture (U+969B)	e99a9b
+障	separate; shield; barricade (U+969C)	e99a9c
+隝	dock, entrenchment, low wall (U+969D)	e99a9d
+隞	U+969E (U+969E)	e99a9e
+隟	U+969F (U+969F)	e99a9f
+隠	to hide, conceal, cover; to disappear, lurk; an open secret (U+96A0)	e99aa0
+隡	U+96A1 (U+96A1)	e99aa1
+隢	U+96A2 (U+96A2)	e99aa2
+隣	neighbor; neighboring; adjacent (U+96A3)	e99aa3
+隤	to fall in ruins; to collapse (U+96A4)	e99aa4
+隥	U+96A5 (U+96A5)	e99aa5
+隦	U+96A6 (U+96A6)	e99aa6
+隧	tunnel, underground passageway, path to a tomb (U+96A7)	e99aa7
+隨	follow, listen to, submit; to accompany; subsequently, then (U+96A8)	e99aa8
+隩	profound, subtle; warm (U+96A9)	e99aa9
+險	narrow pass, strategic point, dangerous (U+96AA)	e99aaa
+隫	U+96AB (U+96AB)	e99aab
+隬	U+96AC (U+96AC)	e99aac
+隭	U+96AD (U+96AD)	e99aad
+隮	to rise up; a rainbow; to fall (U+96AE)	e99aae
+隯	U+96AF (U+96AF)	e99aaf
+隰	low, damp land, marsh, swamp (U+96B0)	e99ab0
+隱	hide, conceal; hidden, secret (U+96B1)	e99ab1
+隲	stallion; promote (U+96B2)	e99ab2
+隳	to destroy; to overthrow (U+96B3)	e99ab3
+隴	mountain located between Shanxi (U+96B4)	e99ab4
+隵	U+96B5 (U+96B5)	e99ab5
+隶	subservient; servant; KangXi radical 171 (U+96B6)	e99ab6
+隷	be subservient to; servant (U+96B7)	e99ab7
+隸	be subservient to; servant (U+96B8)	e99ab8
+隹	bird; KangXi radical 172 (U+96B9)	e99ab9
+隺	a bird flying high ambition (U+96BA)	e99aba
+隻	single, one of pair, lone (U+96BB)	e99abb
+隼	aquiline (nose); a falcon (U+96BC)	e99abc
+隽	superior, outstanding, talented (U+96BD)	e99abd
+难	difficult, arduous, hard; unable (U+96BE)	e99abe
+隿	U+96BF (U+96BF)	e99abf
+雀	sparrow (U+96C0)	e99b80
+雁	wild goose (U+96C1)	e99b81
+雂	U+96C2 (U+96C2)	e99b82
+雃	U+96C3 (U+96C3)	e99b83
+雄	male of species; hero; manly (U+96C4)	e99b84
+雅	elegant, graceful, refined (U+96C5)	e99b85
+集	assemble, collect together (U+96C6)	e99b86
+雇	employ, to hire (U+96C7)	e99b87
+雈	U+96C8 (U+96C8)	e99b88
+雉	pheasant; crenellated wall (U+96C9)	e99b89
+雊	the crow of a male pheasant (U+96CA)	e99b8a
+雋	superior, outstanding, talented (U+96CB)	e99b8b
+雌	female; feminine; gentle, soft (U+96CC)	e99b8c
+雍	harmony, union; harmonious (U+96CD)	e99b8d
+雎	osprey, fishhawk; hold back (U+96CE)	e99b8e
+雏	chick, fledging; infant, toddler (U+96CF)	e99b8f
+雐	U+96D0 (U+96D0)	e99b90
+雑	mixed, blended; mix, mingle (U+96D1)	e99b91
+雒	black horse with white mane (U+96D2)	e99b92
+雓	U+96D3 (U+96D3)	e99b93
+雔	U+96D4 (U+96D4)	e99b94

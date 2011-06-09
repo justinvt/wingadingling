@@ -1,0 +1,1024 @@
+苕	rush plant (U+82D5)	e88b95
+苖	U+82D6 (U+82D6)	e88b96
+苗	sprouts; Miao nationality (U+82D7)	e88b97
+苘	Indian mallow (U+82D8)	e88b98
+苙	a pig-sty; a kind of medicinal plant (U+82D9)	e88b99
+苚	U+82DA (U+82DA)	e88b9a
+苛	small, petty; harsh, rigorous (U+82DB)	e88b9b
+苜	clover (U+82DC)	e88b9c
+苝	U+82DD (U+82DD)	e88b9d
+苞	a variety of rush; firm, enduring; to burst forth (U+82DE)	e88b9e
+苟	careless, frivolous; illicit; grammatical particle: if, but, if only; surname; grass name; distinguish DKW 30853 (ji4) (U+82DF)	e88b9f
+苠	U+82E0 (U+82E0)	e88ba0
+苡	barley (U+82E1)	e88ba1
+苢	barley; coix agretis (U+82E2)	e88ba2
+苣	kind of lettuce (U+82E3)	e88ba3
+苤	kohl rabi (U+82E4)	e88ba4
+若	if, supposing, assuming; similar (U+82E5)	e88ba5
+苦	bitter; hardship, suffering (U+82E6)	e88ba6
+苧	China grass, ramie (Boehmeria nivea) (U+82E7)	e88ba7
+苨	U+82E8 (U+82E8)	e88ba8
+苩	U+82E9 (U+82E9)	e88ba9
+苪	bright; shining, splendid (U+82EA)	e88baa
+苫	rush or straw matting (U+82EB)	e88bab
+苬	U+82EC (U+82EC)	e88bac
+苭	U+82ED (U+82ED)	e88bad
+苮	U+82EE (U+82EE)	e88bae
+苯	benzene; luxuriant (U+82EF)	e88baf
+苰	U+82F0 (U+82F0)	e88bb0
+英	petal, flower, leaf; brave, a hero; England, English (U+82F1)	e88bb1
+苲	U+82F2 (U+82F2)	e88bb2
+苳	Petasites japonicus (U+82F3)	e88bb3
+苴	sackcloth; female hemp plant (U+82F4)	e88bb4
+苵	U+82F5 (U+82F5)	e88bb5
+苶	weary; tired (U+82F6)	e88bb6
+苷	licorice (U+82F7)	e88bb7
+苸	U+82F8 (U+82F8)	e88bb8
+苹	artemisia; duckweed; apple (U+82F9)	e88bb9
+苺	berries (U+82FA)	e88bba
+苻	kind of herb; type of grass (U+82FB)	e88bbb
+苼	U+82FC (U+82FC)	e88bbc
+苽	bulrush, Zizania latifolia (U+82FD)	e88bbd
+苾	smell, fragrance, aroma (U+82FE)	e88bbe
+苿	U+82FF (U+82FF)	e88bbf
+茀	overgrown with grass, weedy (U+8300)	e88c80
+茁	to sprout, flourish; sprouts appearing above-ground; vigorous (U+8301)	e88c81
+茂	thick, lush, dense; talented (U+8302)	e88c82
+范	surname; bee-like insect (U+8303)	e88c83
+茄	eggplant (U+8304)	e88c84
+茅	reeds, rushes, grass; surname (U+8305)	e88c85
+茆	species of grass, water mallows (U+8306)	e88c86
+茇	grass, thatch (U+8307)	e88c87
+茈	a plant yielding a red dye (U+8308)	e88c88
+茉	white jasmine (U+8309)	e88c89
+茊	U+830A (U+830A)	e88c8a
+茋	U+830B (U+830B)	e88c8b
+茌	name of a district in Shandong (U+830C)	e88c8c
+茍	to be circumspect, cautious in ones behaviour (distinguish DKW 30790 gou3) (U+830D)	e88c8d
+茎	stem, stalk (U+830E)	e88c8e
+茏	tall grass; water-weeds (U+830F)	e88c8f
+茐	U+8310 (U+8310)	e88c90
+茑	the convovulvus; parasitic plants such as mistletoe; Ribes ambiguum (U+8311)	e88c91
+茒	U+8312 (U+8312)	e88c92
+茓	U+8313 (U+8313)	e88c93
+茔	grave, tomb, cemetery (U+8314)	e88c94
+茕	alone; without friends or relativ (U+8315)	e88c95
+茖	allium victorialis (U+8316)	e88c96
+茗	tea; tea plant (U+8317)	e88c97
+茘	a scallion, small onion (U+8318)	e88c98
+茙	U+8319 (U+8319)	e88c99
+茚	an organic compound (U+831A)	e88c9a
+茛	ranunculus (U+831B)	e88c9b
+茜	madder, rubia cordifolia; reeds (U+831C)	e88c9c
+茝	U+831D (U+831D)	e88c9d
+茞	fragrant plant; angelica (U+831E)	e88c9e
+茟	U+831F (U+831F)	e88c9f
+茠	to weed; to eradicate (U+8320)	e88ca0
+茡	U+8321 (U+8321)	e88ca1
+茢	sedges; rushes (U+8322)	e88ca2
+茣	mat, matting (U+8323)	e88ca3
+茤	U+8324 (U+8324)	e88ca4
+茥	U+8325 (U+8325)	e88ca5
+茦	thorns, prickles (U+8326)	e88ca6
+茧	cocoon; callus, blister (U+8327)	e88ca7
+茨	thatching; caltrop, Tribulus terrestris (U+8328)	e88ca8
+茩	U+8329 (U+8329)	e88ca9
+茪	U+832A (U+832A)	e88caa
+茫	vast, boundless, widespread (U+832B)	e88cab
+茬	harvest (U+832C)	e88cac
+茭	an aquatic grass, the stalks of which are eaten as a vegetable (U+832D)	e88cad
+茮	U+832E (U+832E)	e88cae
+茯	china root; medicinal fungus (U+832F)	e88caf
+茰	U+8330 (U+8330)	e88cb0
+茱	dogwood (U+8331)	e88cb1
+茲	now, here; this; time, year (U+8332)	e88cb2
+茳	U+8333 (U+8333)	e88cb3
+茴	fennel, aniseed (U+8334)	e88cb4
+茵	a cushion, mattress; wormwood; Skimmia japon (U+8335)	e88cb5
+茶	tea (U+8336)	e88cb6
+茷	flutter; flower (U+8337)	e88cb7
+茸	soft, downy; buds, sprouts (U+8338)	e88cb8
+茹	roots; vegetables; eat; bear (U+8339)	e88cb9
+茺	U+833A (U+833A)	e88cba
+茻	U+833B (U+833B)	e88cbb
+茼	Chrysanthemum coronarium (U+833C)	e88cbc
+茽	U+833D (U+833D)	e88cbd
+茾	U+833E (U+833E)	e88cbe
+茿	U+833F (U+833F)	e88cbf
+荀	surname; ancient state; plant (U+8340)	e88d80
+荁	celery (U+8341)	e88d81
+荂	U+8342 (U+8342)	e88d82
+荃	aromatic herb; fine cloth (U+8343)	e88d83
+荄	roots (U+8344)	e88d84
+荅	answer: small bean; thick (U+8345)	e88d85
+荆	thorns; brambles; my wife; cane (U+8346)	e88d86
+荇	a water plant, Nymphoides peltalum (U+8347)	e88d87
+荈	U+8348 (U+8348)	e88d88
+草	grass, straw, thatch, herbs (U+8349)	e88d89
+荊	thorns; brambles; my wife; cane (U+834A)	e88d8a
+荋	U+834B (U+834B)	e88d8b
+荌	U+834C (U+834C)	e88d8c
+荍	buckwheat; herbal medicine (U+834D)	e88d8d
+荎	U+834E (U+834E)	e88d8e
+荏	beans; soft, pliable; herb (U+834F)	e88d8f
+荐	repeat, reoccur; recommend (U+8350)	e88d90
+荑	sprouts; tares (U+8351)	e88d91
+荒	wasteland, desert; uncultivated (U+8352)	e88d92
+荓	U+8353 (U+8353)	e88d93
+荔	lichee (U+8354)	e88d94
+荕	U+8355 (U+8355)	e88d95
+荖	betel pepper (U+8356)	e88d96
+荗	U+8357 (U+8357)	e88d97
+荘	village, hamlet; villa; surname (U+8358)	e88d98
+荙	plantago major (U+8359)	e88d99
+荚	pods of leguminous plants; pods (U+835A)	e88d9a
+荛	fuel, firewood; stubble; Wikstroemia japonica (U+835B)	e88d9b
+荜	species of bean; piper longtum (U+835C)	e88d9c
+荝	U+835D (U+835D)	e88d9d
+荞	buckwheat (U+835E)	e88d9e
+荟	luxuriant, flourishing, abundant (U+835F)	e88d9f
+荠	water-chestnuts; caltrop (U+8360)	e88da0
+荡	pond, pool; wash away, cleanse (U+8361)	e88da1
+荢	U+8362 (U+8362)	e88da2
+荣	glory, honor; flourish, prosper (U+8363)	e88da3
+荤	meat diet; strong smelling (U+8364)	e88da4
+荥	a county in Henan; the rising and dashing of waves (U+8365)	e88da5
+荦	brindled ox; brindled in color (U+8366)	e88da6
+荧	shine, shimmer; shining, dazzling (U+8367)	e88da7
+荨	nettle (U+8368)	e88da8
+荩	a kind of weed; faithfulness (U+8369)	e88da9
+荪	aromatic grass; iris, flower (U+836A)	e88daa
+荫	shade, shelter; protect (U+836B)	e88dab
+荬	a plant name (U+836C)	e88dac
+荭	herb (U+836D)	e88dad
+荮	grass (U+836E)	e88dae
+药	leaf of Dahurian angelica plant; medicine (U+836F)	e88daf
+荰	U+8370 (U+8370)	e88db0
+荱	U+8371 (U+8371)	e88db1
+荲	U+8372 (U+8372)	e88db2
+荳	beans, peas; bean-shaped (U+8373)	e88db3
+荴	U+8374 (U+8374)	e88db4
+荵	polemonium (U+8375)	e88db5
+荶	U+8376 (U+8376)	e88db6
+荷	lotus, water lily, holland (U+8377)	e88db7
+荸	water chestnut (U+8378)	e88db8
+荹	U+8379 (U+8379)	e88db9
+荺	U+837A (U+837A)	e88dba
+荻	reed, Miscanthus saccariflorus (U+837B)	e88dbb
+荼	bitter vegetable (U+837C)	e88dbc
+荽	coriander (U+837D)	e88dbd
+荾	U+837E (U+837E)	e88dbe
+荿	U+837F (U+837F)	e88dbf
+莀	to farm; a farmer; agriculture (U+8380)	e88e80
+莁	U+8381 (U+8381)	e88e81
+莂	U+8382 (U+8382)	e88e82
+莃	U+8383 (U+8383)	e88e83
+莄	U+8384 (U+8384)	e88e84
+莅	attend, be present; arrive at (U+8385)	e88e85
+莆	a kind of legendary tree (U+8386)	e88e86
+莇	U+8387 (U+8387)	e88e87
+莈	U+8388 (U+8388)	e88e88
+莉	white jasmine (U+8389)	e88e89
+莊	village, hamlet; villa; surname (U+838A)	e88e8a
+莋	U+838B (U+838B)	e88e8b
+莌	U+838C (U+838C)	e88e8c
+莍	U+838D (U+838D)	e88e8d
+莎	kind of sedge grass, used anciently for raincoats (U+838E)	e88e8e
+莏	U+838F (U+838F)	e88e8f
+莐	U+8390 (U+8390)	e88e90
+莑	U+8391 (U+8391)	e88e91
+莒	hemp-like plant; taro; herb (U+8392)	e88e92
+莓	moss; edible berries (U+8393)	e88e93
+莔	U+8394 (U+8394)	e88e94
+莕	a water plant, Nymphoides peltalum (U+8395)	e88e95
+莖	stem, stalk (U+8396)	e88e96
+莗	U+8397 (U+8397)	e88e97
+莘	long; numerous; a marsh plant whose root is used for medicine (U+8398)	e88e98
+莙	species of water plant (U+8399)	e88e99
+莚	bamboo mat; feast, banquet (U+839A)	e88e9a
+莛	stalks of grasses, etc. (U+839B)	e88e9b
+莜	Avena nuda; a bamboo basket (U+839C)	e88e9c
+莝	to chop straw fine for animals (U+839D)	e88e9d
+莞	smiling; a kind of aquatic herb, clubrush, Scirpus lacustris (U+839E)	e88e9e
+莟	a bud (U+839F)	e88e9f
+莠	weeds, tares; undesirable, evil (U+83A0)	e88ea0
+莡	U+83A1 (U+83A1)	e88ea1
+莢	pods of leguminous plants; pods (U+83A2)	e88ea2
+莣	U+83A3 (U+83A3)	e88ea3
+莤	U+83A4 (U+83A4)	e88ea4
+莥	U+83A5 (U+83A5)	e88ea5
+莦	U+83A6 (U+83A6)	e88ea6
+莧	edible greens; amaranth (U+83A7)	e88ea7
+莨	herb, Scopolia japonica (U+83A8)	e88ea8
+莩	membrane lining inside of reed (U+83A9)	e88ea9
+莪	artemisia (U+83AA)	e88eaa
+莫	do not, is not, can not; negative (U+83AB)	e88eab
+莬	U+83AC (U+83AC)	e88eac
+莭	U+83AD (U+83AD)	e88ead
+莮	U+83AE (U+83AE)	e88eae
+莯	U+83AF (U+83AF)	e88eaf
+莰	U+83B0 (U+83B0)	e88eb0
+莱	goosefoot, weed; fallow field (U+83B1)	e88eb1
+莲	lotus, water lily; paradise (U+83B2)	e88eb2
+莳	transplant; plant; dill, Anethum graveolens (U+83B3)	e88eb3
+莴	lettuce (U+83B4)	e88eb4
+莵	dodder; creeper (U+83B5)	e88eb5
+莶	vine (U+83B6)	e88eb6
+获	obtain, get, receive; seize (U+83B7)	e88eb7
+莸	caryopteris divaricata (U+83B8)	e88eb8
+莹	luster of gems; bright, lustrous (U+83B9)	e88eb9
+莺	oriole, green finch; Sylvia species (various) (U+83BA)	e88eba
+莻	late (U+83BB)	e88ebb
+莼	an edible water plant-brasenia (U+83BC)	e88ebc
+莽	thicket, underbrush; poisonous (U+83BD)	e88ebd
+莾	U+83BE (U+83BE)	e88ebe
+莿	thorn (U+83BF)	e88ebf
+菀	luxuriance of growth (U+83C0)	e88f80
+菁	flower of leek family; turnip (U+83C1)	e88f81
+菂	U+83C2 (U+83C2)	e88f82
+菃	U+83C3 (U+83C3)	e88f83
+菄	U+83C4 (U+83C4)	e88f84
+菅	coarse grass, themedia forskali (U+83C5)	e88f85
+菆	jungle (U+83C6)	e88f86
+菇	mushrooms (U+83C7)	e88f87
+菈	U+83C8 (U+83C8)	e88f88
+菉	the green bamboo; greenish bamboo (U+83C9)	e88f89
+菊	chrysanthemum (U+83CA)	e88f8a
+菋	U+83CB (U+83CB)	e88f8b
+菌	mushroom; germ, microbe (U+83CC)	e88f8c
+菍	U+83CD (U+83CD)	e88f8d
+菎	beautiful jade; bamboo (U+83CE)	e88f8e
+菏	river in Shandong province (U+83CF)	e88f8f
+菐	a thicket (U+83D0)	e88f90
+菑	to weed grass; land which has been under cultivation for one year (U+83D1)	e88f91
+菒	U+83D2 (U+83D2)	e88f92
+菓	fruits, nuts, berries (U+83D3)	e88f93
+菔	turnip (U+83D4)	e88f94
+菕	U+83D5 (U+83D5)	e88f95
+菖	iris, sweet flag, calamus (U+83D6)	e88f96
+菗	U+83D7 (U+83D7)	e88f97
+菘	celery, cabbage (U+83D8)	e88f98
+菙	U+83D9 (U+83D9)	e88f99
+菚	U+83DA (U+83DA)	e88f9a
+菛	U+83DB (U+83DB)	e88f9b
+菜	vegetables; dish, order; food (U+83DC)	e88f9c
+菝	U+83DD (U+83DD)	e88f9d
+菞	U+83DE (U+83DE)	e88f9e
+菟	dodder; creeper (U+83DF)	e88f9f
+菠	spinach and similar greens (U+83E0)	e88fa0
+菡	buds, lotus buds (U+83E1)	e88fa1
+菢	to incubate; to brood; to hatch (U+83E2)	e88fa2
+菣	U+83E3 (U+83E3)	e88fa3
+菤	U+83E4 (U+83E4)	e88fa4
+菥	U+83E5 (U+83E5)	e88fa5
+菦	U+83E6 (U+83E6)	e88fa6
+菧	U+83E7 (U+83E7)	e88fa7
+菨	U+83E8 (U+83E8)	e88fa8
+菩	herb, aromatic plant (U+83E9)	e88fa9
+菪	U+83EA (U+83EA)	e88faa
+菫	celery, aconite (U+83EB)	e88fab
+菬	U+83EC (U+83EC)	e88fac
+菭	U+83ED (U+83ED)	e88fad
+菮	U+83EE (U+83EE)	e88fae
+華	flowery; illustrious; Chinese (U+83EF)	e88faf
+菰	wild rice; Zizania latifolia (U+83F0)	e88fb0
+菱	water-chestnut, water caltrop (U+83F1)	e88fb1
+菲	fragrant, luxuriant; the Philippines (U+83F2)	e88fb2
+菳	U+83F3 (U+83F3)	e88fb3
+菴	small Buddhist monastery (U+83F4)	e88fb4
+菵	U+83F5 (U+83F5)	e88fb5
+菶	species of water plant; flower (U+83F6)	e88fb6
+菷	U+83F7 (U+83F7)	e88fb7
+菸	to fade; withered or dried leaves; tobacco (used for U+70DF 烟 and U+7159 煙) (U+83F8)	e88fb8
+菹	salted or pickled vegetables (U+83F9)	e88fb9
+菺	U+83FA (U+83FA)	e88fba
+菻	artemisia; (Cant.) a flower-bud (U+83FB)	e88fbb
+菼	rush or sedge (U+83FC)	e88fbc
+菽	beans and peas, collectively (U+83FD)	e88fbd
+菾	beet (U+83FE)	e88fbe
+菿	U+83FF (U+83FF)	e88fbf
+萀	U+8400 (U+8400)	e89080
+萁	kind of grasses (U+8401)	e89081
+萂	U+8402 (U+8402)	e89082
+萃	dense, thick, close-set; to collect together (U+8403)	e89083
+萄	grapes (U+8404)	e89084
+萅	spring; wanton (U+8405)	e89085
+萆	the castor-oil plant also used for other plants (U+8406)	e89086
+萇	averrhora carambola; surname (U+8407)	e89087
+萈	U+8408 (U+8408)	e89088
+萉	U+8409 (U+8409)	e89089
+萊	goosefoot, weed; fallow field (U+840A)	e8908a
+萋	luxuriant foliage; crowded (U+840B)	e8908b
+萌	bud, sprout (U+840C)	e8908c
+萍	duckweed; wandering, traveling (U+840D)	e8908d
+萎	wither, wilt (U+840E)	e8908e
+萏	lotus (U+840F)	e8908f
+萐	lucky plant (U+8410)	e89090
+萑	grass used for making mats; Huanpu, place famous for robbers (U+8411)	e89091
+萒	U+8412 (U+8412)	e89092
+萓	U+8413 (U+8413)	e89093
+萔	U+8414 (U+8414)	e89094
+萕	water-chestnuts; caltrop (U+8415)	e89095
+萖	U+8416 (U+8416)	e89096
+萗	U+8417 (U+8417)	e89097
+萘	naphthanlene (U+8418)	e89098
+萙	U+8419 (U+8419)	e89099
+萚	U+841A (U+841A)	e8909a
+萛	U+841B (U+841B)	e8909b
+萜	C5H8 (U+841C)	e8909c
+萝	type of creeping plant; turnip (U+841D)	e8909d
+萞	U+841E (U+841E)	e8909e
+萟	U+841F (U+841F)	e8909f
+萠	bud, sprout (U+8420)	e890a0
+萡	U+8421 (U+8421)	e890a1
+萢	U+8422 (U+8422)	e890a2
+萣	U+8423 (U+8423)	e890a3
+萤	glow-worm, luminous insect (U+8424)	e890a4
+营	encampment, barracks; manage (U+8425)	e890a5
+萦	entangle, entwine, coil (U+8426)	e890a6
+萧	common artemisia; dejected (U+8427)	e890a7
+萨	Buddhist gods or immortals (U+8428)	e890a8
+萩	scandent hop; tree (U+8429)	e890a9
+萪	U+842A (U+842A)	e890aa
+萫	U+842B (U+842B)	e890ab
+萬	ten thousand; innumerable (U+842C)	e890ac
+萭	U+842D (U+842D)	e890ad
+萮	U+842E (U+842E)	e890ae
+萯	U+842F (U+842F)	e890af
+萰	U+8430 (U+8430)	e890b0
+萱	day-lily, hemerocallisflava (U+8431)	e890b1
+萲	the day-lily, Hemerocallis flava (U+8432)	e890b2
+萳	U+8433 (U+8433)	e890b3
+萴	medicinal poison plant (U+8434)	e890b4
+萵	lettuce (U+8435)	e890b5
+萶	U+8436 (U+8436)	e890b6
+萷	U+8437 (U+8437)	e890b7
+萸	dogwood (U+8438)	e890b8
+萹	grass (U+8439)	e890b9
+萺	U+843A (U+843A)	e890ba
+萻	U+843B (U+843B)	e890bb
+萼	the stem and calyx of a flower; a younger brother (U+843C)	e890bc
+落	fall, drop; net income, surplus (U+843D)	e890bd
+萾	U+843E (U+843E)	e890be
+萿	U+843F (U+843F)	e890bf
+葀	U+8440 (U+8440)	e89180
+葁	ginger (U+8441)	e89181
+葂	U+8442 (U+8442)	e89182
+葃	U+8443 (U+8443)	e89183
+葄	mat (U+8444)	e89184
+葅	U+8445 (U+8445)	e89185
+葆	reserve, preserve; conceal (U+8446)	e89186
+葇	U+8447 (U+8447)	e89187
+葈	U+8448 (U+8448)	e89188
+葉	leaf, petal; page of book; period (U+8449)	e89189
+葊	cottage (U+844A)	e8918a
+葋	U+844B (U+844B)	e8918b
+葌	U+844C (U+844C)	e8918c
+葍	plant (U+844D)	e8918d
+葎	Humulus japonicus (U+844E)	e8918e
+葏	U+844F (U+844F)	e8918f
+葐	U+8450 (U+8450)	e89190
+葑	the rape-turnip (U+8451)	e89191
+葒	herb (U+8452)	e89192
+葓	vegetable (U+8453)	e89193
+葔	U+8454 (U+8454)	e89194
+葕	U+8455 (U+8455)	e89195
+葖	U+8456 (U+8456)	e89196
+著	manifest; (Cant.) to wear (U+8457)	e89197
+葘	U+8458 (U+8458)	e89198
+葙	feather cockscomb (Celosia argentea) (U+8459)	e89199
+葚	mulberry fruit (U+845A)	e8919a
+葛	edible bean; surname (U+845B)	e8919b
+葜	smilax china (U+845C)	e8919c
+葝	U+845D (U+845D)	e8919d
+葞	U+845E (U+845E)	e8919e
+葟	U+845F (U+845F)	e8919f
+葠	ginseng (U+8460)	e891a0
+葡	grapes (U+8461)	e891a1
+葢	cover, hide, protect (U+8462)	e891a2
+董	direct, supervise; surname (U+8463)	e891a3
+葤	grass (U+8464)	e891a4
+葥	U+8465 (U+8465)	e891a5
+葦	reed (U+8466)	e891a6
+葧	U+8467 (U+8467)	e891a7
+葨	U+8468 (U+8468)	e891a8
+葩	flowers (U+8469)	e891a9
+葪	U+846A (U+846A)	e891aa
+葫	bottle-gourd (U+846B)	e891ab
+葬	bury, inter (U+846C)	e891ac
+葭	bulrush, reed; flute, whistle (U+846D)	e891ad
+葮	U+846E (U+846E)	e891ae
+葯	orris root; leaf of the iris; medicine (U+846F)	e891af
+葰	U+8470 (U+8470)	e891b0
+葱	scallions, leeks, green onions (U+8471)	e891b1
+葲	U+8472 (U+8472)	e891b2
+葳	luxuriant, flourishing; used for various plants (U+8473)	e891b3
+葴	U+8474 (U+8474)	e891b4
+葵	sunflower; measure (U+8475)	e891b5
+葶	Draba nemerosa bebe carpa (U+8476)	e891b6
+葷	meat diet; strong smelling (U+8477)	e891b7
+葸	afraid, bashful (U+8478)	e891b8
+葹	kind of chrysanthemum, xanthium (U+8479)	e891b9
+葺	thatch; fix, repair; pile up (U+847A)	e891ba
+葻	U+847B (U+847B)	e891bb
+葼	U+847C (U+847C)	e891bc
+葽	type of grain, Polygala japonica (U+847D)	e891bd
+葾	(Cant.) a bad smell (U+847E)	e891be
+葿	U+847F (U+847F)	e891bf
+蒀	U+8480 (U+8480)	e89280
+蒁	U+8481 (U+8481)	e89281
+蒂	peduncle or stem of plants (U+8482)	e89282
+蒃	U+8483 (U+8483)	e89283
+蒄	U+8484 (U+8484)	e89284
+蒅	U+8485 (U+8485)	e89285
+蒆	U+8486 (U+8486)	e89286
+蒇	finish, complete; solve; complete (U+8487)	e89287
+蒈	an organic compound (U+8488)	e89288
+蒉	edible amaranth; straw basket (U+8489)	e89289
+蒊	U+848A (U+848A)	e8928a
+蒋	surname; hydropyrum latifalium (U+848B)	e8928b
+蒌	artemisia stelleriana (U+848C)	e8928c
+蒍	U+848D (U+848D)	e8928d
+蒎	U+848E (U+848E)	e8928e
+蒏	U+848F (U+848F)	e8928f
+蒐	collect, gather, assemble; seek; spring hunt; assemble for war (U+8490)	e89290
+蒑	U+8491 (U+8491)	e89291
+蒒	U+8492 (U+8492)	e89292
+蒓	an edible water; plant-brasenia (U+8493)	e89293
+蒔	transplant; plant; dill, Anethum graveolens (U+8494)	e89294
+蒕	U+8495 (U+8495)	e89295
+蒖	plant name (U+8496)	e89296
+蒗	U+8497 (U+8497)	e89297
+蒘	U+8498 (U+8498)	e89298
+蒙	cover; ignorant; suffer; mongolia (U+8499)	e89299
+蒚	U+849A (U+849A)	e8929a
+蒛	U+849B (U+849B)	e8929b
+蒜	garlic (U+849C)	e8929c
+蒝	U+849D (U+849D)	e8929d
+蒞	reach, arrive; manage (U+849E)	e8929e
+蒟	betel pepper; Amorphaphalus konjac (U+849F)	e8929f
+蒠	U+84A0 (U+84A0)	e892a0
+蒡	burdock, herb (U+84A1)	e892a1
+蒢	U+84A2 (U+84A2)	e892a2
+蒣	U+84A3 (U+84A3)	e892a3
+蒤	U+84A4 (U+84A4)	e892a4
+蒥	U+84A5 (U+84A5)	e892a5
+蒦	to measure; to calculate (U+84A6)	e892a6
+蒧	U+84A7 (U+84A7)	e892a7
+蒨	lush vegetation, luxuriant growth (U+84A8)	e892a8
+蒩	U+84A9 (U+84A9)	e892a9
+蒪	U+84AA (U+84AA)	e892aa
+蒫	U+84AB (U+84AB)	e892ab
+蒬	U+84AC (U+84AC)	e892ac
+蒭	to cut grass; hay; fodder (U+84AD)	e892ad
+蒮	U+84AE (U+84AE)	e892ae
+蒯	a rush, of which various things are made (U+84AF)	e892af
+蒰	U+84B0 (U+84B0)	e892b0
+蒱	gambling game with dice (U+84B1)	e892b1
+蒲	type of rush; vine (U+84B2)	e892b2
+蒳	U+84B3 (U+84B3)	e892b3
+蒴	seed (capsule) (U+84B4)	e892b4
+蒵	U+84B5 (U+84B5)	e892b5
+蒶	U+84B6 (U+84B6)	e892b6
+蒷	U+84B7 (U+84B7)	e892b7
+蒸	steam; evaporate (U+84B8)	e892b8
+蒹	reed, phragmites communis (U+84B9)	e892b9
+蒺	furze; gorse (U+84BA)	e892ba
+蒻	rushes (U+84BB)	e892bb
+蒼	blue; green (U+84BC)	e892bc
+蒽	anthracene (U+84BD)	e892bd
+蒾	U+84BE (U+84BE)	e892be
+蒿	mugwort, artemisia; give off (U+84BF)	e892bf
+蓀	aromatic grass; iris, flower (U+84C0)	e89380
+蓁	abundant, luxuriant vegetation (U+84C1)	e89381
+蓂	lucky place (U+84C2)	e89382
+蓃	U+84C3 (U+84C3)	e89383
+蓄	store, save, hoard, gather (U+84C4)	e89384
+蓅	U+84C5 (U+84C5)	e89385
+蓆	straw mat, mat (U+84C6)	e89386
+蓇	follicles of plants (U+84C7)	e89387
+蓈	U+84C8 (U+84C8)	e89388
+蓉	hibiscus; Chengdu, Sichuan (U+84C9)	e89389
+蓊	luxuriant vegetation; lush (U+84CA)	e8938a
+蓋	cover, hide, protect (U+84CB)	e8938b
+蓌	pretend; crouch (U+84CC)	e8938c
+蓍	milfoil, plant used in divination (U+84CD)	e8938d
+蓎	U+84CE (U+84CE)	e8938e
+蓏	fruit of plant; melon (U+84CF)	e8938f
+蓐	straw bed mat; rushes (U+84D0)	e89390
+蓑	rain coat made of straw, coir, etc. (U+84D1)	e89391
+蓒	U+84D2 (U+84D2)	e89392
+蓓	bud (U+84D3)	e89393
+蓔	U+84D4 (U+84D4)	e89394
+蓕	U+84D5 (U+84D5)	e89395
+蓖	castor-oil plant, Ricinus commumis (U+84D6)	e89396
+蓗	a plant; five-fold (U+84D7)	e89397
+蓘	U+84D8 (U+84D8)	e89398
+蓙	a mat, matting (U+84D9)	e89399
+蓚	oxalic (used in compounds) (U+84DA)	e8939a
+蓛	U+84DB (U+84DB)	e8939b
+蓜	U+84DC (U+84DC)	e8939c
+蓝	blue; indigo plant; surname (U+84DD)	e8939d
+蓞	U+84DE (U+84DE)	e8939e
+蓟	circium, thistles; surname (U+84DF)	e8939f
+蓠	gracilaria verrucosa (U+84E0)	e893a0
+蓡	U+84E1 (U+84E1)	e893a1
+蓢	(Cant.) brake, fern (U+84E2)	e893a2
+蓣	yam (U+84E3)	e893a3
+蓤	U+84E4 (U+84E4)	e893a4
+蓥	polish (U+84E5)	e893a5
+蓦	suddenly, quickly, abruptly (U+84E6)	e893a6
+蓧	bamboo basket; weeder; rake (U+84E7)	e893a7
+蓨	U+84E8 (U+84E8)	e893a8
+蓩	U+84E9 (U+84E9)	e893a9
+蓪	paper-plant; Aralia papyrifera (U+84EA)	e893aa
+蓫	dock (U+84EB)	e893ab
+蓬	type of raspberry; fairyland (U+84EC)	e893ac
+蓭	U+84ED (U+84ED)	e893ad
+蓮	lotus, water lily; paradise (U+84EE)	e893ae
+蓯	medicinal herb (U+84EF)	e893af
+蓰	to increase five-fold (U+84F0)	e893b0
+蓱	U+84F1 (U+84F1)	e893b1
+蓲	U+84F2 (U+84F2)	e893b2
+蓳	U+84F3 (U+84F3)	e893b3
+蓴	edible water plant, bracenia (U+84F4)	e893b4
+蓵	U+84F5 (U+84F5)	e893b5
+蓶	U+84F6 (U+84F6)	e893b6
+蓷	motherwort, various plants of the genus Leonurus, such as L. sibiricus and L. artemesia (U+84F7)	e893b7
+蓸	U+84F8 (U+84F8)	e893b8
+蓹	U+84F9 (U+84F9)	e893b9
+蓺	art; talent, ability; craft (U+84FA)	e893ba
+蓻	(Cant.) classifier for hair (U+84FB)	e893bb
+蓼	smartweed, polygonum (U+84FC)	e893bc
+蓽	species of bean; piper longtum (U+84FD)	e893bd
+蓾	U+84FE (U+84FE)	e893be
+蓿	clover, lucerne (U+84FF)	e893bf
+蔀	screen (U+8500)	e89480
+蔁	U+8501 (U+8501)	e89481
+蔂	basket, hod (U+8502)	e89482
+蔃	(Cant.) roots of plants (U+8503)	e89483
+蔄	U+8504 (U+8504)	e89484
+蔅	U+8505 (U+8505)	e89485
+蔆	water-chestnut, water caltrop (U+8506)	e89486
+蔇	luxuriant growth; extreme; to reach (U+8507)	e89487
+蔈	U+8508 (U+8508)	e89488
+蔉	earth up (U+8509)	e89489
+蔊	U+850A (U+850A)	e8948a
+蔋	U+850B (U+850B)	e8948b
+蔌	vegetables (U+850C)	e8948c
+蔍	U+850D (U+850D)	e8948d
+蔎	U+850E (U+850E)	e8948e
+蔏	U+850F (U+850F)	e8948f
+蔐	U+8510 (U+8510)	e89490
+蔑	disdain, disregard; slight (U+8511)	e89491
+蔒	U+8512 (U+8512)	e89492
+蔓	creeping plants, tendrils, vines (U+8513)	e89493
+蔔	radish; other root vegetables (U+8514)	e89494
+蔕	peduncle or stem of plants (U+8515)	e89495
+蔖	U+8516 (U+8516)	e89496
+蔗	sugar cane (U+8517)	e89497
+蔘	ginseng; huge (U+8518)	e89498
+蔙	U+8519 (U+8519)	e89499
+蔚	luxuriant, thick; ornamental (U+851A)	e8949a
+蔛	a small orchid-like plant it bears white flowers a dendrobium (U+851B)	e8949b
+蔜	U+851C (U+851C)	e8949c
+蔝	U+851D (U+851D)	e8949d
+蔞	Artemisia stelleriana (U+851E)	e8949e
+蔟	frame on which silkworms spin (U+851F)	e8949f
+蔠	U+8520 (U+8520)	e894a0
+蔡	surname; species of tortoise (U+8521)	e894a1
+蔢	U+8522 (U+8522)	e894a2
+蔣	surname; Hydropyrum latifalium (U+8523)	e894a3
+蔤	U+8524 (U+8524)	e894a4
+蔥	scallions, onions, leeks (U+8525)	e894a5
+蔦	the convovulvus; parasitic plants such as mistletoe; Ribes ambiguum (U+8526)	e894a6
+蔧	U+8527 (U+8527)	e894a7
+蔨	U+8528 (U+8528)	e894a8
+蔩	U+8529 (U+8529)	e894a9
+蔪	U+852A (U+852A)	e894aa
+蔫	withered, faded, decayed; calm (U+852B)	e894ab
+蔬	vegetables, greens (U+852C)	e894ac
+蔭	shade, shelter; protect (U+852D)	e894ad
+蔮	U+852E (U+852E)	e894ae
+蔯	a variety of artemisia (U+852F)	e894af
+蔰	U+8530 (U+8530)	e894b0
+蔱	U+8531 (U+8531)	e894b1
+蔲	nutmeg (U+8532)	e894b2
+蔳	U+8533 (U+8533)	e894b3
+蔴	hemp; sesame; applied to other plants furnishing textile fibres (U+8534)	e894b4
+蔵	hide, conceal; hoard, store up (U+8535)	e894b5
+蔶	U+8536 (U+8536)	e894b6
+蔷	rose (U+8537)	e894b7
+蔸	counter for plant (U+8538)	e894b8
+蔹	wild vine, vitis pentaphylla (U+8539)	e894b9
+蔺	rush used for making mats; surnam (U+853A)	e894ba
+蔻	肉豆蔻 nutmeg, 豆蔻 cardamon (U+853B)	e894bb
+蔼	lush; affable, friendly (U+853C)	e894bc
+蔽	cover, hide, conceal; shelter (U+853D)	e894bd
+蔾	kind of bramble (U+853E)	e894be
+蔿	surname; place name (U+853F)	e894bf
+蕀	U+8540 (U+8540)	e89580
+蕁	nettle (U+8541)	e89581
+蕂	sesame (U+8542)	e89582
+蕃	foreign things (U+8543)	e89583
+蕄	U+8544 (U+8544)	e89584
+蕅	U+8545 (U+8545)	e89585
+蕆	finish, complete; solve; complete (U+8546)	e89586
+蕇	U+8547 (U+8547)	e89587
+蕈	mushrooms, fungus; mildew, mold (U+8548)	e89588
+蕉	banana; plantain (U+8549)	e89589
+蕊	unopened flowers, flower buds (U+854A)	e8958a
+蕋	unopened flowers, flower buds (U+854B)	e8958b
+蕌	U+854C (U+854C)	e8958c
+蕍	U+854D (U+854D)	e8958d
+蕎	buckwheat (U+854E)	e8958e
+蕏	U+854F (U+854F)	e8958f
+蕐	splendor, glory; China (U+8550)	e89590
+蕑	valeriana villosa, climbing plant (U+8551)	e89591
+蕒	a plant name (U+8552)	e89592
+蕓	rue, an herb used keep insects away (U+8553)	e89593
+蕔	U+8554 (U+8554)	e89594
+蕕	caryopteris divaricata (U+8555)	e89595
+蕖	U+8556 (U+8556)	e89596
+蕗	leucacene (U+8557)	e89597
+蕘	fuel, firewood; stubble (U+8558)	e89598
+蕙	species of fragrant orchid (U+8559)	e89599
+蕚	the calyx of a flower; younger brother (U+855A)	e8959a
+蕛	U+855B (U+855B)	e8959b
+蕜	U+855C (U+855C)	e8959c
+蕝	handful (U+855D)	e8959d
+蕞	little, small, tiny; petty (U+855E)	e8959e
+蕟	U+855F (U+855F)	e8959f
+蕠	U+8560 (U+8560)	e895a0
+蕡	hemp seeds; plant with abundant (U+8561)	e895a1
+蕢	edible amaranth; straw basket (U+8562)	e895a2
+蕣	hibiscus (U+8563)	e895a3
+蕤	drooping leaves; fringe soft, delicate (U+8564)	e895a4
+蕥	U+8565 (U+8565)	e895a5
+蕦	U+8566 (U+8566)	e895a6
+蕧	U+8567 (U+8567)	e895a7
+蕨	pteris aquilina, common bracken (U+8568)	e895a8
+蕩	pond, pool; wash away, cleanse (U+8569)	e895a9
+蕪	luxurious growth of weeds (U+856A)	e895aa
+蕫	U+856B (U+856B)	e895ab
+蕬	U+856C (U+856C)	e895ac
+蕭	common artemisia; sighing of wind; mournful; dejected (U+856D)	e895ad
+蕮	U+856E (U+856E)	e895ae
+蕯	U+856F (U+856F)	e895af
+蕰	the hippuris or mare's tail plant (U+8570)	e895b0
+蕱	U+8571 (U+8571)	e895b1
+蕲	variety of artemisia seek (U+8572)	e895b2
+蕳	agueweed (U+8573)	e895b3
+蕴	to collect, gather, store; profound (U+8574)	e895b4
+蕵	U+8575 (U+8575)	e895b5
+蕶	U+8576 (U+8576)	e895b6
+蕷	yam (U+8577)	e895b7
+蕸	water lily's leaf (U+8578)	e895b8
+蕹	Ipomoea aquatica used as a vegetable (U+8579)	e895b9
+蕺	U+857A (U+857A)	e895ba
+蕻	U+857B (U+857B)	e895bb
+蕼	U+857C (U+857C)	e895bc
+蕽	U+857D (U+857D)	e895bd
+蕾	buds, unopened flowers (U+857E)	e895be
+蕿	U+857F (U+857F)	e895bf
+薀	the hippuris or mare's tail plant (U+8580)	e89680
+薁	vine (U+8581)	e89681
+薂	U+8582 (U+8582)	e89682
+薃	U+8583 (U+8583)	e89683
+薄	thin, slight, weak; poor, stingy (U+8584)	e89684
+薅	to weed; to eradicate (U+8585)	e89685
+薆	to cover; to hide; to conceal (U+8586)	e89686
+薇	Osmunda regalis, a species of fern (U+8587)	e89687
+薈	luxuriant, flourishing, abundant (U+8588)	e89688
+薉	dirty, unclean; immoral, obscene (U+8589)	e89689
+薊	circium, thistles; surname (U+858A)	e8968a
+薋	U+858B (U+858B)	e8968b
+薌	fragrant smell of grain; aromatic (U+858C)	e8968c
+薍	U+858D (U+858D)	e8968d
+薎	U+858E (U+858E)	e8968e
+薏	seed of job's tears; lotus seed (U+858F)	e8968f
+薐	spinach (U+8590)	e89690
+薑	ginger (U+8591)	e89691
+薒	U+8592 (U+8592)	e89692
+薓	ginseng (U+8593)	e89693
+薔	rose (U+8594)	e89694
+薕	U+8595 (U+8595)	e89695
+薖	empty, hungry-looking (U+8596)	e89696
+薗	garden; park, orchard (U+8597)	e89697
+薘	plantago major (U+8598)	e89698
+薙	weed; shave (U+8599)	e89699
+薚	U+859A (U+859A)	e8969a
+薛	kind of marsh grass; feudal state (U+859B)	e8969b
+薜	evergreen shrubs, ligusticum (U+859C)	e8969c
+薝	U+859D (U+859D)	e8969d
+薞	U+859E (U+859E)	e8969e
+薟	vine (U+859F)	e8969f
+薠	U+85A0 (U+85A0)	e896a0
+薡	U+85A1 (U+85A1)	e896a1
+薢	woody climbing plant (U+85A2)	e896a2
+薣	U+85A3 (U+85A3)	e896a3
+薤	allium bakeri; shallots, scallion (U+85A4)	e896a4
+薥	U+85A5 (U+85A5)	e896a5
+薦	offer, present; recommend (U+85A6)	e896a6
+薧	dried food (U+85A7)	e896a7
+薨	death of prince; swarming (U+85A8)	e896a8
+薩	transliteration of 'sat' in 'bodhisattva,' etc. (U+85A9)	e896a9
+薪	fuel, firewood; salary (U+85AA)	e896aa
+薫	a medicinal herb; to cauterize (U+85AB)	e896ab
+薬	drugs, pharmaceuticals, medicine (U+85AC)	e896ac
+薭	U+85AD (U+85AD)	e896ad
+薮	marsh, swamp; wild country (U+85AE)	e896ae
+薯	yam, tuber, potato (U+85AF)	e896af
+薰	a medicinal herb; to cauterize (U+85B0)	e896b0
+薱	U+85B1 (U+85B1)	e896b1
+薲	U+85B2 (U+85B2)	e896b2
+薳	name of a herb; surname; (Cant.) a plant stem (U+85B3)	e896b3
+薴	China grass, ramie (Boehmeria nivea) (U+85B4)	e896b4
+薵	U+85B5 (U+85B5)	e896b5
+薶	to bury, to stop up; dirty, filthy (U+85B6)	e896b6
+薷	U+85B7 (U+85B7)	e896b7
+薸	duckweed (U+85B8)	e896b8
+薹	cyperus rotundus, type of sedge (U+85B9)	e896b9
+薺	water-chestnuts; caltrop (U+85BA)	e896ba
+薻	U+85BB (U+85BB)	e896bb
+薼	U+85BC (U+85BC)	e896bc
+薽	a bright blue orchid that grows in south China (U+85BD)	e896bd
+薾	luxuriant growth of flower (U+85BE)	e896be
+薿	flower (U+85BF)	e896bf
+藀	U+85C0 (U+85C0)	e89780
+藁	straw, hay; dry, withered (U+85C1)	e89781
+藂	U+85C2 (U+85C2)	e89782
+藃	U+85C3 (U+85C3)	e89783
+藄	edible fern (U+85C4)	e89784
+藅	U+85C5 (U+85C5)	e89785
+藆	U+85C6 (U+85C6)	e89786
+藇	fine (U+85C7)	e89787
+藈	U+85C8 (U+85C8)	e89788
+藉	mat, pad; rely on; pretext (U+85C9)	e89789
+藊	a kind of bean with flat pods (U+85CA)	e8978a
+藋	U+85CB (U+85CB)	e8978b
+藌	U+85CC (U+85CC)	e8978c
+藍	blue; indigo plant; surname (U+85CD)	e8978d
+藎	a kind of weed; faithfulness (U+85CE)	e8978e
+藏	hide, conceal; hoard, store up (U+85CF)	e8978f
+藐	disregard, slight, disdain (U+85D0)	e89790
+藑	U+85D1 (U+85D1)	e89791
+藒	U+85D2 (U+85D2)	e89792
+藓	moss, lichen (U+85D3)	e89793
+藔	U+85D4 (U+85D4)	e89794
+藕	lotus root (U+85D5)	e89795
+藖	U+85D6 (U+85D6)	e89796
+藗	U+85D7 (U+85D7)	e89797
+藘	madder (U+85D8)	e89798
+藙	dogwood (U+85D9)	e89799
+藚	water plant (U+85DA)	e8979a
+藛	U+85DB (U+85DB)	e8979b
+藜	Chenopodium album, pigweed (U+85DC)	e8979c
+藝	art; talent, ability; craft (U+85DD)	e8979d
+藞	U+85DE (U+85DE)	e8979e
+藟	vine, creeper; to wind (U+85DF)	e8979f
+藠	U+85E0 (U+85E0)	e897a0
+藡	U+85E1 (U+85E1)	e897a1
+藢	U+85E2 (U+85E2)	e897a2
+藣	U+85E3 (U+85E3)	e897a3
+藤	rattan, cane; creeper plant (U+85E4)	e897a4
+藥	drugs, pharmaceuticals, medicine (U+85E5)	e897a5
+藦	edible mushrooms (U+85E6)	e897a6
+藧	U+85E7 (U+85E7)	e897a7
+藨	U+85E8 (U+85E8)	e897a8
+藩	fence; boundary; outlying border (U+85E9)	e897a9
+藪	marsh, swamp; wild country; clump of trees or bushes (U+85EA)	e897aa
+藫	U+85EB (U+85EB)	e897ab
+藬	U+85EC (U+85EC)	e897ac
+藭	U+85ED (U+85ED)	e897ad
+藮	U+85EE (U+85EE)	e897ae
+藯	U+85EF (U+85EF)	e897af
+藰	U+85F0 (U+85F0)	e897b0
+藱	U+85F1 (U+85F1)	e897b1
+藲	U+85F2 (U+85F2)	e897b2
+藳	U+85F3 (U+85F3)	e897b3
+藴	collect (U+85F4)	e897b4
+藵	U+85F5 (U+85F5)	e897b5
+藶	a kind of plant (U+85F6)	e897b6
+藷	yam, tuber, potato (U+85F7)	e897b7
+藸	U+85F8 (U+85F8)	e897b8
+藹	lush; affable, friendly (U+85F9)	e897b9
+藺	rush used in making mats; surname (U+85FA)	e897ba
+藻	splendid, magnificent; algae (U+85FB)	e897bb
+藼	U+85FC (U+85FC)	e897bc
+藽	U+85FD (U+85FD)	e897bd
+藾	shade (U+85FE)	e897be
+藿	lophanthus rugosus, betony (U+85FF)	e897bf
+蘀	falling leaves and barks (U+8600)	e89880
+蘁	U+8601 (U+8601)	e89881
+蘂	stamen or pistil (U+8602)	e89882
+蘃	U+8603 (U+8603)	e89883
+蘄	variety of artemisia seek (U+8604)	e89884
+蘅	a fragrant plant the root is medicinal (U+8605)	e89885
+蘆	rushes, reeds (U+8606)	e89886
+蘇	revive, resurrect; a species of thyme; transliteration of 'Soviet' (U+8607)	e89887
+蘈	U+8608 (U+8608)	e89888
+蘉	U+8609 (U+8609)	e89889
+蘊	collect, gather, store; profound; (Budd.) skandha (U+860A)	e8988a
+蘋	apple (U+860B)	e8988b
+蘌	U+860C (U+860C)	e8988c
+蘍	U+860D (U+860D)	e8988d
+蘎	U+860E (U+860E)	e8988e
+蘏	U+860F (U+860F)	e8988f
+蘐	U+8610 (U+8610)	e89890
+蘑	type of edible mushroom (U+8611)	e89891
+蘒	265:143 (U+8612)	e89892
+蘓	thyme; revive, resurrect; soviet (U+8613)	e89893
+蘔	U+8614 (U+8614)	e89894
+蘕	U+8615 (U+8615)	e89895
+蘖	stump, sprout (U+8616)	e89896
+蘗	stump, sprout (U+8617)	e89897
+蘘	a kind of wild ginger (U+8618)	e89898
+蘙	U+8619 (U+8619)	e89899
+蘚	moss, lichen (U+861A)	e8989a
+蘛	U+861B (U+861B)	e8989b
+蘜	U+861C (U+861C)	e8989c
+蘝	U+861D (U+861D)	e8989d
+蘞	wild vine, vitis pentaphylla (U+861E)	e8989e
+蘟	U+861F (U+861F)	e8989f
+蘠	U+8620 (U+8620)	e898a0
+蘡	U+8621 (U+8621)	e898a1
+蘢	tall grass; water-weeds (U+8622)	e898a2
+蘣	U+8623 (U+8623)	e898a3
+蘤	flower, blossoms (U+8624)	e898a4
+蘥	U+8625 (U+8625)	e898a5
+蘦	U+8626 (U+8626)	e898a6
+蘧	a plant which resembles wheat but has no edible grain (U+8627)	e898a7
+蘨	luxuriant vegetation (U+8628)	e898a8
+蘩	Artemisia stellariana (U+8629)	e898a9
+蘪	U+862A (U+862A)	e898aa
+蘫	U+862B (U+862B)	e898ab
+蘬	U+862C (U+862C)	e898ac
+蘭	orchid; elegant, graceful (U+862D)	e898ad
+蘮	U+862E (U+862E)	e898ae
+蘯	to toss about; to swing; to rock (U+862F)	e898af
+蘰	U+8630 (U+8630)	e898b0
+蘱	U+8631 (U+8631)	e898b1
+蘲	U+8632 (U+8632)	e898b2
+蘳	U+8633 (U+8633)	e898b3
+蘴	young shoots of the rapeturnip (U+8634)	e898b4
+蘵	U+8635 (U+8635)	e898b5
+蘶	U+8636 (U+8636)	e898b6
+蘷	one-legged monster; walrus (U+8637)	e898b7
+蘸	dip (a brush); remarry (U+8638)	e898b8
+蘹	U+8639 (U+8639)	e898b9
+蘺	gracilaria verrucosa (U+863A)	e898ba
+蘻	U+863B (U+863B)	e898bb
+蘼	U+863C (U+863C)	e898bc
+蘽	a creeper (U+863D)	e898bd
+蘾	U+863E (U+863E)	e898be
+蘿	type of creeping plant; turnip (U+863F)	e898bf
+虀	minced pickles; leeks; mix; salt (U+8640)	e89980
+虁	U+8641 (U+8641)	e89981
+虂	U+8642 (U+8642)	e89982
+虃	U+8643 (U+8643)	e89983
+虄	U+8644 (U+8644)	e89984
+虅	U+8645 (U+8645)	e89985
+虆	entwine; basket for carrying dirt (U+8646)	e89986
+虇	U+8647 (U+8647)	e89987
+虈	U+8648 (U+8648)	e89988
+虉	U+8649 (U+8649)	e89989
+虊	U+864A (U+864A)	e8998a
+虋	asparagus a variety of red-stalked millet (U+864B)	e8998b
+虌	U+864C (U+864C)	e8998c
+虍	tiger; KangXi radical 141 (U+864D)	e8998d
+虎	tiger; brave, fierce; surname (U+864E)	e8998e
+虏	to capture, imprison, seize; a prison (U+864F)	e8998f
+虐	cruel, harsh, oppressive (U+8650)	e89990
+虑	be concerned, worry about (U+8651)	e89991
+虒	an amphibious beast resembling a tiger with one horn; place name (U+8652)	e89992
+虓	roar (U+8653)	e89993
+虔	act with reverence; reverent (U+8654)	e89994
+處	place, locale; department (U+8655)	e89995
+虖	to cry; to shout; to howl (U+8656)	e89996
+虗	U+8657 (U+8657)	e89997
+虘	U+8658 (U+8658)	e89998
+虙	U+8659 (U+8659)	e89999
+虚	false (U+865A)	e8999a
+虛	false, worthless; empty, hollow (U+865B)	e8999b
+虜	to capture, imprison, seize; a prison (U+865C)	e8999c
+虝	U+865D (U+865D)	e8999d
+虞	concerned about, anxious, worried (U+865E)	e8999e
+號	mark, sign; symbol; number (U+865F)	e8999f
+虠	U+8660 (U+8660)	e899a0
+虡	support structure for bell (U+8661)	e899a1
+虢	name of ancient feudal State in Shenxi and Hunan (U+8662)	e899a2
+虣	cruel, violent, passionate (U+8663)	e899a3
+虤	U+8664 (U+8664)	e899a4
+虥	U+8665 (U+8665)	e899a5
+虦	U+8666 (U+8666)	e899a6
+虧	lose, fail; damage; deficient (U+8667)	e899a7
+虨	U+8668 (U+8668)	e899a8
+虩	fright (U+8669)	e899a9
+虪	U+866A (U+866A)	e899aa
+虫	insects, worms; KangXi radical 142 (U+866B)	e899ab
+虬	young dragon (U+866C)	e899ac
+虭	U+866D (U+866D)	e899ad
+虮	louse eggs, nits (U+866E)	e899ae
+虯	young dragon (U+866F)	e899af
+虰	U+8670 (U+8670)	e899b0
+虱	louse; bug; parasite (U+8671)	e899b1
+虲	U+8672 (U+8672)	e899b2
+虳	U+8673 (U+8673)	e899b3
+虴	U+8674 (U+8674)	e899b4
+虵	U+8675 (U+8675)	e899b5
+虶	U+8676 (U+8676)	e899b6
+虷	worm (U+8677)	e899b7
+虸	U+8678 (U+8678)	e899b8
+虹	rainbow (U+8679)	e899b9
+虺	large poisonous snake (U+867A)	e899ba
+虻	horsefly, gadfly (U+867B)	e899bb
+虼	a flea; species of beetle (U+867C)	e899bc
+虽	although, even if (U+867D)	e899bd
+虾	shrimp, prawn (U+867E)	e899be
+虿	a kind of scorpion (U+867F)	e899bf
+蚀	nibble away; erode; eclipse (U+8680)	e89a80
+蚁	ants (U+8681)	e89a81
+蚂	ant; leech (U+8682)	e89a82
+蚃	U+8683 (U+8683)	e89a83
+蚄	U+8684 (U+8684)	e89a84
+蚅	U+8685 (U+8685)	e89a85
+蚆	U+8686 (U+8686)	e89a86
+蚇	U+8687 (U+8687)	e89a87
+蚈	U+8688 (U+8688)	e89a88
+蚉	variant of 蚊 U+868A, a mosquito, gnat (U+8689)	e89a89
+蚊	mosquito; gnat (U+868A)	e89a8a
+蚋	gnat, mosquito (U+868B)	e89a8b
+蚌	oysters, mussels; mother-of-pearl (U+868C)	e89a8c
+蚍	mussels; various shellfish (U+868D)	e89a8d
+蚎	U+868E (U+868E)	e89a8e
+蚏	U+868F (U+868F)	e89a8f
+蚐	U+8690 (U+8690)	e89a90
+蚑	tip-toe (U+8691)	e89a91
+蚒	(Cant.) an edible snake, lizard (U+8692)	e89a92
+蚓	earthworm (U+8693)	e89a93
+蚔	ant eggs (U+8694)	e89a94
+蚕	silkworms (U+8695)	e89a95
+蚖	U+8696 (U+8696)	e89a96
+蚗	U+8697 (U+8697)	e89a97
+蚘	tapeworm (U+8698)	e89a98
+蚙	U+8699 (U+8699)	e89a99
+蚚	U+869A (U+869A)	e89a9a
+蚛	U+869B (U+869B)	e89a9b
+蚜	plant louse, aphids (U+869C)	e89a9c
+蚝	hairy and poisonous caterpillars (U+869D)	e89a9d
+蚞	U+869E (U+869E)	e89a9e
+蚟	U+869F (U+869F)	e89a9f
+蚠	person's name (U+86A0)	e89aa0
+蚡	mole (U+86A1)	e89aa1
+蚢	U+86A2 (U+86A2)	e89aa2
+蚣	centipede (U+86A3)	e89aa3
+蚤	flea; louse (U+86A4)	e89aa4
+蚥	U+86A5 (U+86A5)	e89aa5
+蚦	a boa constrictor (U+86A6)	e89aa6
+蚧	a red spotted lizard, used as medicine (U+86A7)	e89aa7
+蚨	a kind of water-beetle cash, then dollars and money generally (U+86A8)	e89aa8
+蚩	worm; ignorant, rustic; laugh (U+86A9)	e89aa9
+蚪	tadpole (U+86AA)	e89aaa
+蚫	abalone; dried fish; surname (U+86AB)	e89aab
+蚬	a variety of bivalves (U+86AC)	e89aac
+蚭	U+86AD (U+86AD)	e89aad
+蚮	U+86AE (U+86AE)	e89aae
+蚯	earthworm (U+86AF)	e89aaf
+蚰	millipede (U+86B0)	e89ab0
+蚱	grasshopper; (edible) locust; cicada (U+86B1)	e89ab1
+蚲	U+86B2 (U+86B2)	e89ab2
+蚳	ant eggs (U+86B3)	e89ab3
+蚴	larva (U+86B4)	e89ab4
+蚵	oyster (U+86B5)	e89ab5
+蚶	kind of clam, arca inflata (U+86B6)	e89ab6
+蚷	U+86B7 (U+86B7)	e89ab7
+蚸	U+86B8 (U+86B8)	e89ab8
+蚹	U+86B9 (U+86B9)	e89ab9
+蚺	a boa constrictor (U+86BA)	e89aba
+蚻	small species of cicada (U+86BB)	e89abb
+蚼	U+86BC (U+86BC)	e89abc
+蚽	U+86BD (U+86BD)	e89abd
+蚾	U+86BE (U+86BE)	e89abe
+蚿	millipede (U+86BF)	e89abf
+蛀	insects that eat books, clothes (U+86C0)	e89b80
+蛁	U+86C1 (U+86C1)	e89b81
+蛂	U+86C2 (U+86C2)	e89b82
+蛃	U+86C3 (U+86C3)	e89b83
+蛄	mole cricket (U+86C4)	e89b84
+蛅	a caterpillar (U+86C5)	e89b85
+蛆	maggots (U+86C6)	e89b86
+蛇	snake (U+86C7)	e89b87
+蛈	U+86C8 (U+86C8)	e89b88
+蛉	dragonfly, libellulidae (U+86C9)	e89b89
+蛊	poison; venom; harm; bewitch (U+86CA)	e89b8a
+蛋	eggs; term of abuse (U+86CB)	e89b8b
+蛌	cricket (U+86CC)	e89b8c
+蛍	glow-worm, luminous insect (U+86CD)	e89b8d
+蛎	oyster (U+86CE)	e89b8e
+蛏	razor clam (U+86CF)	e89b8f
+蛐	cricket; worm (U+86D0)	e89b90
+蛑	a marine crab (U+86D1)	e89b91
+蛒	U+86D2 (U+86D2)	e89b92
+蛓	caterpillar; (Cant.) a nit, louse; itching (U+86D3)	e89b93
+蛔	tapeworm (U+86D4)	e89b94

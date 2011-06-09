@@ -1,0 +1,1024 @@
+㋊	IDEOGRAPHIC TELEGRAPH SYMBOL FOR NOVEMBER (U+32CA)	e38b8a
+㋋	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DECEMBER (U+32CB)	e38b8b
+㋌	SQUARE HG (U+32CC)	e38b8c
+㋍	SQUARE ERG (U+32CD)	e38b8d
+㋎	SQUARE EV (U+32CE)	e38b8e
+㋏	LIMITED LIABILITY SIGN (U+32CF)	e38b8f
+㋐	CIRCLED KATAKANA A (U+32D0)	e38b90
+㋑	CIRCLED KATAKANA I (U+32D1)	e38b91
+㋒	CIRCLED KATAKANA U (U+32D2)	e38b92
+㋓	CIRCLED KATAKANA E (U+32D3)	e38b93
+㋔	CIRCLED KATAKANA O (U+32D4)	e38b94
+㋕	CIRCLED KATAKANA KA (U+32D5)	e38b95
+㋖	CIRCLED KATAKANA KI (U+32D6)	e38b96
+㋗	CIRCLED KATAKANA KU (U+32D7)	e38b97
+㋘	CIRCLED KATAKANA KE (U+32D8)	e38b98
+㋙	CIRCLED KATAKANA KO (U+32D9)	e38b99
+㋚	CIRCLED KATAKANA SA (U+32DA)	e38b9a
+㋛	CIRCLED KATAKANA SI (U+32DB)	e38b9b
+㋜	CIRCLED KATAKANA SU (U+32DC)	e38b9c
+㋝	CIRCLED KATAKANA SE (U+32DD)	e38b9d
+㋞	CIRCLED KATAKANA SO (U+32DE)	e38b9e
+㋟	CIRCLED KATAKANA TA (U+32DF)	e38b9f
+㋠	CIRCLED KATAKANA TI (U+32E0)	e38ba0
+㋡	CIRCLED KATAKANA TU (U+32E1)	e38ba1
+㋢	CIRCLED KATAKANA TE (U+32E2)	e38ba2
+㋣	CIRCLED KATAKANA TO (U+32E3)	e38ba3
+㋤	CIRCLED KATAKANA NA (U+32E4)	e38ba4
+㋥	CIRCLED KATAKANA NI (U+32E5)	e38ba5
+㋦	CIRCLED KATAKANA NU (U+32E6)	e38ba6
+㋧	CIRCLED KATAKANA NE (U+32E7)	e38ba7
+㋨	CIRCLED KATAKANA NO (U+32E8)	e38ba8
+㋩	CIRCLED KATAKANA HA (U+32E9)	e38ba9
+㋪	CIRCLED KATAKANA HI (U+32EA)	e38baa
+㋫	CIRCLED KATAKANA HU (U+32EB)	e38bab
+㋬	CIRCLED KATAKANA HE (U+32EC)	e38bac
+㋭	CIRCLED KATAKANA HO (U+32ED)	e38bad
+㋮	CIRCLED KATAKANA MA (U+32EE)	e38bae
+㋯	CIRCLED KATAKANA MI (U+32EF)	e38baf
+㋰	CIRCLED KATAKANA MU (U+32F0)	e38bb0
+㋱	CIRCLED KATAKANA ME (U+32F1)	e38bb1
+㋲	CIRCLED KATAKANA MO (U+32F2)	e38bb2
+㋳	CIRCLED KATAKANA YA (U+32F3)	e38bb3
+㋴	CIRCLED KATAKANA YU (U+32F4)	e38bb4
+㋵	CIRCLED KATAKANA YO (U+32F5)	e38bb5
+㋶	CIRCLED KATAKANA RA (U+32F6)	e38bb6
+㋷	CIRCLED KATAKANA RI (U+32F7)	e38bb7
+㋸	CIRCLED KATAKANA RU (U+32F8)	e38bb8
+㋹	CIRCLED KATAKANA RE (U+32F9)	e38bb9
+㋺	CIRCLED KATAKANA RO (U+32FA)	e38bba
+㋻	CIRCLED KATAKANA WA (U+32FB)	e38bbb
+㋼	CIRCLED KATAKANA WI (U+32FC)	e38bbc
+㋽	CIRCLED KATAKANA WE (U+32FD)	e38bbd
+㋾	CIRCLED KATAKANA WO (U+32FE)	e38bbe
+㌀	SQUARE APAATO (U+3300)	e38c80
+㌁	SQUARE ARUHUA (U+3301)	e38c81
+㌂	SQUARE ANPEA (U+3302)	e38c82
+㌃	SQUARE AARU (U+3303)	e38c83
+㌄	SQUARE ININGU (U+3304)	e38c84
+㌅	SQUARE INTI (U+3305)	e38c85
+㌆	SQUARE UON (U+3306)	e38c86
+㌇	SQUARE ESUKUUDO (U+3307)	e38c87
+㌈	SQUARE EEKAA (U+3308)	e38c88
+㌉	SQUARE ONSU (U+3309)	e38c89
+㌊	SQUARE OOMU (U+330A)	e38c8a
+㌋	SQUARE KAIRI (U+330B)	e38c8b
+㌌	SQUARE KARATTO (U+330C)	e38c8c
+㌍	SQUARE KARORII (U+330D)	e38c8d
+㌎	SQUARE GARON (U+330E)	e38c8e
+㌏	SQUARE GANMA (U+330F)	e38c8f
+㌐	SQUARE GIGA (U+3310)	e38c90
+㌑	SQUARE GINII (U+3311)	e38c91
+㌒	SQUARE KYURII (U+3312)	e38c92
+㌓	SQUARE GIRUDAA (U+3313)	e38c93
+㌔	SQUARE KIRO (U+3314)	e38c94
+㌕	SQUARE KIROGURAMU (U+3315)	e38c95
+㌖	SQUARE KIROMEETORU (U+3316)	e38c96
+㌗	SQUARE KIROWATTO (U+3317)	e38c97
+㌘	SQUARE GURAMU (U+3318)	e38c98
+㌙	SQUARE GURAMUTON (U+3319)	e38c99
+㌚	SQUARE KURUZEIRO (U+331A)	e38c9a
+㌛	SQUARE KUROONE (U+331B)	e38c9b
+㌜	SQUARE KEESU (U+331C)	e38c9c
+㌝	SQUARE KORUNA (U+331D)	e38c9d
+㌞	SQUARE KOOPO (U+331E)	e38c9e
+㌟	SQUARE SAIKURU (U+331F)	e38c9f
+㌠	SQUARE SANTIIMU (U+3320)	e38ca0
+㌡	SQUARE SIRINGU (U+3321)	e38ca1
+㌢	SQUARE SENTI (U+3322)	e38ca2
+㌣	SQUARE SENTO (U+3323)	e38ca3
+㌤	SQUARE DAASU (U+3324)	e38ca4
+㌥	SQUARE DESI (U+3325)	e38ca5
+㌦	SQUARE DORU (U+3326)	e38ca6
+㌧	SQUARE TON (U+3327)	e38ca7
+㌨	SQUARE NANO (U+3328)	e38ca8
+㌩	SQUARE NOTTO (U+3329)	e38ca9
+㌪	SQUARE HAITU (U+332A)	e38caa
+㌫	SQUARE PAASENTO (U+332B)	e38cab
+㌬	SQUARE PAATU (U+332C)	e38cac
+㌭	SQUARE BAARERU (U+332D)	e38cad
+㌮	SQUARE PIASUTORU (U+332E)	e38cae
+㌯	SQUARE PIKURU (U+332F)	e38caf
+㌰	SQUARE PIKO (U+3330)	e38cb0
+㌱	SQUARE BIRU (U+3331)	e38cb1
+㌲	SQUARE HUARADDO (U+3332)	e38cb2
+㌳	SQUARE HUIITO (U+3333)	e38cb3
+㌴	SQUARE BUSSYERU (U+3334)	e38cb4
+㌵	SQUARE HURAN (U+3335)	e38cb5
+㌶	SQUARE HEKUTAARU (U+3336)	e38cb6
+㌷	SQUARE PESO (U+3337)	e38cb7
+㌸	SQUARE PENIHI (U+3338)	e38cb8
+㌹	SQUARE HERUTU (U+3339)	e38cb9
+㌺	SQUARE PENSU (U+333A)	e38cba
+㌻	SQUARE PEEZI (U+333B)	e38cbb
+㌼	SQUARE BEETA (U+333C)	e38cbc
+㌽	SQUARE POINTO (U+333D)	e38cbd
+㌾	SQUARE BORUTO (U+333E)	e38cbe
+㌿	SQUARE HON (U+333F)	e38cbf
+㍀	SQUARE PONDO (U+3340)	e38d80
+㍁	SQUARE HOORU (U+3341)	e38d81
+㍂	SQUARE HOON (U+3342)	e38d82
+㍃	SQUARE MAIKURO (U+3343)	e38d83
+㍄	SQUARE MAIRU (U+3344)	e38d84
+㍅	SQUARE MAHHA (U+3345)	e38d85
+㍆	SQUARE MARUKU (U+3346)	e38d86
+㍇	SQUARE MANSYON (U+3347)	e38d87
+㍈	SQUARE MIKURON (U+3348)	e38d88
+㍉	SQUARE MIRI (U+3349)	e38d89
+㍊	SQUARE MIRIBAARU (U+334A)	e38d8a
+㍋	SQUARE MEGA (U+334B)	e38d8b
+㍌	SQUARE MEGATON (U+334C)	e38d8c
+㍍	SQUARE MEETORU (U+334D)	e38d8d
+㍎	SQUARE YAADO (U+334E)	e38d8e
+㍏	SQUARE YAARU (U+334F)	e38d8f
+㍐	SQUARE YUAN (U+3350)	e38d90
+㍑	SQUARE RITTORU (U+3351)	e38d91
+㍒	SQUARE RIRA (U+3352)	e38d92
+㍓	SQUARE RUPII (U+3353)	e38d93
+㍔	SQUARE RUUBURU (U+3354)	e38d94
+㍕	SQUARE REMU (U+3355)	e38d95
+㍖	SQUARE RENTOGEN (U+3356)	e38d96
+㍗	SQUARE WATTO (U+3357)	e38d97
+㍘	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ZERO (U+3358)	e38d98
+㍙	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ONE (U+3359)	e38d99
+㍚	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWO (U+335A)	e38d9a
+㍛	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR THREE (U+335B)	e38d9b
+㍜	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FOUR (U+335C)	e38d9c
+㍝	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FIVE (U+335D)	e38d9d
+㍞	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SIX (U+335E)	e38d9e
+㍟	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SEVEN (U+335F)	e38d9f
+㍠	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR EIGHT (U+3360)	e38da0
+㍡	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR NINE (U+3361)	e38da1
+㍢	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TEN (U+3362)	e38da2
+㍣	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR ELEVEN (U+3363)	e38da3
+㍤	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWELVE (U+3364)	e38da4
+㍥	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR THIRTEEN (U+3365)	e38da5
+㍦	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FOURTEEN (U+3366)	e38da6
+㍧	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR FIFTEEN (U+3367)	e38da7
+㍨	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SIXTEEN (U+3368)	e38da8
+㍩	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR SEVENTEEN (U+3369)	e38da9
+㍪	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR EIGHTEEN (U+336A)	e38daa
+㍫	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR NINETEEN (U+336B)	e38dab
+㍬	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY (U+336C)	e38dac
+㍭	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-ONE (U+336D)	e38dad
+㍮	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-TWO (U+336E)	e38dae
+㍯	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-THREE (U+336F)	e38daf
+㍰	IDEOGRAPHIC TELEGRAPH SYMBOL FOR HOUR TWENTY-FOUR (U+3370)	e38db0
+㍱	SQUARE HPA (U+3371)	e38db1
+㍲	SQUARE DA (U+3372)	e38db2
+㍳	SQUARE AU (U+3373)	e38db3
+㍴	SQUARE BAR (U+3374)	e38db4
+㍵	SQUARE OV (U+3375)	e38db5
+㍶	SQUARE PC (U+3376)	e38db6
+㍷	SQUARE DM (U+3377)	e38db7
+㍸	SQUARE DM SQUARED (U+3378)	e38db8
+㍹	SQUARE DM CUBED (U+3379)	e38db9
+㍺	SQUARE IU (U+337A)	e38dba
+㍻	SQUARE ERA NAME HEISEI (U+337B)	e38dbb
+㍼	SQUARE ERA NAME SYOUWA (U+337C)	e38dbc
+㍽	SQUARE ERA NAME TAISYOU (U+337D)	e38dbd
+㍾	SQUARE ERA NAME MEIZI (U+337E)	e38dbe
+㍿	SQUARE CORPORATION (U+337F)	e38dbf
+㎀	SQUARE PA AMPS (U+3380)	e38e80
+㎁	SQUARE NA (U+3381)	e38e81
+㎂	SQUARE MU A (U+3382)	e38e82
+㎃	SQUARE MA (U+3383)	e38e83
+㎄	SQUARE KA (U+3384)	e38e84
+㎅	SQUARE KB (U+3385)	e38e85
+㎆	SQUARE MB (U+3386)	e38e86
+㎇	SQUARE GB (U+3387)	e38e87
+㎈	SQUARE CAL (U+3388)	e38e88
+㎉	SQUARE KCAL (U+3389)	e38e89
+㎊	SQUARE PF (U+338A)	e38e8a
+㎋	SQUARE NF (U+338B)	e38e8b
+㎌	SQUARE MU F (U+338C)	e38e8c
+㎍	SQUARE MU G (U+338D)	e38e8d
+㎎	SQUARE MG (U+338E)	e38e8e
+㎏	SQUARE KG (U+338F)	e38e8f
+㎐	SQUARE HZ (U+3390)	e38e90
+㎑	SQUARE KHZ (U+3391)	e38e91
+㎒	SQUARE MHZ (U+3392)	e38e92
+㎓	SQUARE GHZ (U+3393)	e38e93
+㎔	SQUARE THZ (U+3394)	e38e94
+㎕	SQUARE MU L (U+3395)	e38e95
+㎖	SQUARE ML (U+3396)	e38e96
+㎗	SQUARE DL (U+3397)	e38e97
+㎘	SQUARE KL (U+3398)	e38e98
+㎙	SQUARE FM (U+3399)	e38e99
+㎚	SQUARE NM (U+339A)	e38e9a
+㎛	SQUARE MU M (U+339B)	e38e9b
+㎜	SQUARE MM (U+339C)	e38e9c
+㎝	SQUARE CM (U+339D)	e38e9d
+㎞	SQUARE KM (U+339E)	e38e9e
+㎟	SQUARE MM SQUARED (U+339F)	e38e9f
+㎠	SQUARE CM SQUARED (U+33A0)	e38ea0
+㎡	SQUARE M SQUARED (U+33A1)	e38ea1
+㎢	SQUARE KM SQUARED (U+33A2)	e38ea2
+㎣	SQUARE MM CUBED (U+33A3)	e38ea3
+㎤	SQUARE CM CUBED (U+33A4)	e38ea4
+㎥	SQUARE M CUBED (U+33A5)	e38ea5
+㎦	SQUARE KM CUBED (U+33A6)	e38ea6
+㎧	SQUARE M OVER S (U+33A7)	e38ea7
+㎨	SQUARE M OVER S SQUARED (U+33A8)	e38ea8
+㎩	SQUARE PA (U+33A9)	e38ea9
+㎪	SQUARE KPA (U+33AA)	e38eaa
+㎫	SQUARE MPA (U+33AB)	e38eab
+㎬	SQUARE GPA (U+33AC)	e38eac
+㎭	SQUARE RAD (U+33AD)	e38ead
+㎮	SQUARE RAD OVER S (U+33AE)	e38eae
+㎯	SQUARE RAD OVER S SQUARED (U+33AF)	e38eaf
+㎰	SQUARE PS (U+33B0)	e38eb0
+㎱	SQUARE NS (U+33B1)	e38eb1
+㎲	SQUARE MU S (U+33B2)	e38eb2
+㎳	SQUARE MS (U+33B3)	e38eb3
+㎴	SQUARE PV (U+33B4)	e38eb4
+㎵	SQUARE NV (U+33B5)	e38eb5
+㎶	SQUARE MU V (U+33B6)	e38eb6
+㎷	SQUARE MV (U+33B7)	e38eb7
+㎸	SQUARE KV (U+33B8)	e38eb8
+㎹	SQUARE MV MEGA (U+33B9)	e38eb9
+㎺	SQUARE PW (U+33BA)	e38eba
+㎻	SQUARE NW (U+33BB)	e38ebb
+㎼	SQUARE MU W (U+33BC)	e38ebc
+㎽	SQUARE MW (U+33BD)	e38ebd
+㎾	SQUARE KW (U+33BE)	e38ebe
+㎿	SQUARE MW MEGA (U+33BF)	e38ebf
+㏀	SQUARE K OHM (U+33C0)	e38f80
+㏁	SQUARE M OHM (U+33C1)	e38f81
+㏂	SQUARE AM (U+33C2)	e38f82
+㏃	SQUARE BQ (U+33C3)	e38f83
+㏄	SQUARE CC (U+33C4)	e38f84
+㏅	SQUARE CD (U+33C5)	e38f85
+㏆	SQUARE C OVER KG (U+33C6)	e38f86
+㏇	SQUARE CO (U+33C7)	e38f87
+㏈	SQUARE DB (U+33C8)	e38f88
+㏉	SQUARE GY (U+33C9)	e38f89
+㏊	SQUARE HA (U+33CA)	e38f8a
+㏋	SQUARE HP (U+33CB)	e38f8b
+㏌	SQUARE IN (U+33CC)	e38f8c
+㏍	SQUARE KK (U+33CD)	e38f8d
+㏎	SQUARE KM CAPITAL (U+33CE)	e38f8e
+㏏	SQUARE KT (U+33CF)	e38f8f
+㏐	SQUARE LM (U+33D0)	e38f90
+㏑	SQUARE LN (U+33D1)	e38f91
+㏒	SQUARE LOG (U+33D2)	e38f92
+㏓	SQUARE LX (U+33D3)	e38f93
+㏔	SQUARE MB SMALL (U+33D4)	e38f94
+㏕	SQUARE MIL (U+33D5)	e38f95
+㏖	SQUARE MOL (U+33D6)	e38f96
+㏗	SQUARE PH (U+33D7)	e38f97
+㏘	SQUARE PM (U+33D8)	e38f98
+㏙	SQUARE PPM (U+33D9)	e38f99
+㏚	SQUARE PR (U+33DA)	e38f9a
+㏛	SQUARE SR (U+33DB)	e38f9b
+㏜	SQUARE SV (U+33DC)	e38f9c
+㏝	SQUARE WB (U+33DD)	e38f9d
+㏞	SQUARE V OVER M (U+33DE)	e38f9e
+㏟	SQUARE A OVER M (U+33DF)	e38f9f
+㏠	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY ONE (U+33E0)	e38fa0
+㏡	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWO (U+33E1)	e38fa1
+㏢	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THREE (U+33E2)	e38fa2
+㏣	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FOUR (U+33E3)	e38fa3
+㏤	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FIVE (U+33E4)	e38fa4
+㏥	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SIX (U+33E5)	e38fa5
+㏦	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SEVEN (U+33E6)	e38fa6
+㏧	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY EIGHT (U+33E7)	e38fa7
+㏨	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY NINE (U+33E8)	e38fa8
+㏩	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TEN (U+33E9)	e38fa9
+㏪	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY ELEVEN (U+33EA)	e38faa
+㏫	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWELVE (U+33EB)	e38fab
+㏬	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTEEN (U+33EC)	e38fac
+㏭	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FOURTEEN (U+33ED)	e38fad
+㏮	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY FIFTEEN (U+33EE)	e38fae
+㏯	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SIXTEEN (U+33EF)	e38faf
+㏰	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY SEVENTEEN (U+33F0)	e38fb0
+㏱	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY EIGHTEEN (U+33F1)	e38fb1
+㏲	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY NINETEEN (U+33F2)	e38fb2
+㏳	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY (U+33F3)	e38fb3
+㏴	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-ONE (U+33F4)	e38fb4
+㏵	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-TWO (U+33F5)	e38fb5
+㏶	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-THREE (U+33F6)	e38fb6
+㏷	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-FOUR (U+33F7)	e38fb7
+㏸	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-FIVE (U+33F8)	e38fb8
+㏹	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-SIX (U+33F9)	e38fb9
+㏺	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-SEVEN (U+33FA)	e38fba
+㏻	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-EIGHT (U+33FB)	e38fbb
+㏼	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY TWENTY-NINE (U+33FC)	e38fbc
+㏽	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY (U+33FD)	e38fbd
+㏾	IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY-ONE (U+33FE)	e38fbe
+㏿	SQUARE GAL (U+33FF)	e38fbf
+㐀	<CJK Ideograph Extension A, First> (U+3400)	e39080
+㐁	to lick; to taste, a mat, bamboo bark (U+3401)	e39081
+㐂	(J) non-standard form of U+559C 喜, to like, love, enjoy; a joyful thing (U+3402)	e39082
+㐃	U+3403 (U+3403)	e39083
+㐄	U+3404 (U+3404)	e39084
+㐅	(an ancient form of U+4E94 五) five (U+3405)	e39085
+㐆	(corrupted form) to follow, to trust to; to put confidence in; to depend on, to turn around; to turn the body, (interchangeable 隱) (U+3406)	e39086
+㐇	U+3407 (U+3407)	e39087
+㐈	U+3408 (U+3408)	e39088
+㐉	U+3409 (U+3409)	e39089
+㐊	U+340A (U+340A)	e3908a
+㐋	U+340B (U+340B)	e3908b
+㐌	a tribe of savages in South China (U+340C)	e3908c
+㐍	U+340D (U+340D)	e3908d
+㐎	U+340E (U+340E)	e3908e
+㐏	U+340F (U+340F)	e3908f
+㐐	U+3410 (U+3410)	e39090
+㐑	U+3411 (U+3411)	e39091
+㐒	U+3412 (U+3412)	e39092
+㐓	U+3413 (U+3413)	e39093
+㐔	U+3414 (U+3414)	e39094
+㐕	U+3415 (U+3415)	e39095
+㐖	㐖毒, an old name for India (U+3416)	e39096
+㐗	U+3417 (U+3417)	e39097
+㐘	U+3418 (U+3418)	e39098
+㐙	U+3419 (U+3419)	e39099
+㐚	U+341A (U+341A)	e3909a
+㐛	U+341B (U+341B)	e3909b
+㐜	(same as 仇) an enemy, enmity, hatred, to hate, a rival, a match (U+341C)	e3909c
+㐝	U+341D (U+341D)	e3909d
+㐞	U+341E (U+341E)	e3909e
+㐟	U+341F (U+341F)	e3909f
+㐠	U+3420 (U+3420)	e390a0
+㐡	(same as 懦) weak; timid; imbecile (U+3421)	e390a1
+㐢	U+3422 (U+3422)	e390a2
+㐣	U+3423 (U+3423)	e390a3
+㐤	to implore; to beseech, to seek after, to beg; to pray (U+3424)	e390a4
+㐥	U+3425 (U+3425)	e390a5
+㐦	U+3426 (U+3426)	e390a6
+㐧	(J) non-standard form of 第 U+7B2C, sequence, number; grade, degree (U+3427)	e390a7
+㐨	a kind of fish in legend (a record in old books) (U+3428)	e390a8
+㐩	wine cups (U+3429)	e390a9
+㐪	U+342A (U+342A)	e390aa
+㐫	(same as 凶) cruel, unfortunate, sad (U+342B)	e390ab
+㐬	(same as U+65D2 旒, a corrupted form of U+8352 荒) a cup with pendants, a pennant, wild, barren, uncultivated (U+342C)	e390ac
+㐭	(same as 廩) a granary, to supply (foodstuff), to stockpile (U+342D)	e390ad
+㐮	(same as 襄) to help; to assist, to achieve, to rise; to raise (U+342E)	e390ae
+㐯	(ancient form of 庸) to employ; to use, to manifest (U+342F)	e390af
+㐰	(ancient form of 信) to believe in; to trust, truth, sincerity, confidence, a pledge or token (U+3430)	e390b0
+㐱	(same as 鬒) bushy, black hair (U+3431)	e390b1
+㐲	name of an island (U+3432)	e390b2
+㐳	high and level on the top (U+3433)	e390b3
+㐴	(non-classical of 攀) to drag down; to seize, to pull, to hold to (U+3434)	e390b4
+㐵	U+3435 (U+3435)	e390b5
+㐶	U+3436 (U+3436)	e390b6
+㐷	a kind of punishment in Han Dynasty, name of chessmen in Chinese chess game (simplified form, a variant 罵) to curse; to revile; to abuse, to scold (U+3437)	e390b7
+㐸	(non-classical form of 欠) to owe money, deficient, to yawn, last name (U+3438)	e390b8
+㐹	(standard form of 仡) strong; valiant, a minority ethnic group in China (U+3439)	e390b9
+㐺	(standard form of 眾) all; the whole of; a multitude, a crowd (three or more) (U+343A)	e390ba
+㐻	name of a person (U+343B)	e390bb
+㐼	(corrupted form of 拯) to save; to lift up (U+343C)	e390bc
+㐽	(simplified form of 偑) name of a place, last name (U+343D)	e390bd
+㐾	U+343E (U+343E)	e390be
+㐿	U+343F (U+343F)	e390bf
+㑀	U+3440 (U+3440)	e39180
+㑁	(same as U+20B74 𠭴) short; of short stature (U+3441)	e39181
+㑂	(same as 仿) to imitate, like; resembling, according to (U+3442)	e39182
+㑃	(same as 拗) to pull; to drag, to break off, to pluck, as a flower (U+3443)	e39183
+㑄	(ancient form of 侮) to insult, to ridicule (U+3444)	e39184
+㑅	(same as 作) to make; to do; to act, to write; to compose; to rise, work (U+3445)	e39185
+㑆	U+3446 (U+3446)	e39186
+㑇	(a simplified form) clever; ingenious; cute; pretty (U+3447)	e39187
+㑈	(simplified form) rude; barbarous, stupid; dull, last name (U+3448)	e39188
+㑉	cannot straighten up (U+3449)	e39189
+㑊	a kind of disease (U+344A)	e3918a
+㑋	small, poor, submit to the dominion of; slow; late (U+344B)	e3918b
+㑌	(same as 尪) weak; a rickety person; emaciated (U+344C)	e3918c
+㑍	inferior; secondary, ugly (U+344D)	e3918d
+㑎	last name (U+344E)	e3918e
+㑏	(corrupted form of U+4F47 佇) to stand and wait; to hope for (U+344F)	e3918f
+㑐	to move; to start; to shake, name of a person (U+3450)	e39190
+㑑	U+3451 (U+3451)	e39191
+㑒	U+3452 (U+3452)	e39192
+㑓	U+3453 (U+3453)	e39193
+㑔	(a simplified form) (corrupted form of 偦) all together, mutually, last name (U+3454)	e39194
+㑕	U+3455 (U+3455)	e39195
+㑖	U+3456 (U+3456)	e39196
+㑗	a god, pregnant (U+3457)	e39197
+㑘	(same as 价) a servant, a middle-man, good, great; (a simplified form) price; value (U+3458)	e39198
+㑙	frivolous; flippant; capricious; playful (U+3459)	e39199
+㑚	(non-classical form of 那) that, there (U+345A)	e3919a
+㑛	to shake one's head (U+345B)	e3919b
+㑜	(a dialect) to engrave (U+345C)	e3919c
+㑝	to make a fool of; idiotic, simple, stupid (U+345D)	e3919d
+㑞	(same as 媵) (in old time) a maid who accompanies a bride to her new home; to escort, a concubine (U+345E)	e3919e
+㑟	insincere and cunning person; a pretentious person (U+345F)	e3919f
+㑠	U+3460 (U+3460)	e391a0
+㑡	U+3461 (U+3461)	e391a1
+㑢	U+3462 (U+3462)	e391a2
+㑣	stupid; loutish, without ability; unable; lacking power (U+3463)	e391a3
+㑤	(same as 媌) good looking, a prostitute (U+3464)	e391a4
+㑥	disrespectful; irreverent, to make light of; to neglect; careless; rush, to exchange, (said of one's personality) easy to get along with (U+3465)	e391a5
+㑦	anger; rage; angry, (same as 戾) recalcitrant; stubbornly persisting in doing something wrong; cruel; despotic (U+3466)	e391a6
+㑧	(corrupted form of 悸) perturbed, to throb, palpitation of the heart (U+3467)	e391a7
+㑨	great; big; tall; vast, noble; high in rank, very; much (U+3468)	e391a8
+㑩	(simplified form of U+5138 儸) smart; clever (U+3469)	e391a9
+㑪	(non-classical form of 儕) a generation, a class; a series; a kind (U+346A)	e391aa
+㑫	U+346B (U+346B)	e391ab
+㑬	U+346C (U+346C)	e391ac
+㑭	U+346D (U+346D)	e391ad
+㑮	last name, girl's name (U+346E)	e391ae
+㑯	last name, all; together; mutually, a low rank officer to take charge of the bandits in ancient time (U+346F)	e391af
+㑰	(a corrupted form) distress; very difficulty; anxiety; very tired (U+3470)	e391b0
+㑱	a kind of monkey, fingering for an ancient string instrument (U+3471)	e391b1
+㑲	U+3472 (U+3472)	e391b2
+㑳	(same as 媰) clever; ingenious; cute; smart; pretty, cruel, to be heired, to jest; to chaff, to bawl, mean person (as opposed to real gentleman) (U+3473)	e391b3
+㑴	(standard form of 侵) to usurp, to encroach upon, to raid (U+3474)	e391b4
+㑵	(same as 嫉) envy; jealousy, to hate (U+3475)	e391b5
+㑶	(non-classical form of 愾) anger; passion; rage, to sigh; to groan (U+3476)	e391b6
+㑷	(same as 態) manner, bearing, behaviour, policy, attitude (U+3477)	e391b7
+㑸	U+3478 (U+3478)	e391b8
+㑹	(non-classical of 會) to meet; to assemble, to co-operate, a society; a guild; an association (U+3479)	e391b9
+㑺	(a variant of 俊) superior, handsome, refined, eminent (U+347A)	e391ba
+㑻	strong, robust, vigorous (U+347B)	e391bb
+㑼	name of a god (U+347C)	e391bc
+㑽	(same as 傏) to ward off; to parry; to keep out, as wind, rain, or cold (U+347D)	e391bd
+㑾	(interchangeable 繇) joy, delight, gratification (U+347E)	e391be
+㑿	long, of space or time, profitable, excelling (U+347F)	e391bf
+㒀	do not fear to (U+3480)	e39280
+㒁	(same as 俁) of great stature; stalwart, to injure, to grieve (U+3481)	e39281
+㒂	to bestow; to grant, to act; to do, quiet; still, peace; tranquility (U+3482)	e39282
+㒃	(same as 貳) capital form of two, a second job, to harbour doubts; to hesitate, to revolt (U+3483)	e39283
+㒄	brittle and friable, fear; dread; fright; scare (U+3484)	e39284
+㒅	to unbind the collar (U+3485)	e39285
+㒆	(same as 歙) to gather the harvest; to gather together (U+3486)	e39286
+㒇	(same as 憮) to skip about; to dance for joy; to soothe, slow, disappointed (U+3487)	e39287
+㒈	dangerous; lofty; steep; high and dangerous (U+3488)	e39288
+㒉	(same as 惝) alarmed; agitated (U+3489)	e39289
+㒊	loquacious (U+348A)	e3928a
+㒋	(same as U+5EDD 廝) a servant; a menial, a woodcutter (U+348B)	e3928b
+㒌	(ancient form of 煢) along; desolate; orphaned (U+348C)	e3928c
+㒍	(interchangeable U+50AB 儽) utterly weary in body and spirits; negligent; lax (U+348D)	e3928d
+㒎	evil, wicked, wrong, foul (U+348E)	e3928e
+㒏	U+348F (U+348F)	e3928f
+㒐	U+3490 (U+3490)	e39290
+㒑	grow up, commodity prices (U+3491)	e39291
+㒒	(same as 僕) a slave; a servant, used conventionally for oneself, a charioteer (U+3492)	e39292
+㒓	to escape; to abscond; to flee, (interchangeable 達) (U+3493)	e39293
+㒔	to shake one's head, ugly, not in peace (U+3494)	e39294
+㒕	unyield (U+3495)	e39295
+㒖	(same as 藕) the root-stock of the lotus; arrowroot (U+3496)	e39296
+㒗	(a variant of 儓) a servant (U+3497)	e39297
+㒘	U+3498 (U+3498)	e39298
+㒙	to hand or bow the head; to droop; to lower, low; beneath (U+3499)	e39299
+㒚	(same as U+7A69 穩) firm; stable; secure, dependent upon others (U+349A)	e3929a
+㒛	to stand alone; independent (U+349B)	e3929b
+㒜	respectful; attentive, carefully; cautious; to heed; to be watchful, to rely on; to trust to; to lean towards (U+349C)	e3929c
+㒝	to deceive; artful; false (U+349D)	e3929d
+㒞	valiant; brave, eminent (U+349E)	e3929e
+㒟	(same as 褭) with a charming; slim carriage (of a woman), pretty (U+349F)	e3929f
+㒠	narrow; contracted, quickly; fast; hasty; soon; promptly (U+34A0)	e392a0
+㒡	name of a person (U+34A1)	e392a1
+㒢	U+34A2 (U+34A2)	e392a2
+㒣	U+34A3 (U+34A3)	e392a3
+㒤	to have one's heart won; to submit, admire, etc. sincerely and willingly, (interchangeable 懾) to fear; to dread; to be scared of (U+34A4)	e392a4
+㒥	an immortal (U+34A5)	e392a5
+㒦	(same as 儡) puppets, very tired; fatigued; weary and weak (U+34A6)	e392a6
+㒧	(same as 儷) a pair; a couple, luxuriant; lush; exuberant (U+34A7)	e392a7
+㒨	(ancient form of 仙) an immortal; a fairy; a genie (U+34A8)	e392a8
+㒩	(same as 梴 裸) naked, to strip; to unclothe (U+34A9)	e392a9
+㒪	(ancient form of 錫) tin; pewter (U+34AA)	e392aa
+㒫	(ancient form of 旡) choked and unable to breath (U+34AB)	e392ab
+㒬	U+34AC (U+34AC)	e392ac
+㒭	(same as 昆) an elder brother (U+34AD)	e392ad
+㒮	U+34AE (U+34AE)	e392ae
+㒯	U+34AF (U+34AF)	e392af
+㒰	(a variant, seal type of U+5168 全) perfect, complete, absolute (U+34B0)	e392b0
+㒱	U+34B1 (U+34B1)	e392b1
+㒲	(a variant of 財) wealth; property; valuables, bribes (U+34B2)	e392b2
+㒳	(ancient form of 兩) two, a pair; a couple; both (U+34B3)	e392b3
+㒴	to come; to go out (U+34B4)	e392b4
+㒵	(same as 貌) manner; appearance; form; face; bearing (U+34B5)	e392b5
+㒶	(ancient form of 公) public; open to all (U+34B6)	e392b6
+㒷	(simple form of U+8208 興) to prosper, to begin, to increase; to rise; to raise, flourishing (U+34B7)	e392b7
+㒸	(same as U+9042 遂) to obey; to comply with; to follow the wishes of another, (an ancient form of U+6B72 歲) a year, age, the harvest (U+34B8)	e392b8
+㒹	(non-classical of 顛) to upset; to turn over, to fall, upside down (U+34B9)	e392b9
+㒺	U+34BA (U+34BA)	e392ba
+㒻	(same as 冒) to go forward with eyes covered, to risk, to rush upon, to put forth, to issue forth (U+34BB)	e392bb
+㒼	average; equivalent; corresponding, to cover something carefully and tightly without a break; (Cant.) blocked (U+34BC)	e392bc
+㒽	a kind of cap for children (U+34BD)	e392bd
+㒾	a kind of wrapper used to cover over the face and head (U+34BE)	e392be
+㒿	a kind of turban used in ancient time (U+34BF)	e392bf
+㓀	U+34C0 (U+34C0)	e39380
+㓁	a net; net-like, radical 122 (U+34C1)	e39381
+㓂	(a variant of 寇) tyrannical; cruel, to rob; to plunder, banditti; thieves; highwaymen (U+34C2)	e39382
+㓃	(standard form of 蜌 詫) to sacrifice by pouring out a libation of wine (U+34C3)	e39383
+㓄	to plough; to till, black color (U+34C4)	e39384
+㓅	frozen; cold (U+34C5)	e39385
+㓆	U+34C6 (U+34C6)	e39386
+㓇	U+34C7 (U+34C7)	e39387
+㓈	sound of flying or speeding (U+34C8)	e39388
+㓉	ice; icicles, cold; frost, crystallized (U+34C9)	e39389
+㓊	cold, indifferent (U+34CA)	e3938a
+㓋	to freeze; to congeal; to curdle (U+34CB)	e3938b
+㓌	bitterly cold (U+34CC)	e3938c
+㓍	U+34CD (U+34CD)	e3938d
+㓎	cold, cold air, bitterly cold (U+34CE)	e3938e
+㓏	bitterly cold (U+34CF)	e3938f
+㓐	to rain, cold; wintry (U+34D0)	e39390
+㓑	cold (U+34D1)	e39391
+㓒	U+34D2 (U+34D2)	e39392
+㓓	thin ice (U+34D3)	e39393
+㓔	(same as 謝) faded and fallen -- as blossoms; withered (U+34D4)	e39394
+㓕	U+34D5 (U+34D5)	e39395
+㓖	bitterly cold, cold wind; the north wind (U+34D6)	e39396
+㓗	(non-classical of 潔) clean; pure; clear (U+34D7)	e39397
+㓘	(same as U+738A 玊) jade with some defects, a lapidary, to polish gems; a surname (U+34D8)	e39398
+㓙	(non-classical of 凶) cruel, unfortunate, sad (U+34D9)	e39399
+㓚	a sickle, a reaping-hook, to gether in the harvest, to pare; to scrape (U+34DA)	e3939a
+㓛	(incorrect form of 功) merit; achievement; meritorious, efficacy; good results (U+34DB)	e3939b
+㓜	(corrupted form of 幼) young; immature; weak; delicate (U+34DC)	e3939c
+㓝	(same as 刑) a law, to punish; punishment (U+34DD)	e3939d
+㓞	to engrave, (interchangeable with U+5951 契) a written contract or agreement (U+34DE)	e3939e
+㓟	to peel, to pare, to trim, to split, (non-classical form) to open; to unroll; to spread out (U+34DF)	e3939f
+㓠	(same as 玷) a flaw; a defect, to cut with a sword; to chop (U+34E0)	e393a0
+㓡	(same as 弣) the middle part of a bow; the handle of a bow, try to dig and get something with a knife (U+34E1)	e393a1
+㓢	to cut the flesh from the bones; to scrape off; to pick out; to get rid of (U+34E2)	e393a2
+㓣	to sink into; to pierce, (ancient form of 割) to cut; to hack; to reap (U+34E3)	e393a3
+㓤	to strip the skin of the face; an imminent calamity, to engrave; (Cant.) to pierce (U+34E4)	e393a4
+㓥	(dial.) to kill; to slaughter (U+34E5)	e393a5
+㓦	to deliberate and plan; to arrange (U+34E6)	e393a6
+㓧	agricultural implements (U+34E7)	e393a7
+㓨	(same as 刺) to pierce; to stab; to irritate; to hurt (U+34E8)	e393a8
+㓩	horned hair (U+34E9)	e393a9
+㓪	(same as 朗) bright, clear, intelligent, light, brilliant, to understand, to illustrate, to cleanse (U+34EA)	e393aa
+㓫	U+34EB (U+34EB)	e393ab
+㓬	(same as 刳) to cut open; to rip up; to cut out (U+34EC)	e393ac
+㓭	(same as U+97A8 鞨) to make ready the leather for shoes (U+34ED)	e393ad
+㓮	(same as 雕) to engrave; to carve; to tattoo (U+34EE)	e393ae
+㓯	(same as 劙) to divide, to partition, to cut; to hack; to reap (U+34EF)	e393af
+㓰	(a variant of 劃) to rive; to divide; to mark; to cut (U+34F0)	e393b0
+㓱	to cut; to cut out; to pick out; to scoop out, (same as 鄃) name of a county in today's Shandong province (U+34F1)	e393b1
+㓲	to pare; to cut into slices (U+34F2)	e393b2
+㓳	use knife to split something (U+34F3)	e393b3
+㓴	to cut in two, to slash (U+34F4)	e393b4
+㓵	(same as 鍔) swords; a double-edged sword (U+34F5)	e393b5
+㓶	(same as 鍥) to carve; to engrave; to cut; to oppress, a sickle (U+34F6)	e393b6
+㓷	(same as 劓) to cut off the nose; cut off (U+34F7)	e393b7
+㓸	(same as 斲) to cut to pieces; to hack; to chop or hew, to carve for ornaments (U+34F8)	e393b8
+㓹	(same as 銳) a sharp-pointed weapon, acute; zealous; valiant, wound, minor injury (U+34F9)	e393b9
+㓺	castration, to pare; to scrape; to sharpen to a point (U+34FA)	e393ba
+㓻	(same as 剛) tough; unyielding; inflexible; hard (U+34FB)	e393bb
+㓼	an incised wound; cuts (U+34FC)	e393bc
+㓽	a kind of farm tool; iron spade; spade (U+34FD)	e393bd
+㓾	to wound the skin; to cut open; to open out, ripped (U+34FE)	e393be
+㓿	U+34FF (U+34FF)	e393bf
+㔀	(non-classical form) to brand criminals on the face, to rob; to plunder (U+3500)	e39480
+㔁	a kind of tool; a hook; a barb; a sickle (U+3501)	e39481
+㔂	to pare; to pare away; to scrape; to sharpen to a point; to shave; to brush away (U+3502)	e39482
+㔃	(same as 絕) to cut short; to break off; to interrupt, to drag; to pull (U+3503)	e39483
+㔄	thin, small cut (U+3504)	e39484
+㔅	to cut; to hack; to reap, minced meat mixed up with ginger and cassia (U+3505)	e39485
+㔆	to cut; to hack; to reap; to trim or clip, to stab; to pierce; to brand (U+3506)	e39486
+㔇	(same as U+93FA 鏺) a kind of farm tool; a reaping-hook; used to cut grass (U+3507)	e39487
+㔈	U+3508 (U+3508)	e39488
+㔉	to dig; to excavate (U+3509)	e39489
+㔊	to cut; to hack; to reap, to strike; to attack, to chastise rebels (U+350A)	e3948a
+㔋	cut into thin slices; to mince, sharp (U+350B)	e3948b
+㔌	to cut off; to mince, to cut up firewood (U+350C)	e3948c
+㔍	a hinged shear or long knife for cutting fodder; sheet-iron; etc., to cut up; to mince (U+350D)	e3948d
+㔎	to cut apart; to divide (U+350E)	e3948e
+㔏	(same as 剆) to cut open, to strike against; to clash together (U+350F)	e3948f
+㔐	(corrupted form) to cut; to mince (U+3510)	e39490
+㔑	(same as U+34FC 㓼) an incised wound; cuts (U+3511)	e39491
+㔒	to cut; to cut out; to pick out; to scoop out, to cut short; to spare (U+3512)	e39492
+㔓	to stammer (U+3513)	e39493
+㔔	U+3514 (U+3514)	e39494
+㔕	with purpose; with ambition; with the determination and courage to get ahead (U+3515)	e39495
+㔖	U+3516 (U+3516)	e39496
+㔗	strong; healthy, to clasp under the arm, to persecute; to oppress, vigorous (U+3517)	e39497
+㔘	(same as 黜) to degrade; to dismiss, to reject; to dispel (U+3518)	e39498
+㔙	great strength; great power (U+3519)	e39499
+㔚	to exert oneself; to make strenuous effort (U+351A)	e3949a
+㔛	U+351B (U+351B)	e3949b
+㔜	(non-classical form of 勃) sudden; suddenly; quick; to change as the countenance (U+351C)	e3949c
+㔝	strong resistance; lazy, reluctant (U+351D)	e3949d
+㔞	vigorous; with great strength (U+351E)	e3949e
+㔟	U+351F (U+351F)	e3949f
+㔠	industry, sound of making strenuous efforts (U+3520)	e394a0
+㔡	greatly; deeply, with great strength; vigorous (U+3521)	e394a1
+㔢	to break something, to drag; to pull (U+3522)	e394a2
+㔣	in ancient times to fight against the enemy by pushing down the big rocks from up high; to throw over, to urge; to exert oneself, to carry in the bosom (U+3523)	e394a3
+㔤	to exert one's strength (U+3524)	e394a4
+㔥	(non-classical form of 疲) full of anger; fierce anger, tired; weary; exhausted (U+3525)	e394a5
+㔦	to encourage; to stimulate; to exhort to action; to encourage by rewards (U+3526)	e394a6
+㔧	to incite; to urge, to aid; to help; to assist, to approve; to acquiesce (U+3527)	e394a7
+㔨	name of a person (U+3528)	e394a8
+㔩	hair ornments used in old time (U+3529)	e394a9
+㔪	to crawl; to crawl on hands and knees (U+352A)	e394aa
+㔫	U+352B (U+352B)	e394ab
+㔬	(ancient form of 卓) to establish, to surpass, eminent; lofty; profound (U+352C)	e394ac
+㔭	(same as 匙) a spoon, a key (U+352D)	e394ad
+㔮	a kind of animal which looks like a rat (U+352E)	e394ae
+㔯	(same as 匴) a large basket for holding cooked rice, a kind of tray made of bamboo used in ancient time (U+352F)	e394af
+㔰	(ancient form of 恆) constant; regular; continually; persevering (U+3530)	e394b0
+㔱	(same as U+5EBE 庾) a stack of grain, a measure of 16 dou (U+3531)	e394b1
+㔲	U+3532 (U+3532)	e394b2
+㔳	(ancient form of 簋) a square basket of bamboo for holding grain used at sacrifices, feasts, etc. (U+3533)	e394b3
+㔴	agricultural implement; farm tools, a big sacrificial vessel; a tripod of bronze with two ears; a caldron (U+3534)	e394b4
+㔵	a kind of vessel (U+3535)	e394b5
+㔶	a small cup, a box; a chest, a granary, cover of a vessel (U+3536)	e394b6
+㔷	(ancient form of 陋) to secrete; to hide, a kind of basket (U+3537)	e394b7
+㔸	(interchangeable 榹) a tray; a kind of dumbwaiter (U+3538)	e394b8
+㔹	(standard form of 仂) a surplus or excess, a tithe, a great stock of merit (U+3539)	e394b9
+㔺	(ancient form of 世) an age, a generation of thirty years, from generation to generation (U+353A)	e394ba
+㔻	(same as 丕) great; distinguished (U+353B)	e394bb
+㔼	(non-classical form of 榫) to fit into, a tenon, connected (U+353C)	e394bc
+㔽	(non-classical form of 卣) a kind of wine pot or jar used in ancient time (U+353D)	e394bd
+㔾	(same as U+7B44 筄) last name; KangXi radical 26; a joint, a seal, (ancient form of 節) (U+353E)	e394be
+㔿	a tally, like fitting the two halves of a tally, to petition the emperor that ..., to play music; to beat time (U+353F)	e394bf
+㕀	U+3540 (U+3540)	e39580
+㕁	(non-classical form of 卻) still; but; yet; etc., to refuse to accept, to retreat; to withdraw (U+3541)	e39581
+㕂	(ancient form of 吟) to hum; to intone, to moan, to sigh, high ridges of cliffs, pebble ground (U+3542)	e39582
+㕃	to fall over; rolling on the ground (U+3543)	e39583
+㕄	(same as 厎 砥) to apply knowledge to final causes; to extend knowledge to the utmost, equally; average, smooth (U+3544)	e39584
+㕅	big; extremely; great; vast; extensive; tall (U+3545)	e39585
+㕆	fine stone; fine jade (U+3546)	e39586
+㕇	rocks collapsing (descriptive of sound), big pieces of rocks (U+3547)	e39587
+㕈	(interchangeable 庡) to linger; to walk to and from, to conceal; to cover up; to secrete; to hide; to cover over (U+3548)	e39588
+㕉	to dig a hole; to tuck in; to put the finger into (U+3549)	e39589
+㕊	to slant; intricate; describe a writer's pen, lofty rocks; protruded rocks; resolute (U+354A)	e3958a
+㕋	rock land (U+354B)	e3958b
+㕌	to raise the curtain, a kind of rock (U+354C)	e3958c
+㕍	(same as 堆) to heap up; to pile, a heap; a pile; a mass; a crowd (U+354D)	e3958d
+㕎	caves; grottos on the mountain side, collapsed in ruins; destroyed; to clash; to bump against (U+354E)	e3958e
+㕏	(corrupted form of 廚) a kitchen, a sideboard with cupboard and drawers (U+354F)	e3958f
+㕐	inclined; slanting, to upset; to be overthrown, to collapse, to fall flat (U+3550)	e39590
+㕑	(non-classical of 報) a kitchen, a sideboard with cupboard and drawers (U+3551)	e39591
+㕒	a lofty peak; a mountain peak (U+3552)	e39592
+㕓	U+3553 (U+3553)	e39593
+㕔	(non-classical form of 廳) a hall; a court; a lodge; a room (U+3554)	e39594
+㕕	(ancient form of 幻) deception; sleight of hand; magic (U+3555)	e39595
+㕖	(ancient form of 素) plain; unornamented, white, ordinary, simple (U+3556)	e39596
+㕗	(same as 誘) to induce; to entice; to mislead; to lead on (U+3557)	e39597
+㕘	(a variant of 參) to take part in; to visit; to counsel, one of the 28 lunar mansions; ginseng (U+3558)	e39598
+㕙	a wily rabbit; a cunning hare (U+3559)	e39599
+㕚	(ancient form of 爪) claws of birds or animals, feet, to scratch, to claw, to grasp (U+355A)	e3959a
+㕛	(ancient form of 友) a friend; a companion; a associate, friendly, to make friends of, brotherly regard (U+355B)	e3959b
+㕜	(ancient form of 史) history; chronicles; annals (U+355C)	e3959c
+㕝	U+355D (U+355D)	e3959d
+㕞	(same as U+5237 刷) a brush, to brush; to clean; to scrub, to print, expecially from blocks (U+355E)	e3959e
+㕟	(same as 喟) to sign; to lament, to stop, to cut off; to sever; to interrupt (U+355F)	e3959f
+㕠	(same as 雙) a pair; a couple, both, two, double, even (U+3560)	e395a0
+㕡	(same as U+58D1 壑) the bed of a torrent; a gully, a pool (U+3561)	e395a1
+㕢	profound significance, just now; then; in that case (U+3562)	e395a2
+㕣	a marsh at the foot of the hills, (interchangeable 湢 沇) name of a river (U+3563)	e395a3
+㕤	a proud temper, military equipment; a long spear (U+3564)	e395a4
+㕥	U+3565 (U+3565)	e395a5
+㕦	loud; clamour; hubbub, big mouth, to brag (U+3566)	e395a6
+㕧	used to represent sound; to hum; to groan (U+3567)	e395a7
+㕨	U+3568 (U+3568)	e395a8
+㕩	(non-classical form) sound of tapping; sound of striking, opposing voices (U+3569)	e395a9
+㕪	birds' chirps; gabbling, sound in high pitch; to roar; aloud (U+356A)	e395aa
+㕫	(same as 仿 方) to imitate, like; resembling; according to, a measurement for sound effect (U+356B)	e395ab
+㕬	public opinion, (same as U+8A1F 訟) to go to law, to dispute, to demand justice; (Cant.) classifier for ears of corn (U+356C)	e395ac
+㕭	(same as 咬) to bark as a dog, obscene expressions, an interjection; implying surprise (U+356D)	e395ad
+㕮	to chew; to masticate, to dwell on, Chinese medicine term (U+356E)	e395ae
+㕯	slow-tongued; to stammer, to shout in triumph; the noise of shoting in battle (U+356F)	e395af
+㕰	sound angrily; roaring with rage, (same as 嘛) (a dialect) what; the tone implying to remind (U+3570)	e395b0
+㕱	to bark (said of a dog) (U+3571)	e395b1
+㕲	to gag or bribe; to satisfy one's appetite; name of an old book; (Cant.) to guess, reckon mentally; to bud (U+3572)	e395b2
+㕳	(of a crowd) noisy; to brawl; to scold (U+3573)	e395b3
+㕴	U+3574 (U+3574)	e395b4
+㕵	U+3575 (U+3575)	e395b5
+㕶	(Cant.) an expletive, exclamation (U+3576)	e395b6
+㕷	(corrupted form 咟) to call, to yell, anxious, dazed, image sound, an exclamation expressing sound (such as clap hands; to fire a gun; to strike; sound of firecracker etc.) (U+3577)	e395b7
+㕸	sound of rolling a boat (U+3578)	e395b8
+㕹	a buckler; a shield (U+3579)	e395b9
+㕺	(corrupted form of 囂) looks big outside but empty inside, to yell; voice of anger, hubbub; clamour (U+357A)	e395ba
+㕻	to refuse, to repel (U+357B)	e395bb
+㕼	to brawl; to scold, noise from a crowd; hubbub; noisy; loud noise (U+357C)	e395bc
+㕽	a phonetic (U+357D)	e395bd
+㕾	U+357E (U+357E)	e395be
+㕿	U+357F (U+357F)	e395bf
+㖀	sound (U+3580)	e39680
+㖁	(non-classical form of 吝) stingy, sparing of; closefisted, to regret, to shame; to insult (U+3581)	e39681
+㖂	(same as 詍) loquacity; to talk incessantly and tediously, to laugh, joy (U+3582)	e39682
+㖃	(interchangeable 吼) to roar of animals, angry tones, (interchangeable 詬) a sense of shame; to shame, to vomit (U+3583)	e39683
+㖄	sound of calling chickens, to curse; to swear (U+3584)	e39684
+㖅	sound of a whistle, to blow (U+3585)	e39685
+㖆	to condemn; to sentence, to hold a hearing (on a legal case); to interrogate or question a prisoner, to whisper (U+3586)	e39686
+㖇	the lips; (Cant.) to sip (U+3587)	e39687
+㖈	U+3588 (U+3588)	e39688
+㖉	U+3589 (U+3589)	e39689
+㖊	fathom (U+358A)	e3968a
+㖋	U+358B (U+358B)	e3968b
+㖌	U+358C (U+358C)	e3968c
+㖍	U+358D (U+358D)	e3968d
+㖎	U+358E (U+358E)	e3968e
+㖏	angry, to scold with loud voice, to slander; to defame (U+358F)	e3968f
+㖐	sound of calling ducks (U+3590)	e39690
+㖑	to shout at, (same as 欸) to backbite, to dislike, sound of oars; the creaking or swishing sound of oars or sweeps in rowing (U+3591)	e39691
+㖒	(non-classical form of 啼) to cry; to mourn; to howl, to twitter; to crow, to sneeze; a running at the nose (U+3592)	e39692
+㖓	(corrupted form) to shout; to scold with loud voice, din; noise; a confused noise (U+3593)	e39693
+㖔	silly, foolish; doting; idiotic (U+3594)	e39694
+㖕	to spit out; to blame, name of an organic compounds (U+3595)	e39695
+㖖	(standard form) to spit out; to blame, name of an organic compounds (U+3596)	e39696
+㖗	(corrupted form) high ridges of cliffs (U+3597)	e39697
+㖘	(same as U+5507 唇) to startle, to alarm; afraid; scared, to be surprised; to be amazed (U+3598)	e39698
+㖙	U+3599 (U+3599)	e39699
+㖚	U+359A (U+359A)	e3969a
+㖛	U+359B (U+359B)	e3969b
+㖜	U+359C (U+359C)	e3969c
+㖝	U+359D (U+359D)	e3969d
+㖞	(simplified form of 喎) a wry mouth (U+359E)	e3969e
+㖟	to deliver over to personally, to communicate orally with one's own mouth (U+359F)	e3969f
+㖠	(same as 那 哪) an auxiliary (in grammar), that, there, a final particle. (U+35A0)	e396a0
+㖡	the birds singing during the night; (Cant.) interjection to indicate the speaker is thinking (U+35A1)	e396a1
+㖢	(same as 飺) to reject food (U+35A2)	e396a2
+㖣	(same as U+5485 咅) to spit out; (Cant.) the sound of spitting (U+35A3)	e396a3
+㖤	wrath; anger (U+35A4)	e396a4
+㖥	to spit; to vomit; (Cant.) to gnaw (on bones) (U+35A5)	e396a5
+㖦	loquacity (U+35A6)	e396a6
+㖧	can not see clear, (ancient form of 吻) lips (U+35A7)	e396a7
+㖨	Indistinct nasal utterance, laugh, sound of birds (U+35A8)	e396a8
+㖩	not pure, immodest, to urge, (same as 嗾) to set a dog on (U+35A9)	e396a9
+㖪	sound of surprising, to laugh loudly, to flow off, loquacious, sound; voice; tone (U+35AA)	e396aa
+㖫	(sound transcription) used in names for minority ethnic group in ancient China (U+35AB)	e396ab
+㖬	U+35AC (U+35AC)	e396ac
+㖭	(same as 舔) to lick; to taste; (Cant.) even; in addition (U+35AD)	e396ad
+㖮	an interjection used in poems and songs (U+35AE)	e396ae
+㖯	U+35AF (U+35AF)	e396af
+㖰	U+35B0 (U+35B0)	e396b0
+㖱	U+35B1 (U+35B1)	e396b1
+㖲	U+35B2 (U+35B2)	e396b2
+㖳	U+35B3 (U+35B3)	e396b3
+㖴	U+35B4 (U+35B4)	e396b4
+㖵	U+35B5 (U+35B5)	e396b5
+㖶	(same as 捗) to swallow; to gulp, to be choked with food, (same as 諲) respectful; venerable (U+35B6)	e396b6
+㖷	bird singing, (same as 啼) to cry; to mourn; to howl, to twitter; to crow (U+35B7)	e396b7
+㖸	(same as 噱) to laugh heartily; to roar with laughter, (in Shanghai dialect) a promotional gimmick, tone (of one's speech) (U+35B8)	e396b8
+㖹	(non-classical form of噴) to spurt; to blow out; to puff out, to snort, sound of flowing water (U+35B9)	e396b9
+㖺	to blow; to breath; to puff (U+35BA)	e396ba
+㖻	whisper, bad language (U+35BB)	e396bb
+㖼	(same as 謀) to scheme; to plot; to devise, a device (U+35BC)	e396bc
+㖽	(corrupted form of 嘖) to call out; to make an uproar (U+35BD)	e396bd
+㖾	(same as 咢) to beat a drum; to startle, to argue; to debate; to dispute, (interchangeable 愕) to be surprised; to be amazed; to marvel, (interchangeable 鍔) the blade or edge of a sword, beams of a house (U+35BE)	e396be
+㖿	a sound; a voice; a tone, an interjection; to hesitate; to harbour doubts (U+35BF)	e396bf
+㗀	(same as 呦 嚘) the bleating of the deer, sound of insects (U+35C0)	e39780
+㗁	(same as 齶) the roof of the mouth, the palate (U+35C1)	e39781
+㗂	to keep the mouth shut; to be careful how one speak, (non-classical form of U+7701 省) to examine; to watch; (Cant.) to scour (U+35C2)	e39782
+㗃	(same as 吻) the lip, the tone of one's speech, to kiss; a kiss (U+35C3)	e39783
+㗄	(non-classical form of 謾) to deceive; to insult (U+35C4)	e39784
+㗅	(same as 胡) angry, the throat, what? how? why? which? (U+35C5)	e39785
+㗆	sound of the ringed pheasant, cackling of fowls, (same as 嗝) to gag, to vomit, (a dialect) an auxiliary verb (almost same as 的) (U+35C6)	e39786
+㗇	to swallow; to gulp, an auxiliary; usually at the end of a sentence to beg or request for something (U+35C7)	e39787
+㗈	(same as 曼) long; extended, large (U+35C8)	e39788
+㗉	incisive, (the large seal type 籀) to brand criminals on the face, to rob; to plunder, an edge, a two-edged weapon; a sword (U+35C9)	e39789
+㗊	public opinion; clamour; noise, (ancient form of 雷); thunder, an organic compound (porphin); (porphyrins) (U+35CA)	e3978a
+㗋	(standard form of 喉) the throat; the gullet; guttural (U+35CB)	e3978b
+㗌	(non-classical form) to scold with loud voice, to talk out of control; loquacious (U+35CC)	e3978c
+㗍	(non-classical form) to gnaw; to bite; to masticate, sound of biting (U+35CD)	e3978d
+㗎	(Cant.) final particle indicating emphasis or surprise; phonetic (U+35CE)	e3978e
+㗏	U+35CF (U+35CF)	e3978f
+㗐	U+35D0 (U+35D0)	e39790
+㗑	U+35D1 (U+35D1)	e39791
+㗒	(in grammar) interjection; to express sadness; sorrow and emotional excitement (U+35D2)	e39792
+㗓	mouthful (U+35D3)	e39793
+㗔	(a dialect) joy; happiness (U+35D4)	e39794
+㗕	(same as 雊) the crowing of a pheasant, loud and noise (U+35D5)	e39795
+㗖	(non-classical form of 啗) to eat; to chew; to bite. to entice; to lure, to contain; to, comprise (U+35D6)	e39796
+㗗	to separate; to part, to split; to crack, to rend; to rip open (U+35D7)	e39797
+㗘	to bite the hard and solid food (U+35D8)	e39798
+㗙	to shout or bawl, talking manner of a mean person, (same as 謅) to jest; to joke; to quip (U+35D9)	e39799
+㗚	vexingly verbose or wordy; prosy; complicated; annoying (U+35DA)	e3979a
+㗛	(same as 笑) to laugh; to smile, to laugh at; to ridicule (U+35DB)	e3979b
+㗜	(same as 嗅) to smell, to scent (U+35DC)	e3979c
+㗝	U+35DD (U+35DD)	e3979d
+㗞	U+35DE (U+35DE)	e3979e
+㗟	U+35DF (U+35DF)	e3979f
+㗠	U+35E0 (U+35E0)	e397a0
+㗡	U+35E1 (U+35E1)	e397a1
+㗢	loquacious, the sound of singing, to sing in a loud voice, loud (U+35E2)	e397a2
+㗣	(same as 嚏) to sneeze; a running at the nose (U+35E3)	e397a3
+㗤	ashamed, restless; fidgeting; (a dialect) bashful, grievous; mournful; sad (U+35E4)	e397a4
+㗥	sound of striking, slow expiration of the breath, a deep sign (U+35E5)	e397a5
+㗦	a loud and confused noise (U+35E6)	e397a6
+㗧	to scold with loud voice, to talk out of control; loquacious (U+35E7)	e397a7
+㗨	to laugh; to smile, to laugh at; to ridicule, sound of laughter (U+35E8)	e397a8
+㗩	sound made when cold (brrr); to endure cold (U+35E9)	e397a9
+㗪	(corrupted form) mouthful (U+35EA)	e397aa
+㗫	to whisper; to talk in a soft and low voice (U+35EB)	e397ab
+㗬	thick lips, to talk slowly (U+35EC)	e397ac
+㗭	a sound; an echo (U+35ED)	e397ad
+㗮	U+35EE (U+35EE)	e397ae
+㗯	U+35EF (U+35EF)	e397af
+㗰	used in transliteration; the traditional drama of Vietnam; (Cant.) all, entire, completely (U+35F0)	e397b0
+㗱	to suck; to chew, to smear the mouth with the blood of a victim when taking an oath (U+35F1)	e397b1
+㗲	to call; to summon; (Cant.) eloquent (U+35F2)	e397b2
+㗳	forgetful; having a bad memory, disgraced; shy; sensitive to shame; ashamed; (Cant.) to lower one's head (U+35F3)	e397b3
+㗴	dogs fighting, to go to law; an indictment (U+35F4)	e397b4
+㗵	breath, air, steam, not clear; not quite sure (U+35F5)	e397b5
+㗶	to expel the breath (U+35F6)	e397b6
+㗷	(simplified form) to eat; to bite; to gnaw, a dialect, usually used at the end of a sentence (U+35F7)	e397b7
+㗸	U+35F8 (U+35F8)	e397b8
+㗹	U+35F9 (U+35F9)	e397b9
+㗺	U+35FA (U+35FA)	e397ba
+㗻	baby's answering, (baby talk) eat; (Cant.) a particle implying doubt; slow, troublesome (U+35FB)	e397bb
+㗼	eating or talking, moving of the mouth (U+35FC)	e397bc
+㗽	(standard form 響) an echo; to answer; to consent, noise; sound, to make a noise (U+35FD)	e397bd
+㗾	to give vent to the feelings; (Cant.) to hiss, boo, jeer (U+35FE)	e397be
+㗿	to laugh loudly, to blame; to reprimand, entrance to a cave or to a gorge (U+35FF)	e397bf
+㘀	to sound, a sound, the cry of a bird or animal (U+3600)	e39880
+㘁	to call; to scream; to whistle, name of a stream (U+3601)	e39881
+㘂	ashamed; bashful (U+3602)	e39882
+㘃	U+3603 (U+3603)	e39883
+㘄	U+3604 (U+3604)	e39884
+㘅	(same as U+929C 銜 U+5563 啣) to hold in the mouth (U+3605)	e39885
+㘆	to laugh at; to deride; to jeer at, to snore (U+3606)	e39886
+㘇	U+3607 (U+3607)	e39887
+㘈	able to take a correct view of things; to response correctly (said of small children), sound; echo (U+3608)	e39888
+㘉	to make sound; to speak; (Cant.) to tickle, squeeze (U+3609)	e39889
+㘊	the abrupt and hasty sound of the crowd (U+360A)	e3988a
+㘋	sound; echo, difficult; troublesome (U+360B)	e3988b
+㘌	(non-classical form of 噱) to laugh without stopping, loud laughter (U+360C)	e3988c
+㘍	sound of rat; sound of insects (U+360D)	e3988d
+㘎	(simplified form) the roars of a tiger (U+360E)	e3988e
+㘏	U+360F (U+360F)	e3988f
+㘐	loud; to roar (U+3610)	e39890
+㘑	to curse, to swear and oath, incantations (U+3611)	e39891
+㘒	U+3612 (U+3612)	e39892
+㘓	prolix speech, (same as 讕) to make a false charge; to lay a false accusation (U+3613)	e39893
+㘔	eat, to bite, to gnaw, (a dialect) usually at the end of a sentence; tone (of one's speech) (U+3614)	e39894
+㘕	(non-classical form of 喊) (standard form of 婪) to call; to halloo, covetous; avaricious (U+3615)	e39895
+㘖	to make a disturbance; to quarrel; to wrangle (U+3616)	e39896
+㘗	whisper; to whistle (U+3617)	e39897
+㘘	U+3618 (U+3618)	e39898
+㘙	to groan; to moan (U+3619)	e39899
+㘚	angry air of look; to look furious, the roars of a tiger (U+361A)	e3989a
+㘛	(non-classical form of 嵌) a deep valley, piece of music in minority group (U+361B)	e3989b
+㘜	(non-classical form of 雔) a kind of silkworm, pair of birds; couple; companion; to match, corresponding, proper (U+361C)	e3989c
+㘝	to take in; to absorb, (non-classical form of 罱) a kind of spring fishing net; a kind of small net with a handle used to catch fishes or birds (U+361D)	e3989d
+㘞	sound of yelling while towing a boat; (Sanskrit) to call out (U+361E)	e3989e
+㘟	U+361F (U+361F)	e3989f
+㘠	to close; to stop up; to obstruct (U+3620)	e398a0
+㘡	(same as 柙) a pen for wild beasts; a cage for prisoners (U+3621)	e398a1
+㘢	a round cave; a round hole (U+3622)	e398a2
+㘣	compasses, (same as U+5713 圓) round; circular (U+3623)	e398a3
+㘤	circle of the moving water (U+3624)	e398a4
+㘥	(same as 囮) to inveigle; to decoy, a decoy-bird; a go-between; a medium (U+3625)	e398a5
+㘦	wall made of soil, used in name of places (U+3626)	e398a6
+㘧	(same as 序) precedence, order, orderly, the east and west walls of the parlor (U+3627)	e398a7
+㘨	deep; profound, empty; hollow, quite; peaceful (U+3628)	e398a8
+㘩	to mate; to pair (U+3629)	e398a9
+㘪	(same as 耗) to waste, to destroy, to diminish; hence it came to mean, a rat, heedless; careless; inattentive; rough and coarse (U+362A)	e398aa
+㘫	(a variant of 阱) to fall into a well, a pit; a pitfall; a hole; a gully, to involve; to entrap (U+362B)	e398ab
+㘬	(same as 坳) a hollow in the ground; a cavity, (same as 物) matter; substance, all living creatures, things in general, the affairs of this world, things or matters outside oneself, others, goods, the Tibetan classical text means Buddha (U+362C)	e398ac
+㘭	(same as 坳) a hollow in the ground; a cavity, undulating (U+362D)	e398ad
+㘮	U+362E (U+362E)	e398ae
+㘯	U+362F (U+362F)	e398af
+㘰	(interchangeable 斟) name of a old country; used in name of a place (U+3630)	e398b0
+㘱	(same as 坍) to fall into ruins; to collapse (U+3631)	e398b1
+㘲	a cove; a bay, a bend or nook in the hills, the outside part of a curved bank; the curve of a bow (U+3632)	e398b2
+㘳	(same as 丘) a hillock or mound (U+3633)	e398b3
+㘴	(same as 坐) to sit, a seat (U+3634)	e398b4
+㘵	name of a place; in Fujian Province (U+3635)	e398b5
+㘶	(ancient form of 桀) a hen-roost, cruel, the last ruler of the Xia Dynasty (U+3636)	e398b6
+㘷	(same as 艾) Mugwort, artemisia or any plant which produces moxa punk, general name for plants like mint (U+3637)	e398b7
+㘸	(same as 葬) to bury, (ancient form of 坐) to sit, a seat (U+3638)	e398b8
+㘹	(non-classical form of 垐) to spread soil on the road, pave the road with soil, (ancient form of 堲) sickness; illness; disease (U+3639)	e398b9
+㘺	cultivated land; to till lands, a clod of earth (U+363A)	e398ba
+㘻	to stop up; to close against; to restrain, to dam a stream and change its direction, to conceal a mound (U+363B)	e398bb
+㘼	U+363C (U+363C)	e398bc
+㘽	U+363D (U+363D)	e398bd
+㘾	U+363E (U+363E)	e398be
+㘿	(same as 涅) to fill up, as a hole, black mud; slime, to stop up; to block; to cork (U+363F)	e398bf
+㙀	a vegetable-plot, to plough; to till lands, among dikes and fields (U+3640)	e39980
+㙁	dust; dirt; a smear, (same as 牧) name of a place in old times (U+3641)	e39981
+㙂	wall; fence, (interchangeable with 兑) a hole (U+3642)	e39982
+㙃	a cavity; hole of a mound or an altar of earth (U+3643)	e39983
+㙄	below; under; low, (same as 陛) the steps to the throne, to ascend steps (U+3644)	e39984
+㙅	(same as 堡) a walled viliage, an earth-work; a petty military station, subdivision of a township; a ward in a city (U+3645)	e39985
+㙆	U+3646 (U+3646)	e39986
+㙇	the cattle and horses trampled on the field (U+3647)	e39987
+㙈	name of a place in Shanxi province (U+3648)	e39988
+㙉	(same as 腆) prosperous; affluence, good; virtuuous, to make strong -- as liquors (U+3649)	e39989
+㙊	(same as 場) an area of level ground; an open space, a threshing floor, arena for drill, etc. a place, to pile a sand-hills (U+364A)	e3998a
+㙋	U+364B (U+364B)	e3998b
+㙌	(a simplified form) (U+364C)	e3998c
+㙍	name of a place in today's Guangdong Province (U+364D)	e3998d
+㙎	breach of a tank; pond, (a dialect) to cover up; to conceal; to hide; to bury (U+364E)	e3998e
+㙏	caverns; a grotto, a cellar, a cave-dwelling, to make a cave -- for dwelling (U+364F)	e3998f
+㙐	to move, to hang down; to let fall, (same as 垛) a target, a battlement, to add up; to pile up (U+3650)	e39990
+㙑	(same as 宇) the canopy of heaven; space, to cover; to shelter (U+3651)	e39991
+㙒	(same as 野) wild; uncultivated; a wilderness, rustic, savage (U+3652)	e39992
+㙓	earth; land; soil; ground; territory, opium (U+3653)	e39993
+㙔	(non-classical form of 韓) a fence, name of a star, a small feudal State, old name for Korea (U+3654)	e39994
+㙕	(same as 塊) a lump, a piece of, a fraction (U+3655)	e39995
+㙖	U+3656 (U+3656)	e39996
+㙗	(same as 塊) a lump of earth; a lump, rugged; uneven (U+3657)	e39997
+㙘	used in naming a place (U+3658)	e39998
+㙙	to smear; to daub, to erase; to blot out, mud, mire, to plaster a wall with mud (U+3659)	e39999
+㙚	red colored hard and solid mud (soil; clay; earth) (U+365A)	e3999a
+㙛	a person's name in old times (U+365B)	e3999b
+㙜	(ancient and corrupted form of U+81FA 臺) a lookout, a tower, a terrace, a platform, a stage (U+365C)	e3999c
+㙝	a dike; a barrier; an embankment (U+365D)	e3999d
+㙞	a small mountain; a hill (U+365E)	e3999e
+㙟	(a dialect) low-lying (ground) on the side of a river or lake, (a variant 塱) name of a place in Guangdong (U+365F)	e3999f
+㙠	dust; dirt; a smear, (same as 曀) the sun hidden by clouds, obscure (U+3660)	e399a0
+㙡	a kind of eatable mushroom (U+3661)	e399a1
+㙢	(same as 墁 鏝) a trowel; a plaster; a trowel for plastering (U+3662)	e399a2
+㙣	to pile a sand-hills (U+3663)	e399a3
+㙤	(same as 罅) a crack in earthenware, a split; rip or break apart; thus -- a grudge (U+3664)	e399a4
+㙥	muddy (U+3665)	e399a5
+㙦	U+3666 (U+3666)	e399a6
+㙧	(same as 塯) earthenware; a kind of rice container (U+3667)	e399a7
+㙨	(same as 畿) the royal domains set apart in ancient times for the emperor (U+3668)	e399a8
+㙩	an enclosing wall (U+3669)	e399a9
+㙪	dark; the sun hidden by clouds, obscure (U+366A)	e399aa
+㙫	a fountain or spring out from the underground (U+366B)	e399ab
+㙬	(ancient form of 垠) a bank; a boundary (U+366C)	e399ac
+㙭	U+366D (U+366D)	e399ad
+㙮	a tower, pagoda (U+366E)	e399ae
+㙯	(same as 藝) skill, ability in handicraft, a craft, an art, a calling, a trade, an accomplishment (U+366F)	e399af
+㙰	name of a place in ancient times (U+3670)	e399b0
+㙱	earthenware used to bake cakes in Northern China (U+3671)	e399b1
+㙲	(same as 壅) to stop up; to obstract (U+3672)	e399b2
+㙳	ruggedness of the road; difficulties of the way; bad luck, unable to reach one's aim (U+3673)	e399b3
+㙴	to conceal; to hide, to shade; to darken (U+3674)	e399b4
+㙵	(ancient form of 臺) a lookout, a tower, a terrace, a platform; a stage (U+3675)	e399b5
+㙶	(large seal type of 堂) a hall; a reception room; a meeting-place, a court of justice (U+3676)	e399b6
+㙷	low-lying area, to accumulate soil; to store up soil (U+3677)	e399b7
+㙸	(non-classical form 墣) a clod of earth; a lump of earth; a lump (U+3678)	e399b8
+㙹	a damp; a marsh, (interchangeable 夢) (U+3679)	e399b9
+㙺	(same as 逵 馗) cross-road; a thorough- fare; a center from which nine roads lead out, to accumulate soil; to store up soilt (U+367A)	e399ba
+㙻	(non-classical form of 廛) living space for one family in ancient times, ground allotted to a retaine, a shop; a market place (U+367B)	e399bb
+㙼	(same as 壘) a military wall, a rampart, to pile up, a pile (U+367C)	e399bc
+㙽	U+367D (U+367D)	e399bd
+㙾	(same as 嶨) hills with lots of big rocks (U+367E)	e399be
+㙿	U+367F (U+367F)	e399bf
+㚀	lofty, dangerous; critical, (same as 虧) to destroy; to injure; to damage (U+3680)	e39a80
+㚁	the long tail feathers which curl up; to elevate; to raise the head; warped, (interchangeable 翹) long tail feathers, to raise, outstanding (U+3681)	e39a81
+㚂	dust; dirt, a cellar, a caverns (U+3682)	e39a82
+㚃	to take a hint; a group of Chinese characters the construction of which suggests the meaning, the fate; good luck or bad are in the pot; don't expose; or leak out (U+3683)	e39a83
+㚄	U+3684 (U+3684)	e39a84
+㚅	to worship of God, to praise; many; much (U+3685)	e39a85
+㚆	to do something in an old way; use the old method; to go to the old road (U+3686)	e39a86
+㚇	draw the feet up; to refuse to advance, to summarize; to gather; to collect, name of an old country, (same as U+9350 鍐) a headstall; ornament on a bridle; (Cant.) to jump up (U+3687)	e39a87
+㚈	U+3688 (U+3688)	e39a88
+㚉	(corrupted form) to make a profit on sell and buy; the profit in business, (interchangeable 嬴) a overplus; gain; profit; abundance (U+3689)	e39a89
+㚊	much; many; numerous, great; big; vast (U+368A)	e39a8a
+㚋	much; many; numerous, great; big; vast (U+368B)	e39a8b
+㚌	(same as 夥) a band; a company; a partner; an assistant (U+368C)	e39a8c
+㚍	much; many; numerous, to get more profit, to estimate more (U+368D)	e39a8d
+㚎	U+368E (U+368E)	e39a8e
+㚏	(corrupted form) to scatter; to dispearse, to give the reins to; to allow to run wild; unstable; light; featherbrained (U+368F)	e39a8f
+㚐	(same as 套) a case; a wrapper; a covering; a snare, to encase; to slip over (U+3690)	e39a90
+㚑	U+3691 (U+3691)	e39a91
+㚒	concealed the stolen goods in one's dress (U+3692)	e39a92
+㚓	tie-beams of a small boat (U+3693)	e39a93
+㚔	instrument of torture used in ancient times, loud, an evil doer all the times, (same as 幸) to rejoice, fortunate; prosperous (U+3694)	e39a94
+㚕	great; big; vast, (same as 弼) to aid; to assist; as in the government, (interchangeable 佛) Buddha (U+3695)	e39a95
+㚖	(said of truth) to come out to the open; to be known by all, (ancient form 澤) glossy; shining (U+3696)	e39a96
+㚗	with a big mouth, great; big; vast (U+3697)	e39a97
+㚘	(interchangeable 伴) a partner; a companion, (same as 赫) bright; luminous, glorious (same as 扶) to support; to prop up; to help (U+3698)	e39a98
+㚙	U+3699 (U+3699)	e39a99
+㚚	big; great; vast, very, liberal, bark (as a dog) (U+369A)	e39a9a
+㚛	corpulent, abundant; flourishing; plenteous (U+369B)	e39a9b
+㚜	with great power; vigorous; very strong; with great force, (same as 域) a frontier; a boundary; region, great; big; vast (U+369C)	e39a9c
+㚝	(same as 奎) the stride made by a man, name of a star, a kind of tree (U+369D)	e39a9d
+㚞	terror; horror; fear (U+369E)	e39a9e
+㚟	(non-classical form) a kind of animal; with head looks like rabbit and feet deer, small rabbit (U+369F)	e39a9f
+㚠	full grown; fat; plump, fertile; rich, big and clumsy (U+36A0)	e39aa0
+㚡	standing without a straight back (U+36A1)	e39aa1
+㚢	(ancient form of 奴) a slave; a servant, term of depreciation, (ancient form of 侮) to insult; to ridicule (U+36A2)	e39aa2
+㚣	(ancient form of U+59E3 姣 U+5B0C 嬌) handsome; pretty, cunning, meretricious allurements, to insult; to disgrace, licentious; profligate; lewd; (Cant.) amorous, in love with (U+36A3)	e39aa3
+㚤	a lady officer of the monarch's palace in old times (U+36A4)	e39aa4
+㚥	to become associated with each other in good manners and politeness (U+36A5)	e39aa5
+㚦	(ancient form of U+59EC 姬) a charming girl, a charming concubine; a monarch's wife (U+36A6)	e39aa6
+㚧	(same as 嬐) agil; adroit fast; quick; prompt, neat; tidy; orderly, to raise the head; to look up (U+36A7)	e39aa7
+㚨	used in girl's name (U+36A8)	e39aa8
+㚩	with a charming sprightly carriage (said of a woman) (U+36A9)	e39aa9
+㚪	to make a deceptive show of power, not really strict (U+36AA)	e39aaa
+㚫	used in girl's name, a woman's countenance; features (U+36AB)	e39aab
+㚬	a lady start to doll up (U+36AC)	e39aac
+㚭	used in girl's name (U+36AD)	e39aad
+㚮	(non-classical form 妉,媅) happy; pleased, to laugh (U+36AE)	e39aae
+㚯	(simplified form) last name (U+36AF)	e39aaf
+㚰	(same as 胚) an embryo; a foetus a month old (U+36B0)	e39ab0
+㚱	used in girl's name (U+36B1)	e39ab1
+㚲	small and weak, used in girl's name, a woman's feature; lady's face (U+36B2)	e39ab2
+㚳	a lady teacher to teach the proper rules of female behavior in ancient times (U+36B3)	e39ab3
+㚴	a pretty girl; a beauty; a belle, handsome; female beauty (U+36B4)	e39ab4
+㚵	used in girl's name (U+36B5)	e39ab5
+㚶	(same as 姒) wife of one's husband's elder brother; (in ancient China) the elder of twins; a Chinese family name, (same as 姬) a handsome girl; a charming girl; a concubine; a Chinese family name (U+36B6)	e39ab6
+㚷	(same as 嬭) the breasts of a woman; milk; a term of respect for women; grandma, one's elder sister or sisters, used for a girl's name (U+36B7)	e39ab7
+㚸	used in girl's name (U+36B8)	e39ab8
+㚹	(same as 媌) pretty; charming girl, (same as 懰) exquisite; fine (U+36B9)	e39ab9
+㚺	(non-classical form of 孕) to be pregnant; to conceive (U+36BA)	e39aba
+㚻	sodomy; to bugger (U+36BB)	e39abb
+㚼	(non-classical form of 妞) a girl; a little girl (U+36BC)	e39abc
+㚽	used in girl's name (U+36BD)	e39abd
+㚾	to have fun; to sport; to play; to frolic (U+36BE)	e39abe
+㚿	a goddess's name in legend; the sister and successor of Fu Xi 伏羲, (interchangeable 庖), last name (U+36BF)	e39abf
+㛀	U+36C0 (U+36C0)	e39b80
+㛁	quick; urgent; anxious, loyal sincere and respectful (U+36C1)	e39b81
+㛂	weak and small (U+36C2)	e39b82
+㛃	clean; pure; clear, usually used for names (U+36C3)	e39b83
+㛄	used in girl's name (U+36C4)	e39b84
+㛅	used in girl's name (U+36C5)	e39b85
+㛆	to speculate; to conjecture; to assume; to make an intelligent guess; to fathom, (of a woman) beautiful, used in girl's name (U+36C6)	e39b86
+㛇	U+36C7 (U+36C7)	e39b87
+㛈	U+36C8 (U+36C8)	e39b88
+㛉	U+36C9 (U+36C9)	e39b89
+㛊	to speculate; to conjecture; to assume; to make an intelligent guess; to fathom, (of a woman) beautiful, used in girl's name (U+36CA)	e39b8a

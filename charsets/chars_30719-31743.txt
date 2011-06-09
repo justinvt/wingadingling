@@ -1,0 +1,1024 @@
+绕	entwine; wind around; surround (U+7ED5)	e7bb95
+绖	white hempen cloth worn by mourners (U+7ED6)	e7bb96
+绗	baste (U+7ED7)	e7bb97
+绘	draw, sketch, paint (U+7ED8)	e7bb98
+给	give; by, for (U+7ED9)	e7bb99
+绚	variegated, adorned; brilliant (U+7EDA)	e7bb9a
+绛	deep red; river in Shanxi provinc (U+7EDB)	e7bb9b
+络	enmesh, wrap around; web, net (U+7EDC)	e7bb9c
+绝	to cut, sever, break off, terminate (U+7EDD)	e7bb9d
+绞	twist, wring; intertwine; winch (U+7EDE)	e7bb9e
+统	govern, command, control; unite (U+7EDF)	e7bb9f
+绠	well rope (U+7EE0)	e7bba0
+绡	raw silk fabric (U+7EE1)	e7bba1
+绢	kind of thick stiff silk (U+7EE2)	e7bba2
+绣	embroider; embroidery; ornament (U+7EE3)	e7bba3
+绤	cloth (U+7EE4)	e7bba4
+绥	soothe, appease, pacify (U+7EE5)	e7bba5
+绦	silk cord, ribbon (U+7EE6)	e7bba6
+继	continue, maintain, carry on (U+7EE7)	e7bba7
+绨	coarse pongee, kind of heavy silk (U+7EE8)	e7bba8
+绩	spin; achievements (U+7EE9)	e7bba9
+绪	end of thread; thread, clue (U+7EEA)	e7bbaa
+绫	thin silk, damask silk (U+7EEB)	e7bbab
+绬	U+7EEC (U+7EEC)	e7bbac
+续	continue, carry on; succeed (U+7EED)	e7bbad
+绮	fine thin silk; elegant, beautifu (U+7EEE)	e7bbae
+绯	scarlet, dark red, crimson; purpl (U+7EEF)	e7bbaf
+绰	graceful, delicate; spacious (U+7EF0)	e7bbb0
+绱	the piece of leather used for soles on Chinese shoes; a patch (U+7EF1)	e7bbb1
+绲	cord; woven belt; hem; hemming (U+7EF2)	e7bbb2
+绳	rope, string, cord; control (U+7EF3)	e7bbb3
+维	maintain, preserve, safeguard (U+7EF4)	e7bbb4
+绵	cotton wad; wool; soft, downy (U+7EF5)	e7bbb5
+绶	silk ribbon attached as a seal (U+7EF6)	e7bbb6
+绷	bind, draw firmly, strap (U+7EF7)	e7bbb7
+绸	silk cloth, satin damask (U+7EF8)	e7bbb8
+绹	to braid, twist; twisted or braided (U+7EF9)	e7bbb9
+绺	skein; tuft, lock; wrinkle (U+7EFA)	e7bbba
+绻	affectionate, solicitous (U+7EFB)	e7bbbb
+综	arrange threads for weaving (U+7EFC)	e7bbbc
+绽	ripped seam, rend, crack (U+7EFD)	e7bbbd
+绾	to string together, to bind up (U+7EFE)	e7bbbe
+绿	green; chlorine (U+7EFF)	e7bbbf
+缀	patch together, link, connect (U+7F00)	e7bc80
+缁	black silk (U+7F01)	e7bc81
+缂	the woof of a woven item (U+7F02)	e7bc82
+缃	light-yellow color (U+7F03)	e7bc83
+缄	seal, close; bind; letter (U+7F04)	e7bc84
+缅	distant, remote; think of (U+7F05)	e7bc85
+缆	hawser, heavy-duty rope, cable (U+7F06)	e7bc86
+缇	reddish color, red, brown (U+7F07)	e7bc87
+缈	indistinct, dim; minute; distant (U+7F08)	e7bc88
+缉	to sew in close stitches (U+7F09)	e7bc89
+缊	tangled hemp, raveled silk; vague, confused (U+7F0A)	e7bc8a
+缋	draw, sketch, paint (U+7F0B)	e7bc8b
+缌	coarse cotton cloth used for mourning (U+7F0C)	e7bc8c
+缍	U+7F0D (U+7F0D)	e7bc8d
+缎	satin (U+7F0E)	e7bc8e
+缏	hem; plait, braid, queue (U+7F0F)	e7bc8f
+缐	U+7F10 (U+7F10)	e7bc90
+缑	cord binding on hilt of sword (U+7F11)	e7bc91
+缒	climb down rope; hang by rope (U+7F12)	e7bc92
+缓	slow, leisurely; to postpone, delay (U+7F13)	e7bc93
+缔	tie, join, connect; connection (U+7F14)	e7bc94
+缕	thread; detailed, precise (U+7F15)	e7bc95
+编	knit, weave; arrange; compile (U+7F16)	e7bc96
+缗	fishing-line; cord; string of coi (U+7F17)	e7bc97
+缘	hem, margin; reason, cause; fate (U+7F18)	e7bc98
+缙	red silk (U+7F19)	e7bc99
+缚	to tie (U+7F1A)	e7bc9a
+缛	decorative, adorned, elegant (U+7F1B)	e7bc9b
+缜	detailed, fine; closely woven (U+7F1C)	e7bc9c
+缝	sew, mend (U+7F1D)	e7bc9d
+缞	sackcloth worn on breast during (U+7F1E)	e7bc9e
+缟	white raw silk (U+7F1F)	e7bc9f
+缠	wrap, wind around; tie, bind (U+7F20)	e7bca0
+缡	a bridal veil; to tie; to bind (U+7F21)	e7bca1
+缢	hang, strangle (U+7F22)	e7bca2
+缣	fine silk (U+7F23)	e7bca3
+缤	flourishing, thriving, abundant (U+7F24)	e7bca4
+缥	light blue silk; dim; misty (U+7F25)	e7bca5
+缦	plain silk; simple, plain (U+7F26)	e7bca6
+缧	a chain or rope used bind criminals (U+7F27)	e7bca7
+缨	a chin strap; tassel; to annoy, bother (U+7F28)	e7bca8
+缩	contract, draw in, reduce (U+7F29)	e7bca9
+缪	wind around, bind; prepare (U+7F2A)	e7bcaa
+缫	draw, reel (U+7F2B)	e7bcab
+缬	patterned silk; tie knot (U+7F2C)	e7bcac
+缭	wind round, rap around, bind (U+7F2D)	e7bcad
+缮	repair, mend; rewrite, transcribe (U+7F2E)	e7bcae
+缯	silk fabrics; surname (U+7F2F)	e7bcaf
+缰	reins, bridle (U+7F30)	e7bcb0
+缱	attached to, inseparable; entangl (U+7F31)	e7bcb1
+缲	to reel (U+7F32)	e7bcb2
+缳	noose; hang death; tie, bind (U+7F33)	e7bcb3
+缴	deliver, submit; hand over (U+7F34)	e7bcb4
+缵	continue, carry on, succeed (U+7F35)	e7bcb5
+缶	earthen crock or jar; rad. 121 (U+7F36)	e7bcb6
+缷	lay down; retire from office (U+7F37)	e7bcb7
+缸	earthen jug, crock, cistern (U+7F38)	e7bcb8
+缹	(Cant.) to cook (U+7F39)	e7bcb9
+缺	be short of, lack; gap, deficit (U+7F3A)	e7bcba
+缻	pottery, earthenware (U+7F3B)	e7bcbb
+缼	U+7F3C (U+7F3C)	e7bcbc
+缽	earthenware basin; alms bowl (U+7F3D)	e7bcbd
+缾	jar, bottle (U+7F3E)	e7bcbe
+缿	U+7F3F (U+7F3F)	e7bcbf
+罀	U+7F40 (U+7F40)	e7bd80
+罁	a cistern; an earthenware jar of large dimensions; a vat; a crock (U+7F41)	e7bd81
+罂	long necked jar or bottle (U+7F42)	e7bd82
+罃	long necked jar or bottle (U+7F43)	e7bd83
+罄	exhaust, run out, use up; empty (U+7F44)	e7bd84
+罅	crack, fissure, split (U+7F45)	e7bd85
+罆	jar, jug, pitcher, pot (U+7F46)	e7bd86
+罇	a goblet; a bottle, a wine-jar (U+7F47)	e7bd87
+罈	an earthenware jar, a jug (U+7F48)	e7bd88
+罉	(Cant.) a pot (U+7F49)	e7bd89
+罊	U+7F4A (U+7F4A)	e7bd8a
+罋	earthen jar; jar for ashes (U+7F4B)	e7bd8b
+罌	long necked jar or bottle (U+7F4C)	e7bd8c
+罍	large earthenware wine jar (U+7F4D)	e7bd8d
+罎	an earthenware jar, a jug (U+7F4E)	e7bd8e
+罏	earthen stand for wine jug (U+7F4F)	e7bd8f
+罐	jar, jug, pitcher, pot (U+7F50)	e7bd90
+网	net; network; KangXi radical 122 (U+7F51)	e7bd91
+罒	Radical 122 (U+7F52)	e7bd92
+罓	U+7F53 (U+7F53)	e7bd93
+罔	net; deceive; libel; negative (U+7F54)	e7bd94
+罕	rare, scarce; surname (U+7F55)	e7bd95
+罖	kwukyel (U+7F56)	e7bd96
+罗	net for catching birds; gauze (U+7F57)	e7bd97
+罘	screen used in ancient times (U+7F58)	e7bd98
+罙	deep (U+7F59)	e7bd99
+罚	penalty, fine; punish, penalize (U+7F5A)	e7bd9a
+罛	large fishing net (U+7F5B)	e7bd9b
+罜	U+7F5C (U+7F5C)	e7bd9c
+罝	net for catching rabbits (U+7F5D)	e7bd9d
+罞	U+7F5E (U+7F5E)	e7bd9e
+罟	net; snare; pressure come or go (U+7F5F)	e7bd9f
+罠	animal trap (U+7F60)	e7bda0
+罡	the name of a certain stars; the god who is supposed to live in them (U+7F61)	e7bda1
+罢	cease, finish, stop; give up (U+7F62)	e7bda2
+罣	hinder, disturb, obstruct (U+7F63)	e7bda3
+罤	U+7F64 (U+7F64)	e7bda4
+罥	impete (U+7F65)	e7bda5
+罦	net (U+7F66)	e7bda6
+罧	a heap, lump (U+7F67)	e7bda7
+罨	medical compress; fish net (U+7F68)	e7bda8
+罩	basket for catching fish; cover (U+7F69)	e7bda9
+罪	crime, sin, vice; evil; hardship (U+7F6A)	e7bdaa
+罫	hinder (U+7F6B)	e7bdab
+罬	U+7F6C (U+7F6C)	e7bdac
+罭	drag-net made of fine mesh (U+7F6D)	e7bdad
+置	place, lay out; set aside (U+7F6E)	e7bdae
+罯	U+7F6F (U+7F6F)	e7bdaf
+罰	penalty, fine; punish, penalize (U+7F70)	e7bdb0
+罱	fishing net (U+7F71)	e7bdb1
+署	public office (U+7F72)	e7bdb2
+罳	wooden screen (U+7F73)	e7bdb3
+罴	brown bear, ursus arctos (U+7F74)	e7bdb4
+罵	accuse, blame, curse, scold (U+7F75)	e7bdb5
+罶	fishing trap (U+7F76)	e7bdb6
+罷	cease, finish, stop; give up (U+7F77)	e7bdb7
+罸	penalty, fine; punish, penalize (U+7F78)	e7bdb8
+罹	sorrow, grief; incur, meet with (U+7F79)	e7bdb9
+罺	U+7F7A (U+7F7A)	e7bdba
+罻	net (U+7F7B)	e7bdbb
+罼	U+7F7C (U+7F7C)	e7bdbc
+罽	a kind of woolen fabric (U+7F7D)	e7bdbd
+罾	a large square net, lowered and raised from the bank of the river (U+7F7E)	e7bdbe
+罿	net catch birds (U+7F7F)	e7bdbf
+羀	fishing trap (U+7F80)	e7be80
+羁	halter; restrain, hold, control (U+7F81)	e7be81
+羂	to trap, snare (U+7F82)	e7be82
+羃	cover-cloth, cover with cloth (U+7F83)	e7be83
+羄	U+7F84 (U+7F84)	e7be84
+羅	net for catching birds; gauze (U+7F85)	e7be85
+羆	brown bear, ursus arctos (U+7F86)	e7be86
+羇	inn; lodge; travel (U+7F87)	e7be87
+羈	halter; restrain, hold, control (U+7F88)	e7be88
+羉	U+7F89 (U+7F89)	e7be89
+羊	sheep, goat; KangXi radical 123 (U+7F8A)	e7be8a
+羋	bleat of sheep; surname (U+7F8B)	e7be8b
+羌	Qiang nationality; surname (U+7F8C)	e7be8c
+羍	U+7F8D (U+7F8D)	e7be8d
+美	beautiful, pretty; pleasing (U+7F8E)	e7be8e
+羏	U+7F8F (U+7F8F)	e7be8f
+羐	to lead, guide (U+7F90)	e7be90
+羑	a guide to goodness (U+7F91)	e7be91
+羒	U+7F92 (U+7F92)	e7be92
+羓	dried meat (U+7F93)	e7be93
+羔	lamb, kid (U+7F94)	e7be94
+羕	U+7F95 (U+7F95)	e7be95
+羖	a black ram (U+7F96)	e7be96
+羗	tribes in West China; strong; educated; obstinate; a particle (U+7F97)	e7be97
+羘	ram (U+7F98)	e7be98
+羙	U+7F99 (U+7F99)	e7be99
+羚	species of antelope (U+7F9A)	e7be9a
+羛	U+7F9B (U+7F9B)	e7be9b
+羜	lamb (U+7F9C)	e7be9c
+羝	ram, he-goat (U+7F9D)	e7be9d
+羞	disgrace, shame; ashamed; shy (U+7F9E)	e7be9e
+羟	hydroxide (U+7F9F)	e7be9f
+羠	U+7FA0 (U+7FA0)	e7bea0
+羡	envy, admire; praise; covet (U+7FA1)	e7bea1
+羢	fine woolen fabrics (U+7FA2)	e7bea2
+羣	(same as U+7FA4 群) group, crowd, multitude, mob (U+7FA3)	e7bea3
+群	(same as U+7FA3 羣) group, crowd, multitude, mob (U+7FA4)	e7bea4
+羥	hydroxyl group (U+7FA5)	e7bea5
+羦	U+7FA6 (U+7FA6)	e7bea6
+羧	carboxyl group (U+7FA7)	e7bea7
+羨	envy, admire; praise; covet (U+7FA8)	e7bea8
+義	right conduct, righteousness (U+7FA9)	e7bea9
+羪	U+7FAA (U+7FAA)	e7beaa
+羫	the skeleton of a sheep (U+7FAB)	e7beab
+羬	U+7FAC (U+7FAC)	e7beac
+羭	good (U+7FAD)	e7bead
+羮	soup, broth (U+7FAE)	e7beae
+羯	wether, castrated ram; deer skin (U+7FAF)	e7beaf
+羰	U+7FB0 (U+7FB0)	e7beb0
+羱	sheep (U+7FB1)	e7beb1
+羲	ancient emperor; breath, vapor (U+7FB2)	e7beb2
+羳	U+7FB3 (U+7FB3)	e7beb3
+羴	rank odour of sheep or goats (U+7FB4)	e7beb4
+羵	spirit (U+7FB5)	e7beb5
+羶	rank odor (U+7FB6)	e7beb6
+羷	U+7FB7 (U+7FB7)	e7beb7
+羸	weak, lean, emaciated, exhausted (U+7FB8)	e7beb8
+羹	soup, broth (U+7FB9)	e7beb9
+羺	U+7FBA (U+7FBA)	e7beba
+羻	U+7FBB (U+7FBB)	e7bebb
+羼	confuse, mix, interpolate (U+7FBC)	e7bebc
+羽	feather, plume; wings; rad. 124 (U+7FBD)	e7bebd
+羾	U+7FBE (U+7FBE)	e7bebe
+羿	legendary archer (U+7FBF)	e7bebf
+翀	fly upward (U+7FC0)	e7bf80
+翁	old man; father, father-in-law (U+7FC1)	e7bf81
+翂	U+7FC2 (U+7FC2)	e7bf82
+翃	fly (U+7FC3)	e7bf83
+翄	winds; fins (U+7FC4)	e7bf84
+翅	wings; fin (U+7FC5)	e7bf85
+翆	color green; kingfisher (U+7FC6)	e7bf86
+翇	U+7FC7 (U+7FC7)	e7bf87
+翈	U+7FC8 (U+7FC8)	e7bf88
+翉	U+7FC9 (U+7FC9)	e7bf89
+翊	flying; assist, help; respect (U+7FCA)	e7bf8a
+翋	U+7FCB (U+7FCB)	e7bf8b
+翌	bright; daybreak, dawn; the next day (U+7FCC)	e7bf8c
+翍	U+7FCD (U+7FCD)	e7bf8d
+翎	feather; plume; wing (U+7FCE)	e7bf8e
+翏	the sound of the wind; to soar (U+7FCF)	e7bf8f
+翐	U+7FD0 (U+7FD0)	e7bf90
+翑	U+7FD1 (U+7FD1)	e7bf91
+習	practice; flapping wings (U+7FD2)	e7bf92
+翓	U+7FD3 (U+7FD3)	e7bf93
+翔	soar, glide, hover; detailed (U+7FD4)	e7bf94
+翕	agree (U+7FD5)	e7bf95
+翖	ksc extension 3108 (U+7FD6)	e7bf96
+翗	U+7FD7 (U+7FD7)	e7bf97
+翘	turn up, lift, elevate, raise (U+7FD8)	e7bf98
+翙	U+7FD9 (U+7FD9)	e7bf99
+翚	U+7FDA (U+7FDA)	e7bf9a
+翛	look of rumpled feathers; bedraggled; hasty; rapid flight (U+7FDB)	e7bf9b
+翜	U+7FDC (U+7FDC)	e7bf9c
+翝	U+7FDD (U+7FDD)	e7bf9d
+翞	U+7FDE (U+7FDE)	e7bf9e
+翟	surname; a kind of pheasant; plumes (U+7FDF)	e7bf9f
+翠	color green; kingfisher (U+7FE0)	e7bfa0
+翡	kingfisher; emerald, jade (U+7FE1)	e7bfa1
+翢	U+7FE2 (U+7FE2)	e7bfa2
+翣	feathers used decorate coffin; large wooden fan (U+7FE3)	e7bfa3
+翤	U+7FE4 (U+7FE4)	e7bfa4
+翥	to soar; to take off (U+7FE5)	e7bfa5
+翦	scissors; cut, clip; annhilate (U+7FE6)	e7bfa6
+翧	U+7FE7 (U+7FE7)	e7bfa7
+翨	U+7FE8 (U+7FE8)	e7bfa8
+翩	fly, flutter (U+7FE9)	e7bfa9
+翪	flutter (U+7FEA)	e7bfaa
+翫	careless, play; a legendary archer (U+7FEB)	e7bfab
+翬	pheasant; variegated; to fly (U+7FEC)	e7bfac
+翭	U+7FED (U+7FED)	e7bfad
+翮	stem of feather; quill (U+7FEE)	e7bfae
+翯	glistening plumage; reflection of the sun on water (U+7FEF)	e7bfaf
+翰	writing brush, pen, pencil (U+7FF0)	e7bfb0
+翱	soar, roam (U+7FF1)	e7bfb1
+翲	U+7FF2 (U+7FF2)	e7bfb2
+翳	shade, screen; to hide, screen (U+7FF3)	e7bfb3
+翴	U+7FF4 (U+7FF4)	e7bfb4
+翵	U+7FF5 (U+7FF5)	e7bfb5
+翶	U+7FF6 (U+7FF6)	e7bfb6
+翷	U+7FF7 (U+7FF7)	e7bfb7
+翸	U+7FF8 (U+7FF8)	e7bfb8
+翹	turn up, lift, elevate, raise (U+7FF9)	e7bfb9
+翺	soar, roam (U+7FFA)	e7bfba
+翻	flip over, upset, capsize (U+7FFB)	e7bfbb
+翼	wings; fins on fish; shelter (U+7FFC)	e7bfbc
+翽	whir (U+7FFD)	e7bfbd
+翾	fly; to flit (U+7FFE)	e7bfbe
+翿	streamer adorned with feathers (U+7FFF)	e7bfbf
+耀	shine, sparkle, dazzle; glory (U+8000)	e88080
+老	old, aged; experienced (U+8001)	e88081
+耂	variant of radical 125 (U+8002)	e88082
+考	examine, test; investigate (U+8003)	e88083
+耄	elderly person; very old, senile (U+8004)	e88084
+者	that which; he who; those who (U+8005)	e88085
+耆	man of sixty; aged, old (U+8006)	e88086
+耇	wrinkled face of the elderly (U+8007)	e88087
+耈	old age (U+8008)	e88088
+耉	old age (U+8009)	e88089
+耊	U+800A (U+800A)	e8808a
+耋	aged; in one's eighties (U+800B)	e8808b
+而	and; and then; and yet; but (U+800C)	e8808c
+耍	frolic, play, amuse, play with (U+800D)	e8808d
+耎	weak, pliable, soft, yielding (U+800E)	e8808e
+耏	whiskers (U+800F)	e8808f
+耐	endure, bear; resist; patient (U+8010)	e88090
+耑	specialized; concentrated (U+8011)	e88091
+耒	handle of plow; plow; rad. 127 (U+8012)	e88092
+耓	U+8013 (U+8013)	e88093
+耔	to hoe up the earth around plants (U+8014)	e88094
+耕	plow, cultivate (U+8015)	e88095
+耖	U+8016 (U+8016)	e88096
+耗	consume, use up; waste, squander (U+8017)	e88097
+耘	weed (U+8018)	e88098
+耙	rake (U+8019)	e88099
+耚	U+801A (U+801A)	e8809a
+耛	U+801B (U+801B)	e8809b
+耜	spade-shaped tool; plow (U+801C)	e8809c
+耝	U+801D (U+801D)	e8809d
+耞	flail (U+801E)	e8809e
+耟	U+801F (U+801F)	e8809f
+耠	till, dig (U+8020)	e880a0
+耡	hoe (U+8021)	e880a1
+耢	a kind of farm tool (U+8022)	e880a2
+耣	U+8023 (U+8023)	e880a3
+耤	plough (U+8024)	e880a4
+耥	farm tool (U+8025)	e880a5
+耦	plow side by side; team of two (U+8026)	e880a6
+耧	drill for sowing grain (U+8027)	e880a7
+耨	hoe, rake; weed (U+8028)	e880a8
+耩	to plough. to sow (U+8029)	e880a9
+耪	plow, cultivate (U+802A)	e880aa
+耫	U+802B (U+802B)	e880ab
+耬	drill for sowing grain (U+802C)	e880ac
+耭	plow, cultivate (U+802D)	e880ad
+耮	a kind of farm tool (U+802E)	e880ae
+耯	U+802F (U+802F)	e880af
+耰	toothless rake for drawing earth over newly sown grain (U+8030)	e880b0
+耱	a kind of farm tool (U+8031)	e880b1
+耲	U+8032 (U+8032)	e880b2
+耳	ear; merely, only; handle (U+8033)	e880b3
+耴	U+8034 (U+8034)	e880b4
+耵	U+8035 (U+8035)	e880b5
+耶	used in transliteration (U+8036)	e880b6
+耷	ears hanging down (U+8037)	e880b7
+耸	urge on; rise up; stir, excite (U+8038)	e880b8
+耹	U+8039 (U+8039)	e880b9
+耺	non-standard variant of 職 U+8077, duty, profession; office, post (U+803A)	e880ba
+耻	shame, humiliation; ashamed (U+803B)	e880bb
+耼	ears without rim (U+803C)	e880bc
+耽	indulge in; be negligent (U+803D)	e880bd
+耾	deafness (U+803E)	e880be
+耿	bright, shining; have guts (U+803F)	e880bf
+聀	U+8040 (U+8040)	e88180
+聁	U+8041 (U+8041)	e88181
+聂	whisper; surname (U+8042)	e88182
+聃	ears without rims; a personal name (U+8043)	e88183
+聄	U+8044 (U+8044)	e88184
+聅	U+8045 (U+8045)	e88185
+聆	listen, hear (U+8046)	e88186
+聇	U+8047 (U+8047)	e88187
+聈	U+8048 (U+8048)	e88188
+聉	U+8049 (U+8049)	e88189
+聊	somewhat, slightly, at least (U+804A)	e8818a
+聋	deaf (U+804B)	e8818b
+职	duty, profession; office, post (U+804C)	e8818c
+聍	earwax (U+804D)	e8818d
+聎	U+804E (U+804E)	e8818e
+聏	U+804F (U+804F)	e8818f
+聐	U+8050 (U+8050)	e88190
+聑	U+8051 (U+8051)	e88191
+聒	clamor, din, hubbub (U+8052)	e88192
+聓	U+8053 (U+8053)	e88193
+联	connect, join; associate, ally (U+8054)	e88194
+聕	U+8055 (U+8055)	e88195
+聖	holy, sacred; sage (U+8056)	e88196
+聗	U+8057 (U+8057)	e88197
+聘	engage, employ; betroth (U+8058)	e88198
+聙	U+8059 (U+8059)	e88199
+聚	assemble, meet together, collect (U+805A)	e8819a
+聛	U+805B (U+805B)	e8819b
+聜	U+805C (U+805C)	e8819c
+聝	to cut the left ears of the slain (U+805D)	e8819d
+聞	hear; smell; make known; news (U+805E)	e8819e
+聟	son-in-law; husband (U+805F)	e8819f
+聠	U+8060 (U+8060)	e881a0
+聡	intelligent, clever, bright (U+8061)	e881a1
+聢	certainly, definitely (U+8062)	e881a2
+聣	U+8063 (U+8063)	e881a3
+聤	U+8064 (U+8064)	e881a4
+聥	U+8065 (U+8065)	e881a5
+聦	the hearing, to listen; astute; clever; quick of apprehension (U+8066)	e881a6
+聧	U+8067 (U+8067)	e881a7
+聨	connect, join; associate, ally (U+8068)	e881a8
+聩	deaf (U+8069)	e881a9
+聪	intelligent, clever, bright (U+806A)	e881aa
+聫	connect, join; associate, ally (U+806B)	e881ab
+聬	U+806C (U+806C)	e881ac
+聭	U+806D (U+806D)	e881ad
+聮	connect, join; associate, ally (U+806E)	e881ae
+聯	connect, join; associate, ally (U+806F)	e881af
+聰	intelligent, clever, bright (U+8070)	e881b0
+聱	bent and twisted; too complicated (U+8071)	e881b1
+聲	sound, voice, noise; tone; music (U+8072)	e881b2
+聳	urge on; rise up; stir, excite; to raise up; lofty (U+8073)	e881b3
+聴	hear, listen; understand; obey (U+8074)	e881b4
+聵	deaf (U+8075)	e881b5
+聶	whisper; surname (U+8076)	e881b6
+職	duty, profession; office, post (U+8077)	e881b7
+聸	U+8078 (U+8078)	e881b8
+聹	earwax (U+8079)	e881b9
+聺	U+807A (U+807A)	e881ba
+聻	death of a disembodied spirit; depraved (U+807B)	e881bb
+聼	hear, listen; understand; obey (U+807C)	e881bc
+聽	hear, listen; understand; obey (U+807D)	e881bd
+聾	deaf (U+807E)	e881be
+聿	writing brush, pencil; thereupon (U+807F)	e881bf
+肀	pen; radical number 129 (U+8080)	e88280
+肁	U+8081 (U+8081)	e88281
+肂	U+8082 (U+8082)	e88282
+肃	pay respects; reverently (U+8083)	e88283
+肄	learn, practice, study; toil (U+8084)	e88284
+肅	pay respects; reverently (U+8085)	e88285
+肆	indulge; excess; numeral four; particle meaning now, therefore; shop (U+8086)	e88286
+肇	begin, commence, originate (U+8087)	e88287
+肈	to commence; to found; to devise. at first. to originate. to strike (U+8088)	e88288
+肉	flesh; meat; KangXi radical 130 (U+8089)	e88289
+肊	U+808A (U+808A)	e8828a
+肋	ribs; chest (U+808B)	e8828b
+肌	muscle tissue; meat on bones (U+808C)	e8828c
+肍	U+808D (U+808D)	e8828d
+肎	U+808E (U+808E)	e8828e
+肏	copulate, expletive (fuck) (U+808F)	e8828f
+肐	armpit, arms (U+8090)	e88290
+肑	U+8091 (U+8091)	e88291
+肒	U+8092 (U+8092)	e88292
+肓	region between heart and diaphragm (U+8093)	e88293
+肔	U+8094 (U+8094)	e88294
+肕	tough, strong, hard (U+8095)	e88295
+肖	look like, resemble, be like (U+8096)	e88296
+肗	U+8097 (U+8097)	e88297
+肘	the elbow; help a person shoulder a load (U+8098)	e88298
+肙	a small worm; to twist; to surround; empty (U+8099)	e88299
+肚	belly; abdomen; bowels (U+809A)	e8829a
+肛	anus (U+809B)	e8829b
+肜	to sacrifice on two successive days (U+809C)	e8829c
+肝	liver (U+809D)	e8829d
+肞	U+809E (U+809E)	e8829e
+肟	an organic compound (U+809F)	e8829f
+肠	intestines; emotions; sausage (U+80A0)	e882a0
+股	thighs, haunches, rump; share (U+80A1)	e882a1
+肢	human limbs; animal feet (U+80A2)	e882a2
+肣	U+80A3 (U+80A3)	e882a3
+肤	skin; superficial, shallow (U+80A4)	e882a4
+肥	fat, plump, obese; fertile (U+80A5)	e882a5
+肦	large head; many; high; to divide, to distribute (U+80A6)	e882a6
+肧	embryo; unfinished things (U+80A7)	e882a7
+肨	to swell; fat, swollen (U+80A8)	e882a8
+肩	shoulders; to shoulder; bear (U+80A9)	e882a9
+肪	animal fat (U+80AA)	e882aa
+肫	the gizzard of a fowl; honest, sincere (U+80AB)	e882ab
+肬	wart; tumor; goiter; papule (U+80AC)	e882ac
+肭	fat; seal (moon radical DKW: 14342 is different) (U+80AD)	e882ad
+肮	dirty (U+80AE)	e882ae
+肯	willing; consent to, permit (U+80AF)	e882af
+肰	U+80B0 (U+80B0)	e882b0
+肱	forearm (U+80B1)	e882b1
+育	produce, give birth to; educate (U+80B2)	e882b2
+肳	the corners of the mouth, the lips (U+80B3)	e882b3
+肴	cooked or prepared meat (U+80B4)	e882b4
+肵	table (U+80B5)	e882b5
+肶	(Cant.) leg, thigh (U+80B6)	e882b6
+肷	area between waist and hips (U+80B7)	e882b7
+肸	spread out; smilling or laughing (U+80B8)	e882b8
+肹	(Cant.) vulgar, abusive term for female sex organ, cunt (U+80B9)	e882b9
+肺	lungs (U+80BA)	e882ba
+肻	U+80BB (U+80BB)	e882bb
+肼	hydrazine (U+80BC)	e882bc
+肽	a chemical compound (U+80BD)	e882bd
+肾	kidneys; testes, gizzard (U+80BE)	e882be
+肿	swell; swollen; swelling (U+80BF)	e882bf
+胀	swell, inflate, expand (U+80C0)	e88380
+胁	ribs, armpits; flank; threaten (U+80C1)	e88381
+胂	U+80C2 (U+80C2)	e88382
+胃	stomach; gizzard of fowl (U+80C3)	e88383
+胄	helmet, headpiece; descendant (U+80C4)	e88384
+胅	U+80C5 (U+80C5)	e88385
+胆	gall bladder; bravery, courage (U+80C6)	e88386
+胇	U+80C7 (U+80C7)	e88387
+胈	U+80C8 (U+80C8)	e88388
+胉	U+80C9 (U+80C9)	e88389
+胊	yoke (U+80CA)	e8838a
+胋	U+80CB (U+80CB)	e8838b
+背	back; back side; behind; betray (U+80CC)	e8838c
+胍	U+80CD (U+80CD)	e8838d
+胎	unborn child, embryo, fetus (U+80CE)	e8838e
+胏	meat (U+80CF)	e8838f
+胐	U+80D0 (U+80D0)	e88390
+胑	the limbs; the upper arm; wings of birds; legs of animals (U+80D1)	e88391
+胒	U+80D2 (U+80D2)	e88392
+胓	fat (U+80D3)	e88393
+胔	rotten meat; bones of dead animals (U+80D4)	e88394
+胕	U+80D5 (U+80D5)	e88395
+胖	fat, obese; fatty (U+80D6)	e88396
+胗	pustules of any kind, a rash or eruption.measles; various kinds of fever (U+80D7)	e88397
+胘	U+80D8 (U+80D8)	e88398
+胙	meat offered in sacrifice to one's ancestors (U+80D9)	e88399
+胚	embryo; unfinished things (U+80DA)	e8839a
+胛	the shoulder, shoulder blade (U+80DB)	e8839b
+胜	victory; excel, be better than (U+80DC)	e8839c
+胝	callous, corn (U+80DD)	e8839d
+胞	womb, placenta, fetal membrane (U+80DE)	e8839e
+胟	U+80DF (U+80DF)	e8839f
+胠	open; throw away (U+80E0)	e883a0
+胡	recklessly, foolishly; wildly (U+80E1)	e883a1
+胢	U+80E2 (U+80E2)	e883a2
+胣	U+80E3 (U+80E3)	e883a3
+胤	heir, successor; progeny, posterity (U+80E4)	e883a4
+胥	all, together, mutually (U+80E5)	e883a5
+胦	the navel (U+80E6)	e883a6
+胧	condition or appearance of moon (U+80E7)	e883a7
+胨	a kind of protein (U+80E8)	e883a8
+胩	an organic compound (U+80E9)	e883a9
+胪	arrange in order; display (U+80EA)	e883aa
+胫	shinbone; calf of leg (U+80EB)	e883ab
+胬	a disease's name in Chinese medicine (U+80EC)	e883ac
+胭	rouge, cosmetics (U+80ED)	e883ad
+胮	to swell (U+80EE)	e883ae
+胯	pelvis; groin; thighs (U+80EF)	e883af
+胰	pancreas; soap (U+80F0)	e883b0
+胱	bladder (U+80F1)	e883b1
+胲	U+80F2 (U+80F2)	e883b2
+胳	armpit, arms (U+80F3)	e883b3
+胴	the large intestine; the body (U+80F4)	e883b4
+胵	(Cant.) 芙胵, the gizzard and liver of domestic fowl (U+80F5)	e883b5
+胶	glue, gum, resin, rubber; sound; shin bone (U+80F6)	e883b6
+胷	breast, chest, thorax; clamor (U+80F7)	e883b7
+胸	breast, bosom, chest; thorax (U+80F8)	e883b8
+胹	cooked; well-done (U+80F9)	e883b9
+胺	amine (U+80FA)	e883ba
+胻	U+80FB (U+80FB)	e883bb
+胼	callus, calluses (U+80FC)	e883bc
+能	to be able; can, permitted to; ability (U+80FD)	e883bd
+胾	minced meat; to cut meat into pieces (U+80FE)	e883be
+胿	U+80FF (U+80FF)	e883bf
+脀	U+8100 (U+8100)	e88480
+脁	to offer flesh in sacrifice (U+8101)	e88481
+脂	fat, grease, lard; grease (U+8102)	e88482
+脃	gland (U+8103)	e88483
+脄	U+8104 (U+8104)	e88484
+脅	ribs; armpits; flank; threaten (U+8105)	e88485
+脆	crisp; fragile, frail; brittle (U+8106)	e88486
+脇	ribs, armpits; flank; threaten (U+8107)	e88487
+脈	blood vessels, veins, arteries (U+8108)	e88488
+脉	blood vessels, veins, arteries (U+8109)	e88489
+脊	spine, backbone; ridge (U+810A)	e8848a
+脋	U+810B (U+810B)	e8848b
+脌	(Cant.) female breast; milk (U+810C)	e8848c
+脍	minced meat or fish (U+810D)	e8848d
+脎	an organic compound (U+810E)	e8848e
+脏	internal organs, viscera; dirty (U+810F)	e8848f
+脐	abdominal area of crab; navel (U+8110)	e88490
+脑	brain (U+8111)	e88491
+脒	open; throw away (U+8112)	e88492
+脓	pus (U+8113)	e88493
+脔	small lump of meat; sliced meat (U+8114)	e88494
+脕	U+8115 (U+8115)	e88495
+脖	neck (U+8116)	e88496
+脗	coinciding, agreeing (U+8117)	e88497
+脘	internal cavity of stomach (U+8118)	e88498
+脙	U+8119 (U+8119)	e88499
+脚	leg, foot; base, leg, foundation (U+811A)	e8849a
+脛	shinbone; calf of leg (U+811B)	e8849b
+脜	U+811C (U+811C)	e8849c
+脝	distend (U+811D)	e8849d
+脞	minced meat; trifles (U+811E)	e8849e
+脟	U+811F (U+811F)	e8849f
+脠	U+8120 (U+8120)	e884a0
+脡	strips of dried meat, jerky; stiff and straight (U+8121)	e884a1
+脢	flesh (U+8122)	e884a2
+脣	lips (U+8123)	e884a3
+脤	raw meat for sacrifice (U+8124)	e884a4
+脥	U+8125 (U+8125)	e884a5
+脦	used in 'lede', slovenly (U+8126)	e884a6
+脧	reduce, contract; exploit; reproductive organ of infant (U+8127)	e884a7
+脨	U+8128 (U+8128)	e884a8
+脩	dried meat (used as teachers payment in ancient times) (U+8129)	e884a9
+脪	erysipelas; sloughing of an ulcer (U+812A)	e884aa
+脫	take off, peel off, strip (U+812B)	e884ab
+脬	a bladder (U+812C)	e884ac
+脭	U+812D (U+812D)	e884ad
+脮	U+812E (U+812E)	e884ae
+脯	dried meat; preserved fruits (U+812F)	e884af
+脰	the neck (U+8130)	e884b0
+脱	take off (U+8131)	e884b1
+脲	urea (U+8132)	e884b2
+脳	brain (U+8133)	e884b3
+脴	U+8134 (U+8134)	e884b4
+脵	thighs, haunches, rump; share (U+8135)	e884b5
+脶	lines (U+8136)	e884b6
+脷	(Cant.) tongue (U+8137)	e884b7
+脸	face; cheek; reputation (U+8138)	e884b8
+脹	swell, inflate, expand (U+8139)	e884b9
+脺	U+813A (U+813A)	e884ba
+脻	U+813B (U+813B)	e884bb
+脼	U+813C (U+813C)	e884bc
+脽	(Cant.) a child's penis (U+813D)	e884bd
+脾	spleen, pancreas; disposition (U+813E)	e884be
+脿	U+813F (U+813F)	e884bf
+腀	U+8140 (U+8140)	e88580
+腁	callus (U+8141)	e88581
+腂	U+8142 (U+8142)	e88582
+腃	U+8143 (U+8143)	e88583
+腄	U+8144 (U+8144)	e88584
+腅	U+8145 (U+8145)	e88585
+腆	prosperous; good; protruding (U+8146)	e88586
+腇	U+8147 (U+8147)	e88587
+腈	an organic compound (U+8148)	e88588
+腉	nipple, pap (U+8149)	e88589
+腊	year end sacrifice; dried meat (U+814A)	e8858a
+腋	armpit (U+814B)	e8858b
+腌	salt, pickle; be dirty (U+814C)	e8858c
+腍	soft (U+814D)	e8858d
+腎	kidneys; testes, gizzard (U+814E)	e8858e
+腏	U+814F (U+814F)	e8858f
+腐	rot, decay, spoil; rotten (U+8150)	e88590
+腑	bowels, entrails, internal organs (U+8151)	e88591
+腒	game (U+8152)	e88592
+腓	calf; avoid; be ill; wither (U+8153)	e88593
+腔	chest cavity; hollow in body (U+8154)	e88594
+腕	wrist (U+8155)	e88595
+腖	peptone (U+8156)	e88596
+腗	U+8157 (U+8157)	e88597
+腘	U+8158 (U+8158)	e88598
+腙	an organic compound (U+8159)	e88599
+腚	buttock (U+815A)	e8859a
+腛	U+815B (U+815B)	e8859b
+腜	quickening of the foetus (U+815C)	e8859c
+腝	U+815D (U+815D)	e8859d
+腞	U+815E (U+815E)	e8859e
+腟	vagina (U+815F)	e8859f
+腠	between the skin and the flesh (U+8160)	e885a0
+腡	lines (U+8161)	e885a1
+腢	the collar-bone (U+8162)	e885a2
+腣	U+8163 (U+8163)	e885a3
+腤	U+8164 (U+8164)	e885a4
+腥	raw meat; rank, strong-smelling (U+8165)	e885a5
+腦	brain (U+8166)	e885a6
+腧	insertion point in acupuncture; acupoint (U+8167)	e885a7
+腨	U+8168 (U+8168)	e885a8
+腩	(Cant.) fatty meat on a cow's belly; abdomen; to boil meat (U+8169)	e885a9
+腪	U+816A (U+816A)	e885aa
+腫	swell; swollen; swelling (U+816B)	e885ab
+腬	(Cant.) greasy, oily (U+816C)	e885ac
+腭	palate, roof of mouth (U+816D)	e885ad
+腮	lower part of face; jaw; gills of a fish (U+816E)	e885ae
+腯	strong (U+816F)	e885af
+腰	waist; kidney (U+8170)	e885b0
+腱	tendons (U+8171)	e885b1
+腲	U+8172 (U+8172)	e885b2
+腳	foot; base, leg, foundation (U+8173)	e885b3
+腴	fat; fertile, rich; plump, soft (U+8174)	e885b4
+腵	U+8175 (U+8175)	e885b5
+腶	meat (U+8176)	e885b6
+腷	U+8177 (U+8177)	e885b7
+腸	intestines; emotions; sausage (U+8178)	e885b8
+腹	stomach, belly, abdomen; inside (U+8179)	e885b9
+腺	gland (U+817A)	e885ba
+腻	greasy, oily, dirty; smooth (U+817B)	e885bb
+腼	modest (U+817C)	e885bc
+腽	fat (U+817D)	e885bd
+腾	fly; gallop; run; prance; rise (U+817E)	e885be
+腿	legs, thighs (U+817F)	e885bf
+膀	upper arm; shoulder; wing (U+8180)	e88680
+膁	(Cant.) 小膁, loins, side of body (U+8181)	e88681
+膂	backbone, spinal column (U+8182)	e88682
+膃	fat (U+8183)	e88683
+膄	to become emaciated (U+8184)	e88684
+膅	U+8185 (U+8185)	e88685
+膆	the corp of a bird or fowl; fat (U+8186)	e88686
+膇	swell (U+8187)	e88687
+膈	diaphragm (U+8188)	e88688
+膉	(Cant.) the smell of oily food that's gone bad (U+8189)	e88689
+膊	shoulders, upper arms (U+818A)	e8868a
+膋	fat (U+818B)	e8868b
+膌	to become emaciated (U+818C)	e8868c
+膍	(Cant.) 膍胵, gizzard and liver of domestic animals (U+818D)	e8868d
+膎	U+818E (U+818E)	e8868e
+膏	grease, fat; paste, ointment (U+818F)	e8868f
+膐	U+8190 (U+8190)	e88690
+膑	the kneecap (U+8191)	e88691
+膒	U+8192 (U+8192)	e88692
+膓	intestines; emotions; sausage (U+8193)	e88693
+膔	U+8194 (U+8194)	e88694
+膕	hollow (U+8195)	e88695
+膖	U+8196 (U+8196)	e88696
+膗	ugly and fat; too fat to move (U+8197)	e88697
+膘	fat; rump (U+8198)	e88698
+膙	callous skin on the feet (U+8199)	e88699
+膚	skin; superficial, shallow (U+819A)	e8869a
+膛	chest; hollow space, cavity (U+819B)	e8869b
+膜	membrane; to kneel and worship (U+819C)	e8869c
+膝	knee (U+819D)	e8869d
+膞	U+819E (U+819E)	e8869e
+膟	fat (U+819F)	e8869f
+膠	glue, gum, resin, rubber (U+81A0)	e886a0
+膡	U+81A1 (U+81A1)	e886a1
+膢	U+81A2 (U+81A2)	e886a2
+膣	vagina (U+81A3)	e886a3
+膤	U+81A4 (U+81A4)	e886a4
+膥	(Cant.) eggs of birds or reptiles; testicles (U+81A5)	e886a5
+膦	U+81A6 (U+81A6)	e886a6
+膧	U+81A7 (U+81A7)	e886a7
+膨	to swell; swollen, bloated, inflated (U+81A8)	e886a8
+膩	greasy, oily, dirty; smooth (U+81A9)	e886a9
+膪	pork (U+81AA)	e886aa
+膫	the fat covering the intestines; the omentum (U+81AB)	e886ab
+膬	U+81AC (U+81AC)	e886ac
+膭	U+81AD (U+81AD)	e886ad
+膮	U+81AE (U+81AE)	e886ae
+膯	U+81AF (U+81AF)	e886af
+膰	to cook meat for a sacrifice or offering (U+81B0)	e886b0
+膱	(Cant.) the smell of oily food that's gone bad (U+81B1)	e886b1
+膲	(medicine) the three divisions of the viscera (U+81B2)	e886b2
+膳	meals, provisions, board (U+81B3)	e886b3
+膴	fine (U+81B4)	e886b4
+膵	pancreas (U+81B5)	e886b5
+膶	(Cant.) liver (U+81B6)	e886b6
+膷	soup (U+81B7)	e886b7
+膸	U+81B8 (U+81B8)	e886b8
+膹	U+81B9 (U+81B9)	e886b9
+膺	breast, chest; undertake, bear (U+81BA)	e886ba
+膻	a rank odor; a technical term from Chinese medicine for the center of the chest (U+81BB)	e886bb
+膼	U+81BC (U+81BC)	e886bc
+膽	gall bladder; bravery, courage (U+81BD)	e886bd
+膾	minced meat or fish (U+81BE)	e886be
+膿	pus (U+81BF)	e886bf
+臀	buttocks (U+81C0)	e88780
+臁	calf of the leg (U+81C1)	e88781
+臂	arm (U+81C2)	e88782
+臃	swell up; swelling; fat (U+81C3)	e88783
+臄	palate (U+81C4)	e88784
+臅	U+81C5 (U+81C5)	e88785
+臆	chest, breast, bosom; thought (U+81C6)	e88786
+臇	fat, rich; a stew of fish (U+81C7)	e88787
+臈	year end sacrifice; dried meat (U+81C8)	e88788
+臉	face; cheek; reputation (U+81C9)	e88789
+臊	rank; rancid; frowzy, fetid; bashful (U+81CA)	e8878a
+臋	U+81CB (U+81CB)	e8878b
+臌	dropsical swelling; puffy bloated (U+81CC)	e8878c
+臍	abdominal area of crab; navel (U+81CD)	e8878d
+臎	U+81CE (U+81CE)	e8878e
+臏	the kneecap (U+81CF)	e8878f
+臐	broth (U+81D0)	e88790
+臑	soft (U+81D1)	e88791
+臒	U+81D2 (U+81D2)	e88792
+臓	internal organs, viscera (U+81D3)	e88793
+臔	U+81D4 (U+81D4)	e88794
+臕	fat; gross, sleek (U+81D5)	e88795
+臖	U+81D6 (U+81D6)	e88796
+臗	U+81D7 (U+81D7)	e88797
+臘	year end sacrifice; dried meat (U+81D8)	e88798
+臙	rouge, cosmetics (U+81D9)	e88799
+臚	arrange in order; display (U+81DA)	e8879a
+臛	broth (U+81DB)	e8879b
+臜	dirty; filthy (U+81DC)	e8879c
+臝	be bare; nude (U+81DD)	e8879d
+臞	U+81DE (U+81DE)	e8879e
+臟	internal organs, viscera (U+81DF)	e8879f
+臠	small lump of meat; sliced meat (U+81E0)	e887a0
+臡	U+81E1 (U+81E1)	e887a1
+臢	dirty; filthy (U+81E2)	e887a2
+臣	minister, statesman, official (U+81E3)	e887a3
+臤	hard; wise (U+81E4)	e887a4
+臥	lie down; crouch (U+81E5)	e887a5
+臦	U+81E6 (U+81E6)	e887a6
+臧	good, right, generous; command (U+81E7)	e887a7
+臨	draw near, approach; descend (U+81E8)	e887a8
+臩	U+81E9 (U+81E9)	e887a9
+自	self, private, personal; from (U+81EA)	e887aa
+臫	U+81EB (U+81EB)	e887ab
+臬	law, rule; door post (U+81EC)	e887ac
+臭	smell, stink, emit foul odor (U+81ED)	e887ad
+臮	U+81EE (U+81EE)	e887ae
+臯	to praise; to bless high; eminent; (Cant.) a marsh, pool (U+81EF)	e887af
+臰	U+81F0 (U+81F0)	e887b0
+臱	U+81F1 (U+81F1)	e887b1
+臲	jumpy; jittery; worried; to grasp (U+81F2)	e887b2
+至	reach, arrive; extremely, very (U+81F3)	e887b3
+致	send, deliver, present; cause (U+81F4)	e887b4
+臵	U+81F5 (U+81F5)	e887b5
+臶	U+81F6 (U+81F6)	e887b6
+臷	U+81F7 (U+81F7)	e887b7
+臸	U+81F8 (U+81F8)	e887b8
+臹	U+81F9 (U+81F9)	e887b9
+臺	tower, lookout; stage, platform (U+81FA)	e887ba
+臻	reach, arrive; utmost, superior (U+81FB)	e887bb
+臼	mortar; bone joint socket (U+81FC)	e887bc
+臽	a pit, a hole (U+81FD)	e887bd
+臾	moment, instant, short while (U+81FE)	e887be
+臿	to separate the grain from the husk (U+81FF)	e887bf
+舀	dip, ladle; ladle (U+8200)	e88880
+舁	carry on one's shoulder (U+8201)	e88881
+舂	grind in mortar (U+8202)	e88882
+舃	a shoe; the sole of a shoe; magpie (U+8203)	e88883
+舄	a shoe; the sole of a shoe; magpie (U+8204)	e88884
+舅	mother's brother, uncle (U+8205)	e88885
+舆	cart, palanquin, sedan chair (U+8206)	e88886
+與	and; with; to; for; give, grant (U+8207)	e88887
+興	thrive, prosper, flourish (U+8208)	e88888
+舉	raise, lift up; recommend (U+8209)	e88889
+舊	old, ancient; former, past (U+820A)	e8888a
+舋	split; (Cant.) a mark, trace (U+820B)	e8888b
+舌	tongue; clapper of bell; KangXi radical 135 (U+820C)	e8888c
+舍	house, dwelling; dwell, reside (U+820D)	e8888d
+舎	house, dwelling; dwell, reside (U+820E)	e8888e
+舏	U+820F (U+820F)	e8888f
+舐	lick with tongue (U+8210)	e88890
+舑	U+8211 (U+8211)	e88891
+舒	open up, unfold, stretch out; comfortable, easy (U+8212)	e88892
+舓	to lick (U+8213)	e88893
+舔	lick with tongue; taste (U+8214)	e88894
+舕	to stick out the tongue (U+8215)	e88895
+舖	store, shop (U+8216)	e88896
+舗	store, shop (U+8217)	e88897
+舘	a mansion; a building (U+8218)	e88898
+舙	U+8219 (U+8219)	e88899
+舚	to put out the tongue (U+821A)	e8889a
+舛	oppose, deviate, be contrary to (U+821B)	e8889b
+舜	legendary ruler (U+821C)	e8889c
+舝	linch-pin (U+821D)	e8889d
+舞	dance, posture, prance; brandish (U+821E)	e8889e
+舟	boat, ship; KangXi radical 137 (U+821F)	e8889f
+舠	long narrow knife-shaped boat (U+8220)	e888a0
+舡	boat, ship (U+8221)	e888a1
+舢	sampan (U+8222)	e888a2
+舣	to moor a boat to the bank (U+8223)	e888a3
+舤	U+8224 (U+8224)	e888a4
+舥	U+8225 (U+8225)	e888a5
+舦	(Cant.) rudder (U+8226)	e888a6
+舧	U+8227 (U+8227)	e888a7
+舨	a sampan (U+8228)	e888a8
+舩	boat, ship, vessel (U+8229)	e888a9
+航	sail; navigate; ship, boat (U+822A)	e888aa
+舫	fancy boat, yacht (U+822B)	e888ab
+般	sort, manner, kind, category (U+822C)	e888ac
+舭	U+822D (U+822D)	e888ad
+舮	bow or prow of boat (U+822E)	e888ae
+舯	U+822F (U+822F)	e888af
+舰	warship (U+8230)	e888b0
+舱	hold of ship; cabin (U+8231)	e888b1
+舲	small boat with windows; houseboat (U+8232)	e888b2
+舳	stern of ship (U+8233)	e888b3
+舴	U+8234 (U+8234)	e888b4
+舵	rudder, helm (U+8235)	e888b5
+舶	large, ocean-going vessel (U+8236)	e888b6
+舷	the sides of a boat, bulwarks; a gunwale (U+8237)	e888b7
+舸	large boat, barge (U+8238)	e888b8
+船	ship, boat, vessel (U+8239)	e888b9
+舺	place name in Taiwan, Taipei; a boat (U+823A)	e888ba
+舻	bow or prow of boat (U+823B)	e888bb
+舼	U+823C (U+823C)	e888bc
+舽	U+823D (U+823D)	e888bd
+舾	(Cant.) equipment on a ship (U+823E)	e888be
+舿	U+823F (U+823F)	e888bf
+艀	a sampan, lighter, barge (U+8240)	e88980
+艁	U+8241 (U+8241)	e88981
+艂	U+8242 (U+8242)	e88982
+艃	U+8243 (U+8243)	e88983
+艄	stern of a vessel (U+8244)	e88984
+艅	a despatch boat (U+8245)	e88985
+艆	U+8246 (U+8246)	e88986
+艇	small boat, dugout, punt (U+8247)	e88987
+艈	U+8248 (U+8248)	e88988
+艉	U+8249 (U+8249)	e88989
+艊	U+824A (U+824A)	e8898a
+艋	small boat (U+824B)	e8898b
+艌	to caulk (U+824C)	e8898c
+艍	U+824D (U+824D)	e8898d
+艎	fast boat (U+824E)	e8898e
+艏	U+824F (U+824F)	e8898f
+艐	U+8250 (U+8250)	e88990
+艑	small boat (U+8251)	e88991
+艒	U+8252 (U+8252)	e88992
+艓	U+8253 (U+8253)	e88993
+艔	(Cant.) boat (U+8254)	e88994
+艕	two boats fastened side by side (U+8255)	e88995
+艖	raft; boat; skiff (U+8256)	e88996
+艗	bow of junk (U+8257)	e88997
+艘	counter for ships, vessels (U+8258)	e88998
+艙	hold of ship; cabin (U+8259)	e88999
+艚	ship (U+825A)	e8899a
+艛	U+825B (U+825B)	e8899b
+艜	a long narrow vessel with two masts; (Cant.) a rudder (U+825C)	e8899c
+艝	U+825D (U+825D)	e8899d
+艞	U+825E (U+825E)	e8899e
+艟	ancient warship (U+825F)	e8899f
+艠	U+8260 (U+8260)	e889a0
+艡	U+8261 (U+8261)	e889a1
+艢	a mast; a yard-arm or boom (U+8262)	e889a2
+艣	stern oar, scull [?] (U+8263)	e889a3
+艤	to moor a boat to the bank (U+8264)	e889a4
+艥	an oar or paddle. to row (U+8265)	e889a5
+艦	warship (U+8266)	e889a6
+艧	U+8267 (U+8267)	e889a7
+艨	long and narrow war-boat (U+8268)	e889a8
+艩	tholepin (U+8269)	e889a9
+艪	oar, scull; row (U+826A)	e889aa
+艫	bow or prow of boat (U+826B)	e889ab
+艬	U+826C (U+826C)	e889ac
+艭	ship (U+826D)	e889ad
+艮	seventh of eight diagrams (U+826E)	e889ae
+良	good, virtuous, respectable (U+826F)	e889af
+艰	difficult, hard; distressing (U+8270)	e889b0
+艱	difficult, hard; distressing (U+8271)	e889b1
+色	color, tint, hue, shade; form, body; beauty, desire for beauty (U+8272)	e889b2
+艳	beautiful, sexy, voluptuous (U+8273)	e889b3
+艴	the countenance changing (U+8274)	e889b4
+艵	U+8275 (U+8275)	e889b5
+艶	beautiful, sexy, voluptuous (U+8276)	e889b6
+艷	beautiful, sexy, voluptuous (U+8277)	e889b7
+艸	grass; KangXi radical 140 (U+8278)	e889b8
+艹	grass; radical number 140 (U+8279)	e889b9
+艺	art; talent, ability; craft (U+827A)	e889ba
+艻	U+827B (U+827B)	e889bb
+艼	U+827C (U+827C)	e889bc
+艽	U+827D (U+827D)	e889bd
+艾	artemisia, mugwort; translit. (U+827E)	e889be
+艿	U+827F (U+827F)	e889bf
+芀	clover; pea (U+8280)	e88a80
+芁	U+8281 (U+8281)	e88a81
+节	knot, node, joint; section (U+8282)	e88a82
+芃	luxuriant growth (U+8283)	e88a83
+芄	U+8284 (U+8284)	e88a84
+芅	U+8285 (U+8285)	e88a85
+芆	U+8286 (U+8286)	e88a86
+芇	U+8287 (U+8287)	e88a87
+芈	bleat of sheep; surname (U+8288)	e88a88
+芉	U+8289 (U+8289)	e88a89
+芊	exuberant and vigorous foliage (U+828A)	e88a8a
+芋	taro (U+828B)	e88a8b
+芌	U+828C (U+828C)	e88a8c
+芍	peony; water chestnuts (U+828D)	e88a8d
+芎	a kind of herb (U+828E)	e88a8e
+芏	U+828F (U+828F)	e88a8f
+芐	U+8290 (U+8290)	e88a90
+芑	white millet (U+8291)	e88a91
+芒	Miscanthus sinensis (U+8292)	e88a92
+芓	U+8293 (U+8293)	e88a93
+芔	a general term for plants (U+8294)	e88a94
+芕	U+8295 (U+8295)	e88a95
+芖	U+8296 (U+8296)	e88a96
+芗	fragrant smell of grain; aromatic (U+8297)	e88a97
+芘	U+8298 (U+8298)	e88a98
+芙	hibiscus (U+8299)	e88a99
+芚	green sprout; foolish (U+829A)	e88a9a
+芛	U+829B (U+829B)	e88a9b
+芜	luxurious growth of weeds (U+829C)	e88a9c
+芝	sesame; a purplish or brown mushroom thought to have miraculous powers; 'a divine and relicitous plant' (Karlgren) (U+829D)	e88a9d
+芞	U+829E (U+829E)	e88a9e
+芟	mow, cut; weed out; scythe (U+829F)	e88a9f
+芠	U+82A0 (U+82A0)	e88aa0
+芡	plant allied to the waterlily (U+82A1)	e88aa1
+芢	U+82A2 (U+82A2)	e88aa2
+芣	medicinal plant (U+82A3)	e88aa3
+芤	U+82A4 (U+82A4)	e88aa4
+芥	mustard plant; mustard; tiny (U+82A5)	e88aa5
+芦	rushes, reeds (U+82A6)	e88aa6
+芧	chestnut oak (U+82A7)	e88aa7
+芨	name of a plant, the roots are used for various purposes (U+82A8)	e88aa8
+芩	salt marsh plant (U+82A9)	e88aa9
+芪	celery (U+82AA)	e88aaa
+芫	daphne genkwa, poisonous plant (U+82AB)	e88aab
+芬	fragrance, aroma; perfume (U+82AC)	e88aac
+芭	plantain or banana palm; fragrant (U+82AD)	e88aad
+芮	tiny, small; water's edge (U+82AE)	e88aae
+芯	pith from rush (juncus effusus) (U+82AF)	e88aaf
+芰	water caltrop (U+82B0)	e88ab0
+花	flower; blossoms (U+82B1)	e88ab1
+芲	U+82B2 (U+82B2)	e88ab2
+芳	fragrant; virtuous; beautiful (U+82B3)	e88ab3
+芴	U+82B4 (U+82B4)	e88ab4
+芵	U+82B5 (U+82B5)	e88ab5
+芶	U+82B6 (U+82B6)	e88ab6
+芷	angelica, type of iris (U+82B7)	e88ab7
+芸	rue, herb used to keep insects away; to cut grass or weeds; art, talent, ability, craft, technique, performance, acting, trick, stunt (U+82B8)	e88ab8
+芹	celery (U+82B9)	e88ab9
+芺	U+82BA (U+82BA)	e88aba
+芻	mow, cut grass; hay, fodder (U+82BB)	e88abb
+芼	to choose; to select; greens (U+82BC)	e88abc
+芽	bud, sprout, shoot (U+82BD)	e88abd
+芾	flower; small; little; lush (U+82BE)	e88abe
+芿	grass which has been cut and regrown; wild grass (U+82BF)	e88abf
+苀	U+82C0 (U+82C0)	e88b80
+苁	medicinal herb (U+82C1)	e88b81
+苂	U+82C2 (U+82C2)	e88b82
+苃	U+82C3 (U+82C3)	e88b83
+苄	benzyl (U+82C4)	e88b84
+苅	cut off, reap, mow; sickle (U+82C5)	e88b85
+苆	U+82C6 (U+82C6)	e88b86
+苇	reed (U+82C7)	e88b87
+苈	a kind of plant (U+82C8)	e88b88
+苉	U+82C9 (U+82C9)	e88b89
+苊	an organic compound (U+82CA)	e88b8a
+苋	amaranth (U+82CB)	e88b8b
+苌	averrhora carambola; surname (U+82CC)	e88b8c
+苍	blue; green (U+82CD)	e88b8d
+苎	china grass, ramie (U+82CE)	e88b8e
+苏	revive, resurrect; a species of thyme; transliteration of 'Soviet' (U+82CF)	e88b8f
+苐	sequence, number; grade, degree (U+82D0)	e88b90
+苑	pasture, park, garden; mansion (U+82D1)	e88b91
+苒	lush; successively, in order (U+82D2)	e88b92
+苓	fungus, tuber; licorice (U+82D3)	e88b93
+苔	moss, lichen (U+82D4)	e88b94

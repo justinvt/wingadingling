@@ -1,0 +1,1024 @@
+拕	to drag after, to drag out, from which comes:to involve, to delay, to implicate (U+62D5)	e68b95
+拖	drag, tow, haul; delay, prolong (U+62D6)	e68b96
+拗	to pull, drag, break off, to pluck (a flower); bent, warped; perverse, obstinate (U+62D7)	e68b97
+拘	restrain, seize, detain (U+62D8)	e68b98
+拙	stupid, clumsy, crude; convention (U+62D9)	e68b99
+拚	risk, disregard; go all out for (U+62DA)	e68b9a
+招	beckon, summon; recruit, levy (U+62DB)	e68b9b
+拜	do obeisance, bow, kowtow (U+62DC)	e68b9c
+拝	do obeisance, bow, kowtow (U+62DD)	e68b9d
+拞	U+62DE (U+62DE)	e68b9e
+拟	draft; intend, plan, propose (U+62DF)	e68b9f
+拠	to occupy, take possession of; a base, position (U+62E0)	e68ba0
+拡	expand, enlarge, stretch (U+62E1)	e68ba1
+拢	collect, bring together (U+62E2)	e68ba2
+拣	choose; select; pick up; gather (U+62E3)	e68ba3
+拤	U+62E4 (U+62E4)	e68ba4
+拥	embrace, hug, squeeze; crowd (U+62E5)	e68ba5
+拦	obstruct, impede, bar, hinder (U+62E6)	e68ba6
+拧	pinch; twist, wring; determined (U+62E7)	e68ba7
+拨	move; dispel; distribute (U+62E8)	e68ba8
+择	select, choose, pick out (U+62E9)	e68ba9
+拪	U+62EA (U+62EA)	e68baa
+拫	to pull; to drag; to stop; (Cant.) to turn fast (U+62EB)	e68bab
+括	include, embrace, enclose (U+62EC)	e68bac
+拭	wipe away stains with cloth (U+62ED)	e68bad
+拮	laboring hard, occupied; pursue (U+62EE)	e68bae
+拯	help, save, aid; lift, raise (U+62EF)	e68baf
+拰	U+62F0 (U+62F0)	e68bb0
+拱	fold hands on breast; bow, salute (U+62F1)	e68bb1
+拲	U+62F2 (U+62F2)	e68bb2
+拳	fist; various forms of boxing (U+62F3)	e68bb3
+拴	bind with rope, fasten (U+62F4)	e68bb4
+拵	to make, prepare, manufacture; workmanship; an arrangement (U+62F5)	e68bb5
+拶	press, squeeze hard; force (U+62F6)	e68bb6
+拷	torture and interrogate; hit (U+62F7)	e68bb7
+拸	U+62F8 (U+62F8)	e68bb8
+拹	U+62F9 (U+62F9)	e68bb9
+拺	U+62FA (U+62FA)	e68bba
+拻	U+62FB (U+62FB)	e68bbb
+拼	join together, link, incorporate (U+62FC)	e68bbc
+拽	drag, tow; throw; twist (U+62FD)	e68bbd
+拾	pick up, collect, tidy up; accounting form of the numeral ten (U+62FE)	e68bbe
+拿	take, hold, grasp; bring; with (U+62FF)	e68bbf
+挀	U+6300 (U+6300)	e68c80
+持	sustain, support; hold, grasp (U+6301)	e68c81
+挂	hang, suspend; suspense (U+6302)	e68c82
+挃	(Cant.) to beat (U+6303)	e68c83
+挄	U+6304 (U+6304)	e68c84
+挅	U+6305 (U+6305)	e68c85
+挆	U+6306 (U+6306)	e68c86
+指	finger, toe; point, indicate (U+6307)	e68c87
+挈	assist, help, lead by hand (U+6308)	e68c88
+按	put hand on, press down with hand (U+6309)	e68c89
+挊	U+630A (U+630A)	e68c8a
+挋	U+630B (U+630B)	e68c8b
+挌	fight (U+630C)	e68c8c
+挍	collate; (Cant.) to scratch (U+630D)	e68c8d
+挎	carry (U+630E)	e68c8e
+挏	(Cant.) to dredge or poke with a pole or stick (U+630F)	e68c8f
+挐	drag (U+6310)	e68c90
+挑	a load carried on the shoulders; to carry (U+6311)	e68c91
+挒	U+6312 (U+6312)	e68c92
+挓	to open out; to expand (U+6313)	e68c93
+挔	U+6314 (U+6314)	e68c94
+挕	U+6315 (U+6315)	e68c95
+挖	dig, dig out, gouge out, scoop (U+6316)	e68c96
+挗	U+6317 (U+6317)	e68c97
+挘	to pluck, pick, tear; (Cant.) rubbing action (U+6318)	e68c98
+挙	raise, lift up; recommend (U+6319)	e68c99
+挚	sincere, warm, cordial; surname (U+631A)	e68c9a
+挛	tangled; entwined; crooked (U+631B)	e68c9b
+挜	take; hold; give forcefully (U+631C)	e68c9c
+挝	to beat; to strike (U+631D)	e68c9d
+挞	flog, whip; chastise (U+631E)	e68c9e
+挟	clasp under arm; hold to bosom (U+631F)	e68c9f
+挠	scratch; disturb, bother; submit (U+6320)	e68ca0
+挡	obstruct, impede; stop; resist (U+6321)	e68ca1
+挢	correct (U+6322)	e68ca2
+挣	strive, endeavor, struggle (U+6323)	e68ca3
+挤	crowd, squeeze, push against (U+6324)	e68ca4
+挥	direct; wipe away; squander (U+6325)	e68ca5
+挦	pull out, pluck; take hold of (U+6326)	e68ca6
+挧	U+6327 (U+6327)	e68ca7
+挨	near, close by, next to, towards, against; to wait; to lean on (U+6328)	e68ca8
+挩	U+6329 (U+6329)	e68ca9
+挪	move, shift on one side (U+632A)	e68caa
+挫	push down; chop down; grind (U+632B)	e68cab
+挬	U+632C (U+632C)	e68cac
+挭	fish-bones, things that stick in the throat; unyielding, blunt of speech; (Cant.) to stir, mix, agitate; to wade (U+632D)	e68cad
+挮	U+632E (U+632E)	e68cae
+振	raise, excite, arouse action (U+632F)	e68caf
+挰	U+6330 (U+6330)	e68cb0
+挱	to feel or fondle with the fingers (U+6331)	e68cb1
+挲	to feel or fondle with the fingers (U+6332)	e68cb2
+挳	U+6333 (U+6333)	e68cb3
+挴	U+6334 (U+6334)	e68cb4
+挵	to play with, handle things (U+6335)	e68cb5
+挶	hold in hands (U+6336)	e68cb6
+挷	to propel a boat; to beat (U+6337)	e68cb7
+挸	U+6338 (U+6338)	e68cb8
+挹	to bale out; to decant liquids (U+6339)	e68cb9
+挺	to stand upright, straighten; rigid (U+633A)	e68cba
+挻	U+633B (U+633B)	e68cbb
+挼	rub, stroke with hands; crumple (U+633C)	e68cbc
+挽	pull; pull back, draw back (U+633D)	e68cbd
+挾	clasp under arm; hold to bosom (U+633E)	e68cbe
+挿	insert, stick into; plant (U+633F)	e68cbf
+捀	U+6340 (U+6340)	e68d80
+捁	U+6341 (U+6341)	e68d81
+捂	resist (U+6342)	e68d82
+捃	U+6343 (U+6343)	e68d83
+捄	long and curved (U+6344)	e68d84
+捅	jab (U+6345)	e68d85
+捆	tie up; bind, truss up; bundle (U+6346)	e68d86
+捇	U+6347 (U+6347)	e68d87
+捈	U+6348 (U+6348)	e68d88
+捉	grasp, clutch; catch, seize (U+6349)	e68d89
+捊	U+634A (U+634A)	e68d8a
+捋	to pluck; to gather in the fingers; to rub; to scrape off (U+634B)	e68d8b
+捌	break open, split open; an accounting version of the numeral eight (U+634C)	e68d8c
+捍	ward off, guard against, defend (U+634D)	e68d8d
+捎	to select; to take; to carry (U+634E)	e68d8e
+捏	pick with fingers; knead; mold (U+634F)	e68d8f
+捐	contribute; give up, renounce (U+6350)	e68d90
+捑	U+6351 (U+6351)	e68d91
+捒	U+6352 (U+6352)	e68d92
+捓	strive, endeavor (U+6353)	e68d93
+捔	to gore, stab (U+6354)	e68d94
+捕	arrest, catch, seize (U+6355)	e68d95
+捖	U+6356 (U+6356)	e68d96
+捗	make progress (U+6357)	e68d97
+捘	push (U+6358)	e68d98
+捙	U+6359 (U+6359)	e68d99
+捚	U+635A (U+635A)	e68d9a
+捛	U+635B (U+635B)	e68d9b
+捜	search, seek; investigate (U+635C)	e68d9c
+捝	U+635D (U+635D)	e68d9d
+捞	scoop out of water; dredge, fish (U+635E)	e68d9e
+损	diminish; impair; injure (U+635F)	e68d9f
+捠	U+6360 (U+6360)	e68da0
+捡	to pick up (U+6361)	e68da1
+换	change (U+6362)	e68da2
+捣	hull; thresh; beat, attack (U+6363)	e68da3
+捤	U+6364 (U+6364)	e68da4
+捥	to bend the wrist (U+6365)	e68da5
+捦	to seize; to clutch; to arrest; to capture; (Cant.) to climb (U+6366)	e68da6
+捧	hold up in two hands (U+6367)	e68da7
+捨	discard, give up willingly; give alms (U+6368)	e68da8
+捩	twist with hands; snap, tear (U+6369)	e68da9
+捪	U+636A (U+636A)	e68daa
+捫	stoke, pat, feel by hand, grope (U+636B)	e68dab
+捬	press down heavily with hands (U+636C)	e68dac
+捭	to open; to spread out (U+636D)	e68dad
+据	to occupy, take possession of; a base, position (U+636E)	e68dae
+捯	U+636F (U+636F)	e68daf
+捰	U+6370 (U+6370)	e68db0
+捱	put off, procrastinate; endure (U+6371)	e68db1
+捲	curl, roll up; curly, rolled up (U+6372)	e68db2
+捳	U+6373 (U+6373)	e68db3
+捴	U+6374 (U+6374)	e68db4
+捵	(Cant.) to hold between the fingers and thumb (U+6375)	e68db5
+捶	strike with stick, lash, beat (U+6376)	e68db6
+捷	win, victory, triumph (U+6377)	e68db7
+捸	U+6378 (U+6378)	e68db8
+捹	to fumble things over, mix up; (Cant.) to swing, fling; to flick off, throw off; to jerk (U+6379)	e68db9
+捺	to press down heavily with the fingers (U+637A)	e68dba
+捻	to twist or nip with the fingers (U+637B)	e68dbb
+捼	to rub; to crumple (U+637C)	e68dbc
+捽	clutch, grasp; pull up; contradict (U+637D)	e68dbd
+捾	U+637E (U+637E)	e68dbe
+捿	perch; roost; stay (U+637F)	e68dbf
+掀	lift, raise; stir (U+6380)	e68e80
+掁	U+6381 (U+6381)	e68e81
+掂	heft, hold or weigh in palm (U+6382)	e68e82
+掃	sweep, clear away; exterminate (U+6383)	e68e83
+掄	swing, brandish, flourish (U+6384)	e68e84
+掅	(Cant.) to lift up; to seize, grab (U+6385)	e68e85
+掆	U+6386 (U+6386)	e68e86
+掇	collect, gather up, pick up (U+6387)	e68e87
+授	give to, transmit; confer (U+6388)	e68e88
+掉	turn, move; shake, wag; drop down (U+6389)	e68e89
+掊	to extract; injure (U+638A)	e68e8a
+掋	U+638B (U+638B)	e68e8b
+掌	palm of hand, sole of foot, paw (U+638C)	e68e8c
+掍	U+638D (U+638D)	e68e8d
+掎	drag aside, pull; drag one foot (U+638E)	e68e8e
+掏	take out; pull out; clean out (U+638F)	e68e8f
+掐	hold; gather with hand; choke (U+6390)	e68e90
+掑	U+6391 (U+6391)	e68e91
+排	row, rank, line (U+6392)	e68e92
+掓	U+6393 (U+6393)	e68e93
+掔	sturdy (U+6394)	e68e94
+掕	U+6395 (U+6395)	e68e95
+掖	support with the arms; stick in, tuck in; fold up (U+6396)	e68e96
+掗	take; hold; give forcefully (U+6397)	e68e97
+掘	dig, excavate; excavate cave (U+6398)	e68e98
+掙	to strive, endeavor, struggle; to earn; to pierce; to wedge in (U+6399)	e68e99
+掚	U+639A (U+639A)	e68e9a
+掛	hang, suspend; suspense (U+639B)	e68e9b
+掜	U+639C (U+639C)	e68e9c
+掝	U+639D (U+639D)	e68e9d
+掞	easy, smooth; quiet; suave (U+639E)	e68e9e
+掟	law, commandments, regulations; (Cant.) to throw (U+639F)	e68e9f
+掠	rob, ransack, plunder; pass by (U+63A0)	e68ea0
+採	gather, collect; pick, select (U+63A1)	e68ea1
+探	find, locate; search, grope for (U+63A2)	e68ea2
+掣	drag, pull; hinder by pulling back (U+63A3)	e68ea3
+掤	quiver; (Cant.) to pull on something (U+63A4)	e68ea4
+接	receive; continue; catch; connect (U+63A5)	e68ea5
+掦	to take up; to put by (U+63A6)	e68ea6
+控	accuse, charge; control (U+63A7)	e68ea7
+推	push, expel; push forward (U+63A8)	e68ea8
+掩	to cover (with the hand); shut, conceal; ambush (U+63A9)	e68ea9
+措	place; collect, arrange; employ (U+63AA)	e68eaa
+掫	be on night watch; grasp (U+63AB)	e68eab
+掬	to grasp or hold with both hands (U+63AC)	e68eac
+掭	to manipulate; a pricker for a lamp-wick (U+63AD)	e68ead
+掮	to bear on the shoulders (U+63AE)	e68eae
+掯	oppress, extort, take by force (U+63AF)	e68eaf
+掰	(Cant.) to tear, to rip (U+63B0)	e68eb0
+掱	pickpocket (U+63B1)	e68eb1
+掲	to set (a table); to install, equip; to lay (a foundation) (U+63B2)	e68eb2
+掳	capture, seize (U+63B3)	e68eb3
+掴	box one's ears, slap (U+63B4)	e68eb4
+掵	U+63B5 (U+63B5)	e68eb5
+掶	U+63B6 (U+63B6)	e68eb6
+掷	throw, hurl, cast, fling (U+63B7)	e68eb7
+掸	to dust; a duster (U+63B8)	e68eb8
+掹	(Cant.) to pluck, to pull (U+63B9)	e68eb9
+掺	mix, blend, adulterate (U+63BA)	e68eba
+掻	scratch lightly (U+63BB)	e68ebb
+掼	throw ground; know, be familiar (U+63BC)	e68ebc
+掽	collide; meet unexpectedly (U+63BD)	e68ebd
+掾	a general designation of officials (U+63BE)	e68ebe
+掿	U+63BF (U+63BF)	e68ebf
+揀	choose; select; pick up; gather (U+63C0)	e68f80
+揁	sound of setting up a koto (U+63C1)	e68f81
+揂	U+63C2 (U+63C2)	e68f82
+揃	shear; (Cant.) to skin an animal (U+63C3)	e68f83
+揄	lift, raise; praise; hang; flap (U+63C4)	e68f84
+揅	grind, rub; study, research; (Cant.) to play a stringed instrument (U+63C5)	e68f85
+揆	prime minister; to guess, estimate (U+63C6)	e68f86
+揇	(Cant.) to measure a distance with the extended thumb and forefinger or middle finger (U+63C7)	e68f87
+揈	U+63C8 (U+63C8)	e68f88
+揉	rub, massage; crush by hand (U+63C9)	e68f89
+揊	U+63CA (U+63CA)	e68f8a
+揋	U+63CB (U+63CB)	e68f8b
+揌	to shake (U+63CC)	e68f8c
+揍	hit, beat; smash, break (U+63CD)	e68f8d
+揎	to pull up the sleeves and stretch out the arms; to strike with bare fists (U+63CE)	e68f8e
+描	copy, trace, sketch; depict (U+63CF)	e68f8f
+提	hold in hand; lift in hand (U+63D0)	e68f90
+揑	to fabricate; to trump up (U+63D1)	e68f91
+插	insert, stick into; plant (U+63D2)	e68f92
+揓	U+63D3 (U+63D3)	e68f93
+揔	U+63D4 (U+63D4)	e68f94
+揕	roll up the sleeves; fight bare-fisted; strike, stab (U+63D5)	e68f95
+揖	salute, bow; defer to, yield (U+63D6)	e68f96
+揗	strike, hit with hand; tap; (Cant.) to be frightened; to move to and fro (U+63D7)	e68f97
+揘	U+63D8 (U+63D8)	e68f98
+揙	U+63D9 (U+63D9)	e68f99
+揚	scatter, spread; praise (U+63DA)	e68f9a
+換	change, exchange; substitute (U+63DB)	e68f9b
+揜	cover up; take by force, shut (U+63DC)	e68f9c
+揝	to hold in the hand, to grasp; to wring (U+63DD)	e68f9d
+揞	to cover (with the hand) (U+63DE)	e68f9e
+揟	U+63DF (U+63DF)	e68f9f
+揠	to pull up, to eradicate (U+63E0)	e68fa0
+握	grasp, hold fast, take by hand (U+63E1)	e68fa1
+揢	to seize; (Cant.) to block, obstruct (U+63E2)	e68fa2
+揣	put things under clothes (U+63E3)	e68fa3
+揤	U+63E4 (U+63E4)	e68fa4
+揥	scratcher (U+63E5)	e68fa5
+揦	to clutch; to grab at; to rub or scrape; to tear; (Cant.) to scratch; to feel around with the hand (U+63E6)	e68fa6
+揧	U+63E7 (U+63E7)	e68fa7
+揨	U+63E8 (U+63E8)	e68fa8
+揩	rub and wipe, dust, clean (U+63E9)	e68fa9
+揪	grasp with hand, pinch (U+63EA)	e68faa
+揫	grasp with hand, pinch (U+63EB)	e68fab
+揬	(Cant.) lay up; sit (U+63EC)	e68fac
+揭	raise, lift up; surname (U+63ED)	e68fad
+揮	direct; wipe away; squander (U+63EE)	e68fae
+揯	(Cant.) tight, distended (U+63EF)	e68faf
+揰	to push in or poke out; a punch; (Cant.) to collide (U+63F0)	e68fb0
+揱	U+63F1 (U+63F1)	e68fb1
+揲	to sort out the stalks used in divination; to fold (U+63F2)	e68fb2
+揳	U+63F3 (U+63F3)	e68fb3
+援	aid, assist; lead; cite (U+63F4)	e68fb4
+揵	carry (U+63F5)	e68fb5
+揶	make fun of, ridicule (U+63F6)	e68fb6
+揷	insert (U+63F7)	e68fb7
+揸	handful; to grasp, seize, pick up with fingers; (Cant.) to take, carry (U+63F8)	e68fb8
+揹	carry things on one's back (U+63F9)	e68fb9
+揺	wag, swing, wave; shake; scull (U+63FA)	e68fba
+揻	U+63FB (U+63FB)	e68fbb
+揼	(Cant.) to delay, waste time; to throw down, beat; to hang down (U+63FC)	e68fbc
+揽	grasp, take hold of; monopolize (U+63FD)	e68fbd
+揾	wipe off; press down with knuckle (U+63FE)	e68fbe
+揿	press (U+63FF)	e68fbf
+搀	give helping hand (U+6400)	e69080
+搁	place, put, lay down; delay (U+6401)	e69081
+搂	hug, embrace; drag, pull (U+6402)	e69082
+搃	all, general; to summarize; the chief; to manage (U+6403)	e69083
+搄	U+6404 (U+6404)	e69084
+搅	disturb, agitate, stir up (U+6405)	e69085
+搆	pull, drag; reach; implicate (U+6406)	e69086
+搇	to press down with the hand; to lead on; (Cant.) to cover, close up (U+6407)	e69087
+搈	U+6408 (U+6408)	e69088
+搉	knock; pick out; ridicule (U+6409)	e69089
+搊	pluck (U+640A)	e6908a
+搋	to thump (U+640B)	e6908b
+搌	to wipe tears; to bind (U+640C)	e6908c
+損	diminish; impair; injure (U+640D)	e6908d
+搎	to rub with the hand; to stroke (U+640E)	e6908e
+搏	seize; spring upon; strike (U+640F)	e6908f
+搐	cramp, spasm, convulsion; twitch (U+6410)	e69090
+搑	U+6411 (U+6411)	e69091
+搒	pole; beat (U+6412)	e69092
+搓	to rub or roll between the hands (U+6413)	e69093
+搔	to scratch (U+6414)	e69094
+搕	to strike; to take in the hand (U+6415)	e69095
+搖	wag, swing, wave; shake; scull (U+6416)	e69096
+搗	hull; thresh; beat, attack (U+6417)	e69097
+搘	prop (U+6418)	e69098
+搙	to handle; to play with (U+6419)	e69099
+搚	U+641A (U+641A)	e6909a
+搛	U+641B (U+641B)	e6909b
+搜	search, seek; investigate (U+641C)	e6909c
+搝	U+641D (U+641D)	e6909d
+搞	to clear, clarify (U+641E)	e6909e
+搟	U+641F (U+641F)	e6909f
+搠	to daub; to thrust (U+6420)	e690a0
+搡	to push over or push back (U+6421)	e690a1
+搢	to stick into; to shake (U+6422)	e690a2
+搣	(Cant.) to tear, peel, twist with the fingers (U+6423)	e690a3
+搤	seize (U+6424)	e690a4
+搥	beat, pound, strike, throw; shampoo (U+6425)	e690a5
+搦	grasp, seize, take in hand (U+6426)	e690a6
+搧	fan; strike on face; stir up (U+6427)	e690a7
+搨	rub, make rubbings of inscription (U+6428)	e690a8
+搩	U+6429 (U+6429)	e690a9
+搪	ward off, evade; parry; block (U+642A)	e690aa
+搫	U+642B (U+642B)	e690ab
+搬	transfer, move, remove, shift (U+642C)	e690ac
+搭	join together, attach to; add to (U+642D)	e690ad
+搮	U+642E (U+642E)	e690ae
+搯	take out, pull out (U+642F)	e690af
+搰	dig; turbid; exert; (Cant.) to shake (U+6430)	e690b0
+搱	U+6431 (U+6431)	e690b1
+搲	to seize, to grasp (U+6432)	e690b2
+搳	U+6433 (U+6433)	e690b3
+搴	extract; seize; pluck up (U+6434)	e690b4
+搵	wipe off; press down with knuckle; to immerse; (Cant.) to search, look for (U+6435)	e690b5
+搶	plunder, rob, take by force (U+6436)	e690b6
+搷	to beat; to winnow (U+6437)	e690b7
+搸	U+6438 (U+6438)	e690b8
+搹	U+6439 (U+6439)	e690b9
+携	lead by hand, take with; carry (U+643A)	e690ba
+搻	U+643B (U+643B)	e690bb
+搼	U+643C (U+643C)	e690bc
+搽	smear; rub, wipe; anoint (U+643D)	e690bd
+搾	to crush with the hand, press, squeeze, extract (U+643E)	e690be
+搿	U+643F (U+643F)	e690bf
+摀	to cover with the hand; to hide (U+6440)	e69180
+摁	to press with the hand (U+6441)	e69181
+摂	take in, absorb; act as deputy (U+6442)	e69182
+摃	U+6443 (U+6443)	e69183
+摄	take in, absorb; act as deputy (U+6444)	e69184
+摅	spread, disperse; vent, set forth (U+6445)	e69185
+摆	put, place; display; swing, sway (U+6446)	e69186
+摇	wag, swing, wave; shake; scull (U+6447)	e69187
+摈	exclude, expel, reject; usher (U+6448)	e69188
+摉	U+6449 (U+6449)	e69189
+摊	spread out, open; apportion (U+644A)	e6918a
+摋	U+644B (U+644B)	e6918b
+摌	U+644C (U+644C)	e6918c
+摍	U+644D (U+644D)	e6918d
+摎	to strangle; to inquire into (U+644E)	e6918e
+摏	pound; strike against; ram; (Cant.) to hit with the elbow (U+644F)	e6918f
+摐	to hit (a bell or drum) (U+6450)	e69190
+摑	box one's ears, slap (U+6451)	e69191
+摒	expel, cast off; arrange (U+6452)	e69192
+摓	U+6453 (U+6453)	e69193
+摔	fall ground, stumble, trip (U+6454)	e69194
+摕	(Cant.) to hit (U+6455)	e69195
+摖	U+6456 (U+6456)	e69196
+摗	U+6457 (U+6457)	e69197
+摘	pluck, pick; select; specify (U+6458)	e69198
+摙	to transport; to remove to take; (Cant.) to pinch; to tidy up (U+6459)	e69199
+摚	(Cant.) to pull open (a drawer) (U+645A)	e6919a
+摛	to spread (name, news); to be known (U+645B)	e6919b
+摜	throw ground; know, be familiar (U+645C)	e6919c
+摝	U+645D (U+645D)	e6919d
+摞	to pile up (U+645E)	e6919e
+摟	hug, embrace; drag, pull (U+645F)	e6919f
+摠	general (U+6460)	e691a0
+摡	to irrigate; to flood water flowing; to scour (U+6461)	e691a1
+摢	U+6462 (U+6462)	e691a2
+摣	a handful. to pick up with the fingers. to seize (U+6463)	e691a3
+摤	U+6464 (U+6464)	e691a4
+摥	U+6465 (U+6465)	e691a5
+摦	wide (U+6466)	e691a6
+摧	destroy, break, injure (U+6467)	e691a7
+摨	U+6468 (U+6468)	e691a8
+摩	rub, scour, grind; friction (U+6469)	e691a9
+摪	U+646A (U+646A)	e691aa
+摫	U+646B (U+646B)	e691ab
+摬	U+646C (U+646C)	e691ac
+摭	pick up, gather (U+646D)	e691ad
+摮	to rattle; to shake. to smite (U+646E)	e691ae
+摯	sincere, warm, cordial; surname (U+646F)	e691af
+摰	to seize with the hand; to grasp; to advance; to break down (U+6470)	e691b0
+摱	(Cant.) to climb, hold on to, cling to; to pull the trigger on a gun (U+6471)	e691b1
+摲	raze (U+6472)	e691b2
+摳	raise, lift up; tight-fisted (U+6473)	e691b3
+摴	to stretch out, to unroll; comfortable, easy (used for U+8212 舒); 摴蒲 is the name of a traditional play (U+6474)	e691b4
+摵	(Cant.) to pull, lift up (U+6475)	e691b5
+摶	roll around with hand; model (U+6476)	e691b6
+摷	(Cant.) to search for, look for; to beat up (U+6477)	e691b7
+摸	gently touch with hand; caress (U+6478)	e691b8
+摹	trace, copy, duplicate; pattern (U+6479)	e691b9
+摺	fold, bend; twisted, curved (U+647A)	e691ba
+摻	a delicate hand; mix, blend, adulterate (U+647B)	e691bb
+摼	(Cant.) to knock, hit (U+647C)	e691bc
+摽	throw out; push out; strike (U+647D)	e691bd
+摾	U+647E (U+647E)	e691be
+摿	U+647F (U+647F)	e691bf
+撀	U+6480 (U+6480)	e69280
+撁	U+6481 (U+6481)	e69281
+撂	put down, put aside; drop (U+6482)	e69282
+撃	strike, hit, beat; attack, fight (U+6483)	e69283
+撄	oppose, offend, run counter to (U+6484)	e69284
+撅	protrude; snap, break; dig (U+6485)	e69285
+撆	to skim off, cast away (U+6486)	e69286
+撇	discard, abandon, throw away (U+6487)	e69287
+撈	scoop out of water; dredge, fish (U+6488)	e69288
+撉	U+6489 (U+6489)	e69289
+撊	fierce; wrathful (U+648A)	e6928a
+撋	to rub between the hands (U+648B)	e6928b
+撌	U+648C (U+648C)	e6928c
+撍	to hold in the hand, to grasp; to wring; (Cant.) to pull out (U+648D)	e6928d
+撎	U+648E (U+648E)	e6928e
+撏	pull out, pluck; take hold of (U+648F)	e6928f
+撐	prop up, support; brace; to push off (with a pole) (U+6490)	e69290
+撑	prop up, support; brace (U+6491)	e69291
+撒	release, cast away, let go; disperse; relax (U+6492)	e69292
+撓	scratch; disturb, bother; submit (U+6493)	e69293
+撔	U+6494 (U+6494)	e69294
+撕	rip, tear; buy cloth (U+6495)	e69295
+撖	U+6496 (U+6496)	e69296
+撗	U+6497 (U+6497)	e69297
+撘	(Cant.) to strike, pound (U+6498)	e69298
+撙	economize; abide by, comply with (U+6499)	e69299
+撚	twirl in fingers, tease, toy with (U+649A)	e6929a
+撛	U+649B (U+649B)	e6929b
+撜	U+649C (U+649C)	e6929c
+撝	wave, brandish; modest, humble (U+649D)	e6929d
+撞	knock against, bump into, collide (U+649E)	e6929e
+撟	correct; to bend or twist; to feign; to raise (the hand) (U+649F)	e6929f
+撠	U+64A0 (U+64A0)	e692a0
+撡	U+64A1 (U+64A1)	e692a1
+撢	to dust; a duster (U+64A2)	e692a2
+撣	to dust; a duster (U+64A3)	e692a3
+撤	omit; remove; withdraw (U+64A4)	e692a4
+撥	move; dispel; distribute; plectrum, play stringed instrument (U+64A5)	e692a5
+撦	rip up, tear down; raise; haul (U+64A6)	e692a6
+撧	U+64A7 (U+64A7)	e692a7
+撨	U+64A8 (U+64A8)	e692a8
+撩	lift up, raise; leave, depart (U+64A9)	e692a9
+撪	U+64AA (U+64AA)	e692aa
+撫	pat, console, comfort; pacify (U+64AB)	e692ab
+撬	lift, raise; pry open (U+64AC)	e692ac
+播	sow, spread; broadcast; case away, reject (U+64AD)	e692ad
+撮	little bit, small amount, pinch (U+64AE)	e692ae
+撯	U+64AF (U+64AF)	e692af
+撰	compose, write, compile (U+64B0)	e692b0
+撱	to shorten, to clip; to throw away (U+64B1)	e692b1
+撲	pound, beat, strike; attack (U+64B2)	e692b2
+撳	press; push (U+64B3)	e692b3
+撴	to jolt; to thump (U+64B4)	e692b4
+撵	drive away, expel, oust (U+64B5)	e692b5
+撶	U+64B6 (U+64B6)	e692b6
+撷	pick up, gather up; hold in lap (U+64B7)	e692b7
+撸	U+64B8 (U+64B8)	e692b8
+撹	disturb, agitate, stir up (U+64B9)	e692b9
+撺	hurry; to throw; to urge (U+64BA)	e692ba
+撻	flog, whip; chastise; (Cant.) classifier for places; a tart (from the English 'tart') (U+64BB)	e692bb
+撼	move, shake; (Cant.) to fight (U+64BC)	e692bc
+撽	U+64BD (U+64BD)	e692bd
+撾	to beat; to strike (U+64BE)	e692be
+撿	to pick up (U+64BF)	e692bf
+擀	roll flat (U+64C0)	e69380
+擁	embrace, hug, squeeze; crowd (U+64C1)	e69381
+擂	rub, grind; grind with a mortar and pestle; triturate (U+64C2)	e69382
+擃	to ward off; to stab, prick (U+64C3)	e69383
+擄	capture, seize (U+64C4)	e69384
+擅	monopolize; claim; arbitrarily; to dare (U+64C5)	e69385
+擆	U+64C6 (U+64C6)	e69386
+擇	select, choose, pick out (U+64C7)	e69387
+擈	U+64C8 (U+64C8)	e69388
+擉	to pierce; to break through (U+64C9)	e69389
+擊	strike, hit, beat; attack, fight (U+64CA)	e6938a
+擋	obstruct, impede; stop; resist (U+64CB)	e6938b
+擌	U+64CC (U+64CC)	e6938c
+操	conduct, run, control, manage (U+64CD)	e6938d
+擎	lift up, hold up, support (U+64CE)	e6938e
+擏	(Cant.) to guard against, take precautions (U+64CF)	e6938f
+擐	to put on (U+64D0)	e69390
+擑	U+64D1 (U+64D1)	e69391
+擒	catch, capture, seize, arrest (U+64D2)	e69392
+擓	to rub, to scratch (U+64D3)	e69393
+擔	carry, bear, undertake (U+64D4)	e69394
+擕	U+64D5 (U+64D5)	e69395
+擖	scrape (U+64D6)	e69396
+擗	to beat the breast (U+64D7)	e69397
+擘	thumb; break, tear open, rip (U+64D8)	e69398
+擙	to reach (U+64D9)	e69399
+據	to occupy, take possession of; a base (U+64DA)	e6939a
+擛	U+64DB (U+64DB)	e6939b
+擜	U+64DC (U+64DC)	e6939c
+擝	(Cant.) to pull; to stretch; to pluck (U+64DD)	e6939d
+擞	shake, tremble, quake; flutter (U+64DE)	e6939e
+擟	U+64DF (U+64DF)	e6939f
+擠	crowd, squeeze, push against (U+64E0)	e693a0
+擡	carry, raise, lift (U+64E1)	e693a1
+擢	pull up, draw up; select (U+64E2)	e693a2
+擣	hull; thresh; beat, attack (U+64E3)	e693a3
+擤	to blow the nose with fingers (U+64E4)	e693a4
+擥	drive away, expel, oust (U+64E5)	e693a5
+擦	wipe, scrub, rub, scour; brush (U+64E6)	e693a6
+擧	raise, lift up; recommend (U+64E7)	e693a7
+擨	U+64E8 (U+64E8)	e693a8
+擩	to stain, to dye (U+64E9)	e693a9
+擪	to tuck in, to put the finger into, to put in, to stow away (U+64EA)	e693aa
+擫	tuck; hold (U+64EB)	e693ab
+擬	draft; intend, plan, propose (U+64EC)	e693ac
+擭	trap catch animals, snare; seize (U+64ED)	e693ad
+擮	U+64EE (U+64EE)	e693ae
+擯	exclude, expel, reject; usher (U+64EF)	e693af
+擰	pinch; twist, wring; determined (U+64F0)	e693b0
+擱	place, put, lay down; delay (U+64F1)	e693b1
+擲	throw (down), hurl, cast, fling (U+64F2)	e693b2
+擳	(Cant.) to squeeze out; tickle (U+64F3)	e693b3
+擴	expand, enlarge, stretch (U+64F4)	e693b4
+擵	to touch, feel with the hand (U+64F5)	e693b5
+擶	U+64F6 (U+64F6)	e693b6
+擷	pick up, gather up; hold in lap (U+64F7)	e693b7
+擸	to hold, to grasp; to hold the hair; to pull at; (Cant.) to glance (U+64F8)	e693b8
+擹	U+64F9 (U+64F9)	e693b9
+擺	put, place; display; swing, sway (U+64FA)	e693ba
+擻	shake, tremble, quake; flutter (U+64FB)	e693bb
+擼	U+64FC (U+64FC)	e693bc
+擽	tickle; ticklish, funny (U+64FD)	e693bd
+擾	disturb, annoy, agitate (U+64FE)	e693be
+擿	to select, to pick out from, to discard (U+64FF)	e693bf
+攀	climb; pull; hang on to (U+6500)	e69480
+攁	U+6501 (U+6501)	e69481
+攂	to beat a drum (U+6502)	e69482
+攃	preceding (U+6503)	e69483
+攄	spread, disperse; vent, set forth (U+6504)	e69484
+攅	save, hoard (U+6505)	e69485
+攆	drive away, expel, oust (U+6506)	e69486
+攇	U+6507 (U+6507)	e69487
+攈	U+6508 (U+6508)	e69488
+攉	to beckon; to urge (U+6509)	e69489
+攊	U+650A (U+650A)	e6948a
+攋	to clutch; to grab at; to rub or scrape; to tear; (Cant.) to leave behind, omit (U+650B)	e6948b
+攌	U+650C (U+650C)	e6948c
+攍	U+650D (U+650D)	e6948d
+攎	U+650E (U+650E)	e6948e
+攏	collect, bring together (U+650F)	e6948f
+攐	U+6510 (U+6510)	e69490
+攑	U+6511 (U+6511)	e69491
+攒	save, hoard (U+6512)	e69492
+攓	U+6513 (U+6513)	e69493
+攔	obstruct, impede, bar, hinder (U+6514)	e69494
+攕	U+6515 (U+6515)	e69495
+攖	oppose, offend, run counter to (U+6516)	e69496
+攗	U+6517 (U+6517)	e69497
+攘	seize, take by force; repel (U+6518)	e69498
+攙	to give a helping hand; to support, hold up (U+6519)	e69499
+攚	U+651A (U+651A)	e6949a
+攛	hurry; to throw; to urge; (Cant.) to seduce (U+651B)	e6949b
+攜	lead by hand, take with; carry (U+651C)	e6949c
+攝	take in, absorb; act as deputy; administer, assist (U+651D)	e6949d
+攞	to split, to rend; to choose to rub, to wipe (U+651E)	e6949e
+攟	U+651F (U+651F)	e6949f
+攠	U+6520 (U+6520)	e694a0
+攡	U+6521 (U+6521)	e694a1
+攢	save, hoard (U+6522)	e694a2
+攣	tangled; entwined; crooked (U+6523)	e694a3
+攤	spread out, open; apportion (U+6524)	e694a4
+攥	(coll.) hold; grip; grasp (U+6525)	e694a5
+攦	U+6526 (U+6526)	e694a6
+攧	U+6527 (U+6527)	e694a7
+攨	U+6528 (U+6528)	e694a8
+攩	obstruct, impede; stop; resist (U+6529)	e694a9
+攪	disturb, agitate, stir up (U+652A)	e694aa
+攫	snatch away, seize; catch with (U+652B)	e694ab
+攬	grasp, take hold of; monopolize (U+652C)	e694ac
+攭	U+652D (U+652D)	e694ad
+攮	to fend off; to stab (U+652E)	e694ae
+支	disperse, pay; support; branch (U+652F)	e694af
+攰	totally exhausted (U+6530)	e694b0
+攱	U+6531 (U+6531)	e694b1
+攲	up; uneven (U+6532)	e694b2
+攳	U+6533 (U+6533)	e694b3
+攴	rap, tap lightly; KangXi radical 66 (U+6534)	e694b4
+攵	rap, tap; radical number 66 (U+6535)	e694b5
+收	gather together, collect; harvest (U+6536)	e694b6
+攷	examine, test; investigate (U+6537)	e694b7
+攸	distant, far; adverbial prefix (U+6538)	e694b8
+改	change, alter; improve, remodel (U+6539)	e694b9
+攺	U+653A (U+653A)	e694ba
+攻	attack, assault; criticize (U+653B)	e694bb
+攼	U+653C (U+653C)	e694bc
+攽	U+653D (U+653D)	e694bd
+放	put, release, free, liberate (U+653E)	e694be
+政	government, political affairs (U+653F)	e694bf
+敀	U+6540 (U+6540)	e69580
+敁	to weigh in the hand, to estimate; to shake (U+6541)	e69581
+敂	deduct (U+6542)	e69582
+敃	strong; robust; vigorous (U+6543)	e69583
+敄	to put forth effort (U+6544)	e69584
+故	ancient, old; reason, because (U+6545)	e69585
+敆	U+6546 (U+6546)	e69586
+敇	U+6547 (U+6547)	e69587
+效	result, effect; effectiveness (U+6548)	e69588
+敉	pacify, soothe, stabilize (U+6549)	e69589
+敊	U+654A (U+654A)	e6958a
+敋	to strike (U+654B)	e6958b
+敌	enemy, foe, rival; resist (U+654C)	e6958c
+敍	express, state, relate, narrate (U+654D)	e6958d
+敎	teach (U+654E)	e6958e
+敏	fast, quick, clever, smart (U+654F)	e6958f
+敐	U+6550 (U+6550)	e69590
+救	save, rescue, relieve; help, aid (U+6551)	e69591
+敒	U+6552 (U+6552)	e69592
+敓	U+6553 (U+6553)	e69593
+敔	gavel (U+6554)	e69594
+敕	an imperial order or decree (U+6555)	e69595
+敖	ramble, play about; leisurely; surname (U+6556)	e69596
+敗	be defeated, decline, fail (U+6557)	e69597
+敘	express, state, relate, narrate (U+6558)	e69598
+教	teach, class (U+6559)	e69599
+敚	U+655A (U+655A)	e6959a
+敛	draw back, fold back; collect (U+655B)	e6959b
+敜	fill up (U+655C)	e6959c
+敝	break, destroy; broken, tattered (U+655D)	e6959d
+敞	roomy, spacious, open, broad (U+655E)	e6959e
+敟	U+655F (U+655F)	e6959f
+敠	to weigh; cut; come without being invited (U+6560)	e695a0
+敡	rebuke (U+6561)	e695a1
+敢	to dare, venture; bold, brave (U+6562)	e695a2
+散	scatter, disperse, break up (U+6563)	e695a3
+敤	U+6564 (U+6564)	e695a4
+敥	U+6565 (U+6565)	e695a5
+敦	esteem; honest, candid, sincere (U+6566)	e695a6
+敧	to pick up thing with chopsticks or pincers. (U+6567)	e695a7
+敨	U+6568 (U+6568)	e695a8
+敩	U+6569 (U+6569)	e695a9
+敪	to weigh; cut; come without being invited (U+656A)	e695aa
+敫	ancient musical instrument (U+656B)	e695ab
+敬	respect, honor; respectfully (U+656C)	e695ac
+敭	scatter, spread; praise; raise (U+656D)	e695ad
+敮	U+656E (U+656E)	e695ae
+敯	to defy, dare; strong; to suffocate (U+656F)	e695af
+数	number; several, count; fate (U+6570)	e695b0
+敱	U+6571 (U+6571)	e695b1
+敲	strike, beat, pound, hammer; rap (U+6572)	e695b2
+敳	to govern forcefully (U+6573)	e695b3
+整	orderly, neat, tidy; whole (U+6574)	e695b4
+敵	enemy, foe, rival; resist (U+6575)	e695b5
+敶	U+6576 (U+6576)	e695b6
+敷	spread, diffuse; apply, paint (U+6577)	e695b7
+數	number; several; count; fate (U+6578)	e695b8
+敹	to sew; keep tidy and repaired (U+6579)	e695b9
+敺	expel, drive away; beat, assault (U+657A)	e695ba
+敻	long, faraway; pre-eminent (U+657B)	e695bb
+敼	U+657C (U+657C)	e695bc
+敽	bind (U+657D)	e695bd
+敾	to rule (U+657E)	e695be
+敿	bind (U+657F)	e695bf
+斀	U+6580 (U+6580)	e69680
+斁	dislike; be weary of; explain (U+6581)	e69681
+斂	draw back, fold back; collect (U+6582)	e69682
+斃	kill; die violent death (U+6583)	e69683
+斄	U+6584 (U+6584)	e69684
+斅	teach, instruct; be aroused; awake; intelligent (U+6585)	e69685
+斆	teach, instruct; be aroused; awake; intelligent (U+6586)	e69686
+文	literature, culture, writing (U+6587)	e69687
+斈	learning, knowledge; school (U+6588)	e69688
+斉	even, uniform, of equal length (U+6589)	e69689
+斊	U+658A (U+658A)	e6968a
+斋	vegetarian diet; study (U+658B)	e6968b
+斌	refined, having both appearance (U+658C)	e6968c
+斍	to perceive, feel (U+658D)	e6968d
+斎	vegetarian diet; study (U+658E)	e6968e
+斏	U+658F (U+658F)	e6968f
+斐	graceful, elegant, beautiful (U+6590)	e69690
+斑	mottled, striped, freckle (U+6591)	e69691
+斒	variegated; striped; marbled (U+6592)	e69692
+斓	multicolored (U+6593)	e69693
+斔	U+6594 (U+6594)	e69694
+斕	multicolored (U+6595)	e69695
+斖	U+6596 (U+6596)	e69696
+斗	Chinese peck; liquid measure (U+6597)	e69697
+斘	U+6598 (U+6598)	e69698
+料	consider, conjecture; materials, ingredients (U+6599)	e69699
+斚	a small cup of stone with ears, used in ancient times for libations (U+659A)	e6969a
+斛	dry measure equal to some five or ten dou (U+6597 舒) (U+659B)	e6969b
+斜	slanting, sloping, inclined (U+659C)	e6969c
+斝	small jade wine cup (U+659D)	e6969d
+斞	a stack of grain; a measure of 16 dou3 (U+659E)	e6969e
+斟	to pour wine or tea into a cup; to gauge (U+659F)	e6969f
+斠	measure (U+65A0)	e696a0
+斡	revolve, rotate, turn (U+65A1)	e696a1
+斢	U+65A2 (U+65A2)	e696a2
+斣	U+65A3 (U+65A3)	e696a3
+斤	a catty (approximately 500 g); an axe; keen, shrewd; KangXi radical number 69 (U+65A4)	e696a4
+斥	to scold, upbraid, accuse, reproach (U+65A5)	e696a5
+斦	U+65A6 (U+65A6)	e696a6
+斧	axe, hatchet; chop, hew (U+65A7)	e696a7
+斨	axe (U+65A8)	e696a8
+斩	cut, chop, sever; behead (U+65A9)	e696a9
+斪	U+65AA (U+65AA)	e696aa
+斫	cut, chop, lop off (U+65AB)	e696ab
+斬	cut, chop, sever; behead (U+65AC)	e696ac
+断	sever, cut off; interrupt (U+65AD)	e696ad
+斮	cut off (U+65AE)	e696ae
+斯	this, thus, such; to lop off; emphatic particle (U+65AF)	e696af
+新	new, recent, fresh, modern (U+65B0)	e696b0
+斱	U+65B1 (U+65B1)	e696b1
+斲	cut, chop, hack (U+65B2)	e696b2
+斳	U+65B3 (U+65B3)	e696b3
+斴	the sound of water flowing among rocks (U+65B4)	e696b4
+斵	to cut to pieces; to hack; to chop or hew; to carve for ornaments (U+65B5)	e696b5
+斶	U+65B6 (U+65B6)	e696b6
+斷	sever, cut off; interrupt (U+65B7)	e696b7
+斸	cut (U+65B8)	e696b8
+方	a square, rectangle; a region; local (U+65B9)	e696b9
+斺	U+65BA (U+65BA)	e696ba
+斻	U+65BB (U+65BB)	e696bb
+於	in, at, on; interjection alas! (U+65BC)	e696bc
+施	grant, bestow; give; act; name (U+65BD)	e696bd
+斾	a pennon; a streamer (U+65BE)	e696be
+斿	to swim; to move or rove freely (U+65BF)	e696bf
+旀	place name (U+65C0)	e69780
+旁	side; by side, close by, near (U+65C1)	e69781
+旂	flag (U+65C2)	e69782
+旃	silk banner with bent pole (U+65C3)	e69783
+旄	a kind of ancient flag; old (U+65C4)	e69784
+旅	trip, journey; travel; traveler (U+65C5)	e69785
+旆	flag ornament; flags, banners (U+65C6)	e69786
+旇	U+65C7 (U+65C7)	e69787
+旈	fringes of pearls on crowns; a pennant (U+65C8)	e69788
+旉	to state to, to announce (U+65C9)	e69789
+旊	U+65CA (U+65CA)	e6978a
+旋	revolve, move in orbit; return (U+65CB)	e6978b
+旌	banner or flag adorned with feathers; to signal (U+65CC)	e6978c
+旍	U+65CD (U+65CD)	e6978d
+旎	fluttering of flag; romantic (U+65CE)	e6978e
+族	a family clan, ethnic group, tribe (U+65CF)	e6978f
+旐	an embroidered pennant (U+65D0)	e69790
+旑	U+65D1 (U+65D1)	e69791
+旒	fringes of pearls on crowns (U+65D2)	e69792
+旓	serrated edges on a Chinese flag (U+65D3)	e69793
+旔	U+65D4 (U+65D4)	e69794
+旕	place name (U+65D5)	e69795
+旖	romantic; tender; charming (U+65D6)	e69796
+旗	banner, flag, streamer (U+65D7)	e69797
+旘	a pennon; a flag. to fasten (U+65D8)	e69798
+旙	a pennant, a banner (U+65D9)	e69799
+旚	U+65DA (U+65DA)	e6979a
+旛	a pennant, a banner (U+65DB)	e6979b
+旜	flag (U+65DC)	e6979c
+旝	banner, flag, streamer; insignia (U+65DD)	e6979d
+旞	U+65DE (U+65DE)	e6979e
+旟	an military flag oa standard (U+65DF)	e6979f
+无	negative, no, not; KangXi radical 71 (U+65E0)	e697a0
+旡	choke on something eaten (U+65E1)	e697a1
+既	already; de facto; since; then (U+65E2)	e697a2
+旣	already; de facto; since; then (U+65E3)	e697a3
+旤	U+65E4 (U+65E4)	e697a4
+日	sun; day; daytime (U+65E5)	e697a5
+旦	dawn; morning; day (U+65E6)	e697a6
+旧	old, ancient; former, past (U+65E7)	e697a7
+旨	purpose, aim; excellent (U+65E8)	e697a8
+早	early; soon; morning (U+65E9)	e697a9
+旪	united in; agreement; mutual aid (U+65EA)	e697aa
+旫	U+65EB (U+65EB)	e697ab
+旬	ten-day period; period of time (U+65EC)	e697ac
+旭	rising sun; brilliance; radiant (U+65ED)	e697ad
+旮	nook, corner (U+65EE)	e697ae
+旯	nook, corner (U+65EF)	e697af
+旰	sunset, dusk; evening (U+65F0)	e697b0
+旱	drought; dry; dry land (U+65F1)	e697b1
+旲	U+65F2 (U+65F2)	e697b2
+旳	U+65F3 (U+65F3)	e697b3
+旴	dawn (U+65F4)	e697b4
+旵	U+65F5 (U+65F5)	e697b5
+时	time, season; era, age, period (U+65F6)	e697b6
+旷	extensive, wide, broad; empty (U+65F7)	e697b7
+旸	rising sun; sunshine (U+65F8)	e697b8
+旹	time, season; era, age, period (U+65F9)	e697b9
+旺	prosper; prosperous; increase (U+65FA)	e697ba
+旻	heaven (U+65FB)	e697bb
+旼	gentle and affable (U+65FC)	e697bc
+旽	morning sun, sunrise (U+65FD)	e697bd
+旾	U+65FE (U+65FE)	e697be
+旿	U+65FF (U+65FF)	e697bf
+昀	sun light; used in personal names (U+6600)	e69880
+昁	U+6601 (U+6601)	e69881
+昂	rise, raise; proud, bold; upright (U+6602)	e69882
+昃	afternoon; the sun in the afternoon sky; to decline (U+6603)	e69883
+昄	big (U+6604)	e69884
+昅	U+6605 (U+6605)	e69885
+昆	elder brother; descendants (U+6606)	e69886
+昇	rise, ascent; peaceful; peace (U+6607)	e69887
+昈	U+6608 (U+6608)	e69888
+昉	bright dawn, daybreak; appear (U+6609)	e69889
+昊	summer time; sky; heaven (U+660A)	e6988a
+昋	U+660B (U+660B)	e6988b
+昌	light of sun; good, proper (U+660C)	e6988c
+昍	U+660D (U+660D)	e6988d
+明	bright, light, brilliant; clear (U+660E)	e6988e
+昏	dusk, nightfall, twilight, dark (U+660F)	e6988f
+昐	U+6610 (U+6610)	e69890
+昑	bright (U+6611)	e69891
+昒	U+6612 (U+6612)	e69892
+易	change; easy (U+6613)	e69893
+昔	formerly; ancient; in beginning (U+6614)	e69894
+昕	dawn; early morning; day (U+6615)	e69895
+昖	U+6616 (U+6616)	e69896
+昗	U+6617 (U+6617)	e69897
+昘	U+6618 (U+6618)	e69898
+昙	become cloudy, overcast (U+6619)	e69899
+昚	U+661A (U+661A)	e6989a
+昛	U+661B (U+661B)	e6989b
+昜	to open out, to expand; bright, glorious (U+661C)	e6989c
+昝	a dual pronoun, I, you and me, we two (U+661D)	e6989d
+昞	bright, luminous; glorious (U+661E)	e6989e
+星	a star, planet; any point of light (U+661F)	e6989f
+映	project; reflect light (U+6620)	e698a0
+昡	long day; extended; relaxed (U+6621)	e698a1
+昢	U+6622 (U+6622)	e698a2
+昣	U+6623 (U+6623)	e698a3
+昤	sunshine (U+6624)	e698a4
+春	spring; wanton (U+6625)	e698a5
+昦	U+6626 (U+6626)	e698a6
+昧	obscure, dark; darken (U+6627)	e698a7
+昨	yesterday; in former times, past (U+6628)	e698a8
+昩	U+6629 (U+6629)	e698a9
+昪	delighted; pleased (U+662A)	e698aa
+昫	warm (U+662B)	e698ab
+昬	dusk, dark confused; stupid (U+662C)	e698ac
+昭	bright, luminous; illustrious (U+662D)	e698ad
+昮	U+662E (U+662E)	e698ae
+是	indeed, yes, right; to be; demonstrative pronoun, this, that (U+662F)	e698af
+昰	var of 'to be', 'summer'; name (U+6630)	e698b0
+昱	bright light, sunlight; dazzling (U+6631)	e698b1
+昲	U+6632 (U+6632)	e698b2
+昳	the declining sun in the west (U+6633)	e698b3
+昴	one of the 28 constellations (U+6634)	e698b4
+昵	intimate, close; approach (U+6635)	e698b5
+昶	a long day. bright. extended. clear (U+6636)	e698b6
+昷	to feed a prisoner (U+6637)	e698b7
+昸	U+6638 (U+6638)	e698b8
+昹	U+6639 (U+6639)	e698b9
+昺	bright, glorious; brilliant (U+663A)	e698ba
+昻	rise (U+663B)	e698bb
+昼	daytime, daylight (U+663C)	e698bc
+昽	vague, dim; twilight (U+663D)	e698bd
+显	manifest, display; evident, clear (U+663E)	e698be
+昿	extensive, wide, broad; empty (U+663F)	e698bf
+晀	U+6640 (U+6640)	e69980
+晁	morning, dawn; surname (U+6641)	e69981
+時	time, season; era, age, period (U+6642)	e69982
+晃	bright, dazzling; to sway, shake (U+6643)	e69983
+晄	bright, dazzling; to sway, shake (U+6644)	e69984
+晅	light of the sun; to dry in the sun (U+6645)	e69985
+晆	U+6646 (U+6646)	e69986
+晇	U+6647 (U+6647)	e69987
+晈	U+6648 (U+6648)	e69988
+晉	advance, increase; promote (U+6649)	e69989
+晊	U+664A (U+664A)	e6998a
+晋	advance, increase; promote (U+664B)	e6998b
+晌	noon, midday; moment; unit land measurement equal to seven mou (U+755D 畝), or the area that can be sown in one day (U+664C)	e6998c
+晍	U+664D (U+664D)	e6998d
+晎	U+664E (U+664E)	e6998e
+晏	peaceful, quiet; clear; late in the day (U+664F)	e6998f
+晐	U+6650 (U+6650)	e69990
+晑	U+6651 (U+6651)	e69991
+晒	dry in sun, expose to sun (U+6652)	e69992
+晓	dawn, daybreak; clear, explicit (U+6653)	e69993
+晔	bright; radiant; thriving (U+6654)	e69994
+晕	halo in sky; fog; dizzy, faint (U+6655)	e69995
+晖	sunshine; light, bright, radiant (U+6656)	e69996
+晗	pre-dawn (U+6657)	e69997
+晘	U+6658 (U+6658)	e69998
+晙	early; bright; respect (U+6659)	e69999
+晚	night, evening; late (U+665A)	e6999a
+晛	sunlight (U+665B)	e6999b
+晜	insect (U+665C)	e6999c
+晝	daytime, daylight (U+665D)	e6999d
+晞	dry, expose sun; dawn (U+665E)	e6999e
+晟	clear, bright; splendor, brightness (U+665F)	e6999f
+晠	U+6660 (U+6660)	e699a0
+晡	late afternoon (U+6661)	e699a1
+晢	light of stars; shine (U+6662)	e699a2
+晣	U+6663 (U+6663)	e699a3
+晤	have interview with; meet (U+6664)	e699a4
+晥	Anhui province (U+6665)	e699a5
+晦	dark, unclear, obscure; night (U+6666)	e699a6
+晧	daybreak; bright and brilliant (U+6667)	e699a7
+晨	early morning, daybreak (U+6668)	e699a8
+晩	night (U+6669)	e699a9
+晪	U+666A (U+666A)	e699aa
+晫	bright (U+666B)	e699ab
+晬	first birthday of a child (U+666C)	e699ac
+晭	U+666D (U+666D)	e699ad
+普	universal, general, widespread (U+666E)	e699ae
+景	scenery, view; conditions (U+666F)	e699af
+晰	clear, evident; clearly (U+6670)	e699b0
+晱	U+6671 (U+6671)	e699b1
+晲	U+6672 (U+6672)	e699b2
+晳	fair; white; clear; discriminate (U+6673)	e699b3
+晴	clear weather, fine weather (U+6674)	e699b4
+晵	U+6675 (U+6675)	e699b5
+晶	crystal; clear, bright; radiant (U+6676)	e699b6
+晷	shadows of sun; time; sundial (U+6677)	e699b7
+晸	appearance of the sun (U+6678)	e699b8
+晹	the sun going behind and out from behind clouds (U+6679)	e699b9
+智	wisdom, knowledge, intelligence (U+667A)	e699ba
+晻	U+667B (U+667B)	e699bb
+晼	sunset (U+667C)	e699bc
+晽	U+667D (U+667D)	e699bd
+晾	air-dry; sun-dry (U+667E)	e699be
+晿	U+667F (U+667F)	e699bf
+暀	U+6680 (U+6680)	e69a80
+暁	dawn, daybreak; clear, explicit (U+6681)	e69a81
+暂	temporary (U+6682)	e69a82
+暃	U+6683 (U+6683)	e69a83
+暄	warm, comfortable; warm, genial (U+6684)	e69a84
+暅	U+6685 (U+6685)	e69a85
+暆	U+6686 (U+6686)	e69a86
+暇	leisure, relaxation, spare time (U+6687)	e69a87
+暈	halo in sky; fog; dizzy, faint (U+6688)	e69a88
+暉	sunshine; light, bright, radiant (U+6689)	e69a89
+暊	U+668A (U+668A)	e69a8a
+暋	strong, robust, tough (U+668B)	e69a8b
+暌	in opposition; distant from; separated (U+668C)	e69a8c
+暍	sunstroke (U+668D)	e69a8d
+暎	sun beginning decline; reflect (U+668E)	e69a8e
+暏	variant of 暑 U+6691, summer heat; hot (U+668F)	e69a8f
+暐	the bright shining of the sun (U+6690)	e69a90
+暑	hot (U+6691)	e69a91
+暒	U+6692 (U+6692)	e69a92
+暓	U+6693 (U+6693)	e69a93
+暔	U+6694 (U+6694)	e69a94
+暕	U+6695 (U+6695)	e69a95
+暖	warm, genial (U+6696)	e69a96
+暗	dark; obscure; in secret, covert (U+6697)	e69a97
+暘	rising sun; sunshine (U+6698)	e69a98
+暙	U+6699 (U+6699)	e69a99
+暚	U+669A (U+669A)	e69a9a
+暛	U+669B (U+669B)	e69a9b
+暜	U+669C (U+669C)	e69a9c
+暝	dark, obscure (U+669D)	e69a9d
+暞	U+669E (U+669E)	e69a9e
+暟	U+669F (U+669F)	e69a9f
+暠	daybreak; bright and brilliant (U+66A0)	e69aa0
+暡	U+66A1 (U+66A1)	e69aa1
+暢	smoothly, freely, unrestrained (U+66A2)	e69aa2
+暣	U+66A3 (U+66A3)	e69aa3
+暤	U+66A4 (U+66A4)	e69aa4
+暥	U+66A5 (U+66A5)	e69aa5
+暦	calendar, era (U+66A6)	e69aa6
+暧	obscure, dim, ambiguous, vague (U+66A7)	e69aa7
+暨	and; attain, reach; confines (U+66A8)	e69aa8
+暩	U+66A9 (U+66A9)	e69aa9
+暪	U+66AA (U+66AA)	e69aaa
+暫	temporary (U+66AB)	e69aab
+暬	U+66AC (U+66AC)	e69aac
+暭	U+66AD (U+66AD)	e69aad
+暮	evening, dusk, sunset; ending (U+66AE)	e69aae
+暯	U+66AF (U+66AF)	e69aaf
+暰	U+66B0 (U+66B0)	e69ab0
+暱	intimate, close; approach (U+66B1)	e69ab1
+暲	bright; to rise (of sun) (U+66B2)	e69ab2
+暳	U+66B3 (U+66B3)	e69ab3
+暴	violent, brutal, tyrannical (U+66B4)	e69ab4
+暵	dry by exposing sun (U+66B5)	e69ab5
+暶	U+66B6 (U+66B6)	e69ab6
+暷	U+66B7 (U+66B7)	e69ab7
+暸	bright, clear (U+66B8)	e69ab8
+暹	rise; advance, go forward (U+66B9)	e69ab9
+暺	U+66BA (U+66BA)	e69aba
+暻	bright (U+66BB)	e69abb
+暼	take fleeting glance at (U+66BC)	e69abc
+暽	U+66BD (U+66BD)	e69abd
+暾	morning sun, sunrise (U+66BE)	e69abe
+暿	U+66BF (U+66BF)	e69abf
+曀	stormy; cloudy, misty; dim; (Cant.) sultry (U+66C0)	e69b80
+曁	and; attain (U+66C1)	e69b81
+曂	U+66C2 (U+66C2)	e69b82
+曃	U+66C3 (U+66C3)	e69b83
+曄	bright; radiant; thriving (U+66C4)	e69b84
+曅	bright; flourishing (U+66C5)	e69b85
+曆	calendar, era (U+66C6)	e69b86
+曇	become cloudy, overcast (U+66C7)	e69b87
+曈	twilight just before sunrise (U+66C8)	e69b88
+曉	dawn, daybreak; clear, explicit (U+66C9)	e69b89
+曊	U+66CA (U+66CA)	e69b8a
+曋	U+66CB (U+66CB)	e69b8b
+曌	U+66CC (U+66CC)	e69b8c
+曍	bright, brilliant (U+66CD)	e69b8d
+曎	U+66CE (U+66CE)	e69b8e
+曏	once upon time; period of time (U+66CF)	e69b8f
+曐	U+66D0 (U+66D0)	e69b90
+曑	U+66D1 (U+66D1)	e69b91
+曒	U+66D2 (U+66D2)	e69b92
+曓	U+66D3 (U+66D3)	e69b93
+曔	U+66D4 (U+66D4)	e69b94

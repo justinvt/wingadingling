@@ -1,0 +1,1024 @@
+滕	an ancient state in Shandong province; water bursting forth (U+6ED5)	e6bb95
+滖	U+6ED6 (U+6ED6)	e6bb96
+滗	drain (U+6ED7)	e6bb97
+滘	a branching river (used in place names) (U+6ED8)	e6bb98
+滙	waters converging to one spot; whirling waters; to remit money (U+6ED9)	e6bb99
+滚	turn (U+6EDA)	e6bb9a
+滛	U+6EDB (U+6EDB)	e6bb9b
+滜	U+6EDC (U+6EDC)	e6bb9c
+滝	onomatopoeic for the sound of falling rain; an ancient name for Wu Shui; a place in Guangdong (U+6EDD)	e6bb9d
+滞	block up, obstruct; stagnant (U+6EDE)	e6bb9e
+滟	overflowing, billowing; wavy (U+6EDF)	e6bb9f
+滠	river in Hubei province (U+6EE0)	e6bba0
+满	fill; full, satisfied (U+6EE1)	e6bba1
+滢	clear, pure water; lucid; glossy (U+6EE2)	e6bba2
+滣	U+6EE3 (U+6EE3)	e6bba3
+滤	strain out, filter (U+6EE4)	e6bba4
+滥	flood, overflow; excessive (U+6EE5)	e6bba5
+滦	river and county in Hebei province (U+6EE6)	e6bba6
+滧	U+6EE7 (U+6EE7)	e6bba7
+滨	beach, sea coast; river bank (U+6EE8)	e6bba8
+滩	bank, a sandbar, shoal; rapids (U+6EE9)	e6bba9
+滪	place in Sichuan (U+6EEA)	e6bbaa
+滫	water in which rice has been boiled (U+6EEB)	e6bbab
+滬	Shanghai; river near Shanghai (U+6EEC)	e6bbac
+滭	U+6EED (U+6EED)	e6bbad
+滮	flow; (Cant.) to ooze; to spurt (U+6EEE)	e6bbae
+滯	block up, obstruct; stagnant (U+6EEF)	e6bbaf
+滰	U+6EF0 (U+6EF0)	e6bbb0
+滱	U+6EF1 (U+6EF1)	e6bbb1
+滲	soak through, infiltrate (U+6EF2)	e6bbb2
+滳	U+6EF3 (U+6EF3)	e6bbb3
+滴	drip; drop of water (U+6EF4)	e6bbb4
+滵	U+6EF5 (U+6EF5)	e6bbb5
+滶	U+6EF6 (U+6EF6)	e6bbb6
+滷	thick gravy, sauce, broth; brine (U+6EF7)	e6bbb7
+滸	riverbank, shore (U+6EF8)	e6bbb8
+滹	the bank of a steam (U+6EF9)	e6bbb9
+滺	flow (U+6EFA)	e6bbba
+滻	U+6EFB (U+6EFB)	e6bbbb
+滼	U+6EFC (U+6EFC)	e6bbbc
+滽	U+6EFD (U+6EFD)	e6bbbd
+滾	turn, roll, rotate; boil (U+6EFE)	e6bbbe
+滿	fill; full, satisfied (U+6EFF)	e6bbbf
+漀	U+6F00 (U+6F00)	e6bc80
+漁	to fish; seize; pursue; surname (U+6F01)	e6bc81
+漂	float, drift; tossed about (U+6F02)	e6bc82
+漃	U+6F03 (U+6F03)	e6bc83
+漄	U+6F04 (U+6F04)	e6bc84
+漅	U+6F05 (U+6F05)	e6bc85
+漆	varnish, lacquer, paint (U+6F06)	e6bc86
+漇	(Cant.) waste (U+6F07)	e6bc87
+漈	shore; waterside (U+6F08)	e6bc88
+漉	filter, strain; wet, dripping (U+6F09)	e6bc89
+漊	river in Hubei province (U+6F0A)	e6bc8a
+漋	U+6F0B (U+6F0B)	e6bc8b
+漌	U+6F0C (U+6F0C)	e6bc8c
+漍	U+6F0D (U+6F0D)	e6bc8d
+漎	a place where small streams flow into a large one (U+6F0E)	e6bc8e
+漏	leak, drip; funnel; hour glass (U+6F0F)	e6bc8f
+漐	U+6F10 (U+6F10)	e6bc90
+漑	water (U+6F11)	e6bc91
+漒	U+6F12 (U+6F12)	e6bc92
+漓	river in Guangxi province; water dripping (U+6F13)	e6bc93
+演	perform, put on; exercise (U+6F14)	e6bc94
+漕	transport by water; canal transportation (U+6F15)	e6bc95
+漖	(Cant.) a branching river (used in toponyms) (U+6F16)	e6bc96
+漗	U+6F17 (U+6F17)	e6bc97
+漘	bank (U+6F18)	e6bc98
+漙	dewy (U+6F19)	e6bc99
+漚	soak, steep; sodden, soaked; rotten; foam, froth (U+6F1A)	e6bc9a
+漛	U+6F1B (U+6F1B)	e6bc9b
+漜	U+6F1C (U+6F1C)	e6bc9c
+漝	U+6F1D (U+6F1D)	e6bc9d
+漞	U+6F1E (U+6F1E)	e6bc9e
+漟	U+6F1F (U+6F1F)	e6bc9f
+漠	desert; aloof, indifferent, cool (U+6F20)	e6bca0
+漡	U+6F21 (U+6F21)	e6bca1
+漢	the Chinese people, Chinese language (U+6F22)	e6bca2
+漣	flowing water; ripples; weeping (U+6F23)	e6bca3
+漤	marinate in salt (U+6F24)	e6bca4
+漥	puddle, hollow, swamp (U+6F25)	e6bca5
+漦	saliva; spittle; flowing downstream (U+6F26)	e6bca6
+漧	U+6F27 (U+6F27)	e6bca7
+漨	U+6F28 (U+6F28)	e6bca8
+漩	eddy, whirlpool (U+6F29)	e6bca9
+漪	ripples on water; swirling (U+6F2A)	e6bcaa
+漫	overflow of water; spreading (U+6F2B)	e6bcab
+漬	soak, steep; dye; stains; sodden (U+6F2C)	e6bcac
+漭	vast; expansive (U+6F2D)	e6bcad
+漮	U+6F2E (U+6F2E)	e6bcae
+漯	river in northern Shandong (U+6F2F)	e6bcaf
+漰	roar (U+6F30)	e6bcb0
+漱	gargle, rinse; wash, scour (U+6F31)	e6bcb1
+漲	rise in price (U+6F32)	e6bcb2
+漳	name of a river in Henan (U+6F33)	e6bcb3
+漴	U+6F34 (U+6F34)	e6bcb4
+漵	river in Hunan (U+6F35)	e6bcb5
+漶	indecipherable (U+6F36)	e6bcb6
+漷	river in Hebei province (U+6F37)	e6bcb7
+漸	gradually (U+6F38)	e6bcb8
+漹	U+6F39 (U+6F39)	e6bcb9
+漺	U+6F3A (U+6F3A)	e6bcba
+漻	U+6F3B (U+6F3B)	e6bcbb
+漼	having the appearance of depth (U+6F3C)	e6bcbc
+漽	U+6F3D (U+6F3D)	e6bcbd
+漾	overflow; swirl, ripple; to be tosssed by waves (U+6F3E)	e6bcbe
+漿	any thick fluid; starch; broth (U+6F3F)	e6bcbf
+潀	gather; flow into (water); sound of waters flowing together (U+6F40)	e6bd80
+潁	river in Anhui (U+6F41)	e6bd81
+潂	U+6F42 (U+6F42)	e6bd82
+潃	U+6F43 (U+6F43)	e6bd83
+潄	U+6F44 (U+6F44)	e6bd84
+潅	pour; water; irrigate, flood (U+6F45)	e6bd85
+潆	tiny stream; swirl around (U+6F46)	e6bd86
+潇	sound of beating wind and rain (U+6F47)	e6bd87
+潈	U+6F48 (U+6F48)	e6bd88
+潉	U+6F49 (U+6F49)	e6bd89
+潊	U+6F4A (U+6F4A)	e6bd8a
+潋	waves, ripples; overflow (U+6F4B)	e6bd8b
+潌	U+6F4C (U+6F4C)	e6bd8c
+潍	county in Shandong province (U+6F4D)	e6bd8d
+潎	rippling; pour (U+6F4E)	e6bd8e
+潏	fareshare reclaimed from river (U+6F4F)	e6bd8f
+潐	U+6F50 (U+6F50)	e6bd90
+潑	pour, splash, water, sprinkle; violent, malignant (U+6F51)	e6bd91
+潒	U+6F52 (U+6F52)	e6bd92
+潓	U+6F53 (U+6F53)	e6bd93
+潔	clean, purify, pure (U+6F54)	e6bd94
+潕	river in Henan (U+6F55)	e6bd95
+潖	name of a certain river (U+6F56)	e6bd96
+潗	friendly; harmonious (U+6F57)	e6bd97
+潘	surname; water in which rice has been rinsed; a river that flows into the Han (U+6F58)	e6bd98
+潙	river in Shanxi (U+6F59)	e6bd99
+潚	gay; deep (U+6F5A)	e6bd9a
+潛	hide; hidden, secret, latent (U+6F5B)	e6bd9b
+潜	hide; hidden, secret, latent (U+6F5C)	e6bd9c
+潝	agree (U+6F5D)	e6bd9d
+潞	river in northern china (U+6F5E)	e6bd9e
+潟	land impregnated with salt from the tide (U+6F5F)	e6bd9f
+潠	to blow out; to puff out (U+6F60)	e6bda0
+潡	U+6F61 (U+6F61)	e6bda1
+潢	expanse of water, lake, pond (U+6F62)	e6bda2
+潣	to pollute, contaminate (U+6F63)	e6bda3
+潤	soft, moist; sleek; freshen (U+6F64)	e6bda4
+潥	U+6F65 (U+6F65)	e6bda5
+潦	to flood; a puddle; without care (U+6F66)	e6bda6
+潧	U+6F67 (U+6F67)	e6bda7
+潨	gather; flow into (water); sound of waters flowing together (U+6F68)	e6bda8
+潩	U+6F69 (U+6F69)	e6bda9
+潪	U+6F6A (U+6F6A)	e6bdaa
+潫	U+6F6B (U+6F6B)	e6bdab
+潬	a rapid; a sand-bank; a foreshore (U+6F6C)	e6bdac
+潭	deep pool, lake; deep, profound (U+6F6D)	e6bdad
+潮	tide; moist, wet, damp; flow (U+6F6E)	e6bdae
+潯	steep bank by stream; jiujiang (U+6F6F)	e6bdaf
+潰	flooding river; militarily defeat (U+6F70)	e6bdb0
+潱	U+6F71 (U+6F71)	e6bdb1
+潲	driving rain; to sprinkle (U+6F72)	e6bdb2
+潳	U+6F73 (U+6F73)	e6bdb3
+潴	pond; a pool (U+6F74)	e6bdb4
+潵	U+6F75 (U+6F75)	e6bdb5
+潶	U+6F76 (U+6F76)	e6bdb6
+潷	drain (U+6F77)	e6bdb7
+潸	weep; tears flowing (U+6F78)	e6bdb8
+潹	U+6F79 (U+6F79)	e6bdb9
+潺	sound of flowing water (U+6F7A)	e6bdba
+潻	U+6F7B (U+6F7B)	e6bdbb
+潼	high, lofty; damp (U+6F7C)	e6bdbc
+潽	U+6F7D (U+6F7D)	e6bdbd
+潾	clear water (U+6F7E)	e6bdbe
+潿	still water (U+6F7F)	e6bdbf
+澀	astringent; harsh; uneven, rough (U+6F80)	e6be80
+澁	astringent; harsh; uneven, rough (U+6F81)	e6be81
+澂	clear and still water (U+6F82)	e6be82
+澃	U+6F83 (U+6F83)	e6be83
+澄	purify water by allowing sediment to settle; clear, pure (U+6F84)	e6be84
+澅	U+6F85 (U+6F85)	e6be85
+澆	spray, water, sprinkle (U+6F86)	e6be86
+澇	inundate, flood; torrent (U+6F87)	e6be87
+澈	thoroughly, completely (U+6F88)	e6be88
+澉	to wash name of a place (U+6F89)	e6be89
+澊	U+6F8A (U+6F8A)	e6be8a
+澋	U+6F8B (U+6F8B)	e6be8b
+澌	to exhaust; to drain dry (U+6F8C)	e6be8c
+澍	timely rain, life-giving rain (U+6F8D)	e6be8d
+澎	splatter (U+6F8E)	e6be8e
+澏	U+6F8F (U+6F8F)	e6be8f
+澐	billows (U+6F90)	e6be90
+澑	slide, glide, slip; slippery (U+6F91)	e6be91
+澒	vast (U+6F92)	e6be92
+澓	U+6F93 (U+6F93)	e6be93
+澔	radiance of gems (U+6F94)	e6be94
+澕	U+6F95 (U+6F95)	e6be95
+澖	U+6F96 (U+6F96)	e6be96
+澗	brook, mountain stream (U+6F97)	e6be97
+澘	U+6F98 (U+6F98)	e6be98
+澙	U+6F99 (U+6F99)	e6be99
+澚	U+6F9A (U+6F9A)	e6be9a
+澛	U+6F9B (U+6F9B)	e6be9b
+澜	overflowing; waves, ripples (U+6F9C)	e6be9c
+澝	mud; miry, muddy, stagnant (U+6F9D)	e6be9d
+澞	U+6F9E (U+6F9E)	e6be9e
+澟	U+6F9F (U+6F9F)	e6be9f
+澠	name of a river in Shandong (U+6FA0)	e6bea0
+澡	wash, bathe (U+6FA1)	e6bea1
+澢	U+6FA2 (U+6FA2)	e6bea2
+澣	cleanse, wash (U+6FA3)	e6bea3
+澤	marsh, swamp; grace, brilliance; damp, moist; fertile (U+6FA4)	e6bea4
+澥	a blocked stream; gulf (U+6FA5)	e6bea5
+澦	place in Sichuan (U+6FA6)	e6bea6
+澧	river in northern Hunan province (U+6FA7)	e6bea7
+澨	shore; river in Hubei (U+6FA8)	e6bea8
+澩	U+6FA9 (U+6FA9)	e6bea9
+澪	U+6FAA (U+6FAA)	e6beaa
+澫	U+6FAB (U+6FAB)	e6beab
+澬	U+6FAC (U+6FAC)	e6beac
+澭	U+6FAD (U+6FAD)	e6bead
+澮	irrigation ditch, trench; river (U+6FAE)	e6beae
+澯	U+6FAF (U+6FAF)	e6beaf
+澰	overflowing (U+6FB0)	e6beb0
+澱	sediment, dregs, precipitate (U+6FB1)	e6beb1
+澲	U+6FB2 (U+6FB2)	e6beb2
+澳	inlet, bay; dock, bank (U+6FB3)	e6beb3
+澴	river in Hubei province (U+6FB4)	e6beb4
+澵	U+6FB5 (U+6FB5)	e6beb5
+澶	still water, placid, tranquil (U+6FB6)	e6beb6
+澷	water overflowing diffused; spreading (U+6FB7)	e6beb7
+澸	U+6FB8 (U+6FB8)	e6beb8
+澹	calm, quiet, tranquil (U+6FB9)	e6beb9
+澺	U+6FBA (U+6FBA)	e6beba
+澻	U+6FBB (U+6FBB)	e6bebb
+澼	bleach; wash, clean (U+6FBC)	e6bebc
+澽	U+6FBD (U+6FBD)	e6bebd
+澾	slippery, smooth (U+6FBE)	e6bebe
+澿	U+6FBF (U+6FBF)	e6bebf
+激	arouse, excite, incite; quickly (U+6FC0)	e6bf80
+濁	muddy, turbid, dirty, filthy (U+6FC1)	e6bf81
+濂	a waterfall; a river in Hunan (U+6FC2)	e6bf82
+濃	thick, strong, concentrated (U+6FC3)	e6bf83
+濄	U+6FC4 (U+6FC4)	e6bf84
+濅	U+6FC5 (U+6FC5)	e6bf85
+濆	river bank; river in Henan province; gush (U+6FC6)	e6bf86
+濇	astringent; harsh, rough; uneven (U+6FC7)	e6bf87
+濈	many (U+6FC8)	e6bf88
+濉	U+6FC9 (U+6FC9)	e6bf89
+濊	vast, expansive, deep; dirty (U+6FCA)	e6bf8a
+濋	U+6FCB (U+6FCB)	e6bf8b
+濌	U+6FCC (U+6FCC)	e6bf8c
+濍	U+6FCD (U+6FCD)	e6bf8d
+濎	U+6FCE (U+6FCE)	e6bf8e
+濏	U+6FCF (U+6FCF)	e6bf8f
+濐	U+6FD0 (U+6FD0)	e6bf90
+濑	swift current; rapids (U+6FD1)	e6bf91
+濒	approach, be on verge of; near (U+6FD2)	e6bf92
+濓	U+6FD3 (U+6FD3)	e6bf93
+濔	many (U+6FD4)	e6bf94
+濕	wet, moist, humid, damp; an illness (U+6FD5)	e6bf95
+濖	U+6FD6 (U+6FD6)	e6bf96
+濗	U+6FD7 (U+6FD7)	e6bf97
+濘	mud; miry, muddy, stagnant (U+6FD8)	e6bf98
+濙	to revolve; to curl in eddies, as rushing water (U+6FD9)	e6bf99
+濚	a stream, eddy; to eddy (U+6FDA)	e6bf9a
+濛	drizzling, misty, raining (U+6FDB)	e6bf9b
+濜	river in Hubei province (U+6FDC)	e6bf9c
+濝	U+6FDD (U+6FDD)	e6bf9d
+濞	U+6FDE (U+6FDE)	e6bf9e
+濟	to help, aid, relieve; to ferry, cross (U+6FDF)	e6bf9f
+濠	moat, trench, ditch (U+6FE0)	e6bfa0
+濡	immerse, moisten; wet, damp (U+6FE1)	e6bfa1
+濢	U+6FE2 (U+6FE2)	e6bfa2
+濣	U+6FE3 (U+6FE3)	e6bfa3
+濤	large waves (U+6FE4)	e6bfa4
+濥	U+6FE5 (U+6FE5)	e6bfa5
+濦	U+6FE6 (U+6FE6)	e6bfa6
+濧	U+6FE7 (U+6FE7)	e6bfa7
+濨	U+6FE8 (U+6FE8)	e6bfa8
+濩	pour down, cascade down; look (U+6FE9)	e6bfa9
+濪	U+6FEA (U+6FEA)	e6bfaa
+濫	flood, overflow; excessive (U+6FEB)	e6bfab
+濬	dredge, dig; profound, deep (U+6FEC)	e6bfac
+濭	U+6FED (U+6FED)	e6bfad
+濮	county in Henan province (U+6FEE)	e6bfae
+濯	wash out, rinse; cleanse (U+6FEF)	e6bfaf
+濰	county in Shandong province (U+6FF0)	e6bfb0
+濱	beach, sea coast; river bank (U+6FF1)	e6bfb1
+濲	U+6FF2 (U+6FF2)	e6bfb2
+濳	hide, conceal, secrete; hidden (U+6FF3)	e6bfb3
+濴	U+6FF4 (U+6FF4)	e6bfb4
+濵	a bank, a brink. a shore, a beach (U+6FF5)	e6bfb5
+濶	broad, ample, wide; be apart (U+6FF6)	e6bfb6
+濷	U+6FF7 (U+6FF7)	e6bfb7
+濸	U+6FF8 (U+6FF8)	e6bfb8
+濹	U+6FF9 (U+6FF9)	e6bfb9
+濺	sprinkle, spray; spill, splash (U+6FFA)	e6bfba
+濻	U+6FFB (U+6FFB)	e6bfbb
+濼	river in Shandong province (U+6FFC)	e6bfbc
+濽	U+6FFD (U+6FFD)	e6bfbd
+濾	strain out, filter (U+6FFE)	e6bfbe
+濿	cross on stepping-stones (U+6FFF)	e6bfbf
+瀀	U+7000 (U+7000)	e78080
+瀁	waves, ripples, rapids; overflow (U+7001)	e78081
+瀂	U+7002 (U+7002)	e78082
+瀃	U+7003 (U+7003)	e78083
+瀄	(Cant.) to squeeze; to eject; to spray (U+7004)	e78084
+瀅	clear, pure water; lucid; glossy (U+7005)	e78085
+瀆	ditch, sluice, gutter, drain (U+7006)	e78086
+瀇	extensive body of water; broad and deep of water; momentum of moving water deep and wide (U+7007)	e78087
+瀈	U+7008 (U+7008)	e78088
+瀉	drain off, leak; flow, pour down (U+7009)	e78089
+瀊	U+700A (U+700A)	e7808a
+瀋	juice; liquid; water; leak, pour (U+700B)	e7808b
+瀌	plenty (U+700C)	e7808c
+瀍	river in Henan province (U+700D)	e7808d
+瀎	U+700E (U+700E)	e7808e
+瀏	clear; bright; whistling (U+700F)	e7808f
+瀐	U+7010 (U+7010)	e78090
+瀑	waterfall, cascade; heavy rain (U+7011)	e78091
+瀒	coarse, rough; astringent (U+7012)	e78092
+瀓	U+7013 (U+7013)	e78093
+瀔	river name in Henan province (U+7014)	e78094
+瀕	approach, be on verge of; near (U+7015)	e78095
+瀖	U+7016 (U+7016)	e78096
+瀗	U+7017 (U+7017)	e78097
+瀘	river in Jiangxi province (U+7018)	e78098
+瀙	U+7019 (U+7019)	e78099
+瀚	vast, wide, extensive (U+701A)	e7809a
+瀛	sea, ocean (U+701B)	e7809b
+瀜	U+701C (U+701C)	e7809c
+瀝	trickle, drip; strain; dregs (U+701D)	e7809d
+瀞	pool in a river (U+701E)	e7809e
+瀟	sound of beating wind and rain; light, ethereal (U+701F)	e7809f
+瀠	tiny stream; swirl around; eddy (U+7020)	e780a0
+瀡	slippery, smooth (U+7021)	e780a1
+瀢	U+7022 (U+7022)	e780a2
+瀣	sea mist; vapor (U+7023)	e780a3
+瀤	U+7024 (U+7024)	e780a4
+瀥	U+7025 (U+7025)	e780a5
+瀦	pond; a pool (U+7026)	e780a6
+瀧	raining; wet; soaked; a river in Guangdong (U+7027)	e780a7
+瀨	swift current; rapids (U+7028)	e780a8
+瀩	U+7029 (U+7029)	e780a9
+瀪	U+702A (U+702A)	e780aa
+瀫	U+702B (U+702B)	e780ab
+瀬	swift current; rapids (U+702C)	e780ac
+瀭	U+702D (U+702D)	e780ad
+瀮	U+702E (U+702E)	e780ae
+瀯	U+702F (U+702F)	e780af
+瀰	overflow (U+7030)	e780b0
+瀱	U+7031 (U+7031)	e780b1
+瀲	waves, ripples; overflow (U+7032)	e780b2
+瀳	U+7033 (U+7033)	e780b3
+瀴	U+7034 (U+7034)	e780b4
+瀵	U+7035 (U+7035)	e780b5
+瀶	U+7036 (U+7036)	e780b6
+瀷	U+7037 (U+7037)	e780b7
+瀸	U+7038 (U+7038)	e780b8
+瀹	to boil; to wash, to cleanse, to soak (U+7039)	e780b9
+瀺	sound (U+703A)	e780ba
+瀻	U+703B (U+703B)	e780bb
+瀼	river in Henan province; flowing (U+703C)	e780bc
+瀽	U+703D (U+703D)	e780bd
+瀾	overflowing; waves, ripples (U+703E)	e780be
+瀿	U+703F (U+703F)	e780bf
+灀	U+7040 (U+7040)	e78180
+灁	U+7041 (U+7041)	e78181
+灂	U+7042 (U+7042)	e78182
+灃	river in Shanxi province (U+7043)	e78183
+灄	river in Hubei province (U+7044)	e78184
+灅	U+7045 (U+7045)	e78185
+灆	U+7046 (U+7046)	e78186
+灇	U+7047 (U+7047)	e78187
+灈	U+7048 (U+7048)	e78188
+灉	a river in Shandong province; a sluice (U+7049)	e78189
+灊	U+704A (U+704A)	e7818a
+灋	law (U+704B)	e7818b
+灌	pour; water; irrigate, flood (U+704C)	e7818c
+灍	U+704D (U+704D)	e7818d
+灎	movement of water; overflowing, billowing; wavy (U+704E)	e7818e
+灏	vast, large, grand, expansive (U+704F)	e7818f
+灐	U+7050 (U+7050)	e78190
+灑	sprinkle, splash; scatter, throw (U+7051)	e78191
+灒	to spatter, to splash, to scatter (U+7052)	e78192
+灓	U+7053 (U+7053)	e78193
+灔	waves, billows (U+7054)	e78194
+灕	short name for Guangxi province (U+7055)	e78195
+灖	U+7056 (U+7056)	e78196
+灗	U+7057 (U+7057)	e78197
+灘	bank, a sandbar, shoal; rapids (U+7058)	e78198
+灙	U+7059 (U+7059)	e78199
+灚	U+705A (U+705A)	e7819a
+灛	U+705B (U+705B)	e7819b
+灜	U+705C (U+705C)	e7819c
+灝	vast, large, grand, expansive (U+705D)	e7819d
+灞	river in Shanxi province (U+705E)	e7819e
+灟	U+705F (U+705F)	e7819f
+灠	marinate in salt (U+7060)	e781a0
+灡	U+7061 (U+7061)	e781a1
+灢	muddy; thick, muddy water (U+7062)	e781a2
+灣	a bay, cove, inlet, bend of stream (U+7063)	e781a3
+灤	river and county in Hebei province (U+7064)	e781a4
+灥	a group of springs (U+7065)	e781a5
+灦	U+7066 (U+7066)	e781a6
+灧	overflowing, billowing; wavy (U+7067)	e781a7
+灨	the River Gan in Jiangxi (U+7068)	e781a8
+灩	overflowing, billowing; wavy (U+7069)	e781a9
+灪	U+706A (U+706A)	e781aa
+火	fire, flame; burn; anger, rage (U+706B)	e781ab
+灬	fire; radical number 86 (U+706C)	e781ac
+灭	extinguish; wipe out, exterminate (U+706D)	e781ad
+灮	U+706E (U+706E)	e781ae
+灯	lantern, lamp (U+706F)	e781af
+灰	ashes; dust; lime, mortar (U+7070)	e781b0
+灱	U+7071 (U+7071)	e781b1
+灲	U+7072 (U+7072)	e781b2
+灳	U+7073 (U+7073)	e781b3
+灴	to bake, to roast; to dry at a fire (U+7074)	e781b4
+灵	spirit, soul; spiritual world (U+7075)	e781b5
+灶	kitchen stove, cooking stove (U+7076)	e781b6
+灷	U+7077 (U+7077)	e781b7
+灸	cauterize with moxa; moxibustion (U+7078)	e781b8
+灹	U+7079 (U+7079)	e781b9
+灺	candle-end (U+707A)	e781ba
+灻	U+707B (U+707B)	e781bb
+灼	burn; broil; cauterize; bright (U+707C)	e781bc
+災	calamity, disaster, catastrophe (U+707D)	e781bd
+灾	calamity, disaster, catastrophe (U+707E)	e781be
+灿	vivid, illuminating; bright (U+707F)	e781bf
+炀	roast; scorch; melt; flame (U+7080)	e78280
+炁	breath, air, steam, gas. weather. used in Taoist charms (U+7081)	e78281
+炂	U+7082 (U+7082)	e78282
+炃	U+7083 (U+7083)	e78283
+炄	U+7084 (U+7084)	e78284
+炅	brilliance (U+7085)	e78285
+炆	(Cant.) to simmer, cook over a slow fire (U+7086)	e78286
+炇	U+7087 (U+7087)	e78287
+炈	U+7088 (U+7088)	e78288
+炉	fireplace, stove, oven, furnace (U+7089)	e78289
+炊	cook; meal (U+708A)	e7828a
+炋	U+708B (U+708B)	e7828b
+炌	U+708C (U+708C)	e7828c
+炍	U+708D (U+708D)	e7828d
+炎	flame, blaze; hot (U+708E)	e7828e
+炏	U+708F (U+708F)	e7828f
+炐	U+7090 (U+7090)	e78290
+炑	U+7091 (U+7091)	e78291
+炒	fry, saute, roast, boil, cook (U+7092)	e78292
+炓	U+7093 (U+7093)	e78293
+炔	acetylene (U+7094)	e78294
+炕	the brick-bed in northern China (U+7095)	e78295
+炖	heat with fire; stew (U+7096)	e78296
+炗	U+7097 (U+7097)	e78297
+炘	brilliant, shining, bright (U+7098)	e78298
+炙	roast, broil; toast; cauterize (U+7099)	e78299
+炚	U+709A (U+709A)	e7829a
+炛	U+709B (U+709B)	e7829b
+炜	brilliant red; glowing (U+709C)	e7829c
+炝	stir-fry or boil in water or oil then cook with a sauce (U+709D)	e7829d
+炞	U+709E (U+709E)	e7829e
+炟	U+709F (U+709F)	e7829f
+炠	(Cant.) to cook in boiling water (U+70A0)	e782a0
+炡	U+70A1 (U+70A1)	e782a1
+炢	U+70A2 (U+70A2)	e782a2
+炣	U+70A3 (U+70A3)	e782a3
+炤	illumine, light up; reflect (U+70A4)	e782a4
+炥	U+70A5 (U+70A5)	e782a5
+炦	U+70A6 (U+70A6)	e782a6
+炧	ashes (U+70A7)	e782a7
+炨	U+70A8 (U+70A8)	e782a8
+炩	U+70A9 (U+70A9)	e782a9
+炪	U+70AA (U+70AA)	e782aa
+炫	shine, glitter; show off, flaunt (U+70AB)	e782ab
+炬	torch (U+70AC)	e782ac
+炭	charcoal; coal; carbon (U+70AD)	e782ad
+炮	large gun, cannon; artillery (U+70AE)	e782ae
+炯	bright, brilliant, clear; hot (U+70AF)	e782af
+炰	roast, broil; bake (U+70B0)	e782b0
+炱	soot (U+70B1)	e782b1
+炲	U+70B2 (U+70B2)	e782b2
+炳	bright, luminous; glorious (U+70B3)	e782b3
+炴	U+70B4 (U+70B4)	e782b4
+炵	U+70B5 (U+70B5)	e782b5
+炶	U+70B6 (U+70B6)	e782b6
+炷	candle wick, lamp wick; stick of incense (U+70B7)	e782b7
+炸	to fry in oil; to scald; to explode (U+70B8)	e782b8
+点	dot, speck, spot; point, degree (U+70B9)	e782b9
+為	do, handle, govern, act; be (U+70BA)	e782ba
+炻	a kind of china (U+70BB)	e782bb
+炼	smelt, refine; distill, condense (U+70BC)	e782bc
+炽	burning-hot, intense; to burn, blaze; splendid, illustrious (U+70BD)	e782bd
+炾	U+70BE (U+70BE)	e782be
+炿	U+70BF (U+70BF)	e782bf
+烀	simmer (U+70C0)	e78380
+烁	shine, glitter, sparkle (U+70C1)	e78381
+烂	rotten, spoiled, decayed (U+70C2)	e78382
+烃	hydrocarbon (U+70C3)	e78383
+烄	U+70C4 (U+70C4)	e78384
+烅	U+70C5 (U+70C5)	e78385
+烆	U+70C6 (U+70C6)	e78386
+烇	U+70C7 (U+70C7)	e78387
+烈	fiery, violent, vehement, ardent (U+70C8)	e78388
+烉	shining, brilliant, lustrous (U+70C9)	e78389
+烊	to smelt; to melt (U+70CA)	e7838a
+烋	boast (U+70CB)	e7838b
+烌	U+70CC (U+70CC)	e7838c
+烍	U+70CD (U+70CD)	e7838d
+烎	U+70CE (U+70CE)	e7838e
+烏	crow, rook, raven; black, dark (U+70CF)	e7838f
+烐	U+70D0 (U+70D0)	e78390
+烑	U+70D1 (U+70D1)	e78391
+烒	U+70D2 (U+70D2)	e78392
+烓	stove (U+70D3)	e78393
+烔	heat (U+70D4)	e78394
+烕	to destroy; to exterminate to extinguish (U+70D5)	e78395
+烖	calamities from Heaven, as floods, famines, pestilence, etc.; misery (U+70D6)	e78396
+烗	U+70D7 (U+70D7)	e78397
+烘	bake, roast; dry by fire (U+70D8)	e78398
+烙	brand, burn; branding iron (U+70D9)	e78399
+烚	(Cant.) hot; to argue, wrangle, rail at (i.e., to flame) (U+70DA)	e7839a
+烛	candle, taper; shine, illuminate (U+70DB)	e7839b
+烜	light of the sun; to dry in the sun (U+70DC)	e7839c
+烝	rise, steam; many, numerous (U+70DD)	e7839d
+烞	U+70DE (U+70DE)	e7839e
+烟	smoke, soot; opium; tobacco, cigarettes (U+70DF)	e7839f
+烠	U+70E0 (U+70E0)	e783a0
+烡	U+70E1 (U+70E1)	e783a1
+烢	U+70E2 (U+70E2)	e783a2
+烣	U+70E3 (U+70E3)	e783a3
+烤	bake, roast, toast, cook (U+70E4)	e783a4
+烥	U+70E5 (U+70E5)	e783a5
+烦	bother, vex, trouble; troublesome (U+70E6)	e783a6
+烧	burn; bake; heat; roast (U+70E7)	e783a7
+烨	bright, glorious, splendid, flame (U+70E8)	e783a8
+烩	ragout, cook, braise (U+70E9)	e783a9
+烪	U+70EA (U+70EA)	e783aa
+烫	scald, heat; wash; iron clothes (U+70EB)	e783ab
+烬	cinders, ashes, embers; remnants (U+70EC)	e783ac
+热	hot; heat; fever; restless; zeal (U+70ED)	e783ad
+烮	U+70EE (U+70EE)	e783ae
+烯	alkene (U+70EF)	e783af
+烰	U+70F0 (U+70F0)	e783b0
+烱	bright, brilliant, clear; hot (U+70F1)	e783b1
+烲	U+70F2 (U+70F2)	e783b2
+烳	U+70F3 (U+70F3)	e783b3
+烴	hydrocarbon (U+70F4)	e783b4
+烵	U+70F5 (U+70F5)	e783b5
+烶	U+70F6 (U+70F6)	e783b6
+烷	alkane (U+70F7)	e783b7
+烸	U+70F8 (U+70F8)	e783b8
+烹	boil, cook; quick fry, stir fry (U+70F9)	e783b9
+烺	(said of fire) bright (U+70FA)	e783ba
+烻	U+70FB (U+70FB)	e783bb
+烼	U+70FC (U+70FC)	e783bc
+烽	signal fire; tower where signal (U+70FD)	e783bd
+烾	U+70FE (U+70FE)	e783be
+烿	U+70FF (U+70FF)	e783bf
+焀	U+7100 (U+7100)	e78480
+焁	U+7101 (U+7101)	e78481
+焂	U+7102 (U+7102)	e78482
+焃	U+7103 (U+7103)	e78483
+焄	rising flames or fumes; aroma (U+7104)	e78484
+焅	(Cant.) to roast, suffocate (U+7105)	e78485
+焆	U+7106 (U+7106)	e78486
+焇	U+7107 (U+7107)	e78487
+焈	U+7108 (U+7108)	e78488
+焉	thereupon, then; how? why? where? (U+7109)	e78489
+焊	weld, solder (U+710A)	e7848a
+焋	U+710B (U+710B)	e7848b
+焌	to light (U+710C)	e7848c
+焍	U+710D (U+710D)	e7848d
+焎	U+710E (U+710E)	e7848e
+焏	U+710F (U+710F)	e7848f
+焐	U+7110 (U+7110)	e78490
+焑	U+7111 (U+7111)	e78491
+焒	U+7112 (U+7112)	e78492
+焓	(Cant.) onomatopoetic, the sound of a fiercely-burning fire (U+7113)	e78493
+焔	flame, blaze; glowing, blazing (U+7114)	e78494
+焕	shining (U+7115)	e78495
+焖	simmer, cook over slow fire (U+7116)	e78496
+焗	(Cant.) to roast, bake; to suffocate, stuffy (U+7117)	e78497
+焘	shine, illuminate; cover, envelope (U+7118)	e78498
+焙	dry over slow fire; bake; roast (U+7119)	e78499
+焚	burn (U+711A)	e7849a
+焛	U+711B (U+711B)	e7849b
+焜	fire, flames; bright, shining (U+711C)	e7849c
+焝	U+711D (U+711D)	e7849d
+焞	dim (U+711E)	e7849e
+焟	U+711F (U+711F)	e7849f
+焠	temper; burn (U+7120)	e784a0
+無	negative, no, not; lack, have no (U+7121)	e784a1
+焢	U+7122 (U+7122)	e784a2
+焣	U+7123 (U+7123)	e784a3
+焤	U+7124 (U+7124)	e784a4
+焥	U+7125 (U+7125)	e784a5
+焦	burned, scorched; anxious, vexed (U+7126)	e784a6
+焧	U+7127 (U+7127)	e784a7
+焨	U+7128 (U+7128)	e784a8
+焩	U+7129 (U+7129)	e784a9
+焪	U+712A (U+712A)	e784aa
+焫	(Cant.) hot; to scald, burn (U+712B)	e784ab
+焬	U+712C (U+712C)	e784ac
+焭	orphan; alone, desolate (U+712D)	e784ad
+焮	heat, radiate heat; broil; cauterize (U+712E)	e784ae
+焯	boil vegetables for a very short time; scald (U+712F)	e784af
+焰	flame, blaze; glowing, blazing (U+7130)	e784b0
+焱	flames (U+7131)	e784b1
+焲	U+7132 (U+7132)	e784b2
+焳	U+7133 (U+7133)	e784b3
+焴	bright; flame (U+7134)	e784b4
+焵	to temper steel (U+7135)	e784b5
+然	yes, certainly; pledge, promise (U+7136)	e784b6
+焷	U+7137 (U+7137)	e784b7
+焸	U+7138 (U+7138)	e784b8
+焹	U+7139 (U+7139)	e784b9
+焺	U+713A (U+713A)	e784ba
+焻	breath (U+713B)	e784bb
+焼	burn; bake; heat; roast (U+713C)	e784bc
+焽	U+713D (U+713D)	e784bd
+焾	(Cant.) soft (U+713E)	e784be
+焿	name of a place in northeastern Taiwan; a kind of thick soup (U+713F)	e784bf
+煀	(Cant.) to smoke; to fumigate (U+7140)	e78580
+煁	hearth; (Cant.) soft, tender (U+7141)	e78581
+煂	U+7142 (U+7142)	e78582
+煃	remove, get rid of; scatter (U+7143)	e78583
+煄	U+7144 (U+7144)	e78584
+煅	forge metal; perfect one's skill (U+7145)	e78585
+煆	raging fire; to forge, work (U+7146)	e78586
+煇	weld, solder (U+7147)	e78587
+煈	U+7148 (U+7148)	e78588
+煉	smelt, refine; distill, condense (U+7149)	e78589
+煊	warm (U+714A)	e7858a
+煋	U+714B (U+714B)	e7858b
+煌	bright, shining, luminous (U+714C)	e7858c
+煍	to color by smoke (U+714D)	e7858d
+煎	fry in fat or oil; boil in water (U+714E)	e7858e
+煏	dry by fire; iron (U+714F)	e7858f
+煐	U+7150 (U+7150)	e78590
+煑	cook (U+7151)	e78591
+煒	brilliant red; glowing (U+7152)	e78592
+煓	U+7153 (U+7153)	e78593
+煔	U+7154 (U+7154)	e78594
+煕	bright, splendid, glorious (U+7155)	e78595
+煖	warm, genial (U+7156)	e78596
+煗	U+7157 (U+7157)	e78597
+煘	U+7158 (U+7158)	e78598
+煙	smoke, soot; opium; tobacco, cigarettes (U+7159)	e78599
+煚	fire (U+715A)	e7859a
+煛	U+715B (U+715B)	e7859b
+煜	bright, shining, brilliant (U+715C)	e7859c
+煝	twisted paper for lighting cigarettes (U+715D)	e7859d
+煞	malignant deity; baleful, noxious; strike dead (U+715E)	e7859e
+煟	bright room (U+715F)	e7859f
+煠	to fry in fat or oil. to scald (U+7160)	e785a0
+煡	U+7161 (U+7161)	e785a1
+煢	alone; no friends or relatives (U+7162)	e785a2
+煣	U+7163 (U+7163)	e785a3
+煤	coal, coke, charcoal, carbon (U+7164)	e785a4
+煥	shining, brilliant, lustrous (U+7165)	e785a5
+煦	kind, gentle, gracious, genial (U+7166)	e785a6
+照	shine, illumine, reflect (U+7167)	e785a7
+煨	to stew, simmer (U+7168)	e785a8
+煩	bother, vex, trouble; troublesome (U+7169)	e785a9
+煪	U+716A (U+716A)	e785aa
+煫	U+716B (U+716B)	e785ab
+煬	roast; scorch; melt; flame (U+716C)	e785ac
+煭	U+716D (U+716D)	e785ad
+煮	cook (U+716E)	e785ae
+煯	U+716F (U+716F)	e785af
+煰	U+7170 (U+7170)	e785b0
+煱	(Cant.) 火煱, to instant-boil thin slices of meat and vegetables in a chafing dish at the dining table (U+7171)	e785b1
+煲	to heat; to boil a saucepan (U+7172)	e785b2
+煳	be burned, to char (in cooking) (U+7173)	e785b3
+煴	sultriness, stuffiness (U+7174)	e785b4
+煵	U+7175 (U+7175)	e785b5
+煶	U+7176 (U+7176)	e785b6
+煷	U+7177 (U+7177)	e785b7
+煸	to stir-fry before broiling or stewing (U+7178)	e785b8
+煹	U+7179 (U+7179)	e785b9
+煺	U+717A (U+717A)	e785ba
+煻	to warm; to toast (U+717B)	e785bb
+煼	U+717C (U+717C)	e785bc
+煽	stir up, incite, agitate, provoke (U+717D)	e785bd
+煾	U+717E (U+717E)	e785be
+煿	U+717F (U+717F)	e785bf
+熀	the blaze of fire; dazzling (U+7180)	e78680
+熁	U+7181 (U+7181)	e78681
+熂	U+7182 (U+7182)	e78682
+熃	U+7183 (U+7183)	e78683
+熄	put out, extinguish, quash (U+7184)	e78684
+熅	smooth out, iron out (U+7185)	e78685
+熆	U+7186 (U+7186)	e78686
+熇	bake (U+7187)	e78687
+熈	bright, splendid, glorious (U+7188)	e78688
+熉	yellow color (U+7189)	e78689
+熊	a bear; brilliant; bright; surname (U+718A)	e7868a
+熋	U+718B (U+718B)	e7868b
+熌	U+718C (U+718C)	e7868c
+熍	U+718D (U+718D)	e7868d
+熎	U+718E (U+718E)	e7868e
+熏	smoke, fog, vapor; smoke, cure (U+718F)	e7868f
+熐	U+7190 (U+7190)	e78690
+熑	U+7191 (U+7191)	e78691
+熒	shine, shimmer; shining, dazzling (U+7192)	e78692
+熓	to bank a fire; to smother, put out (U+7193)	e78693
+熔	melt, smelt, fuse; mold (U+7194)	e78694
+熕	U+7195 (U+7195)	e78695
+熖	same as 燄 U+71C4, flame; blazing, brilliant (U+7196)	e78696
+熗	stir-fry or boil in water or oil then cook with a sauce (U+7197)	e78697
+熘	to steam (U+7198)	e78698
+熙	bright, splendid, glorious (U+7199)	e78699
+熚	U+719A (U+719A)	e7869a
+熛	blaze (U+719B)	e7869b
+熜	U+719C (U+719C)	e7869c
+熝	(Cant.) to scald with steam (U+719D)	e7869d
+熞	U+719E (U+719E)	e7869e
+熟	well-cooked; ripe; familiar with (U+719F)	e7869f
+熠	bright and sparkling (U+71A0)	e786a0
+熡	U+71A1 (U+71A1)	e786a1
+熢	U+71A2 (U+71A2)	e786a2
+熣	U+71A3 (U+71A3)	e786a3
+熤	U+71A4 (U+71A4)	e786a4
+熥	heat up by steaming (U+71A5)	e786a5
+熦	U+71A6 (U+71A6)	e786a6
+熧	U+71A7 (U+71A7)	e786a7
+熨	iron, press (U+71A8)	e786a8
+熩	U+71A9 (U+71A9)	e786a9
+熪	U+71AA (U+71AA)	e786aa
+熫	U+71AB (U+71AB)	e786ab
+熬	cook down, to boil; endure (U+71AC)	e786ac
+熭	U+71AD (U+71AD)	e786ad
+熮	U+71AE (U+71AE)	e786ae
+熯	by fire (U+71AF)	e786af
+熰	great drought; heat (U+71B0)	e786b0
+熱	hot; heat; fever; restless; zeal (U+71B1)	e786b1
+熲	bright (U+71B2)	e786b2
+熳	U+71B3 (U+71B3)	e786b3
+熴	U+71B4 (U+71B4)	e786b4
+熵	entropy (U+71B5)	e786b5
+熶	U+71B6 (U+71B6)	e786b6
+熷	U+71B7 (U+71B7)	e786b7
+熸	put out (U+71B8)	e786b8
+熹	dim light, glimmer; warm, bright (U+71B9)	e786b9
+熺	dim light, glimmer; warm (U+71BA)	e786ba
+熻	to heat; to roast; to burn (U+71BB)	e786bb
+熼	U+71BC (U+71BC)	e786bc
+熽	U+71BD (U+71BD)	e786bd
+熾	burning-hot, intense; to burn, blaze; splendid, illustrious (U+71BE)	e786be
+熿	U+71BF (U+71BF)	e786bf
+燀	to make a fire; blaze (U+71C0)	e78780
+燁	bright, glorious, splendid, flame (U+71C1)	e78781
+燂	smoke, fumes; tobacco, opium; (Cant.) to singe (U+71C2)	e78782
+燃	burn; light fire, ignite (U+71C3)	e78783
+燄	flame; blazing, brilliant (U+71C4)	e78784
+燅	U+71C5 (U+71C5)	e78785
+燆	U+71C6 (U+71C6)	e78786
+燇	U+71C7 (U+71C7)	e78787
+燈	lantern, lamp (U+71C8)	e78788
+燉	heat with fire; stew (U+71C9)	e78789
+燊	luxuriant (U+71CA)	e7878a
+燋	scorch, burn, scald; torch (U+71CB)	e7878b
+燌	U+71CC (U+71CC)	e7878c
+燍	U+71CD (U+71CD)	e7878d
+燎	to burn, set afire; to illuminate; a signal lamp (U+71CE)	e7878e
+燏	blaze (U+71CF)	e7878f
+燐	phosphorus (U+71D0)	e78790
+燑	U+71D1 (U+71D1)	e78791
+燒	burn; bake; heat; roast (U+71D2)	e78792
+燓	U+71D3 (U+71D3)	e78793
+燔	to roast; to burn (U+71D4)	e78794
+燕	swallow (bird); comfort, enjoy (U+71D5)	e78795
+燖	reheat food (U+71D6)	e78796
+燗	warming sake, to heat sake (U+71D7)	e78797
+燘	(Cant.) to suck or chew without using the teeth (U+71D8)	e78798
+燙	scald, heat; wash; iron clothes (U+71D9)	e78799
+燚	U+71DA (U+71DA)	e7879a
+燛	U+71DB (U+71DB)	e7879b
+燜	simmer, cook over slow fire (U+71DC)	e7879c
+燝	U+71DD (U+71DD)	e7879d
+燞	U+71DE (U+71DE)	e7879e
+營	encampment, barracks; manage (U+71DF)	e7879f
+燠	warm; warmth (U+71E0)	e787a0
+燡	bright (U+71E1)	e787a1
+燢	U+71E2 (U+71E2)	e787a2
+燣	disappointed (U+71E3)	e787a3
+燤	U+71E4 (U+71E4)	e787a4
+燥	dry, parched, arid; quick-tempered (U+71E5)	e787a5
+燦	vivid, illuminating; bright (U+71E6)	e787a6
+燧	flintstone; beacon, signal fire; torch (U+71E7)	e787a7
+燨	U+71E8 (U+71E8)	e787a8
+燩	U+71E9 (U+71E9)	e787a9
+燪	U+71EA (U+71EA)	e787aa
+燫	U+71EB (U+71EB)	e787ab
+燬	burn down; blaze, fire (U+71EC)	e787ac
+燭	candle, taper; to shine, illuminate (U+71ED)	e787ad
+燮	harmonize, blend; adjust (U+71EE)	e787ae
+燯	U+71EF (U+71EF)	e787af
+燰	U+71F0 (U+71F0)	e787b0
+燱	U+71F1 (U+71F1)	e787b1
+燲	U+71F2 (U+71F2)	e787b2
+燳	U+71F3 (U+71F3)	e787b3
+燴	ragout, cook, braise (U+71F4)	e787b4
+燵	a foot-warmer (U+71F5)	e787b5
+燶	(Cant.) to scorch, burn (U+71F6)	e787b6
+燷	disappointed (U+71F7)	e787b7
+燸	U+71F8 (U+71F8)	e787b8
+燹	fire; wild fires (U+71F9)	e787b9
+燺	the dry at the fire to roast (U+71FA)	e787ba
+燻	smoke, fog, vapor; smoke, cure (U+71FB)	e787bb
+燼	cinders, ashes, embers; remnants (U+71FC)	e787bc
+燽	U+71FD (U+71FD)	e787bd
+燾	shine, illuminate; cover, envelope (U+71FE)	e787be
+燿	shine, dazzle; brilliant, radiant (U+71FF)	e787bf
+爀	U+7200 (U+7200)	e78880
+爁	U+7201 (U+7201)	e78881
+爂	U+7202 (U+7202)	e78882
+爃	U+7203 (U+7203)	e78883
+爄	U+7204 (U+7204)	e78884
+爅	U+7205 (U+7205)	e78885
+爆	crackle, pop, burst, explode (U+7206)	e78886
+爇	burn (U+7207)	e78887
+爈	U+7208 (U+7208)	e78888
+爉	U+7209 (U+7209)	e78889
+爊	U+720A (U+720A)	e7888a
+爋	U+720B (U+720B)	e7888b
+爌	U+720C (U+720C)	e7888c
+爍	shine, glitter, sparkle (U+720D)	e7888d
+爎	U+720E (U+720E)	e7888e
+爏	U+720F (U+720F)	e7888f
+爐	fireplace, stove, oven, furnace (U+7210)	e78890
+爑	U+7211 (U+7211)	e78891
+爒	U+7212 (U+7212)	e78892
+爓	flame; brilliant, blazing (U+7213)	e78893
+爔	U+7214 (U+7214)	e78894
+爕	U+7215 (U+7215)	e78895
+爖	fire (U+7216)	e78896
+爗	U+7217 (U+7217)	e78897
+爘	U+7218 (U+7218)	e78898
+爙	U+7219 (U+7219)	e78899
+爚	bright; fiery (U+721A)	e7889a
+爛	rotten, spoiled, decayed (U+721B)	e7889b
+爜	U+721C (U+721C)	e7889c
+爝	U+721D (U+721D)	e7889d
+爞	U+721E (U+721E)	e7889e
+爟	fire (U+721F)	e7889f
+爠	U+7220 (U+7220)	e788a0
+爡	U+7221 (U+7221)	e788a1
+爢	U+7222 (U+7222)	e788a2
+爣	U+7223 (U+7223)	e788a3
+爤	U+7224 (U+7224)	e788a4
+爥	simmer, cook over slow fire (U+7225)	e788a5
+爦	U+7226 (U+7226)	e788a6
+爧	U+7227 (U+7227)	e788a7
+爨	oven, cooking stove; cook (U+7228)	e788a8
+爩	(Cant.) to smoke, fumigate; to bleach with burning sulfur (U+7229)	e788a9
+爪	claw, nail, talon; animal feet (U+722A)	e788aa
+爫	radical 87 (U+722B)	e788ab
+爬	crawl, creep; climb; scramble (U+722C)	e788ac
+爭	to dispute, fight, contend, strive (U+722D)	e788ad
+爮	U+722E (U+722E)	e788ae
+爯	U+722F (U+722F)	e788af
+爰	lead on to; therefore, then (U+7230)	e788b0
+爱	love, be fond of, like (U+7231)	e788b1
+爲	do, handle, govern, act; be (U+7232)	e788b2
+爳	U+7233 (U+7233)	e788b3
+爴	U+7234 (U+7234)	e788b4
+爵	feudal title or rank (U+7235)	e788b5
+父	father; KangXi radical 88 (U+7236)	e788b6
+爷	father, grandfather (U+7237)	e788b7
+爸	father, papa (U+7238)	e788b8
+爹	father, daddy (U+7239)	e788b9
+爺	father, grandfather (U+723A)	e788ba
+爻	diagrams for divination (U+723B)	e788bb
+爼	a small table or tiered stand filled with meat offerings (U+723C)	e788bc
+爽	happy, cheerful; refreshing (U+723D)	e788bd
+爾	you; that, those; final particle (U+723E)	e788be
+爿	half of tree trunk; KangXi radical 90 (U+723F)	e788bf
+牀	bed, couch; bench; chassis (U+7240)	e78980
+牁	mooring stake; painter, mooring (U+7241)	e78981
+牂	female sheep, ewe (U+7242)	e78982
+牃	U+7243 (U+7243)	e78983
+牄	to walk rapidly (U+7244)	e78984
+牅	U+7245 (U+7245)	e78985
+牆	wall (U+7246)	e78986
+片	slice, splinter, strip; rad. 91 (U+7247)	e78987
+版	printing blocks; edition (U+7248)	e78988
+牉	U+7249 (U+7249)	e78989
+牊	U+724A (U+724A)	e7898a
+牋	memorandum, official note (U+724B)	e7898b
+牌	signboard, placard (U+724C)	e7898c
+牍	writing tablet; documents, books (U+724D)	e7898d
+牎	U+724E (U+724E)	e7898e
+牏	privy hole (U+724F)	e7898f
+牐	sluice; flood gate, canal lock (U+7250)	e78990
+牑	U+7251 (U+7251)	e78991
+牒	documents, records; dispatch (U+7252)	e78992
+牓	tablet; public notice; register (U+7253)	e78993
+牔	gable (U+7254)	e78994
+牕	window (U+7255)	e78995
+牖	window; lead enlightenment (U+7256)	e78996
+牗	U+7257 (U+7257)	e78997
+牘	writing tablet; documents, books (U+7258)	e78998
+牙	tooth, molars, teeth; serrated (U+7259)	e78999
+牚	U+725A (U+725A)	e7899a
+牛	cow, ox, bull; KangXi radical93 (U+725B)	e7899b
+牜	an ox, a cow Radical 93 (U+725C)	e7899c
+牝	female of species; deep gorge (U+725D)	e7899d
+牞	U+725E (U+725E)	e7899e
+牟	make; seek, get; barley; low (U+725F)	e7899f
+牠	it; polled cattle (U+7260)	e789a0
+牡	male of animals; bolt of door (U+7261)	e789a1
+牢	prison; stable, pen; secure (U+7262)	e789a2
+牣	fill, stuff; full (U+7263)	e789a3
+牤	a bull (U+7264)	e789a4
+牥	U+7265 (U+7265)	e789a5
+牦	tail; hair; yak (U+7266)	e789a6
+牧	tend cattle, shepherd (U+7267)	e789a7
+牨	U+7268 (U+7268)	e789a8
+物	thing, substance, creature (U+7269)	e789a9
+牪	U+726A (U+726A)	e789aa
+牫	U+726B (U+726B)	e789ab
+牬	U+726C (U+726C)	e789ac
+牭	U+726D (U+726D)	e789ad
+牮	U+726E (U+726E)	e789ae
+牯	cow; bull; ox (U+726F)	e789af
+牰	U+7270 (U+7270)	e789b0
+牱	U+7271 (U+7271)	e789b1
+牲	sacrificial animal; animal (U+7272)	e789b2
+牳	U+7273 (U+7273)	e789b3
+牴	gore, butt; resist (U+7274)	e789b4
+牵	drag, pull, lead by hand (U+7275)	e789b5
+牶	a nose-ring for an animal (U+7276)	e789b6
+牷	cow or ox of one color, perfect (U+7277)	e789b7
+牸	the female of certain animals; to bring forth young of animals (U+7278)	e789b8
+特	special, unique, distinguished (U+7279)	e789b9
+牺	sacrifice, give up; sacrificial (U+727A)	e789ba
+牻	U+727B (U+727B)	e789bb
+牼	ox shank, person's name (U+727C)	e789bc
+牽	drag, pull, lead by hand (U+727D)	e789bd
+牾	to oppose; to gore (U+727E)	e789be
+牿	U+727F (U+727F)	e789bf
+犀	rhinoceros; sharp, well-tempered (U+7280)	e78a80
+犁	plow (U+7281)	e78a81
+犂	plow (U+7282)	e78a82
+犃	U+7283 (U+7283)	e78a83
+犄	animal horns (U+7284)	e78a84
+犅	U+7285 (U+7285)	e78a85
+犆	special (U+7286)	e78a86
+犇	run fast, flee; rush about; run (U+7287)	e78a87
+犈	U+7288 (U+7288)	e78a88
+犉	an ox with yellow hair and black lips (U+7289)	e78a89
+犊	calf; victim of sacrifice (U+728A)	e78a8a
+犋	U+728B (U+728B)	e78a8b
+犌	U+728C (U+728C)	e78a8c
+犍	a bullock; a fabulous monster (U+728D)	e78a8d
+犎	the zebu, or humped-ox (U+728E)	e78a8e
+犏	yak-ox (U+728F)	e78a8f
+犐	U+7290 (U+7290)	e78a90
+犑	U+7291 (U+7291)	e78a91
+犒	entertain victorious soldiers (U+7292)	e78a92
+犓	U+7293 (U+7293)	e78a93
+犔	U+7294 (U+7294)	e78a94
+犕	U+7295 (U+7295)	e78a95
+犖	brindled ox; brindled in color (U+7296)	e78a96
+犗	U+7297 (U+7297)	e78a97
+犘	U+7298 (U+7298)	e78a98
+犙	U+7299 (U+7299)	e78a99
+犚	U+729A (U+729A)	e78a9a
+犛	a black ox, a yak (U+729B)	e78a9b
+犜	U+729C (U+729C)	e78a9c
+犝	U+729D (U+729D)	e78a9d
+犞	U+729E (U+729E)	e78a9e
+犟	stubborn (U+729F)	e78a9f
+犠	sacrifice, give up; sacrificial (U+72A0)	e78aa0
+犡	U+72A1 (U+72A1)	e78aa1
+犢	calf; victim of sacrifice (U+72A2)	e78aa2
+犣	U+72A3 (U+72A3)	e78aa3
+犤	U+72A4 (U+72A4)	e78aa4
+犥	U+72A5 (U+72A5)	e78aa5
+犦	U+72A6 (U+72A6)	e78aa6
+犧	sacrifice, give up; sacrificial (U+72A7)	e78aa7
+犨	panting of cow; grunting of ox (U+72A8)	e78aa8
+犩	U+72A9 (U+72A9)	e78aa9
+犪	U+72AA (U+72AA)	e78aaa
+犫	protrude (U+72AB)	e78aab
+犬	dog; radical number 94 (U+72AC)	e78aac
+犭	dog; radical number 94 (U+72AD)	e78aad
+犮	to pull up (U+72AE)	e78aae
+犯	commit crime, violate; criminal (U+72AF)	e78aaf
+犰	armadillo (U+72B0)	e78ab0
+犱	U+72B1 (U+72B1)	e78ab1
+犲	wolf; cruel, wicked, mean (U+72B2)	e78ab2
+犳	U+72B3 (U+72B3)	e78ab3
+犴	a wild dog, a not very large lock-up (U+72B4)	e78ab4
+犵	resolute; a non-Han ethnic group in Guangxi, Hunan, and Guizhou (U+72B5)	e78ab5
+状	form; appearance; shape; official (U+72B6)	e78ab6
+犷	fierce, rude, uncivilized (U+72B7)	e78ab7
+犸	mammoth (U+72B8)	e78ab8
+犹	like, similar to, just like, as (U+72B9)	e78ab9
+犺	animal (U+72BA)	e78aba
+犻	U+72BB (U+72BB)	e78abb
+犼	a fierce Mongolian wolf dragon's head on roofs (U+72BC)	e78abc
+犽	U+72BD (U+72BD)	e78abd
+犾	U+72BE (U+72BE)	e78abe
+犿	U+72BF (U+72BF)	e78abf
+狀	form; appearance; shape; official (U+72C0)	e78b80
+狁	a tribe of Scythian nomads (U+72C1)	e78b81
+狂	insane, mad; violent; wild (U+72C2)	e78b82
+狃	to covet; to be accustomed (U+72C3)	e78b83
+狄	tribe from northern china; surnam (U+72C4)	e78b84
+狅	U+72C5 (U+72C5)	e78b85
+狆	pekinese dog, lap dog, pug; pup (U+72C6)	e78b86
+狇	U+72C7 (U+72C7)	e78b87
+狈	a legendary animal with short forelegs which rode a wolf (U+72C8)	e78b88
+狉	fox-cub (U+72C9)	e78b89
+狊	U+72CA (U+72CA)	e78b8a
+狋	U+72CB (U+72CB)	e78b8b
+狌	U+72CC (U+72CC)	e78b8c
+狍	species of deer found in north China (U+72CD)	e78b8d
+狎	be familiar with; disrespect (U+72CE)	e78b8e
+狏	U+72CF (U+72CF)	e78b8f
+狐	species of fox (U+72D0)	e78b90
+狑	U+72D1 (U+72D1)	e78b91
+狒	baboon (U+72D2)	e78b92
+狓	U+72D3 (U+72D3)	e78b93
+狔	U+72D4 (U+72D4)	e78b94

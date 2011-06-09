@@ -1,0 +1,1024 @@
+軕	U+8ED5 (U+8ED5)	e8bb95
+軖	U+8ED6 (U+8ED6)	e8bb96
+軗	U+8ED7 (U+8ED7)	e8bb97
+軘	war car (U+8ED8)	e8bb98
+軙	a Chinese family name to arrange; to display wheel (U+8ED9)	e8bb99
+軚	(Cant.) a steering wheel (U+8EDA)	e8bb9a
+軛	yoke, collar; to restrain (U+8EDB)	e8bb9b
+軜	reins (U+8EDC)	e8bb9c
+軝	axle-tip (U+8EDD)	e8bb9d
+軞	U+8EDE (U+8EDE)	e8bb9e
+軟	soft, flexible, pliable; weak (U+8EDF)	e8bb9f
+軠	U+8EE0 (U+8EE0)	e8bba0
+軡	U+8EE1 (U+8EE1)	e8bba1
+転	shift, move, turn (U+8EE2)	e8bba2
+軣	rumble, explosion, blast (U+8EE3)	e8bba3
+軤	surname (U+8EE4)	e8bba4
+軥	yoke (U+8EE5)	e8bba5
+軦	U+8EE6 (U+8EE6)	e8bba6
+軧	U+8EE7 (U+8EE7)	e8bba7
+軨	wooden cross-piece on front inside of carriage box (U+8EE8)	e8bba8
+軩	U+8EE9 (U+8EE9)	e8bba9
+軪	U+8EEA (U+8EEA)	e8bbaa
+軫	cross board at rear of carriage (U+8EEB)	e8bbab
+軬	U+8EEC (U+8EEC)	e8bbac
+軭	(Cant.) to spoil, ruin (U+8EED)	e8bbad
+軮	U+8EEE (U+8EEE)	e8bbae
+軯	U+8EEF (U+8EEF)	e8bbaf
+軰	a row of carriages; a generation; a class, a series a kind; denotes the plural (U+8EF0)	e8bbb0
+軱	U+8EF1 (U+8EF1)	e8bbb1
+軲	a wheel; to revolve (U+8EF2)	e8bbb2
+軳	U+8EF3 (U+8EF3)	e8bbb3
+軴	U+8EF4 (U+8EF4)	e8bbb4
+軵	U+8EF5 (U+8EF5)	e8bbb5
+軶	U+8EF6 (U+8EF6)	e8bbb6
+軷	sacrifice (U+8EF7)	e8bbb7
+軸	axle, axletree; pivot; axis (U+8EF8)	e8bbb8
+軹	end of axle; divergent (U+8EF9)	e8bbb9
+軺	small light carriage (U+8EFA)	e8bbba
+軻	axle; personal name of mencius (U+8EFB)	e8bbbb
+軼	rush forth; surpass, excel (U+8EFC)	e8bbbc
+軽	light; easy, simple; gentle (U+8EFD)	e8bbbd
+軾	horizontal wooden bar in front of a sedan chair (U+8EFE)	e8bbbe
+軿	curtained carriage used by women (U+8EFF)	e8bbbf
+輀	hearse (U+8F00)	e8bc80
+輁	U+8F01 (U+8F01)	e8bc81
+輂	U+8F02 (U+8F02)	e8bc82
+較	compare; comparatively, more (U+8F03)	e8bc83
+輄	U+8F04 (U+8F04)	e8bc84
+輅	a chariot, carriage; a carriage pull-bar (U+8F05)	e8bc85
+輆	U+8F06 (U+8F06)	e8bc86
+輇	cart wheel with no spokes (U+8F07)	e8bc87
+輈	shaft (U+8F08)	e8bc88
+載	load; carry; transport, convey (U+8F09)	e8bc89
+輊	low rear portion of cart (U+8F0A)	e8bc8a
+輋	沙田禾輋, Hong Kong toponym (U+8F0B)	e8bc8b
+輌	numerary adjunct for vehicles (U+8F0C)	e8bc8c
+輍	U+8F0D (U+8F0D)	e8bc8d
+輎	U+8F0E (U+8F0E)	e8bc8e
+輏	light; light carriage (U+8F0F)	e8bc8f
+輐	U+8F10 (U+8F10)	e8bc90
+輑	U+8F11 (U+8F11)	e8bc91
+輒	sides of chariot where weapons (U+8F12)	e8bc92
+輓	mourn; pull; draw (U+8F13)	e8bc93
+輔	cheek bone; protective; assist (U+8F14)	e8bc94
+輕	light; easy, simple; gentle (U+8F15)	e8bc95
+輖	U+8F16 (U+8F16)	e8bc96
+輗	the cross-bar at the end of a carriage pole; linchpin of a large carriage (U+8F17)	e8bc97
+輘	a car-rut; rumbling of a cart (U+8F18)	e8bc98
+輙	sides of chariot were weapons (U+8F19)	e8bc99
+輚	U+8F1A (U+8F1A)	e8bc9a
+輛	numerary adjunct for vehicles (U+8F1B)	e8bc9b
+輜	a supply cart, covered wagon, dray (U+8F1C)	e8bc9c
+輝	brightness, luster, brilliance (U+8F1D)	e8bc9d
+輞	exterior rim of wheel, felly (U+8F1E)	e8bc9e
+輟	stop, suspend, halt (U+8F1F)	e8bc9f
+輠	grease pot hung under axle of cart (U+8F20)	e8bca0
+輡	same as 轗 U+8F57, to fail; a difficulty, misfortune (U+8F21)	e8bca1
+輢	U+8F22 (U+8F22)	e8bca2
+輣	U+8F23 (U+8F23)	e8bca3
+輤	a pall to cover the hearse (U+8F24)	e8bca4
+輥	turn round, revolve; roller (U+8F25)	e8bca5
+輦	a hand-cart; to transport by carriage (U+8F26)	e8bca6
+輧	curtained carriage used by women (U+8F27)	e8bca7
+輨	U+8F28 (U+8F28)	e8bca8
+輩	generation, lifetime; class (U+8F29)	e8bca9
+輪	wheel; revolve, turn; recur (U+8F2A)	e8bcaa
+輫	U+8F2B (U+8F2B)	e8bcab
+輬	a hearse; a carriage (U+8F2C)	e8bcac
+輭	flexible, pliable; weak, feeble (U+8F2D)	e8bcad
+輮	exterior rim of wheel, felly (U+8F2E)	e8bcae
+輯	gather up, collect; edit, compile (U+8F2F)	e8bcaf
+輰	U+8F30 (U+8F30)	e8bcb0
+輱	U+8F31 (U+8F31)	e8bcb1
+輲	U+8F32 (U+8F32)	e8bcb2
+輳	hubs of wheel; converge around (U+8F33)	e8bcb3
+輴	sled (U+8F34)	e8bcb4
+輵	great array of spears and chariots (U+8F35)	e8bcb5
+輶	light carriage; trifling, light (U+8F36)	e8bcb6
+輷	U+8F37 (U+8F37)	e8bcb7
+輸	transport, carry, haul (U+8F38)	e8bcb8
+輹	two pieces of wood underneath a cart (U+8F39)	e8bcb9
+輺	U+8F3A (U+8F3A)	e8bcba
+輻	spokes of wheel (U+8F3B)	e8bcbb
+輼	U+8F3C (U+8F3C)	e8bcbc
+輽	vehicle (U+8F3D)	e8bcbd
+輾	turn over, roll (U+8F3E)	e8bcbe
+輿	cart, palanquin; public opinion (U+8F3F)	e8bcbf
+轀	hearse (U+8F40)	e8bd80
+轁	U+8F41 (U+8F41)	e8bd81
+轂	hub of wheel (U+8F42)	e8bd82
+轃	U+8F43 (U+8F43)	e8bd83
+轄	linchpin of wheel; control (U+8F44)	e8bd84
+轅	axle; magistrate's office; surname (U+8F45)	e8bd85
+轆	windlass, pulley, capstan; wheel (U+8F46)	e8bd86
+轇	complicated, confused; dispute (U+8F47)	e8bd87
+轈	turret on a chariot (U+8F48)	e8bd88
+轉	shift, move, turn (U+8F49)	e8bd89
+轊	axle-tip (U+8F4A)	e8bd8a
+轋	U+8F4B (U+8F4B)	e8bd8b
+轌	sled (U+8F4C)	e8bd8c
+轍	wagon ruts, wheel tracks (U+8F4D)	e8bd8d
+轎	sedan-chair, palanquin (U+8F4E)	e8bd8e
+轏	sleeping cart (U+8F4F)	e8bd8f
+轐	U+8F50 (U+8F50)	e8bd90
+轑	rut (U+8F51)	e8bd91
+轒	chariot (U+8F52)	e8bd92
+轓	U+8F53 (U+8F53)	e8bd93
+轔	rumbling of vehicles; threshold (U+8F54)	e8bd94
+轕	great array of spears and chariots (U+8F55)	e8bd95
+轖	framework of lattice on cart (U+8F56)	e8bd96
+轗	fail (U+8F57)	e8bd97
+轘	tear asunder between chariots (U+8F58)	e8bd98
+轙	rings on the yokes (U+8F59)	e8bd99
+轚	U+8F5A (U+8F5A)	e8bd9a
+轛	U+8F5B (U+8F5B)	e8bd9b
+轜	hearse (U+8F5C)	e8bd9c
+轝	envy; hate, dislike; resentment (U+8F5D)	e8bd9d
+轞	a vehicle for transporting prisoners (U+8F5E)	e8bd9e
+轟	rumble, explosion, blast (U+8F5F)	e8bd9f
+轠	U+8F60 (U+8F60)	e8bda0
+轡	bridle of horse, reins (U+8F61)	e8bda1
+轢	run over something with vehicle (U+8F62)	e8bda2
+轣	to gallop; a mule (U+8F63)	e8bda3
+轤	pulley, windlass, capstan (U+8F64)	e8bda4
+轥	U+8F65 (U+8F65)	e8bda5
+车	cart, vehicle; carry in cart (U+8F66)	e8bda6
+轧	crush by weight; grind (U+8F67)	e8bda7
+轨	track, rut, path (U+8F68)	e8bda8
+轩	carriage; high; wide; balcony (U+8F69)	e8bda9
+轪	U+8F6A (U+8F6A)	e8bdaa
+轫	a block that keeps a wheel from moving (U+8F6B)	e8bdab
+转	shift, move, turn (U+8F6C)	e8bdac
+轭	yoke, collar (U+8F6D)	e8bdad
+轮	wheel; revolve, turn; recur (U+8F6E)	e8bdae
+软	soft, flexible, pliable; weak (U+8F6F)	e8bdaf
+轰	rumble, explosion, blast (U+8F70)	e8bdb0
+轱	wheel; to turn; to revolve (U+8F71)	e8bdb1
+轲	axle; personal name of mencius (U+8F72)	e8bdb2
+轳	pulley, windlass, capstan (U+8F73)	e8bdb3
+轴	axle, axletree; pivot; axis (U+8F74)	e8bdb4
+轵	end of axle; divergent (U+8F75)	e8bdb5
+轶	rush forth; surpass, excel (U+8F76)	e8bdb6
+轷	surname (U+8F77)	e8bdb7
+轸	cross board at rear of carriage (U+8F78)	e8bdb8
+轹	run over something with vehicle (U+8F79)	e8bdb9
+轺	small light carriage (U+8F7A)	e8bdba
+轻	light; easy, simple; gentle (U+8F7B)	e8bdbb
+轼	horizontal wooden bar in front (U+8F7C)	e8bdbc
+载	load; carry; transport, convey (U+8F7D)	e8bdbd
+轾	low rear portion of cart (U+8F7E)	e8bdbe
+轿	sedan-chair, palanquin (U+8F7F)	e8bdbf
+辀	shaft (U+8F80)	e8be80
+辁	cart wheel with no spokes (U+8F81)	e8be81
+辂	a chariot, carriage; a carriage pull-bar (U+8F82)	e8be82
+较	compare; comparatively, more (U+8F83)	e8be83
+辄	sides of chariot where weapons (U+8F84)	e8be84
+辅	cheek bone; protective; assist (U+8F85)	e8be85
+辆	numerary adjunct for vehicles (U+8F86)	e8be86
+辇	hand-cart; transport by carriage (U+8F87)	e8be87
+辈	generation, lifetime; class (U+8F88)	e8be88
+辉	brightness, luster, brilliance (U+8F89)	e8be89
+辊	turn round, revolve; roller (U+8F8A)	e8be8a
+辋	exterior rim of wheel, felly (U+8F8B)	e8be8b
+辌	a hearse; a carriage (U+8F8C)	e8be8c
+辍	stop, suspend, halt (U+8F8D)	e8be8d
+辎	a supply cart, covered wagon, dray (U+8F8E)	e8be8e
+辏	hubs of wheel; converge around (U+8F8F)	e8be8f
+辐	spokes of wheel (U+8F90)	e8be90
+辑	gather up, collect; edit, compile (U+8F91)	e8be91
+辒	hearse (U+8F92)	e8be92
+输	transport, carry, haul (U+8F93)	e8be93
+辔	bridle of horse, reins (U+8F94)	e8be94
+辕	axle; magistrate's office; surname (U+8F95)	e8be95
+辖	linchpin of wheel; control (U+8F96)	e8be96
+辗	turn over, roll (U+8F97)	e8be97
+辘	windlass, pulley, capstan; wheel (U+8F98)	e8be98
+辙	wagon ruts, wheel tracks (U+8F99)	e8be99
+辚	rumbling of vehicles; threshold (U+8F9A)	e8be9a
+辛	bitter; toilsome, laborious; 8th heavenly stem (U+8F9B)	e8be9b
+辜	crime, criminal offense (U+8F9C)	e8be9c
+辝	U+8F9D (U+8F9D)	e8be9d
+辞	words, speech, expression, phrase (U+8F9E)	e8be9e
+辟	law, rule; open up, develop (U+8F9F)	e8be9f
+辠	crime, sin, vice; evil; hardship (U+8FA0)	e8bea0
+辡	recrimination; wrangling (U+8FA1)	e8bea1
+辢	bitter, pungent, acrid (U+8FA2)	e8bea2
+辣	peppery, pungent, hot; cruel (U+8FA3)	e8bea3
+辤	words, speech; a sentence, an expression or phrase; a message (U+8FA4)	e8bea4
+辥	variety of marsh grass (U+8FA5)	e8bea5
+辦	manage, do, handle; deal with (U+8FA6)	e8bea6
+辧	manage, do, handle; deal with (U+8FA7)	e8bea7
+辨	distinguish, discriminate (U+8FA8)	e8bea8
+辩	dispute, argue, debate, discuss (U+8FA9)	e8bea9
+辪	U+8FAA (U+8FAA)	e8beaa
+辫	braid; pigtail, plait, queue (U+8FAB)	e8beab
+辬	U+8FAC (U+8FAC)	e8beac
+辭	words, speech, expression, phrase (U+8FAD)	e8bead
+辮	braid; pigtail, plait, queue (U+8FAE)	e8beae
+辯	dispute, argue, debate, discuss (U+8FAF)	e8beaf
+辰	early morning; 5th terrestrial branch (U+8FB0)	e8beb0
+辱	humiliate, insult, abuse (U+8FB1)	e8beb1
+農	agriculture, farming; farmer (U+8FB2)	e8beb2
+辳	U+8FB3 (U+8FB3)	e8beb3
+辴	U+8FB4 (U+8FB4)	e8beb4
+辵	walk; walking; KangXi radical 162 (U+8FB5)	e8beb5
+辶	walk; walking; KangXi radical 162 (U+8FB6)	e8beb6
+辷	smooth, slippery (U+8FB7)	e8beb7
+辸	U+8FB8 (U+8FB8)	e8beb8
+边	edge, margin, side, border (U+8FB9)	e8beb9
+辺	edge, margin, side, border (U+8FBA)	e8beba
+辻	crossroads; street (U+8FBB)	e8bebb
+込	crowd into, go into (U+8FBC)	e8bebc
+辽	distant, far (U+8FBD)	e8bebd
+达	arrive at, reach; intelligent; smooth, slippery (U+8FBE)	e8bebe
+辿	follow, pursue (U+8FBF)	e8bebf
+迀	U+8FC0 (U+8FC0)	e8bf80
+迁	move, shift, change; transfer; relocate a capital city (U+8FC1)	e8bf81
+迂	doctrinaire, abstruse, unrealistic (U+8FC2)	e8bf82
+迃	U+8FC3 (U+8FC3)	e8bf83
+迄	extend, reach; until; till (U+8FC4)	e8bf84
+迅	quick, hasty, rapid, sudden (U+8FC5)	e8bf85
+迆	wind; walk out of straight path (U+8FC6)	e8bf86
+过	pass, pass through, go across (U+8FC7)	e8bf87
+迈	take a big stride; pass by (U+8FC8)	e8bf88
+迉	U+8FC9 (U+8FC9)	e8bf89
+迊	to go round, to make a circuit, to make a revolution, to turn round (U+8FCA)	e8bf8a
+迋	travel, go to; deceive; scare (U+8FCB)	e8bf8b
+迌	U+8FCC (U+8FCC)	e8bf8c
+迍	falter, hesitate (U+8FCD)	e8bf8d
+迎	receive, welcome, greet (U+8FCE)	e8bf8e
+迏	U+8FCF (U+8FCF)	e8bf8f
+运	run; simplified form of 運 luck, fortune; ship, transport (U+8FD0)	e8bf90
+近	near, close; approach; intimate (U+8FD1)	e8bf91
+迒	U+8FD2 (U+8FD2)	e8bf92
+迓	to go to meet, to receive, as a guest (U+8FD3)	e8bf93
+返	return, revert to, restore (U+8FD4)	e8bf94
+迕	obstinate, perverse (U+8FD5)	e8bf95
+迖	U+8FD6 (U+8FD6)	e8bf96
+迗	U+8FD7 (U+8FD7)	e8bf97
+还	still, yet, also, besides (U+8FD8)	e8bf98
+这	this, the, here (U+8FD9)	e8bf99
+迚	very; somehow (U+8FDA)	e8bf9a
+进	advance, make progress, enter (U+8FDB)	e8bf9b
+远	distant, remote, far; profound (U+8FDC)	e8bf9c
+违	disobey, violate, defy; be apart from (U+8FDD)	e8bf9d
+连	join, connect; continuous; even (U+8FDE)	e8bf9e
+迟	late, tardy; slow; delay (U+8FDF)	e8bf9f
+迠	made (U+8FE0)	e8bfa0
+迡	U+8FE1 (U+8FE1)	e8bfa1
+迢	far; distant (U+8FE2)	e8bfa2
+迣	to leap over (U+8FE3)	e8bfa3
+迤	wind; walk out of straight path (U+8FE4)	e8bfa4
+迥	distant, far; separated; different (U+8FE5)	e8bfa5
+迦	character for transliteration (U+8FE6)	e8bfa6
+迧	a Chinese family name arrange; display a column of troops (U+8FE7)	e8bfa7
+迨	until, when; seize, arrest (U+8FE8)	e8bfa8
+迩	be near, be close; recently (U+8FE9)	e8bfa9
+迪	enlighten, advance; progress (U+8FEA)	e8bfaa
+迫	coerce, force, compel; urgent (U+8FEB)	e8bfab
+迬	to walk along, to go (U+8FEC)	e8bfac
+迭	repeatedly, frequently (U+8FED)	e8bfad
+迮	to rise; contracted; cramped (U+8FEE)	e8bfae
+迯	escape, flee; abscond, dodge (U+8FEF)	e8bfaf
+述	narrate, state, express (U+8FF0)	e8bfb0
+迱	U+8FF1 (U+8FF1)	e8bfb1
+迲	U+8FF2 (U+8FF2)	e8bfb2
+迳	pass by, approach; direct (U+8FF3)	e8bfb3
+迴	revolve, rotate; curving, zigzag (U+8FF4)	e8bfb4
+迵	U+8FF5 (U+8FF5)	e8bfb5
+迶	U+8FF6 (U+8FF6)	e8bfb6
+迷	bewitch, charm, infatuate (U+8FF7)	e8bfb7
+迸	gush out; burst forth; split (U+8FF8)	e8bfb8
+迹	traces, impressions, footprints (U+8FF9)	e8bfb9
+迺	then, thereupon, only then (U+8FFA)	e8bfba
+迻	to shift; to transfer; to transform (U+8FFB)	e8bfbb
+迼	U+8FFC (U+8FFC)	e8bfbc
+追	pursue, chase after; expel (U+8FFD)	e8bfbd
+迾	(Cant.) row (U+8FFE)	e8bfbe
+迿	to be the first to begin a quarrel (U+8FFF)	e8bfbf
+退	step back, retreat, withdraw (U+9000)	e98080
+送	see off, send off; dispatch, give (U+9001)	e98081
+适	go, reach; appropriate, suitable (U+9002)	e98082
+逃	escape, flee; abscond, dodge (U+9003)	e98083
+逄	a surname (U+9004)	e98084
+逅	meet unexpectedly (U+9005)	e98085
+逆	disobey, rebel; rebel, traitor (U+9006)	e98086
+逇	U+9007 (U+9007)	e98087
+逈	distant, far; separated; different (U+9008)	e98088
+选	choose, select; elect; election (U+9009)	e98089
+逊	humble, modest; yield (U+900A)	e9808a
+逋	flee, run away, leave debt unsettled (U+900B)	e9808b
+逌	please; smiling; complacent (U+900C)	e9808c
+逍	ramble, stroll, jaunt, loiter (U+900D)	e9808d
+逎	strong, unyielding, forceful (U+900E)	e9808e
+透	penetrate, pass through (U+900F)	e9808f
+逐	chase, expel; one by one (U+9010)	e98090
+逑	collect, unite; match, pair (U+9011)	e98091
+递	hand over, deliver; substitute (U+9012)	e98092
+逓	hand over, deliver; substitute (U+9013)	e98093
+途	way, road, path, journey; course (U+9014)	e98094
+逕	pass by, approach; direct (U+9015)	e98095
+逖	far, distant; keep at distance (U+9016)	e98096
+逗	tempt, allure, arouse, stir (U+9017)	e98097
+逘	U+9018 (U+9018)	e98098
+這	this, the, here (U+9019)	e98099
+通	pass through, common, communicate (U+901A)	e9809a
+逛	ramble, stroll, roam, wander (U+901B)	e9809b
+逜	U+901C (U+901C)	e9809c
+逝	pass away; die (U+901D)	e9809d
+逞	indulge oneself; brag, show off (U+901E)	e9809e
+速	quick, prompt, speedy (U+901F)	e9809f
+造	construct, build, make, begin; prepare (U+9020)	e980a0
+逡	retreat, withdraw, fall back (U+9021)	e980a1
+逢	come upon, happen meet; flatter (U+9022)	e980a2
+連	join, connect; continuous; even (U+9023)	e980a3
+逤	U+9024 (U+9024)	e980a4
+逥	return, turn around; a time (U+9025)	e980a5
+逦	meandering, winding (U+9026)	e980a6
+逧	U+9027 (U+9027)	e980a7
+逨	U+9028 (U+9028)	e980a8
+逩	to run quickly (U+9029)	e980a9
+逪	U+902A (U+902A)	e980aa
+逫	U+902B (U+902B)	e980ab
+逬	to scatter; to expel; to crack, to split; to jump (U+902C)	e980ac
+逭	to escape from; to flee, to avoid (U+902D)	e980ad
+逮	seize, catch; reach, arrive (U+902E)	e980ae
+逯	leave without reason; surname (U+902F)	e980af
+逰	wander, roam, travel (U+9030)	e980b0
+週	week; turn, cycle; anniversary (U+9031)	e980b1
+進	advance, make progress, enter (U+9032)	e980b2
+逳	(Cant.) to move, touch, hit (U+9033)	e980b3
+逴	argue, quarrel, squabble; far (U+9034)	e980b4
+逵	thoroughfare, crossroads (U+9035)	e980b5
+逶	winding, curving; swagger (U+9036)	e980b6
+逷	distant, far away (U+9037)	e980b7
+逸	flee, escape, break loose (U+9038)	e980b8
+逹	arrive at, reach; intelligent (U+9039)	e980b9
+逺	distant, remote, far; profound (U+903A)	e980ba
+逻	patrol; inspect; watch; patrol (U+903B)	e980bb
+逼	compel, pressure, force; bother (U+903C)	e980bc
+逽	U+903D (U+903D)	e980bd
+逾	go over, pass over, exceed (U+903E)	e980be
+逿	a time; a row; to fall, miss (U+903F)	e980bf
+遀	U+9040 (U+9040)	e98180
+遁	hide, conceal oneself; escape (U+9041)	e98181
+遂	comply with, follow along; thereupon (U+9042)	e98182
+遃	U+9043 (U+9043)	e98183
+遄	to hurry; to go to and fro (U+9044)	e98184
+遅	late, tardy; slow; delay (U+9045)	e98185
+遆	U+9046 (U+9046)	e98186
+遇	meet, come across, encounter (U+9047)	e98187
+遈	U+9048 (U+9048)	e98188
+遉	spy, reconnoiter; detective (U+9049)	e98189
+遊	wander, roam, travel (U+904A)	e9818a
+運	luck, fortune; ship, transport (U+904B)	e9818b
+遌	U+904C (U+904C)	e9818c
+遍	everywhere, all over, throughout (U+904D)	e9818d
+過	pass, pass through, go across (U+904E)	e9818e
+遏	stop, suppress, curb, check; a bar (U+904F)	e9818f
+遐	afar, distant; old, advanced in (U+9050)	e98190
+遑	leisure, leisurely; hurry about (U+9051)	e98191
+遒	strong, unyielding, forceful (U+9052)	e98192
+道	path, road, street; method, way (U+9053)	e98193
+達	arrive at, reach; intelligent (U+9054)	e98194
+違	disobey, violate, defy; be apart from (U+9055)	e98195
+遖	U+9056 (U+9056)	e98196
+遗	lose; articles lost; omit (U+9057)	e98197
+遘	to meet; to come across (U+9058)	e98198
+遙	far away, distant, remote (U+9059)	e98199
+遚	U+905A (U+905A)	e9819a
+遛	take walk, stroll (U+905B)	e9819b
+遜	humble, modest; yield (U+905C)	e9819c
+遝	mixed, abundant, assorted (U+905D)	e9819d
+遞	hand over, deliver; substitute (U+905E)	e9819e
+遟	late, tardy; slow; delay (U+905F)	e9819f
+遠	distant, remote, far; profound (U+9060)	e981a0
+遡	go upstream; trace source; formerly (U+9061)	e981a1
+遢	careless, negligent, slipshod (U+9062)	e981a2
+遣	send, dispatch; send off, exile (U+9063)	e981a3
+遤	U+9064 (U+9064)	e981a4
+遥	far away, distant, remote (U+9065)	e981a5
+遦	U+9066 (U+9066)	e981a6
+遧	U+9067 (U+9067)	e981a7
+遨	ramble, roam; travel for pleasure (U+9068)	e981a8
+適	match, comfortable; just (U+9069)	e981a9
+遪	U+906A (U+906A)	e981aa
+遫	speed (U+906B)	e981ab
+遬	U+906C (U+906C)	e981ac
+遭	come across, meet with, encounter (U+906D)	e981ad
+遮	cover, shield, protect (U+906E)	e981ae
+遯	deceive, hide, conceal; flee (U+906F)	e981af
+遰	grunting sound of pigs; clash (U+9070)	e981b0
+遱	U+9071 (U+9071)	e981b1
+遲	late, tardy; slow; delay (U+9072)	e981b2
+遳	U+9073 (U+9073)	e981b3
+遴	select, choose; surname (U+9074)	e981b4
+遵	obey, comply with, follow; honor (U+9075)	e981b5
+遶	entwine; wind around; surround (U+9076)	e981b6
+遷	move, shift, change; transfer (U+9077)	e981b7
+選	choose, select; elect; election (U+9078)	e981b8
+遹	comply with, obey; shun, avoid (U+9079)	e981b9
+遺	lose; articles lost; omit (U+907A)	e981ba
+遻	meet (U+907B)	e981bb
+遼	distant, far (U+907C)	e981bc
+遽	suddenly, unexpectedly; at once (U+907D)	e981bd
+遾	U+907E (U+907E)	e981be
+避	avoid; turn aside; escape; hide (U+907F)	e981bf
+邀	invite, welcome; meet, intercept (U+9080)	e98280
+邁	take a big stride; pass by (U+9081)	e98281
+邂	unexpected meeting; encounter by (U+9082)	e98282
+邃	profound, detailed; deep (U+9083)	e98283
+還	still, yet, also, besides (U+9084)	e98284
+邅	hesitant, faltering (U+9085)	e98285
+邆	U+9086 (U+9086)	e98286
+邇	be near, be close; recently (U+9087)	e98287
+邈	far, distant, remote; slight (U+9088)	e98288
+邉	edge, margin, side, border (U+9089)	e98289
+邊	edge, margin, side, border (U+908A)	e9828a
+邋	rags (U+908B)	e9828b
+邌	to walk slowly; to parade (U+908C)	e9828c
+邍	U+908D (U+908D)	e9828d
+邎	U+908E (U+908E)	e9828e
+邏	patrol; inspect; watch (U+908F)	e9828f
+邐	meandering, winding (U+9090)	e98290
+邑	area, district, city, state (U+9091)	e98291
+邒	U+9092 (U+9092)	e98292
+邓	surname (U+9093)	e98293
+邔	U+9094 (U+9094)	e98294
+邕	former or literary name for Nanning (in Guangxi) (U+9095)	e98295
+邖	U+9096 (U+9096)	e98296
+邗	an ancient place in the state of Wu (U+9097)	e98297
+邘	state in Henan province (U+9098)	e98298
+邙	mountain in Henan province (U+9099)	e98299
+邚	U+909A (U+909A)	e9829a
+邛	in distress; a mound (U+909B)	e9829b
+邜	U+909C (U+909C)	e9829c
+邝	surname (U+909D)	e9829d
+邞	U+909E (U+909E)	e9829e
+邟	U+909F (U+909F)	e9829f
+邠	county in Shaanxi province (U+90A0)	e982a0
+邡	name of a district in Sichuan (U+90A1)	e982a1
+邢	surname; state in today's Hebei (U+90A2)	e982a2
+那	that, that one, those (U+90A3)	e982a3
+邤	U+90A4 (U+90A4)	e982a4
+邥	U+90A5 (U+90A5)	e982a5
+邦	nation, country, state (U+90A6)	e982a6
+邧	town in Shanxi province (U+90A7)	e982a7
+邨	village, hamlet; rustic (U+90A8)	e982a8
+邩	U+90A9 (U+90A9)	e982a9
+邪	wrong, evil, depraved, vicious, perverse, heterodox (U+90AA)	e982aa
+邫	U+90AB (U+90AB)	e982ab
+邬	various place names; surname (U+90AC)	e982ac
+邭	U+90AD (U+90AD)	e982ad
+邮	postal, mail; post office (U+90AE)	e982ae
+邯	city in Hebei province; various (U+90AF)	e982af
+邰	surname; state in modern Shanxi (U+90B0)	e982b0
+邱	surname; hill; mound; grave (U+90B1)	e982b1
+邲	good-looking; name of a place (U+90B2)	e982b2
+邳	a department in the State of Lu; in what is now Shantung or N. China (U+90B3)	e982b3
+邴	name of a city in the ancient state of Song, in what is now Shandong; pleased (U+90B4)	e982b4
+邵	surname; various place names (U+90B5)	e982b5
+邶	place in today's Henan province (U+90B6)	e982b6
+邷	U+90B7 (U+90B7)	e982b7
+邸	official residence, residence of (U+90B8)	e982b8
+邹	name of an ancient state; surname (U+90B9)	e982b9
+邺	place in today's Henan province (U+90BA)	e982ba
+邻	neighbor; neighborhood (U+90BB)	e982bb
+邼	U+90BC (U+90BC)	e982bc
+邽	name of a county in Han dynasty (U+90BD)	e982bd
+邾	a feudal state which existed B.C.700-469; now in Shandong (U+90BE)	e982be
+邿	a state in Shandong province (U+90BF)	e982bf
+郀	U+90C0 (U+90C0)	e98380
+郁	sweet smelling, rich in aroma; (Cant.) to move, hit (U+90C1)	e98381
+郂	U+90C2 (U+90C2)	e98382
+郃	county in Shanxi province (U+90C3)	e98383
+郄	surname (U+90C4)	e98384
+郅	to go up to. flourishing a superlative (U+90C5)	e98385
+郆	U+90C6 (U+90C6)	e98386
+郇	an ancient feudal State in Shaanxi (U+90C7)	e98387
+郈	place in Shandong province (U+90C8)	e98388
+郉	surname; place name (U+90C9)	e98389
+郊	suburbs; waste land, open spaces (U+90CA)	e9838a
+郋	U+90CB (U+90CB)	e9838b
+郌	name of an ancient hsien in modern Gansu/Shaanxi area. (U+90CC)	e9838c
+郍	U+90CD (U+90CD)	e9838d
+郎	gentleman, young man; husband (U+90CE)	e9838e
+郏	county in Henan province; surname (U+90CF)	e9838f
+郐	state in today's Henan province (U+90D0)	e98390
+郑	state in today's Henan; surname (U+90D1)	e98391
+郒	U+90D2 (U+90D2)	e98392
+郓	surname; an ancient town's name (U+90D3)	e98393
+郔	place name in Shandong province (U+90D4)	e98394
+郕	state in Shandong province (U+90D5)	e98395
+郖	U+90D6 (U+90D6)	e98396
+郗	city under the Chou Dyn. a surname (U+90D7)	e98397
+郘	U+90D8 (U+90D8)	e98398
+郙	to be exiled; delay payment for (U+90D9)	e98399
+郚	towns in Shandong province (U+90DA)	e9839a
+郛	outer walls of city; suburbs (U+90DB)	e9839b
+郜	name of fief in Shantong bestowed on the eldest son of Wen Wang (U+90DC)	e9839c
+郝	surname; place in modern Shanxi (U+90DD)	e9839d
+郞	gentleman (U+90DE)	e9839e
+郟	county in Henan province; surname (U+90DF)	e9839f
+郠	place in Shandong province (U+90E0)	e983a0
+郡	administrative division (U+90E1)	e983a1
+郢	state in today's Hubei province (U+90E2)	e983a2
+郣	U+90E3 (U+90E3)	e983a3
+郤	crack, opening; surname (U+90E4)	e983a4
+郥	U+90E5 (U+90E5)	e983a5
+郦	place in today's Henan province (U+90E6)	e983a6
+郧	county in Hubei province (U+90E7)	e983a7
+部	part, division, section (U+90E8)	e983a8
+郩	U+90E9 (U+90E9)	e983a9
+郪	name of a stream in Sichuan province (U+90EA)	e983aa
+郫	U+90EB (U+90EB)	e983ab
+郬	U+90EC (U+90EC)	e983ac
+郭	outer part (of a city); surname (U+90ED)	e983ad
+郮	U+90EE (U+90EE)	e983ae
+郯	name of a small ancient principality which was situated in what is now part of Shantung and Kiangsu (U+90EF)	e983af
+郰	birthplace of Confucius, a place in Shandong (U+90F0)	e983b0
+郱	U+90F1 (U+90F1)	e983b1
+郲	U+90F2 (U+90F2)	e983b2
+郳	state in Shandong province (U+90F3)	e983b3
+郴	county in Hunan province; surname (U+90F4)	e983b4
+郵	postal, mail; post office (U+90F5)	e983b5
+郶	U+90F6 (U+90F6)	e983b6
+郷	country; rural; village (U+90F7)	e983b7
+郸	county in Hebei province (U+90F8)	e983b8
+郹	U+90F9 (U+90F9)	e983b9
+郺	U+90FA (U+90FA)	e983ba
+郻	U+90FB (U+90FB)	e983bb
+郼	U+90FC (U+90FC)	e983bc
+都	metropolis, capital; all, the whole; elegant, refined (U+90FD)	e983bd
+郾	county in Henan province (U+90FE)	e983be
+郿	county in Shaanxi province (U+90FF)	e983bf
+鄀	state in Henan province (U+9100)	e98480
+鄁	U+9101 (U+9101)	e98481
+鄂	Hubei province; startled (U+9102)	e98482
+鄃	U+9103 (U+9103)	e98483
+鄄	U+9104 (U+9104)	e98484
+鄅	U+9105 (U+9105)	e98485
+鄆	surname; an ancient town's name (U+9106)	e98486
+鄇	a name of a town in Henan province (U+9107)	e98487
+鄈	slippers, sandals; dance shoes (U+9108)	e98488
+鄉	country; rural; village (U+9109)	e98489
+鄊	U+910A (U+910A)	e9848a
+鄋	county (U+910B)	e9848b
+鄌	U+910C (U+910C)	e9848c
+鄍	a town in Shandong province (U+910D)	e9848d
+鄎	a place in Henan province (U+910E)	e9848e
+鄏	place in Henan province (U+910F)	e9848f
+鄐	town in Henan province (U+9110)	e98490
+鄑	kick; place in Shandong province (U+9111)	e98491
+鄒	name of an ancient state; surname (U+9112)	e98492
+鄓	U+9113 (U+9113)	e98493
+鄔	various place names; surname; transliteration of Sanskrit 'u' (U+9114)	e98494
+鄕	country; rural; village (U+9115)	e98495
+鄖	county in Hubei province (U+9116)	e98496
+鄗	county in Hebei province (U+9117)	e98497
+鄘	state in Henan province (U+9118)	e98498
+鄙	mean; low (U+9119)	e98499
+鄚	place in today's Hebei province (U+911A)	e9849a
+鄛	U+911B (U+911B)	e9849b
+鄜	county in Shanxi province (U+911C)	e9849c
+鄝	U+911D (U+911D)	e9849d
+鄞	county in Zhejiang province (U+911E)	e9849e
+鄟	U+911F (U+911F)	e9849f
+鄠	county in Shanxi province (U+9120)	e984a0
+鄡	U+9121 (U+9121)	e984a1
+鄢	name of a district in Honan (U+9122)	e984a2
+鄣	name of an ancient city in N. Jiangsu, near Shandong (U+9123)	e984a3
+鄤	place in Henan province (U+9124)	e984a4
+鄥	U+9125 (U+9125)	e984a5
+鄦	U+9126 (U+9126)	e984a6
+鄧	surname (U+9127)	e984a7
+鄨	U+9128 (U+9128)	e984a8
+鄩	county in Shandong province (U+9129)	e984a9
+鄪	U+912A (U+912A)	e984aa
+鄫	state in today's Shandong province (U+912B)	e984ab
+鄬	place in Henan province (U+912C)	e984ac
+鄭	state in today's Henan; surname (U+912D)	e984ad
+鄮	U+912E (U+912E)	e984ae
+鄯	district in Gansu during the Tang dynasty (U+912F)	e984af
+鄰	neighbor; neighborhood (U+9130)	e984b0
+鄱	county and lake in Jiangxi (U+9131)	e984b1
+鄲	county in Hebei province (U+9132)	e984b2
+鄳	U+9133 (U+9133)	e984b3
+鄴	place in today's honan province (U+9134)	e984b4
+鄵	U+9135 (U+9135)	e984b5
+鄶	state in today's Henan province (U+9136)	e984b6
+鄷	U+9137 (U+9137)	e984b7
+鄸	U+9138 (U+9138)	e984b8
+鄹	name of a state; surname (U+9139)	e984b9
+鄺	surname (U+913A)	e984ba
+鄻	spoil, ruin (U+913B)	e984bb
+鄼	U+913C (U+913C)	e984bc
+鄽	U+913D (U+913D)	e984bd
+鄾	place in Hubei province (U+913E)	e984be
+鄿	county in Xinjiang province (U+913F)	e984bf
+酀	U+9140 (U+9140)	e98580
+酁	U+9141 (U+9141)	e98581
+酂	collect; small administration (U+9142)	e98582
+酃	the spirit of a being, which acts upon others spirit; divine; efficacious (U+9143)	e98583
+酄	U+9144 (U+9144)	e98584
+酅	raise feet; town in Shandong province (U+9145)	e98585
+酆	name of Zhou period state (U+9146)	e98586
+酇	collect; small administration (U+9147)	e98587
+酈	place in today's Henan province (U+9148)	e98588
+酉	10th terrestrial branch; a wine vessel (U+9149)	e98589
+酊	drunk, intoxicated (U+914A)	e9858a
+酋	chief of tribe, chieftain (U+914B)	e9858b
+酌	serve wine; feast; deliberate (U+914C)	e9858c
+配	match, pair; equal; blend (U+914D)	e9858d
+酎	double-fermented wine, vintage wine (U+914E)	e9858e
+酏	millet wine (U+914F)	e9858f
+酐	anhydride (U+9150)	e98590
+酑	U+9151 (U+9151)	e98591
+酒	wine, spirits, liquor, alcoholic beverage (U+9152)	e98592
+酓	U+9153 (U+9153)	e98593
+酔	intoxicated, drunk; addicted to (U+9154)	e98594
+酕	U+9155 (U+9155)	e98595
+酖	wine with bird poison added (U+9156)	e98596
+酗	drunk, to become violent under the influence of alcohol (U+9157)	e98597
+酘	U+9158 (U+9158)	e98598
+酙	U+9159 (U+9159)	e98599
+酚	carbolic acid; phenol (U+915A)	e9859a
+酛	U+915B (U+915B)	e9859b
+酜	U+915C (U+915C)	e9859c
+酝	liquor, spirits, wine; ferment (U+915D)	e9859d
+酞	phthalein (U+915E)	e9859e
+酟	U+915F (U+915F)	e9859f
+酠	U+9160 (U+9160)	e985a0
+酡	flushed; rubicund (U+9161)	e985a1
+酢	toast one's host with wine; to express juice by pressing (U+9162)	e985a2
+酣	enjoy intoxicants (U+9163)	e985a3
+酤	to deal in spirits (U+9164)	e985a4
+酥	butter; flaky, crispy, light, fluffy (U+9165)	e985a5
+酦	fermentation, brewing (U+9166)	e985a6
+酧	to pledge with wine (U+9167)	e985a7
+酨	U+9168 (U+9168)	e985a8
+酩	drunk; intoxicated; tipsy (U+9169)	e985a9
+酪	cream, cheese; koumiss (U+916A)	e985aa
+酫	U+916B (U+916B)	e985ab
+酬	toast; reward, recompense (U+916C)	e985ac
+酭	U+916D (U+916D)	e985ad
+酮	ketones (U+916E)	e985ae
+酯	ester (U+916F)	e985af
+酰	acyl (U+9170)	e985b0
+酱	any jam-like or paste-like food (U+9171)	e985b1
+酲	hangover; uncomfortable (U+9172)	e985b2
+酳	U+9173 (U+9173)	e985b3
+酴	leaven, yeast; wine (U+9174)	e985b4
+酵	yeast, leaven (U+9175)	e985b5
+酶	enzymes; (Cant.) soft (U+9176)	e985b6
+酷	strong, stimulating; very (U+9177)	e985b7
+酸	tart, sour; acid; stiff; spoiled (U+9178)	e985b8
+酹	to pour out a libation; to sprinkle (U+9179)	e985b9
+酺	drink with others; drink heavily (U+917A)	e985ba
+酻	U+917B (U+917B)	e985bb
+酼	U+917C (U+917C)	e985bc
+酽	thick, strong (beverage) (U+917D)	e985bd
+酾	strain (U+917E)	e985be
+酿	brew, ferment (U+917F)	e985bf
+醀	U+9180 (U+9180)	e98680
+醁	a kind of green-colored wine (U+9181)	e98681
+醂	to remove astringency; to bleach in water (U+9182)	e98682
+醃	marinate, pickle; salt (U+9183)	e98683
+醄	U+9184 (U+9184)	e98684
+醅	unstrained spirits (U+9185)	e98685
+醆	wine cup; muddy wine (U+9186)	e98686
+醇	rich, good as wine; pure, unmixed (U+9187)	e98687
+醈	U+9188 (U+9188)	e98688
+醉	intoxicated, drunk; addicted to (U+9189)	e98689
+醊	to pour wine in a libation (U+918A)	e9868a
+醋	vinegar; jealousy, envy (U+918B)	e9868b
+醌	U+918C (U+918C)	e9868c
+醍	essential oil of butter (U+918D)	e9868d
+醎	U+918E (U+918E)	e9868e
+醏	U+918F (U+918F)	e9868f
+醐	purest cream (U+9190)	e98690
+醑	to strain spirits (U+9191)	e98691
+醒	wake up; sober up; startle (U+9192)	e98692
+醓	salted meat; brine from pickled mince (U+9193)	e98693
+醔	U+9194 (U+9194)	e98694
+醕	U+9195 (U+9195)	e98695
+醖	liquor (U+9196)	e98696
+醗	to brew for the second time (U+9197)	e98697
+醘	U+9198 (U+9198)	e98698
+醙	U+9199 (U+9199)	e98699
+醚	ether (U+919A)	e9869a
+醛	aldehyde (U+919B)	e9869b
+醜	ugly looking, homely; disgraceful (U+919C)	e9869c
+醝	white wine (U+919D)	e9869d
+醞	liquor, spirits, wine; ferment (U+919E)	e9869e
+醟	U+919F (U+919F)	e9869f
+醠	U+91A0 (U+91A0)	e986a0
+醡	wine press (U+91A1)	e986a1
+醢	minced pickled meat; mince (U+91A2)	e986a2
+醣	carbohydrates (U+91A3)	e986a3
+醤	any jam-like or paste-like food (U+91A4)	e986a4
+醥	U+91A5 (U+91A5)	e986a5
+醦	U+91A6 (U+91A6)	e986a6
+醧	U+91A7 (U+91A7)	e986a7
+醨	dregs of wine (U+91A8)	e986a8
+醩	sediment, dregs; grains from a distillery; disordered, spoilt (U+91A9)	e986a9
+醪	unclear wine, wine with dregs (U+91AA)	e986aa
+醫	cure, heal; doctor, medical (U+91AB)	e986ab
+醬	any jam-like or paste-like food (U+91AC)	e986ac
+醭	molds on liquids; scum (U+91AD)	e986ad
+醮	religious service; Daoist or Buddhist ceremony (U+91AE)	e986ae
+醯	vinegar; pickle; acid (U+91AF)	e986af
+醰	bitter taste in wine; rich; full flavoured (U+91B0)	e986b0
+醱	to brew for the second time (U+91B1)	e986b1
+醲	strong wine; dense, thick (U+91B2)	e986b2
+醳	U+91B3 (U+91B3)	e986b3
+醴	sweet wine; sweet spring (U+91B4)	e986b4
+醵	contribute for drinks; pool money (U+91B5)	e986b5
+醶	U+91B6 (U+91B6)	e986b6
+醷	U+91B7 (U+91B7)	e986b7
+醸	brew, ferment (U+91B8)	e986b8
+醹	strong wine (U+91B9)	e986b9
+醺	get drunk, be intoxicated (U+91BA)	e986ba
+醻	to pledge, thank (U+91BB)	e986bb
+醼	offer food and wine one's guests (U+91BC)	e986bc
+醽	kind of wine (U+91BD)	e986bd
+醾	U+91BE (U+91BE)	e986be
+醿	U+91BF (U+91BF)	e986bf
+釀	brew, ferment (U+91C0)	e98780
+釁	smear with blood in sacrifice; rift, quarrel (U+91C1)	e98781
+釂	drain (U+91C2)	e98782
+釃	strain (U+91C3)	e98783
+釄	wine brew for the second time (U+91C4)	e98784
+釅	thick, strong (beverage) (U+91C5)	e98785
+釆	distinguish; KangXi radical 165 (U+91C6)	e98786
+采	collect, gather; pick, pluck (U+91C7)	e98787
+釈	interprete, elucidate; release (U+91C8)	e98788
+釉	glaze (U+91C9)	e98789
+释	interprete, elucidate; release (U+91CA)	e9878a
+釋	interprete, elucidate; release (U+91CB)	e9878b
+里	unit of distance; village; lane (U+91CC)	e9878c
+重	heavy, weighty; double (U+91CD)	e9878d
+野	open country, field; wilderness (U+91CE)	e9878e
+量	measure, quantity, capacity (U+91CF)	e9878f
+釐	manage, control; 1/1000 of a foot (U+91D0)	e98790
+金	gold; metals in general; money (U+91D1)	e98791
+釒	KangXi radical 167 (U+91D2)	e98792
+釓	gadolinium (U+91D3)	e98793
+釔	yttrium (U+91D4)	e98794
+釕	ruthenium (U+91D5)	e98795
+釖	knife, sword (U+91D6)	e98796
+釗	endeavor, strive; encourage; cut (U+91D7)	e98797
+釘	nail, spike; pursue closely (U+91D8)	e98798
+釙	polonium (U+91D9)	e98799
+釚	U+91DA (U+91DA)	e9879a
+釛	U+91DB (U+91DB)	e9879b
+釜	cauldron, pot, kettle (U+91DC)	e9879c
+針	needle; pin; tack; acupuncture (U+91DD)	e9879d
+釞	U+91DE (U+91DE)	e9879e
+釟	U+91DF (U+91DF)	e9879f
+釠	U+91E0 (U+91E0)	e987a0
+釡	cauldron, pot, kettle (U+91E1)	e987a1
+釢	U+91E2 (U+91E2)	e987a2
+釣	fish; fishhook; tempt, lure (U+91E3)	e987a3
+釤	samarium (U+91E4)	e987a4
+釥	U+91E5 (U+91E5)	e987a5
+釦	button; buckle, clasp; engrave (U+91E6)	e987a6
+釧	bracelet, armlet (U+91E7)	e987a7
+釨	U+91E8 (U+91E8)	e987a8
+釩	vanadium (U+91E9)	e987a9
+釪	an alms bowl; a small bell (U+91EA)	e987aa
+釫	U+91EB (U+91EB)	e987ab
+釬	solder (U+91EC)	e987ac
+釭	tire of wheel; band (U+91ED)	e987ad
+釮	U+91EE (U+91EE)	e987ae
+釯	point of sword; sharp point (U+91EF)	e987af
+釰	U+91F0 (U+91F0)	e987b0
+釱	fetters; to fetter (U+91F1)	e987b1
+釲	U+91F2 (U+91F2)	e987b2
+釳	U+91F3 (U+91F3)	e987b3
+釴	U+91F4 (U+91F4)	e987b4
+釵	ornamental hairpin (U+91F5)	e987b5
+釶	U+91F6 (U+91F6)	e987b6
+釷	thorium (U+91F7)	e987b7
+釸	U+91F8 (U+91F8)	e987b8
+釹	neodymium (U+91F9)	e987b9
+釺	tool for boring holes (U+91FA)	e987ba
+釻	U+91FB (U+91FB)	e987bb
+釼	sword, dagger, saber (U+91FC)	e987bc
+釽	a farmer's hoeing fork (U+91FD)	e987bd
+釾	U+91FE (U+91FE)	e987be
+釿	U+91FF (U+91FF)	e987bf
+鈀	palladium (U+9200)	e98880
+鈁	francium (U+9201)	e98881
+鈂	U+9202 (U+9202)	e98882
+鈃	ancient wine vessel (U+9203)	e98883
+鈄	a wine flagon (U+9204)	e98884
+鈅	U+9205 (U+9205)	e98885
+鈆	lead (U+9206)	e98886
+鈇	an ax; a hatchet (U+9207)	e98887
+鈈	plutonium (U+9208)	e98888
+鈉	sodium, natrium; sharpen wood (U+9209)	e98889
+鈊	cadolinium (U+920A)	e9888a
+鈋	U+920B (U+920B)	e9888b
+鈌	to pierce, to stab; to take (U+920C)	e9888c
+鈍	blunt, obtuse; dull; flat; dull-witted (U+920D)	e9888d
+鈎	hook, barb; sickle; stroke with (U+920E)	e9888e
+鈏	U+920F (U+920F)	e9888f
+鈐	lock, latch; stamp, seal (U+9210)	e98890
+鈑	plate (U+9211)	e98891
+鈒	spear; (Cant.) to cut, slice; grass-shears (U+9212)	e98892
+鈓	U+9213 (U+9213)	e98893
+鈔	paper money, bank notes; copy (U+9214)	e98894
+鈕	button, knob; surname (U+9215)	e98895
+鈖	U+9216 (U+9216)	e98896
+鈗	U+9217 (U+9217)	e98897
+鈘	U+9218 (U+9218)	e98898
+鈙	U+9219 (U+9219)	e98899
+鈚	U+921A (U+921A)	e9889a
+鈛	U+921B (U+921B)	e9889b
+鈜	U+921C (U+921C)	e9889c
+鈝	U+921D (U+921D)	e9889d
+鈞	unit of measure equivalent to thirty catties (U+921E)	e9889e
+鈟	U+921F (U+921F)	e9889f
+鈠	U+9220 (U+9220)	e988a0
+鈡	U+9221 (U+9221)	e988a1
+鈢	U+9222 (U+9222)	e988a2
+鈣	calcium (U+9223)	e988a3
+鈤	U+9224 (U+9224)	e988a4
+鈥	holmium (U+9225)	e988a5
+鈦	titanium (U+9226)	e988a6
+鈧	scandium (U+9227)	e988a7
+鈨	U+9228 (U+9228)	e988a8
+鈩	fireplace, stove, oven, furnace (U+9229)	e988a9
+鈪	(Cant.) bracelet; bangle (U+922A)	e988aa
+鈫	U+922B (U+922B)	e988ab
+鈬	bell; surname (U+922C)	e988ac
+鈭	U+922D (U+922D)	e988ad
+鈮	niobium (U+922E)	e988ae
+鈯	U+922F (U+922F)	e988af
+鈰	cerium (U+9230)	e988b0
+鈱	U+9231 (U+9231)	e988b1
+鈲	U+9232 (U+9232)	e988b2
+鈳	a small cauldron; columbium (an older name for niobium) (U+9233)	e988b3
+鈴	bell (U+9234)	e988b4
+鈵	U+9235 (U+9235)	e988b5
+鈶	U+9236 (U+9236)	e988b6
+鈷	cobalt; household iron cobaltum (U+9237)	e988b7
+鈸	cymbals (U+9238)	e988b8
+鈹	a needle used in Chinese medicine; a sword, large knife; beryllium (U+9239)	e988b9
+鈺	rare treasure (U+923A)	e988ba
+鈻	U+923B (U+923B)	e988bb
+鈼	U+923C (U+923C)	e988bc
+鈽	plutonium (U+923D)	e988bd
+鈾	uranium (U+923E)	e988be
+鈿	hairpin; gold inlaid work, filigree (U+923F)	e988bf
+鉀	potassium kalium (U+9240)	e98980
+鉁	U+9241 (U+9241)	e98981
+鉂	U+9242 (U+9242)	e98982
+鉃	U+9243 (U+9243)	e98983
+鉄	iron; strong, solid, firm (U+9244)	e98984
+鉅	steel, iron; great (U+9245)	e98985
+鉆	tweezers (U+9246)	e98986
+鉇	U+9247 (U+9247)	e98987
+鉈	a short spear; thallium (U+9248)	e98988
+鉉	device for carrying a tripod (U+9249)	e98989
+鉊	U+924A (U+924A)	e9898a
+鉋	carpenter's plane (U+924B)	e9898b
+鉌	the bells on the cart in ancient China (U+924C)	e9898c
+鉍	bismuth (U+924D)	e9898d
+鉎	(Cant.) to rust (U+924E)	e9898e
+鉏	hoe; eradicate, eliminate (U+924F)	e9898f
+鉐	U+9250 (U+9250)	e98990
+鉑	platinum; thin sheet of metal (U+9251)	e98991
+鉒	U+9252 (U+9252)	e98992
+鉓	U+9253 (U+9253)	e98993
+鉔	U+9254 (U+9254)	e98994
+鉕	promethium bronze (U+9255)	e98995
+鉖	U+9256 (U+9256)	e98996
+鉗	pincers, pliers, tongs (U+9257)	e98997
+鉘	U+9258 (U+9258)	e98998
+鉙	U+9259 (U+9259)	e98999
+鉚	rivet (U+925A)	e9899a
+鉛	lead plumbum (U+925B)	e9899b
+鉜	U+925C (U+925C)	e9899c
+鉝	U+925D (U+925D)	e9899d
+鉞	broad-axe, a battle axe, halberd (U+925E)	e9899e
+鉟	U+925F (U+925F)	e9899f
+鉠	U+9260 (U+9260)	e989a0
+鉡	U+9261 (U+9261)	e989a1
+鉢	earthenware basin; alms bowl (Sanskrit paatra) (U+9262)	e989a2
+鉣	U+9263 (U+9263)	e989a3
+鉤	hook, barb; sickle; stroke with (U+9264)	e989a4
+鉥	needle (U+9265)	e989a5
+鉦	kind of gong used in ancient times by troops on the march (U+9266)	e989a6
+鉧	U+9267 (U+9267)	e989a7
+鉨	U+9268 (U+9268)	e989a8
+鉩	U+9269 (U+9269)	e989a9
+鉪	U+926A (U+926A)	e989aa
+鉫	U+926B (U+926B)	e989ab
+鉬	molybdenum (U+926C)	e989ac
+鉭	tantalum (U+926D)	e989ad
+鉮	U+926E (U+926E)	e989ae
+鉯	U+926F (U+926F)	e989af
+鉰	U+9270 (U+9270)	e989b0
+鉱	mine; mineral, ore (U+9271)	e989b1
+鉲	cadmium (U+9272)	e989b2
+鉳	U+9273 (U+9273)	e989b3
+鉴	mirror, looking glass; reflect (U+9274)	e989b4
+鉵	U+9275 (U+9275)	e989b5
+鉶	sacrificial cauldron (U+9276)	e989b6
+鉷	trigger (U+9277)	e989b7
+鉸	hinge; shears, scissors (U+9278)	e989b8
+鉹	U+9279 (U+9279)	e989b9
+鉺	erbium (U+927A)	e989ba
+鉻	chromium (U+927B)	e989bb
+鉼	plate; (Cant.) a penny (U+927C)	e989bc
+鉽	U+927D (U+927D)	e989bd
+鉾	spear (U+927E)	e989be
+鉿	hafnium (U+927F)	e989bf
+銀	silver; cash, money, wealth (U+9280)	e98a80
+銁	a weight of thirty cattics (U+9281)	e98a81
+銂	U+9282 (U+9282)	e98a82
+銃	ancient weapon, blunderbuss (U+9283)	e98a83
+銄	U+9284 (U+9284)	e98a84
+銅	copper, brass, bronze cuprum (U+9285)	e98a85
+銆	U+9286 (U+9286)	e98a86
+銇	U+9287 (U+9287)	e98a87
+銈	U+9288 (U+9288)	e98a88
+銉	U+9289 (U+9289)	e98a89
+銊	U+928A (U+928A)	e98a8a
+銋	U+928B (U+928B)	e98a8b
+銌	U+928C (U+928C)	e98a8c
+銍	a sickle (U+928D)	e98a8d
+銎	eyehole to hang an axe by (U+928E)	e98a8e
+銏	U+928F (U+928F)	e98a8f
+銐	U+9290 (U+9290)	e98a90
+銑	mill (U+9291)	e98a91
+銒	U+9292 (U+9292)	e98a92
+銓	weigh, measure; select officials (U+9293)	e98a93
+銔	U+9294 (U+9294)	e98a94
+銕	iron; strong, solid, firm (U+9295)	e98a95
+銖	unit of weight, one twenty-fourth of a Chinese ounce (liang) (U+9296)	e98a96
+銗	U+9297 (U+9297)	e98a97
+銘	inscribe, engrave; unforgettably (U+9298)	e98a98
+銙	U+9299 (U+9299)	e98a99
+銚	large hoe; surname; a spear brevium (U+929A)	e98a9a
+銛	sharp, keen-edged; a kind of hoe (U+929B)	e98a9b
+銜	bit; hold in mouth, bite; gag (U+929C)	e98a9c
+銝	U+929D (U+929D)	e98a9d
+銞	U+929E (U+929E)	e98a9e
+銟	U+929F (U+929F)	e98a9f
+銠	rhodium ruthenium (U+92A0)	e98aa0
+銡	U+92A1 (U+92A1)	e98aa1
+銢	U+92A2 (U+92A2)	e98aa2
+銣	rubidium (U+92A3)	e98aa3
+銤	U+92A4 (U+92A4)	e98aa4
+銥	iridium (U+92A5)	e98aa5
+銦	indium (U+92A6)	e98aa6
+銧	point of a sword (U+92A7)	e98aa7
+銨	ammonium (U+92A8)	e98aa8
+銩	thulium (U+92A9)	e98aa9
+銪	europium (U+92AA)	e98aaa
+銫	cesium (U+92AB)	e98aab
+銬	shackles, manacle (U+92AC)	e98aac
+銭	money, currency, coins (U+92AD)	e98aad
+銮	bells hung on horse; bells hung (U+92AE)	e98aae
+銯	U+92AF (U+92AF)	e98aaf
+銰	U+92B0 (U+92B0)	e98ab0
+銱	U+92B1 (U+92B1)	e98ab1
+銲	solder, weld; leg armor, greaves (U+92B2)	e98ab2
+銳	sharp, keen, acute, pointed (U+92B3)	e98ab3
+銴	U+92B4 (U+92B4)	e98ab4
+銵	U+92B5 (U+92B5)	e98ab5
+銶	chisel (U+92B6)	e98ab6
+銷	melt, fuse; market, sell; to pass time, finish, cancel (U+92B7)	e98ab7
+銸	U+92B8 (U+92B8)	e98ab8
+銹	rust, corrode (U+92B9)	e98ab9
+銺	U+92BA (U+92BA)	e98aba
+銻	antimony (stibium) (U+92BB)	e98abb
+銼	carpenter's file, file smooth (U+92BC)	e98abc
+銽	U+92BD (U+92BD)	e98abd
+銾	element mercury (U+92BE)	e98abe
+銿	U+92BF (U+92BF)	e98abf
+鋀	U+92C0 (U+92C0)	e98b80
+鋁	aluminum (U+92C1)	e98b81
+鋂	bit cup (U+92C2)	e98b82
+鋃	lock lanthanum (U+92C3)	e98b83
+鋄	U+92C4 (U+92C4)	e98b84
+鋅	zincum (U+92C5)	e98b85
+鋆	gold; character used in personal name (U+92C6)	e98b86
+鋇	barium (U+92C7)	e98b87
+鋈	silver plating (U+92C8)	e98b88
+鋉	U+92C9 (U+92C9)	e98b89
+鋊	a poker; brass filings; to file (U+92CA)	e98b8a
+鋋	U+92CB (U+92CB)	e98b8b
+鋌	ingots, bars of metal; hurry (U+92CC)	e98b8c
+鋍	U+92CD (U+92CD)	e98b8d
+鋎	U+92CE (U+92CE)	e98b8e
+鋏	tongs, pincers; dagger; sword (U+92CF)	e98b8f
+鋐	state in today's Hubei province (U+92D0)	e98b90
+鋑	to engrave or carve, as a block for printing (U+92D1)	e98b91
+鋒	point of spear, sharp point (U+92D2)	e98b92
+鋓	U+92D3 (U+92D3)	e98b93
+鋔	U+92D4 (U+92D4)	e98b94

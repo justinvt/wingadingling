@@ -1,0 +1,1024 @@
+狕	U+72D5 (U+72D5)	e78b95
+狖	a gibbon with a long tail and prominent nose (U+72D6)	e78b96
+狗	dog, canis familiaris (U+72D7)	e78b97
+狘	jump (U+72D8)	e78b98
+狙	an ape, monkey; to spy, watch for; to lie (U+72D9)	e78b99
+狚	U+72DA (U+72DA)	e78b9a
+狛	lion-dog shrine guardians (U+72DB)	e78b9b
+狜	U+72DC (U+72DC)	e78b9c
+狝	hunt; autumn hunting; to capture with a fine net (U+72DD)	e78b9d
+狞	ferocious appearance; hideous (U+72DE)	e78b9e
+狟	U+72DF (U+72DF)	e78b9f
+狠	vicious, cruel; severely, extreme (U+72E0)	e78ba0
+狡	cunning, deceitful, treacherous (U+72E1)	e78ba1
+狢	animal name (U+72E2)	e78ba2
+狣	U+72E3 (U+72E3)	e78ba3
+狤	U+72E4 (U+72E4)	e78ba4
+狥	follow (U+72E5)	e78ba5
+狦	U+72E6 (U+72E6)	e78ba6
+狧	U+72E7 (U+72E7)	e78ba7
+狨	U+72E8 (U+72E8)	e78ba8
+狩	winter hunting; imperial tour (U+72E9)	e78ba9
+狪	U+72EA (U+72EA)	e78baa
+狫	U+72EB (U+72EB)	e78bab
+独	alone, single, solitary, only (U+72EC)	e78bac
+狭	narrow, limited; narrow-minded (U+72ED)	e78bad
+狮	lion (U+72EE)	e78bae
+狯	sly, cunning, crafty (U+72EF)	e78baf
+狰	fierce-looking, ferocious (U+72F0)	e78bb0
+狱	prison, jail; case; lawsuit (U+72F1)	e78bb1
+狲	monkey (U+72F2)	e78bb2
+狳	U+72F3 (U+72F3)	e78bb3
+狴	a kind of tapir; a fierce beast depicted on the door of prisons (U+72F4)	e78bb4
+狵	blend; variegated; striped (U+72F5)	e78bb5
+狶	U+72F6 (U+72F6)	e78bb6
+狷	rash, impetuous, impulsive (U+72F7)	e78bb7
+狸	fox (U+72F8)	e78bb8
+狹	narrow, limited; narrow-minded; to pinch (U+72F9)	e78bb9
+狺	the snarling of dogs (U+72FA)	e78bba
+狻	a fabulous beast (U+72FB)	e78bbb
+狼	wolf (U+72FC)	e78bbc
+狽	a legendary animal with short forelegs which rode a wolf (U+72FD)	e78bbd
+狾	U+72FE (U+72FE)	e78bbe
+狿	U+72FF (U+72FF)	e78bbf
+猀	U+7300 (U+7300)	e78c80
+猁	a kind of monkey (U+7301)	e78c81
+猂	U+7302 (U+7302)	e78c82
+猃	dog (U+7303)	e78c83
+猄	U+7304 (U+7304)	e78c84
+猅	U+7305 (U+7305)	e78c85
+猆	U+7306 (U+7306)	e78c86
+猇	the scream or roar of a tiger; to intimidate; to scare (U+7307)	e78c87
+猈	U+7308 (U+7308)	e78c88
+猉	U+7309 (U+7309)	e78c89
+猊	lion; wild beast; wild horse (U+730A)	e78c8a
+猋	wind; storm; gale; dog moving; (Cant.) running quickly (U+730B)	e78c8b
+猌	U+730C (U+730C)	e78c8c
+猍	U+730D (U+730D)	e78c8d
+猎	hunt; field sports (U+730E)	e78c8e
+猏	U+730F (U+730F)	e78c8f
+猐	U+7310 (U+7310)	e78c90
+猑	U+7311 (U+7311)	e78c91
+猒	U+7312 (U+7312)	e78c92
+猓	monkey (U+7313)	e78c93
+猔	name of an ancient tribe (U+7314)	e78c94
+猕	macacus monkey (U+7315)	e78c95
+猖	mad, wild, reckless, unruly (U+7316)	e78c96
+猗	exclamation of admiration (U+7317)	e78c97
+猘	fierce dog; furious, frenzied (U+7318)	e78c98
+猙	fierce-looking, ferocious (U+7319)	e78c99
+猚	U+731A (U+731A)	e78c9a
+猛	violent, savage, cruel; bold (U+731B)	e78c9b
+猜	guess, conjecture, suppose; feel (U+731C)	e78c9c
+猝	abruptly, suddenly; abrupt (U+731D)	e78c9d
+猞	a wild cat; 猞猁, a lynx (U+731E)	e78c9e
+猟	hunt; field sports (U+731F)	e78c9f
+猠	U+7320 (U+7320)	e78ca0
+猡	pig; Lolo aboringinal tribe (U+7321)	e78ca1
+猢	a kind of monkey found in W.China (U+7322)	e78ca2
+猣	U+7323 (U+7323)	e78ca3
+猤	U+7324 (U+7324)	e78ca4
+猥	vulgar, low, cheap; wanton; obscene (U+7325)	e78ca5
+猦	U+7326 (U+7326)	e78ca6
+猧	U+7327 (U+7327)	e78ca7
+猨	ape (U+7328)	e78ca8
+猩	species of orangutan (U+7329)	e78ca9
+猪	pig, hog, wild boar (U+732A)	e78caa
+猫	cat (U+732B)	e78cab
+猬	vulgar; wanton; low; many; varied; a hedgehog, porcupine (U+732C)	e78cac
+猭	U+732D (U+732D)	e78cad
+献	offer, present; show, display (U+732E)	e78cae
+猯	U+732F (U+732F)	e78caf
+猰	U+7330 (U+7330)	e78cb0
+猱	a monkey with yellow hair (U+7331)	e78cb1
+猲	smoke or flames from fire; roast (U+7332)	e78cb2
+猳	U+7333 (U+7333)	e78cb3
+猴	monkey, ape; monkey-like (U+7334)	e78cb4
+猵	U+7335 (U+7335)	e78cb5
+猶	like, similar to, just like, as (U+7336)	e78cb6
+猷	plan, scheme; plan, plot; way (U+7337)	e78cb7
+猸	a kind of animal (U+7338)	e78cb8
+猹	wild animal mentioned in short story by Lu Xun (U+7339)	e78cb9
+猺	jackal; name of a tribe (U+733A)	e78cba
+猻	monkey (U+733B)	e78cbb
+猼	U+733C (U+733C)	e78cbc
+猽	U+733D (U+733D)	e78cbd
+猾	crafty, cunning, shrewd; deceitful (U+733E)	e78cbe
+猿	ape (U+733F)	e78cbf
+獀	to gather; to hunt or search for (U+7340)	e78d80
+獁	mammoth (U+7341)	e78d81
+獂	U+7342 (U+7342)	e78d82
+獃	dull; dull-minded, simple, stupid (U+7343)	e78d83
+獄	prison, jail; case; lawsuit (U+7344)	e78d84
+獅	lion (U+7345)	e78d85
+獆	U+7346 (U+7346)	e78d86
+獇	U+7347 (U+7347)	e78d87
+獈	U+7348 (U+7348)	e78d88
+獉	jungle (U+7349)	e78d89
+獊	U+734A (U+734A)	e78d8a
+獋	roar; cry (U+734B)	e78d8b
+獌	U+734C (U+734C)	e78d8c
+獍	a mythical animal that eats its mother when it is born; Manchurian tiger (U+734D)	e78d8d
+獎	prize, reward; give award to (U+734E)	e78d8e
+獏	the panther; the tapir (U+734F)	e78d8f
+獐	roebuck, hornless river deer (U+7350)	e78d90
+獑	U+7351 (U+7351)	e78d91
+獒	mastiff, large fierce dog (U+7352)	e78d92
+獓	U+7353 (U+7353)	e78d93
+獔	U+7354 (U+7354)	e78d94
+獕	U+7355 (U+7355)	e78d95
+獖	U+7356 (U+7356)	e78d96
+獗	unruly, wild, violent, lawless (U+7357)	e78d97
+獘	collapse (U+7358)	e78d98
+獙	U+7359 (U+7359)	e78d99
+獚	U+735A (U+735A)	e78d9a
+獛	U+735B (U+735B)	e78d9b
+獜	U+735C (U+735C)	e78d9c
+獝	devil (U+735D)	e78d9d
+獞	name of a variety of dog; wild tribes in South China (U+735E)	e78d9e
+獟	U+735F (U+735F)	e78d9f
+獠	to hunt at night by torches (U+7360)	e78da0
+獡	U+7361 (U+7361)	e78da1
+獢	dog (U+7362)	e78da2
+獣	beast, animal; bestial (U+7363)	e78da3
+獤	U+7364 (U+7364)	e78da4
+獥	U+7365 (U+7365)	e78da5
+獦	U+7366 (U+7366)	e78da6
+獧	rash; honest and straightforward (U+7367)	e78da7
+獨	alone, single, solitary, only (U+7368)	e78da8
+獩	U+7369 (U+7369)	e78da9
+獪	sly, cunning, crafty (U+736A)	e78daa
+獫	dog (U+736B)	e78dab
+獬	a fabulous monster (U+736C)	e78dac
+獭	otter (U+736D)	e78dad
+獮	hunt; autumn hunting; to capture with a fine net (U+736E)	e78dae
+獯	a tribe of Scythians which invaded China during the Hsia dynasty (U+736F)	e78daf
+獰	ferocious appearance; hideous (U+7370)	e78db0
+獱	a kind of otter (U+7371)	e78db1
+獲	obtain, get, receive; seize (U+7372)	e78db2
+獳	looking like a fierce dog; angry (U+7373)	e78db3
+獴	mongoose (U+7374)	e78db4
+獵	hunt; field sports (U+7375)	e78db5
+獶	U+7376 (U+7376)	e78db6
+獷	fierce, rude, uncivilized (U+7377)	e78db7
+獸	beast, animal; bestial (U+7378)	e78db8
+獹	a hound (U+7379)	e78db9
+獺	otter (U+737A)	e78dba
+獻	offer, present; show, display (U+737B)	e78dbb
+獼	macacus monkey (U+737C)	e78dbc
+獽	U+737D (U+737D)	e78dbd
+獾	the badger (U+737E)	e78dbe
+獿	U+737F (U+737F)	e78dbf
+玀	pig; lolo aborginal tribe (U+7380)	e78e80
+玁	a dog with a long snout or muzzle (U+7381)	e78e81
+玂	U+7382 (U+7382)	e78e82
+玃	a large ape found in W. China (U+7383)	e78e83
+玄	deep, profound, abstruse; KangXi radical 95 (U+7384)	e78e84
+玅	mysterious, subtle; exquisite (U+7385)	e78e85
+玆	now, here; this; time, year (U+7386)	e78e86
+率	to lead; ratio; rate; limit (U+7387)	e78e87
+玈	black (U+7388)	e78e88
+玉	jade, precious stone, gem (U+7389)	e78e89
+玊	U+738A (U+738A)	e78e8a
+王	king, ruler; royal; surname (U+738B)	e78e8b
+玌	U+738C (U+738C)	e78e8c
+玍	ill tempered; naughty (U+738D)	e78e8d
+玎	jingling, tinkling (U+738E)	e78e8e
+玏	U+738F (U+738F)	e78e8f
+玐	U+7390 (U+7390)	e78e90
+玑	pearl that is not quite round (U+7391)	e78e91
+玒	U+7392 (U+7392)	e78e92
+玓	pearly (U+7393)	e78e93
+玔	green jade (U+7394)	e78e94
+玕	inferior variety of gem (U+7395)	e78e95
+玖	black-colored jade (U+7396)	e78e96
+玗	1/2 pr stone (U+7397)	e78e97
+玘	court-dress jewels (U+7398)	e78e98
+玙	U+7399 (U+7399)	e78e99
+玚	U+739A (U+739A)	e78e9a
+玛	agate; cornelian (U+739B)	e78e9b
+玜	U+739C (U+739C)	e78e9c
+玝	U+739D (U+739D)	e78e9d
+玞	an inferior agate (U+739E)	e78e9e
+玟	streaks in jade; gem (U+739F)	e78e9f
+玠	large jade tablet used by officials at court to indicate their ranks (U+73A0)	e78ea0
+玡	U+73A1 (U+73A1)	e78ea1
+玢	(archaic) a kind of jade (U+73A2)	e78ea2
+玣	U+73A3 (U+73A3)	e78ea3
+玤	a kind of gem inferior to jade (U+73A4)	e78ea4
+玥	mysterious gem; pearl (U+73A5)	e78ea5
+玦	broken piece of jade (U+73A6)	e78ea6
+玧	reddish (U+73A7)	e78ea7
+玨	two pieces of jade joined together (U+73A8)	e78ea8
+玩	play with, joke, enjoy (U+73A9)	e78ea9
+玪	U+73AA (U+73AA)	e78eaa
+玫	rose (U+73AB)	e78eab
+玬	U+73AC (U+73AC)	e78eac
+玭	U+73AD (U+73AD)	e78ead
+玮	type of jade; rare, valuable (U+73AE)	e78eae
+环	jade ring or bracelet; ring (U+73AF)	e78eaf
+现	appear, manifest, become visible (U+73B0)	e78eb0
+玱	tinkling sound tinkling of pendant gems (U+73B1)	e78eb1
+玲	tinkling of jade (U+73B2)	e78eb2
+玳	tortoise shell (U+73B3)	e78eb3
+玴	U+73B4 (U+73B4)	e78eb4
+玵	U+73B5 (U+73B5)	e78eb5
+玶	name of one kind of jade (U+73B6)	e78eb6
+玷	flaw in gem; flaw in character (U+73B7)	e78eb7
+玸	U+73B8 (U+73B8)	e78eb8
+玹	jadelike precious stone; jade-colored (U+73B9)	e78eb9
+玺	imperial signet, royal signet (U+73BA)	e78eba
+玻	glass (U+73BB)	e78ebb
+玼	beautiful color of gem; flaw in (U+73BC)	e78ebc
+玽	U+73BD (U+73BD)	e78ebd
+玾	U+73BE (U+73BE)	e78ebe
+玿	U+73BF (U+73BF)	e78ebf
+珀	amber (U+73C0)	e78f80
+珁	U+73C1 (U+73C1)	e78f81
+珂	inferior kind of jade (U+73C2)	e78f82
+珃	U+73C3 (U+73C3)	e78f83
+珄	U+73C4 (U+73C4)	e78f84
+珅	U+73C5 (U+73C5)	e78f85
+珆	U+73C6 (U+73C6)	e78f86
+珇	U+73C7 (U+73C7)	e78f87
+珈	an ornament attached to a woman's hairpin (U+73C8)	e78f88
+珉	stone resembling jade (U+73C9)	e78f89
+珊	coral (U+73CA)	e78f8a
+珋	U+73CB (U+73CB)	e78f8b
+珌	ornament (U+73CC)	e78f8c
+珍	precious, valuable, rare (U+73CD)	e78f8d
+珎	precious, valuable, rare (U+73CE)	e78f8e
+珏	two pieces of jade joined together (U+73CF)	e78f8f
+珐	enamel, cloissoné (U+73D0)	e78f90
+珑	a gem cut like dragon (U+73D1)	e78f91
+珒	U+73D2 (U+73D2)	e78f92
+珓	two hemispherical objects used in divination (U+73D3)	e78f93
+珔	U+73D4 (U+73D4)	e78f94
+珕	U+73D5 (U+73D5)	e78f95
+珖	carat (U+73D6)	e78f96
+珗	U+73D7 (U+73D7)	e78f97
+珘	U+73D8 (U+73D8)	e78f98
+珙	precious stone; xian in Sichuan (U+73D9)	e78f99
+珚	U+73DA (U+73DA)	e78f9a
+珛	U+73DB (U+73DB)	e78f9b
+珜	U+73DC (U+73DC)	e78f9c
+珝	U+73DD (U+73DD)	e78f9d
+珞	kind of necklace (U+73DE)	e78f9e
+珟	U+73DF (U+73DF)	e78f9f
+珠	precious stone, gem, jewel, pearl (U+73E0)	e78fa0
+珡	variant of U+7434 琴, guqin or zither (U+73E1)	e78fa1
+珢	precious stone (U+73E2)	e78fa2
+珣	name of a kind of jade (U+73E3)	e78fa3
+珤	treasure, jewel; precious, rare (U+73E4)	e78fa4
+珥	ear ornament; stick, insert (U+73E5)	e78fa5
+珦	a kind of jade (U+73E6)	e78fa6
+珧	mother-of-pearl (U+73E7)	e78fa7
+珨	U+73E8 (U+73E8)	e78fa8
+珩	the top gem of the pendants (U+73E9)	e78fa9
+珪	a jade table conferred upon feudal princes by the emperor as a symbol of dignity and authority (U+73EA)	e78faa
+珫	U+73EB (U+73EB)	e78fab
+珬	U+73EC (U+73EC)	e78fac
+班	class, group, grade; squad; job (U+73ED)	e78fad
+珮	jade ornament (U+73EE)	e78fae
+珯	U+73EF (U+73EF)	e78faf
+珰	pendant ornaments, earrings (U+73F0)	e78fb0
+珱	a necklace made of precious stones (U+73F1)	e78fb1
+珲	bright, glorious, splendid (U+73F2)	e78fb2
+珳	U+73F3 (U+73F3)	e78fb3
+珴	U+73F4 (U+73F4)	e78fb4
+珵	U+73F5 (U+73F5)	e78fb5
+珶	U+73F6 (U+73F6)	e78fb6
+珷	an inferior gem (U+73F7)	e78fb7
+珸	U+73F8 (U+73F8)	e78fb8
+珹	type of jade; pearl (U+73F9)	e78fb9
+珺	beautiful jade (U+73FA)	e78fba
+珻	U+73FB (U+73FB)	e78fbb
+珼	U+73FC (U+73FC)	e78fbc
+珽	jade tablet (U+73FD)	e78fbd
+現	appear, manifest, become visible (U+73FE)	e78fbe
+珿	U+73FF (U+73FF)	e78fbf
+琀	gems of pearls formerly put into the mouth of a corpse (U+7400)	e79080
+琁	beautiful jade; star (U+7401)	e79081
+琂	U+7402 (U+7402)	e79082
+球	ball, sphere, globe; round (U+7403)	e79083
+琄	scabbard; traces, reins (U+7404)	e79084
+琅	a variety of white carnelian; pure (U+7405)	e79085
+理	reason, logic; manage (U+7406)	e79086
+琇	coarse variety of jasper or jade (U+7407)	e79087
+琈	U+7408 (U+7408)	e79088
+琉	sparkling stone; glazed, opaque (U+7409)	e79089
+琊	a place in eastern Shandong (U+740A)	e7908a
+琋	U+740B (U+740B)	e7908b
+琌	U+740C (U+740C)	e7908c
+琍	U+740D (U+740D)	e7908d
+琎	U+740E (U+740E)	e7908e
+琏	vessel used to hold grain offerings (U+740F)	e7908f
+琐	trifling, petty; troublesome (U+7410)	e79090
+琑	U+7411 (U+7411)	e79091
+琒	U+7412 (U+7412)	e79092
+琓	U+7413 (U+7413)	e79093
+琔	U+7414 (U+7414)	e79094
+琕	type of pearl; scabbard (U+7415)	e79095
+琖	carved jade wine cup (U+7416)	e79096
+琗	U+7417 (U+7417)	e79097
+琘	U+7418 (U+7418)	e79098
+琙	U+7419 (U+7419)	e79099
+琚	girdle ornaments (U+741A)	e7909a
+琛	treasure, valuables (U+741B)	e7909b
+琜	U+741C (U+741C)	e7909c
+琝	U+741D (U+741D)	e7909d
+琞	U+741E (U+741E)	e7909e
+琟	U+741F (U+741F)	e7909f
+琠	a gem used as ear plug; a jade earring (U+7420)	e790a0
+琡	U+7421 (U+7421)	e790a1
+琢	polish jade; cut jade (U+7422)	e790a2
+琣	U+7423 (U+7423)	e790a3
+琤	jade of jade being; tinkle (U+7424)	e790a4
+琥	jewel in shape of tiger; amber (U+7425)	e790a5
+琦	gem, precious stone, jade (U+7426)	e790a6
+琧	U+7427 (U+7427)	e790a7
+琨	beautiful jade, precious stones (U+7428)	e790a8
+琩	U+7429 (U+7429)	e790a9
+琪	type of jade (U+742A)	e790aa
+琫	ornament (U+742B)	e790ab
+琬	the virtue of a gentleman; jade (U+742C)	e790ac
+琭	jade like stone (U+742D)	e790ad
+琮	octagonal piece of jade with hole in middle (U+742E)	e790ae
+琯	a jade tube used as an instrument (U+742F)	e790af
+琰	jewel, gem; glitter of gems (U+7430)	e790b0
+琱	engrave, inlay, carve; exhaust (U+7431)	e790b1
+琲	necklace (U+7432)	e790b2
+琳	beautiful jade, gem (U+7433)	e790b3
+琴	Chinese lute or guitar (U+7434)	e790b4
+琵	guitar-like instrument (U+7435)	e790b5
+琶	guitar-like instrument (U+7436)	e790b6
+琷	U+7437 (U+7437)	e790b7
+琸	U+7438 (U+7438)	e790b8
+琹	U+7439 (U+7439)	e790b9
+琺	enamel, cloissoné (U+743A)	e790ba
+琻	U+743B (U+743B)	e790bb
+琼	jade; rare, precious; elegant; (Cant.) to coagulate (U+743C)	e790bc
+琽	U+743D (U+743D)	e790bd
+琾	U+743E (U+743E)	e790be
+琿	bright, glorious, splendid (U+743F)	e790bf
+瑀	stone resembling jade; agate (U+7440)	e79180
+瑁	fine piece of jade (U+7441)	e79181
+瑂	U+7442 (U+7442)	e79182
+瑃	U+7443 (U+7443)	e79183
+瑄	a ornamental piece of jade several inches across with a hole in the center (U+7444)	e79184
+瑅	U+7445 (U+7445)	e79185
+瑆	U+7446 (U+7446)	e79186
+瑇	tortoise shell (U+7447)	e79187
+瑈	U+7448 (U+7448)	e79188
+瑉	U+7449 (U+7449)	e79189
+瑊	U+744A (U+744A)	e7918a
+瑋	type of jade; rare, valuable (U+744B)	e7918b
+瑌	a white opaque quartz used for ornaments (U+744C)	e7918c
+瑍	U+744D (U+744D)	e7918d
+瑎	U+744E (U+744E)	e7918e
+瑏	U+744F (U+744F)	e7918f
+瑐	U+7450 (U+7450)	e79190
+瑑	carve, engrave, cut out, sculpt (U+7451)	e79191
+瑒	U+7452 (U+7452)	e79192
+瑓	U+7453 (U+7453)	e79193
+瑔	U+7454 (U+7454)	e79194
+瑕	flaw in gem; fault, defect (U+7455)	e79195
+瑖	U+7456 (U+7456)	e79196
+瑗	large ring of fine jade (U+7457)	e79197
+瑘	U+7458 (U+7458)	e79198
+瑙	agate; cornelian (U+7459)	e79199
+瑚	coral; person of virtue (U+745A)	e7919a
+瑛	luster of gem; crystal (U+745B)	e7919b
+瑜	flawless gem or jewel (U+745C)	e7919c
+瑝	U+745D (U+745D)	e7919d
+瑞	felicitous omen; auspicious (U+745E)	e7919e
+瑟	large stringed musical instrument; dignified, massive; sound of wind (U+745F)	e7919f
+瑠	precious stone (U+7460)	e791a0
+瑡	U+7461 (U+7461)	e791a1
+瑢	gem ornaments for belts (U+7462)	e791a2
+瑣	fragments; trifling, petty; troublesome (U+7463)	e791a3
+瑤	precious jade (U+7464)	e791a4
+瑥	U+7465 (U+7465)	e791a5
+瑦	U+7466 (U+7466)	e791a6
+瑧	U+7467 (U+7467)	e791a7
+瑨	jade look alike stone (U+7468)	e791a8
+瑩	lustre of gems; bright, lustrous (U+7469)	e791a9
+瑪	agate; cornelian (U+746A)	e791aa
+瑫	U+746B (U+746B)	e791ab
+瑬	U+746C (U+746C)	e791ac
+瑭	a kind of jade (U+746D)	e791ad
+瑮	U+746E (U+746E)	e791ae
+瑯	kind of white cornelian (U+746F)	e791af
+瑰	extraordinary, fabulous; rose (U+7470)	e791b0
+瑱	a gem used as ear plug; a jade earring (U+7471)	e791b1
+瑲	tinkling sound tinkling of pendant gems (U+7472)	e791b2
+瑳	luster of gem; lustrous, bright (U+7473)	e791b3
+瑴	twin gems (U+7474)	e791b4
+瑵	U+7475 (U+7475)	e791b5
+瑶	precious jade (U+7476)	e791b6
+瑷	fine quality jade (U+7477)	e791b7
+瑸	U+7478 (U+7478)	e791b8
+瑹	U+7479 (U+7479)	e791b9
+瑺	U+747A (U+747A)	e791ba
+瑻	U+747B (U+747B)	e791bb
+瑼	U+747C (U+747C)	e791bc
+瑽	tinkling of jade pendants (U+747D)	e791bd
+瑾	brilliance of gems; fine jade (U+747E)	e791be
+瑿	a black stone like jade; jet (U+747F)	e791bf
+璀	lustre of gems; glitter; shine (U+7480)	e79280
+璁	turquoise (U+7481)	e79281
+璂	jade ornament (U+7482)	e79282
+璃	glass (U+7483)	e79283
+璄	U+7484 (U+7484)	e79284
+璅	gem (U+7485)	e79285
+璆	beautiful jade; tinkle (U+7486)	e79286
+璇	beautiful jade; star (U+7487)	e79287
+璈	ancient musical instrument (U+7488)	e79288
+璉	a vessel used hold grain offerings (U+7489)	e79289
+璊	reddish (U+748A)	e7928a
+璋	jade plaything; jade ornament (U+748B)	e7928b
+璌	U+748C (U+748C)	e7928c
+璍	U+748D (U+748D)	e7928d
+璎	a necklace made of precious stones (U+748E)	e7928e
+璏	U+748F (U+748F)	e7928f
+璐	beautiful variety of jade (U+7490)	e79290
+璑	U+7491 (U+7491)	e79291
+璒	U+7492 (U+7492)	e79292
+璓	U+7493 (U+7493)	e79293
+璔	U+7494 (U+7494)	e79294
+璕	U+7495 (U+7495)	e79295
+璖	U+7496 (U+7496)	e79296
+璗	U+7497 (U+7497)	e79297
+璘	luster of jade (U+7498)	e79298
+璙	U+7499 (U+7499)	e79299
+璚	splendid (U+749A)	e7929a
+璛	U+749B (U+749B)	e7929b
+璜	a semicircular jade ornament used as a pendant (U+749C)	e7929c
+璝	U+749D (U+749D)	e7929d
+璞	unpolished gem, uncarved gem (U+749E)	e7929e
+璟	luster of gem (U+749F)	e7929f
+璠	a piece of precious jade (U+74A0)	e792a0
+璡	jade look alike stone (U+74A1)	e792a1
+璢	precious stone (U+74A2)	e792a2
+璣	pearl that is not quite round (U+74A3)	e792a3
+璤	U+74A4 (U+74A4)	e792a4
+璥	a kind of jade (U+74A5)	e792a5
+璦	fine quality jade (U+74A6)	e792a6
+璧	piece of jade with hole in it (U+74A7)	e792a7
+璨	gems; luster of gems; lustrous (U+74A8)	e792a8
+璩	jade ring; earrings; surname (U+74A9)	e792a9
+璪	pearl pendants on coronet (U+74AA)	e792aa
+璫	pendant ornaments, earrings (U+74AB)	e792ab
+璬	U+74AC (U+74AC)	e792ac
+璭	U+74AD (U+74AD)	e792ad
+璮	U+74AE (U+74AE)	e792ae
+璯	U+74AF (U+74AF)	e792af
+環	jade ring or bracelet; ring (U+74B0)	e792b0
+璱	U+74B1 (U+74B1)	e792b1
+璲	pendant girdle ornament (U+74B2)	e792b2
+璳	U+74B3 (U+74B3)	e792b3
+璴	U+74B4 (U+74B4)	e792b4
+璵	beautiful jade (U+74B5)	e792b5
+璶	U+74B6 (U+74B6)	e792b6
+璷	U+74B7 (U+74B7)	e792b7
+璸	jade's streaks (U+74B8)	e792b8
+璹	U+74B9 (U+74B9)	e792b9
+璺	a crack, as in porcelain (U+74BA)	e792ba
+璻	U+74BB (U+74BB)	e792bb
+璼	U+74BC (U+74BC)	e792bc
+璽	imperial signet, royal signet (U+74BD)	e792bd
+璾	U+74BE (U+74BE)	e792be
+璿	fine jade (U+74BF)	e792bf
+瓀	gem (U+74C0)	e79380
+瓁	U+74C1 (U+74C1)	e79381
+瓂	U+74C2 (U+74C2)	e79382
+瓃	U+74C3 (U+74C3)	e79383
+瓄	U+74C4 (U+74C4)	e79384
+瓅	U+74C5 (U+74C5)	e79385
+瓆	U+74C6 (U+74C6)	e79386
+瓇	U+74C7 (U+74C7)	e79387
+瓈	glass (U+74C8)	e79388
+瓉	U+74C9 (U+74C9)	e79389
+瓊	jade; rare, precious; elegant (U+74CA)	e7938a
+瓋	U+74CB (U+74CB)	e7938b
+瓌	extraordinary, fabulous (U+74CC)	e7938c
+瓍	U+74CD (U+74CD)	e7938d
+瓎	U+74CE (U+74CE)	e7938e
+瓏	a gem cut like dragon (U+74CF)	e7938f
+瓐	U+74D0 (U+74D0)	e79390
+瓑	U+74D1 (U+74D1)	e79391
+瓒	ceremonial libation cup (U+74D2)	e79392
+瓓	U+74D3 (U+74D3)	e79393
+瓔	a necklace made of precious stones (U+74D4)	e79394
+瓕	U+74D5 (U+74D5)	e79395
+瓖	inlay (U+74D6)	e79396
+瓗	U+74D7 (U+74D7)	e79397
+瓘	jade (U+74D8)	e79398
+瓙	U+74D9 (U+74D9)	e79399
+瓚	ceremonial libation cup (U+74DA)	e7939a
+瓛	scaptre (U+74DB)	e7939b
+瓜	melon, gourd, cucumber; rad. 97 (U+74DC)	e7939c
+瓝	U+74DD (U+74DD)	e7939d
+瓞	young melons just forming (U+74DE)	e7939e
+瓟	the bottle-gourd (U+74DF)	e7939f
+瓠	bottle gourd; calabash; pot (U+74E0)	e793a0
+瓡	U+74E1 (U+74E1)	e793a1
+瓢	ladle made from dried gourd (U+74E2)	e793a2
+瓣	petal; segment; valves (U+74E3)	e793a3
+瓤	flesh, core, pulp, pith (U+74E4)	e793a4
+瓥	U+74E5 (U+74E5)	e793a5
+瓦	tile; earthenware pottery; girl (U+74E6)	e793a6
+瓧	decagram (U+74E7)	e793a7
+瓨	U+74E8 (U+74E8)	e793a8
+瓩	kilowatt; kilogram (U+74E9)	e793a9
+瓪	U+74EA (U+74EA)	e793aa
+瓫	U+74EB (U+74EB)	e793ab
+瓬	U+74EC (U+74EC)	e793ac
+瓭	U+74ED (U+74ED)	e793ad
+瓮	earthen jar; jar for ashes (U+74EE)	e793ae
+瓯	bowl, cup; small tray (U+74EF)	e793af
+瓰	a decigram, one-tenth of a gram (U+74F0)	e793b0
+瓱	milligram (U+74F1)	e793b1
+瓲	U+74F2 (U+74F2)	e793b2
+瓳	U+74F3 (U+74F3)	e793b3
+瓴	concave channels of tiling a long-necked jar (U+74F4)	e793b4
+瓵	U+74F5 (U+74F5)	e793b5
+瓶	jug, pitcher, vase, jar, bottle (U+74F6)	e793b6
+瓷	crockery, porcelain, chinaware (U+74F7)	e793b7
+瓸	hectogram (U+74F8)	e793b8
+瓹	(Cant.) to hide quickly; to dash (U+74F9)	e793b9
+瓺	U+74FA (U+74FA)	e793ba
+瓻	jar (U+74FB)	e793bb
+瓼	U+74FC (U+74FC)	e793bc
+瓽	U+74FD (U+74FD)	e793bd
+瓾	U+74FE (U+74FE)	e793be
+瓿	jar, pot (U+74FF)	e793bf
+甀	jar (U+7500)	e79480
+甁	jug (U+7501)	e79481
+甂	(Cant.) 打甂爐, to instant-boil thin slices of meat and vegetables in a chafing dish at a dining table (U+7502)	e79482
+甃	brick wall of a well (U+7503)	e79483
+甄	to examine, discern; to grade; a surname (U+7504)	e79484
+甅	centigram (U+7505)	e79485
+甆	U+7506 (U+7506)	e79486
+甇	jar (U+7507)	e79487
+甈	U+7508 (U+7508)	e79488
+甉	U+7509 (U+7509)	e79489
+甊	U+750A (U+750A)	e7948a
+甋	a jar without ears (U+750B)	e7948b
+甌	bowl, cup; small tray (U+750C)	e7948c
+甍	rafters supporting roof tiles (U+750D)	e7948d
+甎	brick, square tile, slab (U+750E)	e7948e
+甏	a squat jar for holding wine, sauces etc. (U+750F)	e7948f
+甐	U+7510 (U+7510)	e79490
+甑	boiler for steaming rice, pot (U+7511)	e79491
+甒	jar (U+7512)	e79492
+甓	glazed tiles, bricks (U+7513)	e79493
+甔	big jar (U+7514)	e79494
+甕	earthen jar; jar for ashes (U+7515)	e79495
+甖	a pot, pitcher; a small-mouthed clay vessel (U+7516)	e79496
+甗	earthenware vessel in two parts (U+7517)	e79497
+甘	sweetness; sweet, tasty (U+7518)	e79498
+甙	sugar product (U+7519)	e79499
+甚	great extent; considerably (U+751A)	e7949a
+甛	sweet, sweetness (U+751B)	e7949b
+甜	sweet, sweetness (U+751C)	e7949c
+甝	U+751D (U+751D)	e7949d
+甞	taste; experience, experiment (U+751E)	e7949e
+生	life, living, lifetime; birth (U+751F)	e7949f
+甠	U+7520 (U+7520)	e794a0
+甡	abundant, numerous; crowd (U+7521)	e794a1
+產	give birth, bring forth, produce (U+7522)	e794a2
+産	give birth (U+7523)	e794a3
+甤	drooping leaves; fringe soft, delicate (U+7524)	e794a4
+甥	sister's child (U+7525)	e794a5
+甦	be reborn; resuscitate, revive (U+7526)	e794a6
+甧	U+7527 (U+7527)	e794a7
+用	use, employ, apply, operate; use (U+7528)	e794a8
+甩	throw away, discard (U+7529)	e794a9
+甪	to loose, take off, get rid of (U+752A)	e794aa
+甫	begin; man, father; great; a distance of ten li (U+752B)	e794ab
+甬	path; river in Ningbo; Ningbo (U+752C)	e794ac
+甭	there is no need (U+752D)	e794ad
+甮	U+752E (U+752E)	e794ae
+甯	peaceful (U+752F)	e794af
+田	field, arable land, cultivated (U+7530)	e794b0
+由	cause, reason; from (U+7531)	e794b1
+甲	armor, shell; fingernails; 1st heavenly stem (U+7532)	e794b2
+申	to state to a superior, report; extend; 9th terrestrial branch (U+7533)	e794b3
+甴	(Cant.) cockroach (U+7534)	e794b4
+电	electricity; electric; lightning (U+7535)	e794b5
+甶	U+7536 (U+7536)	e794b6
+男	male, man; son; baron; surname (U+7537)	e794b7
+甸	suburbs of capital; govern; crops (U+7538)	e794b8
+甹	U+7539 (U+7539)	e794b9
+町	raised path between fields (U+753A)	e794ba
+画	a painting, picture, drawing; to draw (U+753B)	e794bb
+甼	raised path between fields (U+753C)	e794bc
+甽	drain between fields, irrigation (U+753D)	e794bd
+甾	ground that has been under cultivation for one year; evil, calamity (U+753E)	e794be
+甿	farming population (U+753F)	e794bf
+畀	to give (U+7540)	e79580
+畁	to give to; to confer on (U+7541)	e79581
+畂	U+7542 (U+7542)	e79582
+畃	U+7543 (U+7543)	e79583
+畄	stop, halt; stay, detain, keep (U+7544)	e79584
+畅	smoothly, freely, unrestrained (U+7545)	e79585
+畆	Chinese land measure; fields (U+7546)	e79586
+畇	land (U+7547)	e79587
+畈	field; farm (U+7548)	e79588
+畉	U+7549 (U+7549)	e79589
+畊	plow, cultivate (U+754A)	e7958a
+畋	till land, cultivate; hunt (U+754B)	e7958b
+界	boundary, limit; domain; society; the world (U+754C)	e7958c
+畍	U+754D (U+754D)	e7958d
+畎	a drain between fields, irrigation; to flow (U+754E)	e7958e
+畏	fear, dread, awe, reverence (U+754F)	e7958f
+畐	to fill; a foll of cloth (U+7550)	e79590
+畑	dry (as opposed to rice) field; used in Japanese names (U+7551)	e79591
+畒	Chinese land measure; fields (U+7552)	e79592
+畓	rice field (U+7553)	e79593
+畔	boundary path dividing fields (U+7554)	e79594
+畕	U+7555 (U+7555)	e79595
+畖	U+7556 (U+7556)	e79596
+畗	U+7557 (U+7557)	e79597
+畘	U+7558 (U+7558)	e79598
+留	stop, halt; stay, detain, keep (U+7559)	e79599
+畚	straw basket, hamper (U+755A)	e7959a
+畛	border, boundary; raised path (U+755B)	e7959b
+畜	livestock, domestic animals (U+755C)	e7959c
+畝	Chinese land measure; fields (U+755D)	e7959d
+畞	U+755E (U+755E)	e7959e
+畟	plough (U+755F)	e7959f
+畠	garden, field, farm, plantation (U+7560)	e795a0
+畡	U+7561 (U+7561)	e795a1
+畢	end, finish, conclude; completed (U+7562)	e795a2
+畣	U+7563 (U+7563)	e795a3
+畤	place for worshipping the haven (U+7564)	e795a4
+略	approximately, roughly; outline (U+7565)	e795a5
+畦	sections in vegetable farm (U+7566)	e795a6
+畧	approximately, roughly; outline (U+7567)	e795a7
+畨	U+7568 (U+7568)	e795a8
+畩	U+7569 (U+7569)	e795a9
+番	to take turns; a turn, a time; to repeat (U+756A)	e795aa
+畫	delineate, painting, picture, drawing; draw (U+756B)	e795ab
+畬	reclaimed field (U+756C)	e795ac
+畭	U+756D (U+756D)	e795ad
+畮	U+756E (U+756E)	e795ae
+畯	rustic; crude (U+756F)	e795af
+異	different, unusual, strange (U+7570)	e795b0
+畱	to detain; to entertain to keep; to put by (U+7571)	e795b1
+畲	to cultivate land by first setting fire to it (U+7572)	e795b2
+畳	repeat, duplicate; repetitious (U+7573)	e795b3
+畴	farmland, arable land; category (U+7574)	e795b4
+畵	delineate, painting, picture, drawing; draw (U+7575)	e795b5
+當	bear, accept, undertake; just (U+7576)	e795b6
+畷	raised path between fields (U+7577)	e795b7
+畸	odd, fractional, remainder, odds (U+7578)	e795b8
+畹	U+7579 (U+7579)	e795b9
+畺	boundary, border (U+757A)	e795ba
+畻	U+757B (U+757B)	e795bb
+畼	U+757C (U+757C)	e795bc
+畽	ground (U+757D)	e795bd
+畾	fields divided by dikes (U+757E)	e795be
+畿	imperial domain; area near capital (U+757F)	e795bf
+疀	U+7580 (U+7580)	e79680
+疁	U+7581 (U+7581)	e79681
+疂	repeat, duplicate; repetitious (U+7582)	e79682
+疃	hamlet; area outside city (U+7583)	e79683
+疄	U+7584 (U+7584)	e79684
+疅	U+7585 (U+7585)	e79685
+疆	boundary, border, frontier (U+7586)	e79686
+疇	farmland, arable land; category (U+7587)	e79687
+疈	U+7588 (U+7588)	e79688
+疉	repeat, duplicate; repetitious (U+7589)	e79689
+疊	repeat, duplicate; repetitious (U+758A)	e7968a
+疋	roll, bolt of cloth; foot (U+758B)	e7968b
+疌	U+758C (U+758C)	e7968c
+疍	U+758D (U+758D)	e7968d
+疎	neglect; careless, lax (U+758E)	e7968e
+疏	neglect; careless, lax (U+758F)	e7968f
+疐	fall, stumble, falter; hindered (U+7590)	e79690
+疑	doubt, question, suspect (U+7591)	e79691
+疒	sick; KangXi radical 104 (U+7592)	e79692
+疓	fatigued; (Cant.) paralysis of the foot (U+7593)	e79693
+疔	carbuncle, boil, ulcer (U+7594)	e79694
+疕	head sores (U+7595)	e79695
+疖	pimple, sore, boil (U+7596)	e79696
+疗	be healed, cured, recover (U+7597)	e79697
+疘	U+7598 (U+7598)	e79698
+疙	pimple, sore, boil, wart, pustule (U+7599)	e79699
+疚	chronic disease, chronic illness; sorrow (U+759A)	e7969a
+疛	U+759B (U+759B)	e7969b
+疜	U+759C (U+759C)	e7969c
+疝	hernia, rupture (U+759D)	e7969d
+疞	U+759E (U+759E)	e7969e
+疟	intermittent fever; malaria (U+759F)	e7969f
+疠	a sore, ulcer; pestilence (U+75A0)	e796a0
+疡	ulcers, sores; infection (U+75A1)	e796a1
+疢	aching of limbs, muscular pains (U+75A2)	e796a2
+疣	wart; tumor; goiter; papule (U+75A3)	e796a3
+疤	scar, cicatrix; birthmark (U+75A4)	e796a4
+疥	scabies, itch (U+75A5)	e796a5
+疦	U+75A6 (U+75A6)	e796a6
+疧	sick (U+75A7)	e796a7
+疨	U+75A8 (U+75A8)	e796a8
+疩	U+75A9 (U+75A9)	e796a9
+疪	U+75AA (U+75AA)	e796aa
+疫	epidemic, plague, pestilence (U+75AB)	e796ab
+疬	scrofulous lumps or swellings (U+75AC)	e796ac
+疭	spasms or convulsions in young children, caused by indigestion (U+75AD)	e796ad
+疮	tumor, boil, sore, wound (U+75AE)	e796ae
+疯	crazy, insane, mentally ill (U+75AF)	e796af
+疰	U+75B0 (U+75B0)	e796b0
+疱	acne (U+75B1)	e796b1
+疲	feel tired, be exhausted; weak (U+75B2)	e796b2
+疳	childhood diseases (U+75B3)	e796b3
+疴	illness, sickness, disease; pain (U+75B4)	e796b4
+疵	flaw, fault, defect; disease (U+75B5)	e796b5
+疶	U+75B6 (U+75B6)	e796b6
+疷	U+75B7 (U+75B7)	e796b7
+疸	jaundice; disorders of stomach (U+75B8)	e796b8
+疹	measles; rash; fever (U+75B9)	e796b9
+疺	U+75BA (U+75BA)	e796ba
+疻	U+75BB (U+75BB)	e796bb
+疼	aches, pains; be fond of; love (U+75BC)	e796bc
+疽	ulcer, carbuncle, abscess (U+75BD)	e796bd
+疾	illness, disease, sickness; to hate (U+75BE)	e796be
+疿	prickly heat, rash (U+75BF)	e796bf
+痀	to crouch; a hunchback (U+75C0)	e79780
+痁	chronic malaria (U+75C1)	e79781
+痂	scab (U+75C2)	e79782
+痃	indigestion; buboes, lymphatic inflammation (U+75C3)	e79783
+痄	scrofulous swellings and sores, mumps (U+75C4)	e79784
+病	illness, sickness, disease (U+75C5)	e79785
+痆	U+75C6 (U+75C6)	e79786
+症	disease, illness, ailment (U+75C7)	e79787
+痈	carbuncle, sore, ulcer, abscess (U+75C8)	e79788
+痉	convulsions, fits (U+75C9)	e79789
+痊	be healed, be cured; recover (U+75CA)	e7978a
+痋	U+75CB (U+75CB)	e7978b
+痌	ache, be in pain; painful (U+75CC)	e7978c
+痍	wound, bruise, sore (U+75CD)	e7978d
+痎	U+75CE (U+75CE)	e7978e
+痏	a bruise or contusion (U+75CF)	e7978f
+痐	whirlwind, cyclone, storm (U+75D0)	e79790
+痑	U+75D1 (U+75D1)	e79791
+痒	itch (U+75D2)	e79792
+痓	U+75D3 (U+75D3)	e79793
+痔	hemorrhoids, piles (U+75D4)	e79794
+痕	scar; mark; trace (U+75D5)	e79795
+痖	dumb (U+75D6)	e79796
+痗	ill (U+75D7)	e79797
+痘	smallpox (U+75D8)	e79798
+痙	convulsions, fits (U+75D9)	e79799
+痚	asthma (U+75DA)	e7979a
+痛	pain, ache; sorry, sad; bitter (U+75DB)	e7979b
+痜	a scabby bald head (U+75DC)	e7979c
+痝	U+75DD (U+75DD)	e7979d
+痞	dyspepsia, spleen infection (U+75DE)	e7979e
+痟	U+75DF (U+75DF)	e7979f
+痠	aching of limbs, muscular pains (U+75E0)	e797a0
+痡	a disease; an ailment (U+75E1)	e797a1
+痢	dysentery (U+75E2)	e797a2
+痣	spots, moles; birthmark (U+75E3)	e797a3
+痤	a swelling of the lymph nodes (U+75E4)	e797a4
+痥	U+75E5 (U+75E5)	e797a5
+痦	U+75E6 (U+75E6)	e797a6
+痧	cholera; colic (U+75E7)	e797a7
+痨	consumption; tuberculosis (U+75E8)	e797a8
+痩	thin, emaciated, lean; meager (U+75E9)	e797a9
+痪	paralysis, numbness of limbs (U+75EA)	e797aa
+痫	epilepsy, convulsions (U+75EB)	e797ab
+痬	U+75EC (U+75EC)	e797ac
+痭	menorrhagia (U+75ED)	e797ad
+痮	a swelled belly; dropsical; to swell; inflated (U+75EE)	e797ae
+痯	sick (U+75EF)	e797af
+痰	phlegm, mucus, spittle (U+75F0)	e797b0
+痱	heat rash, prickly heat; ulcers (U+75F1)	e797b1
+痲	pock-marked; leprosy; measles (U+75F2)	e797b2
+痳	pock-marked; leprosy; measles (U+75F3)	e797b3
+痴	foolish, stupid, dumb, silly (U+75F4)	e797b4
+痵	a heart symptom (U+75F5)	e797b5
+痶	U+75F6 (U+75F6)	e797b6
+痷	U+75F7 (U+75F7)	e797b7
+痸	U+75F8 (U+75F8)	e797b8
+痹	paralysis, numbness (U+75F9)	e797b9
+痺	paralysis, numbness (U+75FA)	e797ba
+痻	suffer (U+75FB)	e797bb
+痼	chronic disease (U+75FC)	e797bc
+痽	U+75FD (U+75FD)	e797bd
+痾	chronic illness; dysentery (U+75FE)	e797be
+痿	paralysis; impotence (U+75FF)	e797bf
+瘀	a hematoma, contusion; extravasted blood (U+7600)	e79880
+瘁	feel tired, be weary, be worn out (U+7601)	e79881
+瘂	dumb (U+7602)	e79882
+瘃	sores from cold (U+7603)	e79883
+瘄	U+7604 (U+7604)	e79884
+瘅	to hate bitterly; drought; dry (U+7605)	e79885
+瘆	U+7606 (U+7606)	e79886
+瘇	dropsy of the leg (U+7607)	e79887
+瘈	prolonged fever; chronic malaria (U+7608)	e79888
+瘉	get well, recover (U+7609)	e79889
+瘊	warts, pimples (U+760A)	e7988a
+瘋	crazy, insane, mentally ill (U+760B)	e7988b
+瘌	severe; poisonous; dangerous; itch and other skin diseases (U+760C)	e7988c
+瘍	ulcers, sores; infection (U+760D)	e7988d
+瘎	U+760E (U+760E)	e7988e
+瘏	ill (U+760F)	e7988f
+瘐	to die in prison from cold and hunger; to treat with cruelty (U+7610)	e79890
+瘑	U+7611 (U+7611)	e79891
+瘒	U+7612 (U+7612)	e79892
+瘓	paralysis, numbness of limbs (U+7613)	e79893
+瘔	U+7614 (U+7614)	e79894
+瘕	asthma; disese of the bowels (U+7615)	e79895
+瘖	dumb, mute, unable speak (U+7616)	e79896
+瘗	bury, inter (U+7617)	e79897
+瘘	fistula, sore, ulcer, goiter (U+7618)	e79898
+瘙	itch (U+7619)	e79899
+瘚	to hiccough; the humours of the body (U+761A)	e7989a
+瘛	U+761B (U+761B)	e7989b
+瘜	a polypus (U+761C)	e7989c
+瘝	illness; pain; neglect; useless (U+761D)	e7989d
+瘞	bury, inter (U+761E)	e7989e
+瘟	epidemic, plague, pestilence (U+761F)	e7989f
+瘠	thin, emaciated; barren (U+7620)	e798a0
+瘡	tumor, boil, sore, wound (U+7621)	e798a1
+瘢	scar, mole (U+7622)	e798a2
+瘣	U+7623 (U+7623)	e798a3
+瘤	tumor, lump, goiter (U+7624)	e798a4
+瘥	to recover from any disease; an epidemic (U+7625)	e798a5
+瘦	thin, emaciated, lean; meager (U+7626)	e798a6
+瘧	intermittent fever; malaria (U+7627)	e798a7
+瘨	mad; ill (U+7628)	e798a8
+瘩	pimples (U+7629)	e798a9
+瘪	shrivelled up, dried up; vexed (U+762A)	e798aa
+瘫	paralysis, palsy, numbness (U+762B)	e798ab
+瘬	U+762C (U+762C)	e798ac
+瘭	a whitlow (U+762D)	e798ad
+瘮	U+762E (U+762E)	e798ae
+瘯	itch (U+762F)	e798af
+瘰	scrofula, swellings (U+7630)	e798b0
+瘱	U+7631 (U+7631)	e798b1
+瘲	spasms or convulsions in young children, caused by indigestion (U+7632)	e798b2
+瘳	to be healed; to reform (U+7633)	e798b3
+瘴	malaria pestilential vapors (U+7634)	e798b4
+瘵	a wasting disease (U+7635)	e798b5
+瘶	to cough; to expectorate (U+7636)	e798b6
+瘷	U+7637 (U+7637)	e798b7
+瘸	lameness, paralysis of hands, leg (U+7638)	e798b8
+瘹	U+7639 (U+7639)	e798b9
+瘺	anal fistula; tumor, sore (U+763A)	e798ba
+瘻	fistula, sore, ulcer, goiter (U+763B)	e798bb
+瘼	sickness; distress (U+763C)	e798bc
+瘽	U+763D (U+763D)	e798bd
+瘾	rash; addiction, craving, habit (U+763E)	e798be
+瘿	swelling, goiter (U+763F)	e798bf
+癀	jaundice (U+7640)	e79980
+癁	U+7641 (U+7641)	e79981
+療	be healed, cured, recover (U+7642)	e79982
+癃	weakness, infirmity retention of urine (U+7643)	e79983
+癄	U+7644 (U+7644)	e79984
+癅	a swelling, tumor (U+7645)	e79985
+癆	consumption; tuberculosis (U+7646)	e79986
+癇	epilepsy, convulsions (U+7647)	e79987
+癈	abrogate, terminate, discard (U+7648)	e79988
+癉	to hate bitterly; drought; dry (U+7649)	e79989
+癊	a disease of the heart (U+764A)	e7998a
+癋	U+764B (U+764B)	e7998b
+癌	cancer; marmoset (U+764C)	e7998c
+癍	unhealthy marks on the skin (U+764D)	e7998d
+癎	epilepsy, convulsions (U+764E)	e7998e
+癏	U+764F (U+764F)	e7998f
+癐	(Cant.) tired, exhausted (U+7650)	e79990
+癑	U+7651 (U+7651)	e79991
+癒	get well, recover (U+7652)	e79992
+癓	U+7653 (U+7653)	e79993
+癔	hysterical (U+7654)	e79994
+癕	loss of the sense of smell (U+7655)	e79995
+癖	craving, weakness for; indigestion (U+7656)	e79996
+癗	U+7657 (U+7657)	e79997
+癘	a sore, ulcer; pestilence (U+7658)	e79998
+癙	ill (U+7659)	e79999
+癚	U+765A (U+765A)	e7999a
+癛	U+765B (U+765B)	e7999b
+癜	erythema (U+765C)	e7999c
+癝	U+765D (U+765D)	e7999d
+癞	leprosy, scabies, mange; shoddy (U+765E)	e7999e
+癟	shrivelled up, dried up; vexed (U+765F)	e7999f
+癠	sick (U+7660)	e799a0
+癡	silly, foolish, idiotic (U+7661)	e799a1
+癢	itch (U+7662)	e799a2
+癣	ringworms (U+7663)	e799a3
+癤	pimple, sore, boil (U+7664)	e799a4
+癥	obstruction of bowels (U+7665)	e799a5
+癦	(Cant.) a mole (on the skin) (U+7666)	e799a6
+癧	scrofulous lumps or swellings (U+7667)	e799a7
+癨	quickly, suddenly; surname (U+7668)	e799a8
+癩	leprosy, scabies, mange; shoddy (U+7669)	e799a9
+癪	spasms, convulsions, hysteria; (Cant.) infantile malnutrition (U+766A)	e799aa
+癫	crazy, mad; madness, mania, insan (U+766B)	e799ab
+癬	ringworms (U+766C)	e799ac
+癭	swelling, goiter (U+766D)	e799ad
+癮	rash; addiction, craving, habit (U+766E)	e799ae
+癯	thin, emaciated; worn, tired (U+766F)	e799af
+癰	carbuncle, sore, ulcer, abscess (U+7670)	e799b0
+癱	paralysis, palsy, numbness (U+7671)	e799b1
+癲	crazy, mad; madness, mania, insanity (U+7672)	e799b2
+癳	U+7673 (U+7673)	e799b3
+癴	U+7674 (U+7674)	e799b4
+癵	U+7675 (U+7675)	e799b5
+癶	legs; KangXi radical 105 (U+7676)	e799b6
+癷	U+7677 (U+7677)	e799b7
+癸	10th heavenly stem (U+7678)	e799b8
+癹	U+7679 (U+7679)	e799b9
+発	issue, dispatch, send out, emit (U+767A)	e799ba
+登	rise, mount, board, climb (U+767B)	e799bb
+發	issue, dispatch, send out, emit (U+767C)	e799bc
+白	white; pure, unblemished; bright (U+767D)	e799bd
+百	one hundred; numerous, many (U+767E)	e799be
+癿	U+767F (U+767F)	e799bf
+皀	kernel, seed; enjoy, feast [?] (U+7680)	e79a80
+皁	black; police runners, from the black clothes formerly worn by them (U+7681)	e79a81
+皂	soap; black; menial servant (U+7682)	e79a82
+皃	countenance, appearance (U+7683)	e79a83
+的	possessive, adjectival suffix (U+7684)	e79a84
+皅	U+7685 (U+7685)	e79a85
+皆	all, every, everybody (U+7686)	e79a86
+皇	royal, imperial; ruler, superior (U+7687)	e79a87
+皈	follow, comply with (U+7688)	e79a88
+皉	U+7689 (U+7689)	e79a89
+皊	U+768A (U+768A)	e79a8a
+皋	the high land along a river (U+768B)	e79a8b
+皌	U+768C (U+768C)	e79a8c
+皍	U+768D (U+768D)	e79a8d
+皎	white; bright, brilliant; clear (U+768E)	e79a8e
+皏	U+768F (U+768F)	e79a8f
+皐	the high land along a river (U+7690)	e79a90
+皑	brilliant white (U+7691)	e79a91
+皒	U+7692 (U+7692)	e79a92
+皓	bright, luminous; clear; hoary (U+7693)	e79a93
+皔	U+7694 (U+7694)	e79a94
+皕	U+7695 (U+7695)	e79a95
+皖	Anhui province (U+7696)	e79a96
+皗	U+7697 (U+7697)	e79a97
+皘	U+7698 (U+7698)	e79a98
+皙	white; kind of date (U+7699)	e79a99
+皚	brilliant white (U+769A)	e79a9a
+皛	U+769B (U+769B)	e79a9b
+皜	white, bright; clear, pure (U+769C)	e79a9c
+皝	luminous; bright hoary, white (U+769D)	e79a9d
+皞	bright, brilliant (U+769E)	e79a9e
+皟	U+769F (U+769F)	e79a9f
+皠	U+76A0 (U+76A0)	e79aa0
+皡	bright; brilliant (U+76A1)	e79aa1
+皢	U+76A2 (U+76A2)	e79aa2
+皣	U+76A3 (U+76A3)	e79aa3
+皤	white, grey; corpulent (U+76A4)	e79aa4
+皥	bright, brilliant (U+76A5)	e79aa5
+皦	bright white; bright, clear (U+76A6)	e79aa6
+皧	U+76A7 (U+76A7)	e79aa7
+皨	U+76A8 (U+76A8)	e79aa8
+皩	U+76A9 (U+76A9)	e79aa9
+皪	U+76AA (U+76AA)	e79aaa
+皫	white (U+76AB)	e79aab
+皬	U+76AC (U+76AC)	e79aac
+皭	white; bright; clear; clean (U+76AD)	e79aad
+皮	skin, hide, fur, feather; outer (U+76AE)	e79aae
+皯	U+76AF (U+76AF)	e79aaf
+皰	pimples (U+76B0)	e79ab0
+皱	wrinkles, creases, folds (U+76B1)	e79ab1
+皲	crack, chap (U+76B2)	e79ab2
+皳	U+76B3 (U+76B3)	e79ab3
+皴	chapped, cracked (U+76B4)	e79ab4
+皵	U+76B5 (U+76B5)	e79ab5
+皶	rough skin; rough (U+76B6)	e79ab6
+皷	drum; excite, arouse (U+76B7)	e79ab7
+皸	crack, chap (U+76B8)	e79ab8
+皹	crack, chap (U+76B9)	e79ab9
+皺	wrinkles, creases, folds (U+76BA)	e79aba
+皻	pimples, blotches (U+76BB)	e79abb
+皼	U+76BC (U+76BC)	e79abc
+皽	scurf (U+76BD)	e79abd
+皾	U+76BE (U+76BE)	e79abe
+皿	shallow container; rad. no. 108 (U+76BF)	e79abf
+盀	U+76C0 (U+76C0)	e79b80
+盁	U+76C1 (U+76C1)	e79b81
+盂	basin; cup (U+76C2)	e79b82
+盃	glass, cup (U+76C3)	e79b83
+盄	U+76C4 (U+76C4)	e79b84
+盅	small cup or bowl (U+76C5)	e79b85
+盆	basin, tub, pot, bowl (U+76C6)	e79b86
+盇	why not? would it not be better to? (U+76C7)	e79b87
+盈	fill; full, overflowing; surplus (U+76C8)	e79b88
+盉	U+76C9 (U+76C9)	e79b89
+益	profit, benefit; advantage (U+76CA)	e79b8a
+盋	U+76CB (U+76CB)	e79b8b
+盌	bowl, basin, cup (U+76CC)	e79b8c
+盍	what? why not? (U+76CD)	e79b8d
+盎	cup; pot; bowl; abundant (U+76CE)	e79b8e
+盏	small cup or container (U+76CF)	e79b8f
+盐	salt (U+76D0)	e79b90
+监	supervise, control, direct (U+76D1)	e79b91
+盒	small box or case; casket (U+76D2)	e79b92
+盓	U+76D3 (U+76D3)	e79b93
+盔	helmet; bowl; basin (U+76D4)	e79b94

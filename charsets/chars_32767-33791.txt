@@ -1,0 +1,1024 @@
+蛕	the common intestinal worms, the tape-worm (U+86D5)	e89b95
+蛖	U+86D6 (U+86D6)	e89b96
+蛗	a grasshopper, locust (U+86D7)	e89b97
+蛘	a weevil found in rice, etc. (U+86D8)	e89b98
+蛙	frog (U+86D9)	e89b99
+蛚	U+86DA (U+86DA)	e89b9a
+蛛	spider (U+86DB)	e89b9b
+蛜	U+86DC (U+86DC)	e89b9c
+蛝	U+86DD (U+86DD)	e89b9d
+蛞	snail; slug, mole cricket (U+86DE)	e89b9e
+蛟	scaly dragon with four legs (U+86DF)	e89b9f
+蛠	U+86E0 (U+86E0)	e89ba0
+蛡	U+86E1 (U+86E1)	e89ba1
+蛢	U+86E2 (U+86E2)	e89ba2
+蛣	(dung) beetle (U+86E3)	e89ba3
+蛤	clam (U+86E4)	e89ba4
+蛥	U+86E5 (U+86E5)	e89ba5
+蛦	U+86E6 (U+86E6)	e89ba6
+蛧	U+86E7 (U+86E7)	e89ba7
+蛨	U+86E8 (U+86E8)	e89ba8
+蛩	cricket, locust; anxious (U+86E9)	e89ba9
+蛪	U+86EA (U+86EA)	e89baa
+蛫	U+86EB (U+86EB)	e89bab
+蛬	U+86EC (U+86EC)	e89bac
+蛭	leech (U+86ED)	e89bad
+蛮	barbarians; barbarous, savage (U+86EE)	e89bae
+蛯	shrimp (U+86EF)	e89baf
+蛰	to hibernate (U+86F0)	e89bb0
+蛱	kind of butterfly (U+86F1)	e89bb1
+蛲	worms (U+86F2)	e89bb2
+蛳	kind of snail with spiral shell (U+86F3)	e89bb3
+蛴	maggots, grubs (U+86F4)	e89bb4
+蛵	U+86F5 (U+86F5)	e89bb5
+蛶	U+86F6 (U+86F6)	e89bb6
+蛷	U+86F7 (U+86F7)	e89bb7
+蛸	long legged spider; octopus; chrysalis of mantis (U+86F8)	e89bb8
+蛹	chrysalis, larva (U+86F9)	e89bb9
+蛺	kind of butterfly (U+86FA)	e89bba
+蛻	molt, exuviate, shed (U+86FB)	e89bbb
+蛼	U+86FC (U+86FC)	e89bbc
+蛽	U+86FD (U+86FD)	e89bbd
+蛾	moth (U+86FE)	e89bbe
+蛿	U+86FF (U+86FF)	e89bbf
+蜀	name of an ancient state (U+8700)	e89c80
+蜁	U+8701 (U+8701)	e89c81
+蜂	bee, wasp, hornet (U+8702)	e89c82
+蜃	marine monster which can change its shape; water spouts; clams (U+8703)	e89c83
+蜄	U+8704 (U+8704)	e89c84
+蜅	U+8705 (U+8705)	e89c85
+蜆	a variety of bivalves (U+8706)	e89c86
+蜇	jellyfish (U+8707)	e89c87
+蜈	centipede (U+8708)	e89c88
+蜉	mayfly; kind of large insect (U+8709)	e89c89
+蜊	clam (U+870A)	e89c8a
+蜋	mantis, dung beetle; insect (U+870B)	e89c8b
+蜌	U+870C (U+870C)	e89c8c
+蜍	toad (U+870D)	e89c8d
+蜎	mosquito larva (U+870E)	e89c8e
+蜏	U+870F (U+870F)	e89c8f
+蜐	U+8710 (U+8710)	e89c90
+蜑	egg (U+8711)	e89c91
+蜒	millipede (U+8712)	e89c92
+蜓	dragonfly (U+8713)	e89c93
+蜔	inlaid shell-work (U+8714)	e89c94
+蜕	molt (U+8715)	e89c95
+蜖	tapeworm (U+8716)	e89c96
+蜗	a snail, Eulota callizoma (U+8717)	e89c97
+蜘	spider (U+8718)	e89c98
+蜙	U+8719 (U+8719)	e89c99
+蜚	cockroach (U+871A)	e89c9a
+蜛	U+871B (U+871B)	e89c9b
+蜜	honey; sweet; nectar (U+871C)	e89c9c
+蜝	a kind of crab; worm, leech (U+871D)	e89c9d
+蜞	a kind of crab; worm, leech (U+871E)	e89c9e
+蜟	U+871F (U+871F)	e89c9f
+蜠	U+8720 (U+8720)	e89ca0
+蜡	wax; candle; waxy, glazed; maggot; as a non-simplified form sometimes used as an equivalent to U+410D 䄍, meaning imperial harvest (U+8721)	e89ca1
+蜢	grasshopper (U+8722)	e89ca2
+蜣	dung beetle (U+8723)	e89ca3
+蜤	U+8724 (U+8724)	e89ca4
+蜥	lizard (U+8725)	e89ca5
+蜦	U+8726 (U+8726)	e89ca6
+蜧	U+8727 (U+8727)	e89ca7
+蜨	butterfly (U+8728)	e89ca8
+蜩	cicada, broad locust (U+8729)	e89ca9
+蜪	U+872A (U+872A)	e89caa
+蜫	insects (U+872B)	e89cab
+蜬	U+872C (U+872C)	e89cac
+蜭	U+872D (U+872D)	e89cad
+蜮	a fabulous creature like a turtle; a toad (U+872E)	e89cae
+蜯	U+872F (U+872F)	e89caf
+蜰	U+8730 (U+8730)	e89cb0
+蜱	a tick, mite (U+8731)	e89cb1
+蜲	U+8732 (U+8732)	e89cb2
+蜳	U+8733 (U+8733)	e89cb3
+蜴	lizard (U+8734)	e89cb4
+蜵	U+8735 (U+8735)	e89cb5
+蜶	a house cricket (U+8736)	e89cb6
+蜷	creep like worm, curl one's body (U+8737)	e89cb7
+蜸	U+8738 (U+8738)	e89cb8
+蜹	gnat, mosquito (U+8739)	e89cb9
+蜺	reflection of rainbow (U+873A)	e89cba
+蜻	dragonfly (U+873B)	e89cbb
+蜼	U+873C (U+873C)	e89cbc
+蜽	U+873D (U+873D)	e89cbd
+蜾	the solitary wasp (U+873E)	e89cbe
+蜿	creep, crawl (U+873F)	e89cbf
+蝀	rainbow (U+8740)	e89d80
+蝁	U+8741 (U+8741)	e89d81
+蝂	U+8742 (U+8742)	e89d82
+蝃	rainbow (U+8743)	e89d83
+蝄	U+8744 (U+8744)	e89d84
+蝅	U+8745 (U+8745)	e89d85
+蝆	U+8746 (U+8746)	e89d86
+蝇	flies (U+8747)	e89d87
+蝈	small green frog; cicada (U+8748)	e89d88
+蝉	cicada; continuous (U+8749)	e89d89
+蝊	U+874A (U+874A)	e89d8a
+蝋	wax; candle; waxy, glazed (U+874B)	e89d8b
+蝌	tadpole (U+874C)	e89d8c
+蝍	a centipede (U+874D)	e89d8d
+蝎	scorpion (U+874E)	e89d8e
+蝏	U+874F (U+874F)	e89d8f
+蝐	U+8750 (U+8750)	e89d90
+蝑	U+8751 (U+8751)	e89d91
+蝒	U+8752 (U+8752)	e89d92
+蝓	snail (U+8753)	e89d93
+蝔	U+8754 (U+8754)	e89d94
+蝕	nibble away; erode; eclipse (U+8755)	e89d95
+蝖	U+8756 (U+8756)	e89d96
+蝗	kind of locust (U+8757)	e89d97
+蝘	gecko, kind of cicada (U+8758)	e89d98
+蝙	bat (U+8759)	e89d99
+蝚	U+875A (U+875A)	e89d9a
+蝛	the sow-bug, wood-louse (U+875B)	e89d9b
+蝜	U+875C (U+875C)	e89d9c
+蝝	the larva of locust (U+875D)	e89d9d
+蝞	(Cant.) 塘蝞, dragonfly (U+875E)	e89d9e
+蝟	hedgehog (U+875F)	e89d9f
+蝠	kind of bat (U+8760)	e89da0
+蝡	eumenes polifomis, kind of wasp (U+8761)	e89da1
+蝢	U+8762 (U+8762)	e89da2
+蝣	mayfly (Ephemera strigata) (U+8763)	e89da3
+蝤	U+8764 (U+8764)	e89da4
+蝥	a fly which is used similarly to cantharides (U+8765)	e89da5
+蝦	shrimp, prawn (U+8766)	e89da6
+蝧	U+8767 (U+8767)	e89da7
+蝨	louse; bed bug (U+8768)	e89da8
+蝩	U+8769 (U+8769)	e89da9
+蝪	U+876A (U+876A)	e89daa
+蝫	U+876B (U+876B)	e89dab
+蝬	U+876C (U+876C)	e89dac
+蝭	U+876D (U+876D)	e89dad
+蝮	venomous snake, viper (U+876E)	e89dae
+蝯	ape (U+876F)	e89daf
+蝰	vipera russelii siamensis (U+8770)	e89db0
+蝱	horsefly, gadfly (U+8771)	e89db1
+蝲	U+8772 (U+8772)	e89db2
+蝳	U+8773 (U+8773)	e89db3
+蝴	butterfly (U+8774)	e89db4
+蝵	U+8775 (U+8775)	e89db5
+蝶	butterfly (U+8776)	e89db6
+蝷	U+8777 (U+8777)	e89db7
+蝸	a snail, Eulota callizoma (U+8778)	e89db8
+蝹	U+8779 (U+8779)	e89db9
+蝺	U+877A (U+877A)	e89dba
+蝻	immature locusts (U+877B)	e89dbb
+蝼	a mole cricket, Gryllotalpa africana (U+877C)	e89dbc
+蝽	bedbug (U+877D)	e89dbd
+蝾	lizard (U+877E)	e89dbe
+蝿	flies (U+877F)	e89dbf
+螀	kind of cicada (U+8780)	e89e80
+螁	U+8781 (U+8781)	e89e81
+螂	mantis, dung beetle (U+8782)	e89e82
+螃	crab (U+8783)	e89e83
+螄	kind of snail with spiral shell (U+8784)	e89e84
+螅	intestinal worm (U+8785)	e89e85
+螆	hairy and poisonous caterpillars; (Cant.) a louse (U+8786)	e89e86
+螇	U+8787 (U+8787)	e89e87
+螈	a silkworm (U+8788)	e89e88
+螉	wasp (U+8789)	e89e89
+螊	U+878A (U+878A)	e89e8a
+螋	spider millipede (U+878B)	e89e8b
+螌	a striped, poisonous fly (U+878C)	e89e8c
+融	melt, fuse; blend, harmonize (U+878D)	e89e8d
+螎	U+878E (U+878E)	e89e8e
+螏	U+878F (U+878F)	e89e8f
+螐	U+8790 (U+8790)	e89e90
+螑	U+8791 (U+8791)	e89e91
+螒	U+8792 (U+8792)	e89e92
+螓	a small cicada with a square head (U+8793)	e89e93
+螔	U+8794 (U+8794)	e89e94
+螕	a tick, mite (U+8795)	e89e95
+螖	U+8796 (U+8796)	e89e96
+螗	a kind of cicada (U+8797)	e89e97
+螘	ant (U+8798)	e89e98
+螙	grubs in wood, worms in books, clothes, etc. used figuratively of corrupt officials (U+8799)	e89e99
+螚	U+879A (U+879A)	e89e9a
+螛	U+879B (U+879B)	e89e9b
+螜	U+879C (U+879C)	e89e9c
+螝	U+879D (U+879D)	e89e9d
+螞	ant; leech (U+879E)	e89e9e
+螟	kind of caterpillar, larva (U+879F)	e89e9f
+螠	U+87A0 (U+87A0)	e89ea0
+螡	U+87A1 (U+87A1)	e89ea1
+螢	glow-worm, luminous insect (U+87A2)	e89ea2
+螣	mythological wingless dragon of (U+87A3)	e89ea3
+螤	U+87A4 (U+87A4)	e89ea4
+螥	the house-fly (U+87A5)	e89ea5
+螦	U+87A6 (U+87A6)	e89ea6
+螧	U+87A7 (U+87A7)	e89ea7
+螨	insect (U+87A8)	e89ea8
+螩	U+87A9 (U+87A9)	e89ea9
+螪	U+87AA (U+87AA)	e89eaa
+螫	poison; sting; poisonous insect (U+87AB)	e89eab
+螬	grubs in fruit (U+87AC)	e89eac
+螭	a dragon whose horns have not grown; cruel (U+87AD)	e89ead
+螮	rainbow (U+87AE)	e89eae
+螯	nippers (U+87AF)	e89eaf
+螰	U+87B0 (U+87B0)	e89eb0
+螱	U+87B1 (U+87B1)	e89eb1
+螲	U+87B2 (U+87B2)	e89eb2
+螳	mantis (U+87B3)	e89eb3
+螴	U+87B4 (U+87B4)	e89eb4
+螵	a chrysalis (U+87B5)	e89eb5
+螶	U+87B6 (U+87B6)	e89eb6
+螷	U+87B7 (U+87B7)	e89eb7
+螸	U+87B8 (U+87B8)	e89eb8
+螹	U+87B9 (U+87B9)	e89eb9
+螺	spiral shell; conch; spiral (U+87BA)	e89eba
+螻	a mole cricket, Gryllotalpa orientalis (U+87BB)	e89ebb
+螼	U+87BC (U+87BC)	e89ebc
+螽	katydid (U+87BD)	e89ebd
+螾	the earthworm (U+87BE)	e89ebe
+螿	kind of cicada (U+87BF)	e89ebf
+蟀	cricket (U+87C0)	e89f80
+蟁	a mosquito, a gnat (U+87C1)	e89f81
+蟂	U+87C2 (U+87C2)	e89f82
+蟃	U+87C3 (U+87C3)	e89f83
+蟄	to hibernate (U+87C4)	e89f84
+蟅	U+87C5 (U+87C5)	e89f85
+蟆	frog, toad (U+87C6)	e89f86
+蟇	frog, toad (U+87C7)	e89f87
+蟈	small green frog; cicada (U+87C8)	e89f88
+蟉	U+87C9 (U+87C9)	e89f89
+蟊	a fly which is used similarly to cantharides (U+87CA)	e89f8a
+蟋	cricket (U+87CB)	e89f8b
+蟌	U+87CC (U+87CC)	e89f8c
+蟍	U+87CD (U+87CD)	e89f8d
+蟎	insect (U+87CE)	e89f8e
+蟏	a kind of spider with long legs (U+87CF)	e89f8f
+蟐	U+87D0 (U+87D0)	e89f90
+蟑	cockroach (U+87D1)	e89f91
+蟒	python, boa constrictor (U+87D2)	e89f92
+蟓	U+87D3 (U+87D3)	e89f93
+蟔	U+87D4 (U+87D4)	e89f94
+蟕	a species of tortoise found near the mouth of the Yellow River (U+87D5)	e89f95
+蟖	the larva of a month; a grasshopper (U+87D6)	e89f96
+蟗	U+87D7 (U+87D7)	e89f97
+蟘	U+87D8 (U+87D8)	e89f98
+蟙	U+87D9 (U+87D9)	e89f99
+蟚	a small land crab (U+87DA)	e89f9a
+蟛	a land-crab (U+87DB)	e89f9b
+蟜	insect (U+87DC)	e89f9c
+蟝	(Cant.) 蠄蟝, a dragonfly (U+87DD)	e89f9d
+蟞	U+87DE (U+87DE)	e89f9e
+蟟	U+87DF (U+87DF)	e89f9f
+蟠	coil; coiling, curling; occupy (U+87E0)	e89fa0
+蟡	U+87E1 (U+87E1)	e89fa1
+蟢	caulk; a spider (U+87E2)	e89fa2
+蟣	louse eggs, nits (U+87E3)	e89fa3
+蟤	U+87E4 (U+87E4)	e89fa4
+蟥	leech (U+87E5)	e89fa5
+蟦	U+87E6 (U+87E6)	e89fa6
+蟧	(Cant.) 蠄蟧, a spider (U+87E7)	e89fa7
+蟨	the Siberian jerboa (U+87E8)	e89fa8
+蟩	U+87E9 (U+87E9)	e89fa9
+蟪	a kind of cicada (U+87EA)	e89faa
+蟫	silverfish (U+87EB)	e89fab
+蟬	cicada; continuous (U+87EC)	e89fac
+蟭	very small bug (U+87ED)	e89fad
+蟮	type of earthworm (U+87EE)	e89fae
+蟯	worms (U+87EF)	e89faf
+蟰	small spider with long legs (U+87F0)	e89fb0
+蟱	U+87F1 (U+87F1)	e89fb1
+蟲	worms; insects (U+87F2)	e89fb2
+蟳	a kind of crab (U+87F3)	e89fb3
+蟴	U+87F4 (U+87F4)	e89fb4
+蟵	U+87F5 (U+87F5)	e89fb5
+蟶	razor clam (U+87F6)	e89fb6
+蟷	mantis (U+87F7)	e89fb7
+蟸	U+87F8 (U+87F8)	e89fb8
+蟹	crab, brachyura (U+87F9)	e89fb9
+蟺	earthworm (U+87FA)	e89fba
+蟻	ants (U+87FB)	e89fbb
+蟼	U+87FC (U+87FC)	e89fbc
+蟽	U+87FD (U+87FD)	e89fbd
+蟾	toad (U+87FE)	e89fbe
+蟿	acrida chinensis (U+87FF)	e89fbf
+蠀	U+8800 (U+8800)	e8a080
+蠁	larvae, grubs (U+8801)	e8a081
+蠂	U+8802 (U+8802)	e8a082
+蠃	the solitary wasp (U+8803)	e8a083
+蠄	(Cant.) 蠄蟧, a spider; 蠄蟝, a toad (U+8804)	e8a084
+蠅	flies (U+8805)	e8a085
+蠆	a kind of scorpion; a sting in the tail (U+8806)	e8a086
+蠇	U+8807 (U+8807)	e8a087
+蠈	U+8808 (U+8808)	e8a088
+蠉	mosquito larvae, wrigglers (U+8809)	e8a089
+蠊	U+880A (U+880A)	e8a08a
+蠋	caterpillar (U+880B)	e8a08b
+蠌	U+880C (U+880C)	e8a08c
+蠍	scorpion (U+880D)	e8a08d
+蠎	python, boa constrictor (U+880E)	e8a08e
+蠏	crab, brachyura (U+880F)	e8a08f
+蠐	maggots, grubs (U+8810)	e8a090
+蠑	lizard (U+8811)	e8a091
+蠒	U+8812 (U+8812)	e8a092
+蠓	midges; sandflies (U+8813)	e8a093
+蠔	oyster (U+8814)	e8a094
+蠕	eumenes polifomis, kind of wasp (U+8815)	e8a095
+蠖	inch-worm; looper caterpiller (U+8816)	e8a096
+蠗	U+8817 (U+8817)	e8a097
+蠘	U+8818 (U+8818)	e8a098
+蠙	oyster (U+8819)	e8a099
+蠚	U+881A (U+881A)	e8a09a
+蠛	flies, small insects produced in damp places (U+881B)	e8a09b
+蠜	grasshopper (U+881C)	e8a09c
+蠝	U+881D (U+881D)	e8a09d
+蠞	U+881E (U+881E)	e8a09e
+蠟	wax; candle; waxy, glazed (U+881F)	e8a09f
+蠠	U+8820 (U+8820)	e8a0a0
+蠡	wood-boring insect; bore into wood (U+8821)	e8a0a1
+蠢	wriggle; stupid; silly; fat (U+8822)	e8a0a2
+蠣	oyster (U+8823)	e8a0a3
+蠤	U+8824 (U+8824)	e8a0a4
+蠥	U+8825 (U+8825)	e8a0a5
+蠦	U+8826 (U+8826)	e8a0a6
+蠧	moth; insects which eat into cloth (U+8827)	e8a0a7
+蠨	a kind of spider with long legs (U+8828)	e8a0a8
+蠩	a toad (U+8829)	e8a0a9
+蠪	U+882A (U+882A)	e8a0aa
+蠫	U+882B (U+882B)	e8a0ab
+蠬	U+882C (U+882C)	e8a0ac
+蠭	bees, hornets, wasps (U+882D)	e8a0ad
+蠮	bee (U+882E)	e8a0ae
+蠯	U+882F (U+882F)	e8a0af
+蠰	U+8830 (U+8830)	e8a0b0
+蠱	poison; venom; harm; bewitch (U+8831)	e8a0b1
+蠲	the millipede sometimes confounded with the grow-worm; bright, clear (U+8832)	e8a0b2
+蠳	U+8833 (U+8833)	e8a0b3
+蠴	U+8834 (U+8834)	e8a0b4
+蠵	large turtles (U+8835)	e8a0b5
+蠶	silkworms (U+8836)	e8a0b6
+蠷	U+8837 (U+8837)	e8a0b7
+蠸	U+8838 (U+8838)	e8a0b8
+蠹	moth; insects which eat into clot (U+8839)	e8a0b9
+蠺	same as 蚕 U+8695 silkworms (U+883A)	e8a0ba
+蠻	barbarians; barbarous, savage (U+883B)	e8a0bb
+蠼	U+883C (U+883C)	e8a0bc
+蠽	U+883D (U+883D)	e8a0bd
+蠾	U+883E (U+883E)	e8a0be
+蠿	U+883F (U+883F)	e8a0bf
+血	blood; radical number 143 (U+8840)	e8a180
+衁	blood (U+8841)	e8a181
+衂	to be defeated (U+8842)	e8a182
+衃	U+8843 (U+8843)	e8a183
+衄	epistaxis, nosebleed; to be defeated (U+8844)	e8a184
+衅	consecrate sacrificial vessels by smearing blood; rift (U+8845)	e8a185
+衆	multitude, crowd; masses, public (U+8846)	e8a186
+衇	blood vessels, veins, arteries (U+8847)	e8a187
+衈	the blood of a sacrificial fowl which was sprinkled on the doors and vessels (U+8848)	e8a188
+衉	to vomit (U+8849)	e8a189
+衊	smear, slander; defile (U+884A)	e8a18a
+衋	U+884B (U+884B)	e8a18b
+行	go; walk; move, travel; circulate (U+884C)	e8a18c
+衍	overflow, spill over, spread out (U+884D)	e8a18d
+衎	to give pleasure; pleased, happy (U+884E)	e8a18e
+衏	U+884F (U+884F)	e8a18f
+衐	U+8850 (U+8850)	e8a190
+衑	U+8851 (U+8851)	e8a191
+衒	brag; show off, promote oneself (U+8852)	e8a192
+術	art, skill, special feat; method, technique (U+8853)	e8a193
+衔	bit; hold in mouth, bite; gag (U+8854)	e8a194
+衕	alley, lane (U+8855)	e8a195
+衖	lane; alley (U+8856)	e8a196
+街	street, road, thoroughfare (U+8857)	e8a197
+衘	U+8858 (U+8858)	e8a198
+衙	public office; official residence (U+8859)	e8a199
+衚	lane, alley, side street (U+885A)	e8a19a
+衛	guard, protect, defend (U+885B)	e8a19b
+衜	way, path (U+885C)	e8a19c
+衝	rush against, charge ahead (U+885D)	e8a19d
+衞	guard, protect, defend (U+885E)	e8a19e
+衟	U+885F (U+885F)	e8a19f
+衠	U+8860 (U+8860)	e8a1a0
+衡	measure, weigh, judge, consider (U+8861)	e8a1a1
+衢	highway; thoroughfare, intersection (U+8862)	e8a1a2
+衣	clothes, clothing; cover, skin (U+8863)	e8a1a3
+衤	clothes; radical number 145 (U+8864)	e8a1a4
+补	mend, patch, fix, repair, restore (U+8865)	e8a1a5
+衦	smooth out the clothes (U+8866)	e8a1a6
+衧	U+8867 (U+8867)	e8a1a7
+表	show, express, manifest, display (U+8868)	e8a1a8
+衩	the open seam of a garment which allows freedom of movement (U+8869)	e8a1a9
+衪	U+886A (U+886A)	e8a1aa
+衫	shirt; robe; gown; jacket (U+886B)	e8a1ab
+衬	underwear; inner garments (U+886C)	e8a1ac
+衭	the lapel of a garment (U+886D)	e8a1ad
+衮	ceremonial dress worn by the emperor (U+886E)	e8a1ae
+衯	U+886F (U+886F)	e8a1af
+衰	decline, falter, decrease; weaken (U+8870)	e8a1b0
+衱	U+8871 (U+8871)	e8a1b1
+衲	mend, sew, patch; line; quilt (U+8872)	e8a1b2
+衳	U+8873 (U+8873)	e8a1b3
+衴	U+8874 (U+8874)	e8a1b4
+衵	chemise (U+8875)	e8a1b5
+衶	U+8876 (U+8876)	e8a1b6
+衷	heart, from bottom of one's heart (U+8877)	e8a1b7
+衸	U+8878 (U+8878)	e8a1b8
+衹	only, merely, but (U+8879)	e8a1b9
+衺	slit in garment to aid movement (U+887A)	e8a1ba
+衻	U+887B (U+887B)	e8a1bb
+衼	U+887C (U+887C)	e8a1bc
+衽	lapel; hidden lapel of coat (U+887D)	e8a1bd
+衾	coverlet, quilt (U+887E)	e8a1be
+衿	collar or lapel of garment (U+887F)	e8a1bf
+袀	U+8880 (U+8880)	e8a280
+袁	robe; surname (U+8881)	e8a281
+袂	sleeves (U+8882)	e8a282
+袃	U+8883 (U+8883)	e8a283
+袄	outer garments; coat, jacket (U+8884)	e8a284
+袅	curling upwards; wavering gently (U+8885)	e8a285
+袆	ceremonial gowns of a queen (U+8886)	e8a286
+袇	U+8887 (U+8887)	e8a287
+袈	Buddhist cassock (U+8888)	e8a288
+袉	U+8889 (U+8889)	e8a289
+袊	U+888A (U+888A)	e8a28a
+袋	pocket, bag, sack, pouch (U+888B)	e8a28b
+袌	U+888C (U+888C)	e8a28c
+袍	long gown, robe, cloak (U+888D)	e8a28d
+袎	U+888E (U+888E)	e8a28e
+袏	U+888F (U+888F)	e8a28f
+袐	U+8890 (U+8890)	e8a290
+袑	U+8891 (U+8891)	e8a291
+袒	strip; lay bare; bared; naked (U+8892)	e8a292
+袓	U+8893 (U+8893)	e8a293
+袔	U+8894 (U+8894)	e8a294
+袕	U+8895 (U+8895)	e8a295
+袖	sleeve; put something in sleeve (U+8896)	e8a296
+袗	unlined garments; hem of garment (U+8897)	e8a297
+袘	U+8898 (U+8898)	e8a298
+袙	U+8899 (U+8899)	e8a299
+袚	greave; knee-pads; buskins (U+889A)	e8a29a
+袛	U+889B (U+889B)	e8a29b
+袜	socks, stockings (U+889C)	e8a29c
+袝	U+889D (U+889D)	e8a29d
+袞	ceremonial dress worn by the emperor (U+889E)	e8a29e
+袟	book cover; satchel or bag (U+889F)	e8a29f
+袠	book cover; satchel or bag (U+88A0)	e8a2a0
+袡	U+88A1 (U+88A1)	e8a2a1
+袢	robe (U+88A2)	e8a2a2
+袣	U+88A3 (U+88A3)	e8a2a3
+袤	longitude, lengthwise; length (U+88A4)	e8a2a4
+袥	U+88A5 (U+88A5)	e8a2a5
+袦	U+88A6 (U+88A6)	e8a2a6
+袧	U+88A7 (U+88A7)	e8a2a7
+袨	U+88A8 (U+88A8)	e8a2a8
+袩	U+88A9 (U+88A9)	e8a2a9
+袪	sleeves; cuff (U+88AA)	e8a2aa
+被	passive indicator 'by'; bedding (U+88AB)	e8a2ab
+袬	U+88AC (U+88AC)	e8a2ac
+袭	raid, attack; inherit (U+88AD)	e8a2ad
+袮	U+88AE (U+88AE)	e8a2ae
+袯	raincoat (U+88AF)	e8a2af
+袰	U+88B0 (U+88B0)	e8a2b0
+袱	a piece of cloth used wrap bundles (U+88B1)	e8a2b1
+袲	U+88B2 (U+88B2)	e8a2b2
+袳	spread one's clothes (U+88B3)	e8a2b3
+袴	pants; trousers; panties (U+88B4)	e8a2b4
+袵	lapel; hidden lapel of coat (U+88B5)	e8a2b5
+袶	U+88B6 (U+88B6)	e8a2b6
+袷	lined garment (U+88B7)	e8a2b7
+袸	U+88B8 (U+88B8)	e8a2b8
+袹	U+88B9 (U+88B9)	e8a2b9
+袺	hold up (U+88BA)	e8a2ba
+袻	U+88BB (U+88BB)	e8a2bb
+袼	U+88BC (U+88BC)	e8a2bc
+袽	clothes (U+88BD)	e8a2bd
+袾	U+88BE (U+88BE)	e8a2be
+袿	gown (U+88BF)	e8a2bf
+裀	mat, coverlet; underwear (U+88C0)	e8a380
+裁	cut out; decrease (U+88C1)	e8a381
+裂	split, crack, break open; rend (U+88C2)	e8a382
+裃	old ceremonial garb; samurai garb (U+88C3)	e8a383
+裄	sleeve length (U+88C4)	e8a384
+装	dress, clothes, attire; fill (U+88C5)	e8a385
+裆	crotch or seat of pants; pants (U+88C6)	e8a386
+裇	(Cant.) a shirt (Engl. loanword) (U+88C7)	e8a387
+裈	trousers, pants, shorts, drawers (U+88C8)	e8a388
+裉	s seam in a garment (U+88C9)	e8a389
+裊	curling upwards; wavering gently (U+88CA)	e8a38a
+裋	cotton clothes of a boy servant (U+88CB)	e8a38b
+裌	lined garment (U+88CC)	e8a38c
+裍	a border or band on the edge of a dress (U+88CD)	e8a38d
+裎	to take off the clothes and expose the body. to carry in the girdle (U+88CE)	e8a38e
+裏	inside, interior, within (U+88CF)	e8a38f
+裐	U+88D0 (U+88D0)	e8a390
+裑	U+88D1 (U+88D1)	e8a391
+裒	collect, gather, assemble; praise (U+88D2)	e8a392
+裓	U+88D3 (U+88D3)	e8a393
+裔	progeny, descendants, posterity (U+88D4)	e8a394
+裕	abundant, rich, plentiful (U+88D5)	e8a395
+裖	U+88D6 (U+88D6)	e8a396
+裗	U+88D7 (U+88D7)	e8a397
+裘	fur garments; surname (U+88D8)	e8a398
+裙	skirt, apron, petticoat (U+88D9)	e8a399
+裚	U+88DA (U+88DA)	e8a39a
+裛	to wrap and bind; damp; a book bag (U+88DB)	e8a39b
+補	mend, patch, fix, repair, restore (U+88DC)	e8a39c
+裝	dress, clothes; decorate; fill (U+88DD)	e8a39d
+裞	U+88DE (U+88DE)	e8a39e
+裟	a cassock or robe of a monk (U+88DF)	e8a39f
+裠	a short skirt (U+88E0)	e8a3a0
+裡	inside, interior, within (U+88E1)	e8a3a1
+裢	folding purse inserted in belt (U+88E2)	e8a3a2
+裣	draw one's hands into sleeve (U+88E3)	e8a3a3
+裤	trousers, pants (U+88E4)	e8a3a4
+裥	folds (U+88E5)	e8a3a5
+裦	U+88E6 (U+88E6)	e8a3a6
+裧	U+88E7 (U+88E7)	e8a3a7
+裨	aid, benefit, help; supplement (U+88E8)	e8a3a8
+裩	U+88E9 (U+88E9)	e8a3a9
+裪	the sleeve (U+88EA)	e8a3aa
+裫	U+88EB (U+88EB)	e8a3ab
+裬	U+88EC (U+88EC)	e8a3ac
+裭	U+88ED (U+88ED)	e8a3ad
+裮	U+88EE (U+88EE)	e8a3ae
+裯	coverlet; bedspread (U+88EF)	e8a3af
+裰	to mend clothes (U+88F0)	e8a3b0
+裱	to mount maps or scrolls to paste (U+88F1)	e8a3b1
+裲	waistcoat (U+88F2)	e8a3b2
+裳	clothes; skirt; beautiful (U+88F3)	e8a3b3
+裴	surname; look of a flowing gown (U+88F4)	e8a3b4
+裵	surname; look of a flowing gown (U+88F5)	e8a3b5
+裶	U+88F6 (U+88F6)	e8a3b6
+裷	U+88F7 (U+88F7)	e8a3b7
+裸	bare, nude; undress, strip (U+88F8)	e8a3b8
+裹	wrap, bind; encircle, confine (U+88F9)	e8a3b9
+裺	U+88FA (U+88FA)	e8a3ba
+裻	U+88FB (U+88FB)	e8a3bb
+裼	to take off one's top; divest (U+88FC)	e8a3bc
+製	make, manufacture; produce (U+88FD)	e8a3bd
+裾	lapel, border of garment; skirt (U+88FE)	e8a3be
+裿	U+88FF (U+88FF)	e8a3bf
+褀	U+8900 (U+8900)	e8a480
+褁	U+8901 (U+8901)	e8a481
+褂	jacket, overcoat, coat; gown (U+8902)	e8a482
+褃	a seam in a garment (U+8903)	e8a483
+褄	a skirt (U+8904)	e8a484
+褅	U+8905 (U+8905)	e8a485
+褆	U+8906 (U+8906)	e8a486
+複	repeat, double, overlap (U+8907)	e8a487
+褈	U+8908 (U+8908)	e8a488
+褉	short garments (U+8909)	e8a489
+褊	cramped, narrow, crowded; mean (U+890A)	e8a48a
+褋	U+890B (U+890B)	e8a48b
+褌	trousers, pants, shorts, drawers (U+890C)	e8a48c
+褍	U+890D (U+890D)	e8a48d
+褎	sleeve; ample flowing robes (U+890E)	e8a48e
+褏	sleeve; ample flowing robes (U+890F)	e8a48f
+褐	coarse woolen cloth; dull, dark (U+8910)	e8a490
+褑	U+8911 (U+8911)	e8a491
+褒	praise, commend, honor, cite (U+8912)	e8a492
+褓	swaddling cloth; infancy (U+8913)	e8a493
+褔	complex; double (U+8914)	e8a494
+褕	shirt (U+8915)	e8a495
+褖	U+8916 (U+8916)	e8a496
+褗	U+8917 (U+8917)	e8a497
+褘	ceremonial gowns of a queen (U+8918)	e8a498
+褙	paper or cloth pasted together (U+8919)	e8a499
+褚	bag, valise; stuff, pad; surname (U+891A)	e8a49a
+褛	lapel, collar; tattered, threadbare (U+891B)	e8a49b
+褜	U+891C (U+891C)	e8a49c
+褝	unlined garment (U+891D)	e8a49d
+褞	a robe (U+891E)	e8a49e
+褟	inner shirt or singlet (U+891F)	e8a49f
+褠	U+8920 (U+8920)	e8a4a0
+褡	girdle; loincloth; pouch, bag (U+8921)	e8a4a1
+褢	to carry in the bosom or the sleeve; to wrap, to conceal (U+8922)	e8a4a2
+褣	U+8923 (U+8923)	e8a4a3
+褤	U+8924 (U+8924)	e8a4a4
+褥	mattress, cushion; bedding (U+8925)	e8a4a5
+褦	stupid, dull, ignorant, doltish; (Cant.) to tie up, bind (U+8926)	e8a4a6
+褧	unlined clothes; light overcoat (U+8927)	e8a4a7
+褨	U+8928 (U+8928)	e8a4a8
+褩	U+8929 (U+8929)	e8a4a9
+褪	strip, undress; fall off; fade (U+892A)	e8a4aa
+褫	strip, tear off, undress (U+892B)	e8a4ab
+褬	U+892C (U+892C)	e8a4ac
+褭	U+892D (U+892D)	e8a4ad
+褮	U+892E (U+892E)	e8a4ae
+褯	children's garments. a mat for wrapping garments (U+892F)	e8a4af
+褰	underclothing; to pick up one's skirts (U+8930)	e8a4b0
+褱	to carry in the bosom or the sleeve; to wrap, to conceal (U+8931)	e8a4b1
+褲	trousers, pants (U+8932)	e8a4b2
+褳	folding purse inserted in belt (U+8933)	e8a4b3
+褴	ragged, tattered, threadbare (U+8934)	e8a4b4
+褵	bridal veil (U+8935)	e8a4b5
+褶	pleat, crease, wrinkles (U+8936)	e8a4b6
+褷	U+8937 (U+8937)	e8a4b7
+褸	lapel, collar; tattered, threadbare (U+8938)	e8a4b8
+褹	U+8939 (U+8939)	e8a4b9
+褺	dirty, ragged; undress, to treat with irreverence (U+893A)	e8a4ba
+褻	dirty, ragged; slight, insult, treat with disrespect (U+893B)	e8a4bb
+褼	U+893C (U+893C)	e8a4bc
+褽	cushion (U+893D)	e8a4bd
+褾	U+893E (U+893E)	e8a4be
+褿	U+893F (U+893F)	e8a4bf
+襀	a pleat, fold, tuck, crease (U+8940)	e8a580
+襁	swaddling clothes (U+8941)	e8a581
+襂	U+8942 (U+8942)	e8a582
+襃	commend, honor, cite (U+8943)	e8a583
+襄	aid, help, assist; undress (U+8944)	e8a584
+襅	U+8945 (U+8945)	e8a585
+襆	hood or cowl (U+8946)	e8a586
+襇	folds (U+8947)	e8a587
+襈	U+8948 (U+8948)	e8a588
+襉	U+8949 (U+8949)	e8a589
+襊	U+894A (U+894A)	e8a58a
+襋	collar (U+894B)	e8a58b
+襌	unlined garment (U+894C)	e8a58c
+襍	mixed, blended; mix, mingle (U+894D)	e8a58d
+襎	U+894E (U+894E)	e8a58e
+襏	raincoat (U+894F)	e8a58f
+襐	U+8950 (U+8950)	e8a590
+襑	U+8951 (U+8951)	e8a591
+襒	U+8952 (U+8952)	e8a592
+襓	U+8953 (U+8953)	e8a593
+襔	U+8954 (U+8954)	e8a594
+襕	U+8955 (U+8955)	e8a595
+襖	outer garments; coat, jacket (U+8956)	e8a596
+襗	U+8957 (U+8957)	e8a597
+襘	U+8958 (U+8958)	e8a598
+襙	U+8959 (U+8959)	e8a599
+襚	grave clothes (U+895A)	e8a59a
+襛	fine clothes (U+895B)	e8a59b
+襜	flutter; shaking or vibrating (U+895C)	e8a59c
+襝	draw one's hands into sleeve (U+895D)	e8a59d
+襞	fold, pleat, crease (U+895E)	e8a59e
+襟	lapel, collar (U+895F)	e8a59f
+襠	crotch or seat of pants; pants (U+8960)	e8a5a0
+襡	short coat (U+8961)	e8a5a1
+襢	strip; lay bare; bared; naked (U+8962)	e8a5a2
+襣	U+8963 (U+8963)	e8a5a3
+襤	ragged, tattered, threadbare (U+8964)	e8a5a4
+襥	U+8965 (U+8965)	e8a5a5
+襦	short coat, jacket; fine silk fab (U+8966)	e8a5a6
+襧	U+8967 (U+8967)	e8a5a7
+襨	U+8968 (U+8968)	e8a5a8
+襩	U+8969 (U+8969)	e8a5a9
+襪	socks, stockings (U+896A)	e8a5aa
+襫	raincoat (U+896B)	e8a5ab
+襬	lower part of a robe (U+896C)	e8a5ac
+襭	tuck up hem of garment and wrap (U+896D)	e8a5ad
+襮	collar; to expose (U+896E)	e8a5ae
+襯	underwear; inner garments (U+896F)	e8a5af
+襰	U+8970 (U+8970)	e8a5b0
+襱	legs of trousers; overalls worn by workmen (U+8971)	e8a5b1
+襲	raid, attack; inherit (U+8972)	e8a5b2
+襳	U+8973 (U+8973)	e8a5b3
+襴	a one piece garment (U+8974)	e8a5b4
+襵	a pleat in a skirt (U+8975)	e8a5b5
+襶	ignorant; naive; unsophisticated (U+8976)	e8a5b6
+襷	a cord for holding up sleeves (U+8977)	e8a5b7
+襸	U+8978 (U+8978)	e8a5b8
+襹	U+8979 (U+8979)	e8a5b9
+襺	U+897A (U+897A)	e8a5ba
+襻	a loop; a belt or band (U+897B)	e8a5bb
+襼	'kimono' sleeve (U+897C)	e8a5bc
+襽	U+897D (U+897D)	e8a5bd
+襾	cover; KangXi radical 146 (U+897E)	e8a5be
+西	west(ern); westward, occident (U+897F)	e8a5bf
+覀	variant of radical 146 (U+8980)	e8a680
+要	necessary, essential; necessity (U+8981)	e8a681
+覂	to throw a rider (U+8982)	e8a682
+覃	reach to, spread to; extensive (U+8983)	e8a683
+覄	U+8984 (U+8984)	e8a684
+覅	U+8985 (U+8985)	e8a685
+覆	cover; tip over; return; reply (U+8986)	e8a686
+覇	rule by might rather than right (U+8987)	e8a687
+覈	investigate, consider, examine (U+8988)	e8a688
+覉	variant of 羇 U+7F87, inn; to lodge; to travel (U+8989)	e8a689
+覊	halter; restrain, hold, control (U+898A)	e8a68a
+見	see, observe, behold; perceive (U+898B)	e8a68b
+覌	see, observe, view; appearance (U+898C)	e8a68c
+覍	U+898D (U+898D)	e8a68d
+覎	place name (U+898E)	e8a68e
+規	rules, regulations, customs, law (U+898F)	e8a68f
+覐	to sleep; to realize, feel (U+8990)	e8a690
+覑	U+8991 (U+8991)	e8a691
+覒	U+8992 (U+8992)	e8a692
+覓	seek; search (U+8993)	e8a693
+覔	to search for; to look after (U+8994)	e8a694
+覕	U+8995 (U+8995)	e8a695
+視	look at, inspect, observe, see (U+8996)	e8a696
+覗	peek (U+8997)	e8a697
+覘	peek; spy on, watch; investigate (U+8998)	e8a698
+覙	explain in detail (U+8999)	e8a699
+覚	to wake up from sleep; conscious (U+899A)	e8a69a
+覛	U+899B (U+899B)	e8a69b
+覜	mission (U+899C)	e8a69c
+覝	U+899D (U+899D)	e8a69d
+覞	U+899E (U+899E)	e8a69e
+覟	U+899F (U+899F)	e8a69f
+覠	U+89A0 (U+89A0)	e8a6a0
+覡	wizard (U+89A1)	e8a6a1
+覢	U+89A2 (U+89A2)	e8a6a2
+覣	U+89A3 (U+89A3)	e8a6a3
+覤	U+89A4 (U+89A4)	e8a6a4
+覥	ashamed (U+89A5)	e8a6a5
+覦	desire strongly, covet, long for (U+89A6)	e8a6a6
+覧	look at, inspect; perceive (U+89A7)	e8a6a7
+覨	U+89A8 (U+89A8)	e8a6a8
+覩	see, gaze at, witness (U+89A9)	e8a6a9
+親	relatives, parents; intimate (U+89AA)	e8a6aa
+覫	U+89AB (U+89AB)	e8a6ab
+覬	covet, long for, desire (U+89AC)	e8a6ac
+覭	U+89AD (U+89AD)	e8a6ad
+覮	U+89AE (U+89AE)	e8a6ae
+覯	meet or see unexpectedly (U+89AF)	e8a6af
+覰	to spy; to watch for (U+89B0)	e8a6b0
+覱	U+89B1 (U+89B1)	e8a6b1
+覲	have imperial audience (U+89B2)	e8a6b2
+観	see, observe, view; appearance (U+89B3)	e8a6b3
+覴	U+89B4 (U+89B4)	e8a6b4
+覵	steal look; peep at; spy on (U+89B5)	e8a6b5
+覶	to look about; order, sequence; complicated thought which is not easy to express (U+89B6)	e8a6b6
+覷	peep at; watch, spy on (U+89B7)	e8a6b7
+覸	steal look; peep at; spy on (U+89B8)	e8a6b8
+覹	U+89B9 (U+89B9)	e8a6b9
+覺	to wake up from sleep; conscious (U+89BA)	e8a6ba
+覻	U+89BB (U+89BB)	e8a6bb
+覼	to explain in detail (U+89BC)	e8a6bc
+覽	look at, inspect; perceive (U+89BD)	e8a6bd
+覾	U+89BE (U+89BE)	e8a6be
+覿	see; interview; be admitted to audience (U+89BF)	e8a6bf
+觀	see, observe, view; appearance (U+89C0)	e8a780
+见	see, observe, behold; perceive (U+89C1)	e8a781
+观	see, observe, view; appearance (U+89C2)	e8a782
+觃	place name (U+89C3)	e8a783
+规	rules, regulations, customs, law (U+89C4)	e8a784
+觅	seek; search (U+89C5)	e8a785
+视	look at, inspect, observe, see (U+89C6)	e8a786
+觇	peek; spy on, watch; investigate (U+89C7)	e8a787
+览	look at, inspect; perceive (U+89C8)	e8a788
+觉	to wake up from sleep; conscious (U+89C9)	e8a789
+觊	covet, long for, desire (U+89CA)	e8a78a
+觋	wizard (U+89CB)	e8a78b
+觌	see; interview; be admitted to audience (U+89CC)	e8a78c
+觍	ashamed (U+89CD)	e8a78d
+觎	desire strongly, covet, long for (U+89CE)	e8a78e
+觏	meet or see unexpectedly (U+89CF)	e8a78f
+觐	have imperial audience (U+89D0)	e8a790
+觑	peep at; watch, spy on (U+89D1)	e8a791
+角	horn; angle, corner; point (U+89D2)	e8a792
+觓	U+89D3 (U+89D3)	e8a793
+觔	catty (U+89D4)	e8a794
+觕	coarse, rough, rude (U+89D5)	e8a795
+觖	to long for; dissatisfied to criticize (U+89D6)	e8a796
+觗	U+89D7 (U+89D7)	e8a797
+觘	U+89D8 (U+89D8)	e8a798
+觙	U+89D9 (U+89D9)	e8a799
+觚	jug, winecup, goblet; square (U+89DA)	e8a79a
+觛	U+89DB (U+89DB)	e8a79b
+觜	beak (U+89DC)	e8a79c
+觝	gore, butt; resist; push (U+89DD)	e8a79d
+觞	wine vessel; propose toast; feast (U+89DE)	e8a79e
+觟	U+89DF (U+89DF)	e8a79f
+觠	U+89E0 (U+89E0)	e8a7a0
+觡	antlers (U+89E1)	e8a7a1
+觢	U+89E2 (U+89E2)	e8a7a2
+解	loosen, unfasten, untie; explain (U+89E3)	e8a7a3
+觤	U+89E4 (U+89E4)	e8a7a4
+觥	a cup made of horn obstinate (U+89E5)	e8a7a5
+触	butt, ram, gore; touch (U+89E6)	e8a7a6
+觧	loosen, unfasten, untie; explain (U+89E7)	e8a7a7
+觨	U+89E8 (U+89E8)	e8a7a8
+觩	strong (U+89E9)	e8a7a9
+觪	U+89EA (U+89EA)	e8a7aa
+觫	to start, tremble with fear (U+89EB)	e8a7ab
+觬	U+89EC (U+89EC)	e8a7ac
+觭	one turning up and one turning down (U+89ED)	e8a7ad
+觮	U+89EE (U+89EE)	e8a7ae
+觯	wine goblet made from horn (U+89EF)	e8a7af
+觰	U+89F0 (U+89F0)	e8a7b0
+觱	tartar horn; chilly wind (U+89F1)	e8a7b1
+觲	U+89F2 (U+89F2)	e8a7b2
+觳	an ancient measure; a goblet; mean; frightened (U+89F3)	e8a7b3
+觴	wine vessel; propose toast; feast (U+89F4)	e8a7b4
+觵	a cup made of rhinoceros horn (U+89F5)	e8a7b5
+觶	wine goblet made from horn (U+89F6)	e8a7b6
+觷	to process or carve horns (U+89F7)	e8a7b7
+觸	touch; butt, ram, gore (U+89F8)	e8a7b8
+觹	U+89F9 (U+89F9)	e8a7b9
+觺	U+89FA (U+89FA)	e8a7ba
+觻	U+89FB (U+89FB)	e8a7bb
+觼	buckle (U+89FC)	e8a7bc
+觽	U+89FD (U+89FD)	e8a7bd
+觾	U+89FE (U+89FE)	e8a7be
+觿	a bodkin made of ivory, horn (U+89FF)	e8a7bf
+言	words, speech; speak, say (U+8A00)	e8a880
+訁	KangXi radical 149 (U+8A01)	e8a881
+訂	draw up agreement; arrange (U+8A02)	e8a882
+訃	obituary; give notice of death (U+8A03)	e8a883
+訄	U+8A04 (U+8A04)	e8a884
+訅	U+8A05 (U+8A05)	e8a885
+訆	U+8A06 (U+8A06)	e8a886
+訇	the sound of a crash (U+8A07)	e8a887
+計	plan, plot; strategem; scheme (U+8A08)	e8a888
+訉	U+8A09 (U+8A09)	e8a889
+訊	inquire; ask; examine; reproach (U+8A0A)	e8a88a
+訋	U+8A0B (U+8A0B)	e8a88b
+訌	confusion; internal strife (U+8A0C)	e8a88c
+訍	U+8A0D (U+8A0D)	e8a88d
+討	to discuss; ask for, beg; demand; dun; marry (U+8A0E)	e8a88e
+訏	boast, exaggerate; great, broad (U+8A0F)	e8a88f
+訐	expose other's secrets, pry (U+8A10)	e8a890
+訑	deceive, cheat; arrogant (U+8A11)	e8a891
+訒	hesitate to say, reluctant to speak (U+8A12)	e8a892
+訓	teach, instruct; exegesis (U+8A13)	e8a893
+訔	U+8A14 (U+8A14)	e8a894
+訕	abuse, slander; vilify; ridicule (U+8A15)	e8a895
+訖	finish; conclude, stop; exhaust (U+8A16)	e8a896
+託	entrust, rely on; commission (U+8A17)	e8a897
+記	record; keep in mind, remember (U+8A18)	e8a898
+訙	U+8A19 (U+8A19)	e8a899
+訚	speak gently; respectful (U+8A1A)	e8a89a
+訛	swindle, cheat; erroneous, wrong (U+8A1B)	e8a89b
+訜	U+8A1C (U+8A1C)	e8a89c
+訝	express surprise, be surprised (U+8A1D)	e8a89d
+訞	U+8A1E (U+8A1E)	e8a89e
+訟	accuse; argue, dispute; litigate (U+8A1F)	e8a89f
+訠	much more, still more; the gums (U+8A20)	e8a8a0
+訡	TO CHANT TO MOAN TO SIGH (U+8A21)	e8a8a1
+訢	pleased, delighted; happy (U+8A22)	e8a8a2
+訣	take leave of, bid farewell (U+8A23)	e8a8a3
+訤	U+8A24 (U+8A24)	e8a8a4
+訥	slow of speech; mumble; stammer (U+8A25)	e8a8a5
+訦	sincere; faithful (U+8A26)	e8a8a6
+訧	fault (U+8A27)	e8a8a7
+訨	U+8A28 (U+8A28)	e8a8a8
+訩	noisily; uproarious; troublesome (U+8A29)	e8a8a9
+訪	visit; ask, inquire (U+8A2A)	e8a8aa
+訫	U+8A2B (U+8A2B)	e8a8ab
+訬	clamour, uproar, annoyance, etc. (U+8A2C)	e8a8ac
+設	build; establish; display; particle of hypothesis, supposing (U+8A2D)	e8a8ad
+訮	U+8A2E (U+8A2E)	e8a8ae
+訯	U+8A2F (U+8A2F)	e8a8af
+訰	U+8A30 (U+8A30)	e8a8b0
+許	allow, permit; promise; betroth (U+8A31)	e8a8b1
+訲	U+8A32 (U+8A32)	e8a8b2
+訳	translate; decode; encode (U+8A33)	e8a8b3
+訴	accuse; sue; inform; narrate (U+8A34)	e8a8b4
+訵	U+8A35 (U+8A35)	e8a8b5
+訶	scold loudly, curse, abuse (U+8A36)	e8a8b6
+訷	U+8A37 (U+8A37)	e8a8b7
+訸	U+8A38 (U+8A38)	e8a8b8
+訹	to beguile with false stories (U+8A39)	e8a8b9
+診	examine patient, diagnose (U+8A3A)	e8a8ba
+註	explain; annotate; make entry (U+8A3B)	e8a8bb
+証	prove, confirm, verify; proof (U+8A3C)	e8a8bc
+訽	blame (U+8A3D)	e8a8bd
+訾	bad-mouth; criticize; defects (U+8A3E)	e8a8be
+訿	U+8A3F (U+8A3F)	e8a8bf
+詀	garrulous to whisper. to joke (U+8A40)	e8a980
+詁	exegesis, explanation; explain (U+8A41)	e8a981
+詂	U+8A42 (U+8A42)	e8a982
+詃	U+8A43 (U+8A43)	e8a983
+詄	U+8A44 (U+8A44)	e8a984
+詅	to sell (U+8A45)	e8a985
+詆	slander, condemn, reproach (U+8A46)	e8a986
+詇	U+8A47 (U+8A47)	e8a987
+詈	scold, abuse verbally, curse (U+8A48)	e8a988
+詉	gibberish; to wrangle (U+8A49)	e8a989
+詊	U+8A4A (U+8A4A)	e8a98a
+詋	to curse; to swear an oath incantations (U+8A4B)	e8a98b
+詌	U+8A4C (U+8A4C)	e8a98c
+詍	U+8A4D (U+8A4D)	e8a98d
+詎	interjection used to express surprise (U+8A4E)	e8a98e
+詏	(Cant.) to argue, debate (U+8A4F)	e8a98f
+詐	cheat, defraud, swindle; trick; to feign (U+8A50)	e8a990
+詑	cheat (U+8A51)	e8a991
+詒	bequeath, pass on to future generations (U+8A52)	e8a992
+詓	U+8A53 (U+8A53)	e8a993
+詔	decree, proclaim; imperial decree (U+8A54)	e8a994
+評	appraise, criticize, evaluate (U+8A55)	e8a995
+詖	argue; biased; one-sided (U+8A56)	e8a996
+詗	to spy; to give information; shrewd (U+8A57)	e8a997
+詘	bend, stoop, crouch; to yield (U+8A58)	e8a998
+詙	U+8A59 (U+8A59)	e8a999
+詚	U+8A5A (U+8A5A)	e8a99a
+詛	curse; swear, pledge (U+8A5B)	e8a99b
+詜	U+8A5C (U+8A5C)	e8a99c
+詝	U+8A5D (U+8A5D)	e8a99d
+詞	words; phrase, expression (U+8A5E)	e8a99e
+詟	fear; envy; loquacious (U+8A5F)	e8a99f
+詠	sing, hum, chant (U+8A60)	e8a9a0
+詡	boast, brag; popular, well known; to flatter (U+8A61)	e8a9a1
+詢	inquire into, ask about; consult (U+8A62)	e8a9a2
+詣	reach; achievement, accomplishment (U+8A63)	e8a9a3
+詤	to make wild statements to lie; to misstate; lies falsehood (U+8A64)	e8a9a4
+詥	U+8A65 (U+8A65)	e8a9a5
+試	test, try, experiment (U+8A66)	e8a9a6
+詧	to examine into judicially to find out (U+8A67)	e8a9a7
+詨	kind of cicada, cosmopsaltria (U+8A68)	e8a9a8
+詩	poetry; poem, verse, ode (U+8A69)	e8a9a9
+詪	difficulty in speaking; wrangling (U+8A6A)	e8a9aa
+詫	to brag; exaggerated; to wonder at (U+8A6B)	e8a9ab
+詬	abuse, scold, berate, insult (U+8A6C)	e8a9ac
+詭	deceive, cheat, defraud; sly (U+8A6D)	e8a9ad
+詮	explain, expound, comment on (U+8A6E)	e8a9ae
+詯	U+8A6F (U+8A6F)	e8a9af
+詰	question, interrogate (U+8A70)	e8a9b0
+話	speech, talk, language; dialect (U+8A71)	e8a9b1
+該	should, ought to, need to (U+8A72)	e8a9b2
+詳	detailed, complete, thorough (U+8A73)	e8a9b3
+詴	U+8A74 (U+8A74)	e8a9b4
+詵	inquire, question; numerous (U+8A75)	e8a9b5
+詶	U+8A76 (U+8A76)	e8a9b6
+詷	U+8A77 (U+8A77)	e8a9b7
+詸	U+8A78 (U+8A78)	e8a9b8
+詹	surname; talk too much, verbose (U+8A79)	e8a9b9
+詺	U+8A7A (U+8A7A)	e8a9ba
+詻	orders (U+8A7B)	e8a9bb
+詼	tease, joke with; ridicule, mock (U+8A7C)	e8a9bc
+詽	U+8A7D (U+8A7D)	e8a9bd
+詾	noisily; uproarious; troublesome (U+8A7E)	e8a9be
+詿	error, mistake; deceive, mislead (U+8A7F)	e8a9bf
+誀	U+8A80 (U+8A80)	e8aa80
+誁	U+8A81 (U+8A81)	e8aa81
+誂	tempt (U+8A82)	e8aa82
+誃	part (U+8A83)	e8aa83
+誄	eulogize, praise the dead (U+8A84)	e8aa84
+誅	execute, kill, put to death; punish (U+8A85)	e8aa85
+誆	cheat, swindle, lie (U+8A86)	e8aa86
+誇	exaggerate; brag, boast; flaunt (U+8A87)	e8aa87
+誈	U+8A88 (U+8A88)	e8aa88
+誉	fame, reputation; praise (U+8A89)	e8aa89
+誊	copy, transcribe (U+8A8A)	e8aa8a
+誋	U+8A8B (U+8A8B)	e8aa8b
+誌	write down; record; magazine (U+8A8C)	e8aa8c
+認	recognize, know, understand (U+8A8D)	e8aa8d
+誎	U+8A8E (U+8A8E)	e8aa8e
+誏	U+8A8F (U+8A8F)	e8aa8f
+誐	to intone, hum (U+8A90)	e8aa90
+誑	deceive, lie, delude, cheat (U+8A91)	e8aa91
+誒	an exclamation of confirmation (U+8A92)	e8aa92
+誓	swear, pledge; oath (U+8A93)	e8aa93
+誔	U+8A94 (U+8A94)	e8aa94
+誕	to bear children, give birth; birth (U+8A95)	e8aa95
+誖	obstinate; disorderly; perverse (U+8A96)	e8aa96
+誗	U+8A97 (U+8A97)	e8aa97
+誘	persuade, entice, induce; guide (U+8A98)	e8aa98
+誙	U+8A99 (U+8A99)	e8aa99
+誚	criticize, scold, blame, ridicule (U+8A9A)	e8aa9a
+誛	U+8A9B (U+8A9B)	e8aa9b
+誜	U+8A9C (U+8A9C)	e8aa9c
+誝	U+8A9D (U+8A9D)	e8aa9d
+語	language, words; saying, expression (U+8A9E)	e8aa9e
+誟	U+8A9F (U+8A9F)	e8aa9f
+誠	sincere, honest; true, real (U+8AA0)	e8aaa0
+誡	warn, admonish; warning (U+8AA1)	e8aaa1
+誢	U+8AA2 (U+8AA2)	e8aaa2
+誣	make false accusation; defame (U+8AA3)	e8aaa3
+誤	err, make mistake; interfere (U+8AA4)	e8aaa4
+誥	inform, notify, admonish, order (U+8AA5)	e8aaa5
+誦	recite, chant, repeat (U+8AA6)	e8aaa6
+誧	huge; to admonish (U+8AA7)	e8aaa7
+誨	teach, instruct; encourage, urge (U+8AA8)	e8aaa8
+誩	to quarrel; to wrangle (U+8AA9)	e8aaa9
+說	speak, say, talk; scold, upbraid (U+8AAA)	e8aaaa
+誫	U+8AAB (U+8AAB)	e8aaab
+説	speak (U+8AAC)	e8aaac
+読	read, study; pronounce (U+8AAD)	e8aaad
+誮	U+8AAE (U+8AAE)	e8aaae
+誯	U+8AAF (U+8AAF)	e8aaaf
+誰	who? whom? whose? anyone? (U+8AB0)	e8aab0
+誱	U+8AB1 (U+8AB1)	e8aab1
+課	lesson; course; classwork (U+8AB2)	e8aab2
+誳	U+8AB3 (U+8AB3)	e8aab3
+誴	U+8AB4 (U+8AB4)	e8aab4
+誵	U+8AB5 (U+8AB5)	e8aab5
+誶	speak ill of, vilify; berate; interrogate (U+8AB6)	e8aab6
+誷	U+8AB7 (U+8AB7)	e8aab7
+誸	U+8AB8 (U+8AB8)	e8aab8
+誹	slander, vilify, condemn (U+8AB9)	e8aab9
+誺	U+8ABA (U+8ABA)	e8aaba
+誻	U+8ABB (U+8ABB)	e8aabb
+誼	friendship; appropriate, suitable (U+8ABC)	e8aabc
+誽	U+8ABD (U+8ABD)	e8aabd
+誾	speak gently; respectful (U+8ABE)	e8aabe
+調	transfer, move, change; tune (U+8ABF)	e8aabf
+諀	U+8AC0 (U+8AC0)	e8ab80
+諁	to suck, sip, sob, kiss; to chatter (U+8AC1)	e8ab81
+諂	flatter, truckle, toady (U+8AC2)	e8ab82
+諃	U+8AC3 (U+8AC3)	e8ab83
+諄	patient, earnest; earnestly (U+8AC4)	e8ab84
+諅	U+8AC5 (U+8AC5)	e8ab85
+諆	to cheat (U+8AC6)	e8ab86
+談	talk; conversation; surname (U+8AC7)	e8ab87
+諈	U+8AC8 (U+8AC8)	e8ab88
+諉	pass buck, lay blame on others (U+8AC9)	e8ab89
+諊	to make a judicial investigation (U+8ACA)	e8ab8a
+請	ask, request; invite; please (U+8ACB)	e8ab8b
+諌	remonstrate, admonish (U+8ACC)	e8ab8c
+諍	to expostulate; to remonstrate (U+8ACD)	e8ab8d
+諎	U+8ACE (U+8ACE)	e8ab8e
+諏	consult, confer; select, choose (U+8ACF)	e8ab8f
+諐	fault (U+8AD0)	e8ab90
+諑	slander; gossip; rumors (U+8AD1)	e8ab91
+諒	excuse, forgive; guess, presume (U+8AD2)	e8ab92
+諓	flattering (U+8AD3)	e8ab93
+諔	U+8AD4 (U+8AD4)	e8ab94

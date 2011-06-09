@@ -1,0 +1,1024 @@
+廕	shade; protect, shade, cover (U+5ED5)	e5bb95
+廖	surname; name of an ancient state (U+5ED6)	e5bb96
+廗	U+5ED7 (U+5ED7)	e5bb97
+廘	U+5ED8 (U+5ED8)	e5bb98
+廙	U+5ED9 (U+5ED9)	e5bb99
+廚	kitchen; closet; cupboard (U+5EDA)	e5bb9a
+廛	a store, shop; ground alloted to a retainer (U+5EDB)	e5bb9b
+廜	U+5EDC (U+5EDC)	e5bb9c
+廝	servant (U+5EDD)	e5bb9d
+廞	to prepare horses and chariots for battle (U+5EDE)	e5bb9e
+廟	temple, shrine; imperial court (U+5EDF)	e5bb9f
+廠	factory, plant, workshop, mill (U+5EE0)	e5bba0
+廡	corridor, hallway; luxuriant (U+5EE1)	e5bba1
+廢	abrogate, terminate, discard (U+5EE2)	e5bba2
+廣	broad, wide, extensive (U+5EE3)	e5bba3
+廤	to place (U+5EE4)	e5bba4
+廥	U+5EE5 (U+5EE5)	e5bba5
+廦	U+5EE6 (U+5EE6)	e5bba6
+廧	wall (U+5EE7)	e5bba7
+廨	government office, public office (U+5EE8)	e5bba8
+廩	granary; stockpile, store (U+5EE9)	e5bba9
+廪	granary; stockpile (U+5EEA)	e5bbaa
+廫	U+5EEB (U+5EEB)	e5bbab
+廬	hut, cottage; name of a mountain (U+5EEC)	e5bbac
+廭	U+5EED (U+5EED)	e5bbad
+廮	U+5EEE (U+5EEE)	e5bbae
+廯	U+5EEF (U+5EEF)	e5bbaf
+廰	hall, central room (U+5EF0)	e5bbb0
+廱	harmonious; pool; hall (U+5EF1)	e5bbb1
+廲	U+5EF2 (U+5EF2)	e5bbb2
+廳	hall, central room (U+5EF3)	e5bbb3
+廴	go; KangXi radical 54 (U+5EF4)	e5bbb4
+廵	to go on circuit; to cruise to patrol (U+5EF5)	e5bbb5
+延	delay, postpone, defer (U+5EF6)	e5bbb6
+廷	court (U+5EF7)	e5bbb7
+廸	enlighten, advance; progress (U+5EF8)	e5bbb8
+廹	to persecute; to oppress in difficulties; embarrassed (U+5EF9)	e5bbb9
+建	build, establish, erect, found (U+5EFA)	e5bbba
+廻	circle around; return; curving (U+5EFB)	e5bbbb
+廼	then, thereupon, only then (U+5EFC)	e5bbbc
+廽	return, turn around; a time (U+5EFD)	e5bbbd
+廾	two hands; KangXi radical 55 (U+5EFE)	e5bbbe
+廿	twenty, twentieth (U+5EFF)	e5bbbf
+开	open; initiate, begin, start (U+5F00)	e5bc80
+弁	conical cap worn during Zhou dynasty (U+5F01)	e5bc81
+异	different, unusual, strange (U+5F02)	e5bc82
+弃	reject, abandon, discard (U+5F03)	e5bc83
+弄	do, play or fiddle with; alley (U+5F04)	e5bc84
+弅	U+5F05 (U+5F05)	e5bc85
+弆	U+5F06 (U+5F06)	e5bc86
+弇	cover over, hide; narrow-necked (U+5F07)	e5bc87
+弈	Chinese chess (U+5F08)	e5bc88
+弉	large, powerful, stout, thick (U+5F09)	e5bc89
+弊	evil, wrong, bad; criminal (U+5F0A)	e5bc8a
+弋	catch, arrest; shoot with bow (U+5F0B)	e5bc8b
+弌	number one (U+5F0C)	e5bc8c
+弍	number two (U+5F0D)	e5bc8d
+弎	three (U+5F0E)	e5bc8e
+式	style, system, formula, rule (U+5F0F)	e5bc8f
+弐	number two (U+5F10)	e5bc90
+弑	to kill one's superior (U+5F11)	e5bc91
+弒	to kill one's superior (U+5F12)	e5bc92
+弓	bow; curved, arched; KangXi radical number 57 (U+5F13)	e5bc93
+弔	condole, mourn, pity; hang (U+5F14)	e5bc94
+引	to pull, draw out, attract; to stretch (U+5F15)	e5bc95
+弖	phonetic for 'te' (Japanese) (U+5F16)	e5bc96
+弗	not, negative (U+5F17)	e5bc97
+弘	enlarge, expand; liberal, great (U+5F18)	e5bc98
+弙	U+5F19 (U+5F19)	e5bc99
+弚	U+5F1A (U+5F1A)	e5bc9a
+弛	loosen, relax, unstring a bow (U+5F1B)	e5bc9b
+弜	U+5F1C (U+5F1C)	e5bc9c
+弝	the part of a bow grasped when shooting (U+5F1D)	e5bc9d
+弞	U+5F1E (U+5F1E)	e5bc9e
+弟	young brother; junior; i, me (U+5F1F)	e5bc9f
+张	stretch, extend, expand; sheet (U+5F20)	e5bca0
+弡	U+5F21 (U+5F21)	e5bca1
+弢	bow case; scabbard; sheathe (U+5F22)	e5bca2
+弣	middle (U+5F23)	e5bca3
+弤	bow (U+5F24)	e5bca4
+弥	extensive, full; fill; complete (U+5F25)	e5bca5
+弦	string; hypotenuse, crescent (U+5F26)	e5bca6
+弧	wooden bow; arc, crescent (U+5F27)	e5bca7
+弨	bow (U+5F28)	e5bca8
+弩	cross-bow, bow; downward stroke (U+5F29)	e5bca9
+弪	circular measure (U+5F2A)	e5bcaa
+弫	U+5F2B (U+5F2B)	e5bcab
+弬	U+5F2C (U+5F2C)	e5bcac
+弭	stop, desist, end, quell (U+5F2D)	e5bcad
+弮	a crowwbow which discharged several bolts in succession (U+5F2E)	e5bcae
+弯	bend, curve (U+5F2F)	e5bcaf
+弰	ends of bow (U+5F30)	e5bcb0
+弱	weak; fragile, delicate (U+5F31)	e5bcb1
+弲	U+5F32 (U+5F32)	e5bcb2
+弳	circular measure (U+5F33)	e5bcb3
+弴	red lacquer bow (U+5F34)	e5bcb4
+張	stretch, extend, expand; sheet (U+5F35)	e5bcb5
+弶	a snare (U+5F36)	e5bcb6
+強	strong, powerful, energetic (U+5F37)	e5bcb7
+弸	a bow stretched to the full; tensely drawn (U+5F38)	e5bcb8
+弹	pellet, bullet, shot, shell (U+5F39)	e5bcb9
+强	strong, powerful, energetic (U+5F3A)	e5bcba
+弻	U+5F3B (U+5F3B)	e5bcbb
+弼	aid, assist, help; correct (U+5F3C)	e5bcbc
+弽	U+5F3D (U+5F3D)	e5bcbd
+弾	variant of 彈 U+5F48, a pellet, bullet, shot, shell (U+5F3E)	e5bcbe
+弿	U+5F3F (U+5F3F)	e5bcbf
+彀	enough, adequate fully, quite (U+5F40)	e5bd80
+彁	U+5F41 (U+5F41)	e5bd81
+彂	issue, dispatch, send out, emit (U+5F42)	e5bd82
+彃	U+5F43 (U+5F43)	e5bd83
+彄	nock at end of bow; stretch (U+5F44)	e5bd84
+彅	U+5F45 (U+5F45)	e5bd85
+彆	awkward (U+5F46)	e5bd86
+彇	U+5F47 (U+5F47)	e5bd87
+彈	pellet, bullet, shot, shell (U+5F48)	e5bd88
+彉	U+5F49 (U+5F49)	e5bd89
+彊	stubborn, uncompromising (U+5F4A)	e5bd8a
+彋	U+5F4B (U+5F4B)	e5bd8b
+彌	extensive, full; fill; complete (U+5F4C)	e5bd8c
+彍	to draw a bow to the full (U+5F4D)	e5bd8d
+彎	bend, curve (U+5F4E)	e5bd8e
+彏	U+5F4F (U+5F4F)	e5bd8f
+彐	snout; KangXi radical 58 (U+5F50)	e5bd90
+彑	snout; KangXi radical 58 (U+5F51)	e5bd91
+归	return; return to, revert to (U+5F52)	e5bd92
+当	bear, accept, undertake; just (U+5F53)	e5bd93
+彔	to carve wood (U+5F54)	e5bd94
+录	copy, write down, record (U+5F55)	e5bd95
+彖	a hog; a hedgehog; a porcupine (U+5F56)	e5bd96
+彗	broomstick; comet (U+5F57)	e5bd97
+彘	swine (U+5F58)	e5bd98
+彙	collect, compile, assemble; hedgehog (U+5F59)	e5bd99
+彚	collect, compile, assemble; hedgehog (U+5F5A)	e5bd9a
+彛	yi; tripod, wine vessel; rule (U+5F5B)	e5bd9b
+彜	yi; tripod, wine vessel; rule (U+5F5C)	e5bd9c
+彝	yi; tripod, wine vessel; rule (U+5F5D)	e5bd9d
+彞	yi; tripod (U+5F5E)	e5bd9e
+彟	U+5F5F (U+5F5F)	e5bd9f
+彠	U+5F60 (U+5F60)	e5bda0
+彡	hair; KangXi radical 59 (U+5F61)	e5bda1
+形	form, shape, appearance (U+5F62)	e5bda2
+彣	U+5F63 (U+5F63)	e5bda3
+彤	red, vermilion; name of ancient (U+5F64)	e5bda4
+彥	elegant, handsome; learned (U+5F65)	e5bda5
+彦	elegant (U+5F66)	e5bda6
+彧	refined, cultured, polished (U+5F67)	e5bda7
+彨	U+5F68 (U+5F68)	e5bda8
+彩	hue, color; variegated colors (U+5F69)	e5bda9
+彪	tiger; tiger stripes; tiger-like (U+5F6A)	e5bdaa
+彫	carve, decorate; emaciated (U+5F6B)	e5bdab
+彬	cultivated, well-bred (U+5F6C)	e5bdac
+彭	name of ancient country; surname (U+5F6D)	e5bdad
+彮	U+5F6E (U+5F6E)	e5bdae
+彯	U+5F6F (U+5F6F)	e5bdaf
+彰	clear, manifest, obvious (U+5F70)	e5bdb0
+影	shadow; image, reflection; photograph (U+5F71)	e5bdb1
+彲	yellow dragon (U+5F72)	e5bdb2
+彳	step with left foot; rad. no 60 (U+5F73)	e5bdb3
+彴	bridge (U+5F74)	e5bdb4
+彵	U+5F75 (U+5F75)	e5bdb5
+彶	U+5F76 (U+5F76)	e5bdb6
+彷	like, resembling; resemble (U+5F77)	e5bdb7
+彸	restless, agitated (U+5F78)	e5bdb8
+役	service; a servant, laborer; to serve (U+5F79)	e5bdb9
+彺	U+5F7A (U+5F7A)	e5bdba
+彻	penetrate, pervade; penetrating (U+5F7B)	e5bdbb
+彼	that, there, those (U+5F7C)	e5bdbc
+彽	variant of 低 U+4F4E, low; to lower, hang, bend, bow (U+5F7D)	e5bdbd
+彾	U+5F7E (U+5F7E)	e5bdbe
+彿	resembling, like, as if (U+5F7F)	e5bdbf
+往	go, depart; past, formerly (U+5F80)	e5be80
+征	invade, attack, conquer (U+5F81)	e5be81
+徂	go, advance; to; die (U+5F82)	e5be82
+徃	go, depart; past, formerly (U+5F83)	e5be83
+径	narrow path; diameter; direct (U+5F84)	e5be84
+待	treat, entertain, receive; wait (U+5F85)	e5be85
+徆	U+5F86 (U+5F86)	e5be86
+徇	comply with, follow; display (U+5F87)	e5be87
+很	very, quite, much (U+5F88)	e5be88
+徉	wonder, rove, stray; hesitating (U+5F89)	e5be89
+徊	linger, walk to and fro, hesitain (U+5F8A)	e5be8a
+律	statute, principle, regulation (U+5F8B)	e5be8b
+後	behind, rear, after; descendents (U+5F8C)	e5be8c
+徍	U+5F8D (U+5F8D)	e5be8d
+徎	U+5F8E (U+5F8E)	e5be8e
+徏	U+5F8F (U+5F8F)	e5be8f
+徐	slowly, quietly, calmly; composed, dignified (U+5F90)	e5be90
+徑	narrow path; diameter; direct (U+5F91)	e5be91
+徒	disciple, follower; go on foot (U+5F92)	e5be92
+従	from, by, since, whence, through (U+5F93)	e5be93
+徔	U+5F94 (U+5F94)	e5be94
+徕	induce, encourage to come (U+5F95)	e5be95
+徖	U+5F96 (U+5F96)	e5be96
+得	obtain, get, gain, acquire (U+5F97)	e5be97
+徘	walk back and forth, hesitate (U+5F98)	e5be98
+徙	move one's abode, shift, migrate (U+5F99)	e5be99
+徚	U+5F9A (U+5F9A)	e5be9a
+徛	to cross over (U+5F9B)	e5be9b
+徜	walking and fro; lingering (U+5F9C)	e5be9c
+徝	U+5F9D (U+5F9D)	e5be9d
+從	from, by, since, whence, through (U+5F9E)	e5be9e
+徟	U+5F9F (U+5F9F)	e5be9f
+徠	induce, encourage to come (U+5FA0)	e5bea0
+御	drive, ride; chariot; manage (U+5FA1)	e5bea1
+徢	U+5FA2 (U+5FA2)	e5bea2
+徣	U+5FA3 (U+5FA3)	e5bea3
+徤	strong, robust; to strengthen (U+5FA4)	e5bea4
+徥	U+5FA5 (U+5FA5)	e5bea5
+徦	U+5FA6 (U+5FA6)	e5bea6
+徧	everywhere, all over, all around (U+5FA7)	e5bea7
+徨	doubtful, irresolute, vacillating (U+5FA8)	e5bea8
+復	return; repeat; repeatedly (U+5FA9)	e5bea9
+循	obey, comply with, follow (U+5FAA)	e5beaa
+徫	U+5FAB (U+5FAB)	e5beab
+徬	to wander about, walk along side of; to be next to (U+5FAC)	e5beac
+徭	conscript labor, compulsory labor (U+5FAD)	e5bead
+微	small, prefix micro-, trifling (U+5FAE)	e5beae
+徯	wait for, await, expect, hope (U+5FAF)	e5beaf
+徰	U+5FB0 (U+5FB0)	e5beb0
+徱	U+5FB1 (U+5FB1)	e5beb1
+徲	U+5FB2 (U+5FB2)	e5beb2
+徳	virtue; ethics (U+5FB3)	e5beb3
+徴	summon (U+5FB4)	e5beb4
+徵	summon, recruit; musical note (U+5FB5)	e5beb5
+徶	U+5FB6 (U+5FB6)	e5beb6
+德	ethics, morality, virtue (U+5FB7)	e5beb7
+徸	U+5FB8 (U+5FB8)	e5beb8
+徹	penetrate, pervade; penetrating (U+5FB9)	e5beb9
+徺	U+5FBA (U+5FBA)	e5beba
+徻	a wide room (U+5FBB)	e5bebb
+徼	frontier, border; inspect, patrol (U+5FBC)	e5bebc
+徽	a badge, insignia (U+5FBD)	e5bebd
+徾	U+5FBE (U+5FBE)	e5bebe
+徿	U+5FBF (U+5FBF)	e5bebf
+忀	to stroll; to ramble (U+5FC0)	e5bf80
+忁	U+5FC1 (U+5FC1)	e5bf81
+忂	U+5FC2 (U+5FC2)	e5bf82
+心	heart; mind, intelligence; soul (U+5FC3)	e5bf83
+忄	heart; radical number 61 (U+5FC4)	e5bf84
+必	surely, most certainly; must (U+5FC5)	e5bf85
+忆	remember, reflect upon; memory (U+5FC6)	e5bf86
+忇	U+5FC7 (U+5FC7)	e5bf87
+忈	U+5FC8 (U+5FC8)	e5bf88
+忉	grieved; distressed in mind (U+5FC9)	e5bf89
+忊	U+5FCA (U+5FCA)	e5bf8a
+忋	to rely on; look up to (U+5FCB)	e5bf8b
+忌	jealous, envious; fear (U+5FCC)	e5bf8c
+忍	endure, bear, suffer; forbear (U+5FCD)	e5bf8d
+忎	U+5FCE (U+5FCE)	e5bf8e
+忏	regret, repent; confess sins (U+5FCF)	e5bf8f
+忐	timorous; nervous (U+5FD0)	e5bf90
+忑	fearful; nervous; timid (U+5FD1)	e5bf91
+忒	excessive; too; very-usually of objectionable things; to err; to mistake; changeable (U+5FD2)	e5bf92
+忓	concerned about (U+5FD3)	e5bf93
+忔	U+5FD4 (U+5FD4)	e5bf94
+忕	U+5FD5 (U+5FD5)	e5bf95
+忖	guess, suppose, conjecture (U+5FD6)	e5bf96
+志	purpose, will, determination; annals (U+5FD7)	e5bf97
+忘	forget; neglect; miss, omit (U+5FD8)	e5bf98
+忙	busy, pressed for time; hustling (U+5FD9)	e5bf99
+忚	U+5FDA (U+5FDA)	e5bf9a
+忛	U+5FDB (U+5FDB)	e5bf9b
+応	should, ought to, must (U+5FDC)	e5bf9c
+忝	disgraced; ashamed; self-deprecating (U+5FDD)	e5bf9d
+忞	U+5FDE (U+5FDE)	e5bf9e
+忟	(Cant.) impatient, restless (U+5FDF)	e5bf9f
+忠	loyalty, devotion, fidelity (U+5FE0)	e5bfa0
+忡	a sad, uneasy countenance (U+5FE1)	e5bfa1
+忢	U+5FE2 (U+5FE2)	e5bfa2
+忣	U+5FE3 (U+5FE3)	e5bfa3
+忤	insubordinate, stubborn; wrong (U+5FE4)	e5bfa4
+忥	U+5FE5 (U+5FE5)	e5bfa5
+忦	U+5FE6 (U+5FE6)	e5bfa6
+忧	sad, grieved; grief, melancholy (U+5FE7)	e5bfa7
+忨	U+5FE8 (U+5FE8)	e5bfa8
+忩	same as 怱 U+6031, hastily, in haste, hurriedly (U+5FE9)	e5bfa9
+忪	quiet, calm, tranquil, peaceful (U+5FEA)	e5bfaa
+快	rapid, quick, speedy, fast; soon (U+5FEB)	e5bfab
+忬	U+5FEC (U+5FEC)	e5bfac
+忭	delighted; pleased (U+5FED)	e5bfad
+忮	stubborn; perverse; aggressive (U+5FEE)	e5bfae
+忯	U+5FEF (U+5FEF)	e5bfaf
+忰	suffer, become emaciated, haggard (U+5FF0)	e5bfb0
+忱	truth, sincerity; sincere (U+5FF1)	e5bfb1
+忲	extravagant (U+5FF2)	e5bfb2
+忳	U+5FF3 (U+5FF3)	e5bfb3
+忴	U+5FF4 (U+5FF4)	e5bfb4
+念	think of, recall, study (U+5FF5)	e5bfb5
+忶	U+5FF6 (U+5FF6)	e5bfb6
+忷	variant of 恟 U+605F, scared, nervous (U+5FF7)	e5bfb7
+忸	blush, be bashful, be ashamed (U+5FF8)	e5bfb8
+忹	U+5FF9 (U+5FF9)	e5bfb9
+忺	U+5FFA (U+5FFA)	e5bfba
+忻	delightful, joyful, pleasant (U+5FFB)	e5bfbb
+忼	ardent; generous, magnanimous (U+5FFC)	e5bfbc
+忽	suddenly, abruptly; neglect (U+5FFD)	e5bfbd
+忾	anger, wrath, hatred, enmity (U+5FFE)	e5bfbe
+忿	get angry; fury, exasperation (U+5FFF)	e5bfbf
+怀	bosom, breast; carry in bosom (U+6000)	e68080
+态	manner, bearing, attitude (U+6001)	e68081
+怂	instigate, arouse, incite (U+6002)	e68082
+怃	regretful, disappointed (U+6003)	e68083
+怄	annoyed (U+6004)	e68084
+怅	disappointed, dissatisfied (U+6005)	e68085
+怆	sad, broken-hearted, disconsolate (U+6006)	e68086
+怇	U+6007 (U+6007)	e68087
+怈	U+6008 (U+6008)	e68088
+怉	U+6009 (U+6009)	e68089
+怊	U+600A (U+600A)	e6808a
+怋	U+600B (U+600B)	e6808b
+怌	bosom; to carry in the bosom; to cherish (U+600C)	e6808c
+怍	to be ashamed (U+600D)	e6808d
+怎	what? why? how? (U+600E)	e6808e
+怏	discontented, dispirited, sad (U+600F)	e6808f
+怐	(Cant.) 怐豆 to stare (U+6010)	e68090
+怑	U+6011 (U+6011)	e68091
+怒	anger, rage, passion; angry (U+6012)	e68092
+怓	confusion; a braggart (U+6013)	e68093
+怔	a disease resembling neurosis (U+6014)	e68094
+怕	to fear, be afraid of; apprehensive (U+6015)	e68095
+怖	terror, fear; frighten; terrified (U+6016)	e68096
+怗	observant; peaceful; submissive (U+6017)	e68097
+怘	U+6018 (U+6018)	e68098
+怙	rely on, presume on; persist in (U+6019)	e68099
+怚	dull, stupid, suspicious (U+601A)	e6809a
+怛	grieved, saddened; worried (U+601B)	e6809b
+怜	pity, sympathize (U+601C)	e6809c
+思	think, consider, ponder; final particle (U+601D)	e6809d
+怞	to grieve; sorrowful (U+601E)	e6809e
+怟	U+601F (U+601F)	e6809f
+怠	idle, remiss, negligent; neglect (U+6020)	e680a0
+怡	harmony; pleasure, joy; be glad (U+6021)	e680a1
+怢	U+6022 (U+6022)	e680a2
+怣	U+6023 (U+6023)	e680a3
+怤	U+6024 (U+6024)	e680a4
+急	quick, quickly; urgent, pressing (U+6025)	e680a5
+怦	eager, ardent, impulsive; anxious (U+6026)	e680a6
+性	nature, character, sex (U+6027)	e680a7
+怨	hatred, enmity, resentment (U+6028)	e680a8
+怩	shy, timid, bashful; look ashamed (U+6029)	e680a9
+怪	strange, unusual, peculiar (U+602A)	e680aa
+怫	sorry, anxious; depressed (U+602B)	e680ab
+怬	U+602C (U+602C)	e680ac
+怭	rude (U+602D)	e680ad
+怮	U+602E (U+602E)	e680ae
+怯	lacking in courage, afraid (U+602F)	e680af
+怰	U+6030 (U+6030)	e680b0
+怱	hastily, in haste, hurriedly (U+6031)	e680b1
+怲	be anxious, be grieved, be sad (U+6032)	e680b2
+怳	wild, mad; flurried (U+6033)	e680b3
+怴	U+6034 (U+6034)	e680b4
+怵	fear, be afraid; shy, timid (U+6035)	e680b5
+怶	(Cant.) to have no zeal at all (U+6036)	e680b6
+怷	U+6037 (U+6037)	e680b7
+怸	cns 2-2A40 is different (U+6038)	e680b8
+怹	a polite version of he (U+6039)	e680b9
+怺	to endure (U+603A)	e680ba
+总	collect; overall, altogether (U+603B)	e680bb
+怼	hate, abhor; hatred, resentment (U+603C)	e680bc
+怽	U+603D (U+603D)	e680bd
+怾	mountain name (U+603E)	e680be
+怿	enjoy, be glad, be pleased (U+603F)	e680bf
+恀	U+6040 (U+6040)	e68180
+恁	that, like this, thus, so, such (U+6041)	e68181
+恂	careful, sincere, honest; trust (U+6042)	e68182
+恃	rely on, presume on, trust to (U+6043)	e68183
+恄	U+6044 (U+6044)	e68184
+恅	U+6045 (U+6045)	e68185
+恆	constant, regular, persistent (U+6046)	e68186
+恇	fear (U+6047)	e68187
+恈	U+6048 (U+6048)	e68188
+恉	meaning, purport, drift (U+6049)	e68189
+恊	be united; cooperate (U+604A)	e6818a
+恋	love; long for, yearn for; love (U+604B)	e6818b
+恌	to worry; frivolous (U+604C)	e6818c
+恍	seemingly; absent-minded (U+604D)	e6818d
+恎	U+604E (U+604E)	e6818e
+恏	U+604F (U+604F)	e6818f
+恐	fear; fearful, apprehensive (U+6050)	e68190
+恑	to change; to alter; to accommodate oneself to (U+6051)	e68191
+恒	constant, regular, persistent (U+6052)	e68192
+恓	vexed (U+6053)	e68193
+恔	cheerful; bright, sagacious (U+6054)	e68194
+恕	forgive, excuse, show mercy (U+6055)	e68195
+恖	U+6056 (U+6056)	e68196
+恗	U+6057 (U+6057)	e68197
+恘	U+6058 (U+6058)	e68198
+恙	illness, sickness; indisposition (U+6059)	e68199
+恚	anger, rage (U+605A)	e6819a
+恛	disordered; indistinct doubtful; blurred (U+605B)	e6819b
+恜	U+605C (U+605C)	e6819c
+恝	carefree; indifferent manner; without sorrow (U+605D)	e6819d
+恞	U+605E (U+605E)	e6819e
+恟	scared, nervous (U+605F)	e6819f
+恠	strange, unusual, peculiar (U+6060)	e681a0
+恡	stingy, sparing of; close-fisted (U+6061)	e681a1
+恢	restore; big, great, immense, vast (U+6062)	e681a2
+恣	indulge oneself, unrestrained (U+6063)	e681a3
+恤	show pity; relieve, help (U+6064)	e681a4
+恥	shame, humiliation; ashamed (U+6065)	e681a5
+恦	U+6066 (U+6066)	e681a6
+恧	U+6067 (U+6067)	e681a7
+恨	hatred, dislike; resent, hate (U+6068)	e681a8
+恩	kindness, mercy, charity (U+6069)	e681a9
+恪	respectful, reverent (U+606A)	e681aa
+恫	in pain, sorrowful (U+606B)	e681ab
+恬	quiet, calm, tranquil, peaceful (U+606C)	e681ac
+恭	respectful, polite, reverent (U+606D)	e681ad
+恮	U+606E (U+606E)	e681ae
+息	rest, put stop to, end, cease (U+606F)	e681af
+恰	just, exactly, precisely; proper (U+6070)	e681b0
+恱	U+6071 (U+6071)	e681b1
+恲	U+6072 (U+6072)	e681b2
+恳	sincere, earnest, cordial (U+6073)	e681b3
+恴	U+6074 (U+6074)	e681b4
+恵	favor, benefit, confer kindness (U+6075)	e681b5
+恶	evil, wicked, bad, foul (U+6076)	e681b6
+恷	U+6077 (U+6077)	e681b7
+恸	sadness, grief; mourn; be moved (U+6078)	e681b8
+恹	feeble, sickly; tranquil, calm (U+6079)	e681b9
+恺	enjoy, be contented, joyful (U+607A)	e681ba
+恻	feel anguish, feel compassion (U+607B)	e681bb
+恼	angered, filled with hate (U+607C)	e681bc
+恽	devise, plan, deliberate; consult (U+607D)	e681bd
+恾	U+607E (U+607E)	e681be
+恿	instigate, incite; to alarm (U+607F)	e681bf
+悀	U+6080 (U+6080)	e68280
+悁	irritable, nervous, impatient (U+6081)	e68281
+悂	U+6082 (U+6082)	e68282
+悃	sincere, genuine, honest, loyal (U+6083)	e68283
+悄	silent, quiet, still; anxious (U+6084)	e68284
+悅	pleased (U+6085)	e68285
+悆	happy (U+6086)	e68286
+悇	U+6087 (U+6087)	e68287
+悈	to enjoin upon; urgent (U+6088)	e68288
+悉	know, learn about, comprehend (U+6089)	e68289
+悊	wise. to know intuitively (U+608A)	e6828a
+悋	stingy, sparing of; closefisted (U+608B)	e6828b
+悌	brotherly, respectful (U+608C)	e6828c
+悍	courageous, brave; violent (U+608D)	e6828d
+悎	U+608E (U+608E)	e6828e
+悏	U+608F (U+608F)	e6828f
+悐	respect, regard; to stand in awe of, to be alarmed (U+6090)	e68290
+悑	U+6091 (U+6091)	e68291
+悒	sorrowful, depressed, unhappy (U+6092)	e68292
+悓	U+6093 (U+6093)	e68293
+悔	repent, show remorse, regret (U+6094)	e68294
+悕	U+6095 (U+6095)	e68295
+悖	be contradictory to, go counter (U+6096)	e68296
+悗	U+6097 (U+6097)	e68297
+悘	U+6098 (U+6098)	e68298
+悙	U+6099 (U+6099)	e68299
+悚	afraid, scared, frightened (U+609A)	e6829a
+悛	repent, reform (U+609B)	e6829b
+悜	obscure (U+609C)	e6829c
+悝	to laugh at to pity; afflicted, sad (U+609D)	e6829d
+悞	impede; neglect, delay (U+609E)	e6829e
+悟	to apprehend, realize, become aware (U+609F)	e6829f
+悠	long, far, remote, distant; liesurely (U+60A0)	e682a0
+悡	U+60A1 (U+60A1)	e682a1
+悢	U+60A2 (U+60A2)	e682a2
+患	suffer, worry about; suffering (U+60A3)	e682a3
+悤	agitated, restless, hurried (U+60A4)	e682a4
+悥	U+60A5 (U+60A5)	e682a5
+悦	pleased, contented, gratified (U+60A6)	e682a6
+悧	smooth; active; clever, sharp (U+60A7)	e682a7
+您	honorific for 'you' (U+60A8)	e682a8
+悩	angered, filled with hate (U+60A9)	e682a9
+悪	evil, wicked, bad, foul (U+60AA)	e682aa
+悫	sincerity, honesty; modest (U+60AB)	e682ab
+悬	hang, suspend, hoist; be hung (U+60AC)	e682ac
+悭	miserly, parsimonious, stingy (U+60AD)	e682ad
+悮	impede; neglect, delay (U+60AE)	e682ae
+悯	pity, sympathize with, grieve for (U+60AF)	e682af
+悰	enjoy, amuse, please; joy (U+60B0)	e682b0
+悱	to be desirous of speaking (U+60B1)	e682b1
+悲	sorrow, grief; sorry, sad (U+60B2)	e682b2
+悳	ethics, morality, virtue (U+60B3)	e682b3
+悴	suffer, become emaciated, haggard (U+60B4)	e682b4
+悵	disappointed, dissatisfied (U+60B5)	e682b5
+悶	gloomy, depressed, melancholy (U+60B6)	e682b6
+悷	U+60B7 (U+60B7)	e682b7
+悸	fearful, apprehensive, perturbed (U+60B8)	e682b8
+悹	U+60B9 (U+60B9)	e682b9
+悺	U+60BA (U+60BA)	e682ba
+悻	anger, vexation; angry, indignant (U+60BB)	e682bb
+悼	grieve, mourn, lament; grieved (U+60BC)	e682bc
+悽	sorrowful, grieved, melancholy (U+60BD)	e682bd
+悾	naive, guileless, simple-minded (U+60BE)	e682be
+悿	U+60BF (U+60BF)	e682bf
+惀	U+60C0 (U+60C0)	e68380
+惁	U+60C1 (U+60C1)	e68381
+惂	U+60C2 (U+60C2)	e68382
+惃	U+60C3 (U+60C3)	e68383
+惄	long for; hungry (U+60C4)	e68384
+情	feeling, sentiment, emotion (U+60C5)	e68385
+惆	distressed, regretful, sad (U+60C6)	e68386
+惇	be kind, cordial, sincere (U+60C7)	e68387
+惈	U+60C8 (U+60C8)	e68388
+惉	U+60C9 (U+60C9)	e68389
+惊	frighten, surprise, startle (U+60CA)	e6838a
+惋	regret, be sorry; alarmed (U+60CB)	e6838b
+惌	to bear a grudge against (U+60CC)	e6838c
+惍	U+60CD (U+60CD)	e6838d
+惎	injure, harm, murder (U+60CE)	e6838e
+惏	avaricious; greedy cold (U+60CF)	e6838f
+惐	U+60D0 (U+60D0)	e68390
+惑	confuse, mislead, baffle; doubt (U+60D1)	e68391
+惒	U+60D2 (U+60D2)	e68392
+惓	careful, sincere, candid (U+60D3)	e68393
+惔	cheerful (U+60D4)	e68394
+惕	be cautious, careful, alert (U+60D5)	e68395
+惖	respect; fear (U+60D6)	e68396
+惗	(Cant.) to think, consider (U+60D7)	e68397
+惘	disconcerted, dejected, discouraged (U+60D8)	e68398
+惙	sad, melancholy, grieving, mournful (U+60D9)	e68399
+惚	absent-minded, confused (U+60DA)	e6839a
+惛	confused, stupid, dull, senile (U+60DB)	e6839b
+惜	pity, regret, rue, begrudge (U+60DC)	e6839c
+惝	alarmed, agitated (U+60DD)	e6839d
+惞	U+60DE (U+60DE)	e6839e
+惟	but, however, nevertheless; only (U+60DF)	e6839f
+惠	favor, benefit, confer kindness (U+60E0)	e683a0
+惡	evil, wicked, bad, foul (U+60E1)	e683a1
+惢	U+60E2 (U+60E2)	e683a2
+惣	overall [questionable variant] (U+60E3)	e683a3
+惤	U+60E4 (U+60E4)	e683a4
+惥	U+60E5 (U+60E5)	e683a5
+惦	think of, remember, miss (U+60E6)	e683a6
+惧	fear, be afraid of, dread (U+60E7)	e683a7
+惨	sad, pitiful, wretched; cruel (U+60E8)	e683a8
+惩	punish, reprimand; warn (U+60E9)	e683a9
+惪	ethics (U+60EA)	e683aa
+惫	tired, weary, fatigued (U+60EB)	e683ab
+惬	be satisfied, be comfortable (U+60EC)	e683ac
+惭	ashamed, humiliated; shameful (U+60ED)	e683ad
+惮	dread, shrink from, shirk, fear (U+60EE)	e683ae
+惯	habit, custom; habitually, usual (U+60EF)	e683af
+惰	indolent, careless, lazy, idle (U+60F0)	e683b0
+惱	angered, filled with hate (U+60F1)	e683b1
+惲	devise, plan, deliberate; consult (U+60F2)	e683b2
+想	think, speculate, plan, consider (U+60F3)	e683b3
+惴	afraid, apprehensive, nervous (U+60F4)	e683b4
+惵	U+60F5 (U+60F5)	e683b5
+惶	fearful, afraid, anxious, nervous (U+60F6)	e683b6
+惷	wriggle; stupid; silly; fat (U+60F7)	e683b7
+惸	troubled, worried, distressed (U+60F8)	e683b8
+惹	irritate, vex, offend, incite (U+60F9)	e683b9
+惺	intelligent, clever, astute (U+60FA)	e683ba
+惻	feel anguish, feel compassion (U+60FB)	e683bb
+惼	narrow-minded (U+60FC)	e683bc
+惽	confused (U+60FD)	e683bd
+惾	U+60FE (U+60FE)	e683be
+惿	U+60FF (U+60FF)	e683bf
+愀	to change one's countenance, be anxious; to blush (U+6100)	e68480
+愁	anxiety; to worry about, be anxious (U+6101)	e68481
+愂	U+6102 (U+6102)	e68482
+愃	relax (U+6103)	e68483
+愄	U+6104 (U+6104)	e68484
+愅	U+6105 (U+6105)	e68485
+愆	a fault, mistake, error, transgression (U+6106)	e68486
+愇	U+6107 (U+6107)	e68487
+愈	more and more, even more (U+6108)	e68488
+愉	pleasant, delightful; please (U+6109)	e68489
+愊	sincere, honest; depressed (U+610A)	e6848a
+愋	U+610B (U+610B)	e6848b
+愌	U+610C (U+610C)	e6848c
+愍	pity, sympathize with (U+610D)	e6848d
+愎	obstinate, stubborn, headstrong (U+610E)	e6848e
+意	thought, idea, opinion; think (U+610F)	e6848f
+愐	bashful; to consider (U+6110)	e68490
+愑	U+6111 (U+6111)	e68491
+愒	rest, stop (U+6112)	e68492
+愓	profligate (U+6113)	e68493
+愔	comfortable, contented, peaceful (U+6114)	e68494
+愕	startled, alarmed, astonished (U+6115)	e68495
+愖	to hesitate (U+6116)	e68496
+愗	U+6117 (U+6117)	e68497
+愘	U+6118 (U+6118)	e68498
+愙	U+6119 (U+6119)	e68499
+愚	stupid, doltish, foolish (U+611A)	e6849a
+愛	love, be fond of, like (U+611B)	e6849b
+愜	be satisfied, be comfortable (U+611C)	e6849c
+愝	U+611D (U+611D)	e6849d
+愞	timid, apprehensive (U+611E)	e6849e
+感	feel, perceive, emotion (U+611F)	e6849f
+愠	angry (U+6120)	e684a0
+愡	absent-minded, confused (U+6121)	e684a1
+愢	hesitant; modest (U+6122)	e684a2
+愣	be in a daze (U+6123)	e684a3
+愤	resent, hate; indignant (U+6124)	e684a4
+愥	U+6125 (U+6125)	e684a5
+愦	confused, troubled, muddle-headed (U+6126)	e684a6
+愧	ashamed, conscience-stricken (U+6127)	e684a7
+愨	sincerity, honesty; cautious (U+6128)	e684a8
+愩	U+6129 (U+6129)	e684a9
+愪	to be grieved, sad (U+612A)	e684aa
+愫	guileless, sincere, honest (U+612B)	e684ab
+愬	accuse; sue; inform; narrate (U+612C)	e684ac
+愭	U+612D (U+612D)	e684ad
+愮	distressed, agitated (U+612E)	e684ae
+愯	U+612F (U+612F)	e684af
+愰	clearness of mind; doubtful; uncertain (U+6130)	e684b0
+愱	U+6131 (U+6131)	e684b1
+愲	U+6132 (U+6132)	e684b2
+愳	U+6133 (U+6133)	e684b3
+愴	sad, broken-hearted, disconsolate (U+6134)	e684b4
+愵	U+6135 (U+6135)	e684b5
+愶	U+6136 (U+6136)	e684b6
+愷	enjoy, be contented, joyful (U+6137)	e684b7
+愸	U+6138 (U+6138)	e684b8
+愹	U+6139 (U+6139)	e684b9
+愺	U+613A (U+613A)	e684ba
+愻	to yield, accord; humble, modest (U+613B)	e684bb
+愼	act with care, be cautious (U+613C)	e684bc
+愽	gamble, play games; wide, broad (U+613D)	e684bd
+愾	anger, wrath, hatred, enmity (U+613E)	e684be
+愿	sincere, honest, virtuous (U+613F)	e684bf
+慀	U+6140 (U+6140)	e68580
+慁	dishonor, disobey; insult (U+6141)	e68581
+慂	urge, incite, egg-on (U+6142)	e68582
+慃	U+6143 (U+6143)	e68583
+慄	shiver, shudder, tremble; tremble (U+6144)	e68584
+慅	agitated (U+6145)	e68585
+慆	excessive, dissolute; delighted (U+6146)	e68586
+慇	careful, anxious, attentive (U+6147)	e68587
+慈	kind, charitable, benevolent (U+6148)	e68588
+慉	to bring up; to raise (U+6149)	e68589
+慊	to resent; contended; satisfied (U+614A)	e6858a
+態	manner, bearing, attitude (U+614B)	e6858b
+慌	nervous, panicky, frantic (U+614C)	e6858c
+慍	angry, indignant, resentful (U+614D)	e6858d
+慎	act with care, be cautious (U+614E)	e6858e
+慏	U+614F (U+614F)	e6858f
+慐	U+6150 (U+6150)	e68590
+慑	afraid, scared, fearful (U+6151)	e68591
+慒	U+6152 (U+6152)	e68592
+慓	U+6153 (U+6153)	e68593
+慔	U+6154 (U+6154)	e68594
+慕	long for, desire; admire (U+6155)	e68595
+慖	U+6156 (U+6156)	e68596
+慗	U+6157 (U+6157)	e68597
+慘	sad, pitiful, wretched; cruel (U+6158)	e68598
+慙	ashamed, humiliated; shameful (U+6159)	e68599
+慚	ashamed, humiliated; shameful (U+615A)	e6859a
+慛	U+615B (U+615B)	e6859b
+慜	name of a monk in Tang dynasty (U+615C)	e6859c
+慝	do evil in secret; evil, vice (U+615D)	e6859d
+慞	terrified, alarmed (U+615E)	e6859e
+慟	sadness, grief; mourn; be moved (U+615F)	e6859f
+慠	U+6160 (U+6160)	e685a0
+慡	U+6161 (U+6161)	e685a1
+慢	slow(ly), leisurely, sluggish (U+6162)	e685a2
+慣	habit, custom; habitually, usually (U+6163)	e685a3
+慤	sincerity, honesty; modest (U+6164)	e685a4
+慥	sincere, earnest (U+6165)	e685a5
+慦	U+6166 (U+6166)	e685a6
+慧	bright, intelligent; intelligence (U+6167)	e685a7
+慨	sigh, regret; generous (U+6168)	e685a8
+慩	U+6169 (U+6169)	e685a9
+慪	annoyed (U+616A)	e685aa
+慫	to alarm; to instigate, arouse, incite (U+616B)	e685ab
+慬	brave; cautious; sad (U+616C)	e685ac
+慭	cautious; willing; but (U+616D)	e685ad
+慮	be concerned, worry about (U+616E)	e685ae
+慯	U+616F (U+616F)	e685af
+慰	comfort, console, calm (U+6170)	e685b0
+慱	sad (U+6171)	e685b1
+慲	U+6172 (U+6172)	e685b2
+慳	miserly, parsimonious, stingy (U+6173)	e685b3
+慴	fear; terrified, fearful; fear (U+6174)	e685b4
+慵	indolent, easy-going, lazy (U+6175)	e685b5
+慶	congratulate, celebrate (U+6176)	e685b6
+慷	ardent; generous, magnanimous (U+6177)	e685b7
+慸	U+6178 (U+6178)	e685b8
+慹	U+6179 (U+6179)	e685b9
+慺	U+617A (U+617A)	e685ba
+慻	U+617B (U+617B)	e685bb
+慼	sorrowful, mournful; sorrow (U+617C)	e685bc
+慽	sorrowful, mournful; sorrow (U+617D)	e685bd
+慾	lust, desire, passion; appetite (U+617E)	e685be
+慿	U+617F (U+617F)	e685bf
+憀	to rely on (U+6180)	e68680
+憁	U+6181 (U+6181)	e68681
+憂	sad, grieved; grief, melancholy (U+6182)	e68682
+憃	foolish, stupid, dull, silly (U+6183)	e68683
+憄	U+6184 (U+6184)	e68684
+憅	U+6185 (U+6185)	e68685
+憆	U+6186 (U+6186)	e68686
+憇	rest, take rest (U+6187)	e68687
+憈	U+6188 (U+6188)	e68688
+憉	U+6189 (U+6189)	e68689
+憊	tired, weary, fatigued (U+618A)	e6868a
+憋	to suppress inner feelings; hasty (U+618B)	e6868b
+憌	U+618C (U+618C)	e6868c
+憍	be haughty, proud, arrogant (U+618D)	e6868d
+憎	hate, detest, abhor; hatred (U+618E)	e6868e
+憏	U+618F (U+618F)	e6868f
+憐	pity, sympathize (U+6190)	e68690
+憑	lean on, depend on, rely on (U+6191)	e68691
+憒	confused, troubled, muddle-headed (U+6192)	e68692
+憓	U+6193 (U+6193)	e68693
+憔	be worn-out, emaciated, haggard (U+6194)	e68694
+憕	U+6195 (U+6195)	e68695
+憖	cautious; willing; but, moreover (U+6196)	e68696
+憗	U+6197 (U+6197)	e68697
+憘	like, love, enjoy; joyful thing (U+6198)	e68698
+憙	like, love, enjoy; joyful thing (U+6199)	e68699
+憚	dread, shrink from, shirk, fear (U+619A)	e6869a
+憛	U+619B (U+619B)	e6869b
+憜	U+619C (U+619C)	e6869c
+憝	to dislike, to abhor, to hate (U+619D)	e6869d
+憞	U+619E (U+619E)	e6869e
+憟	U+619F (U+619F)	e6869f
+憠	U+61A0 (U+61A0)	e686a0
+憡	U+61A1 (U+61A1)	e686a1
+憢	U+61A2 (U+61A2)	e686a2
+憣	U+61A3 (U+61A3)	e686a3
+憤	resent, hate; indignant (U+61A4)	e686a4
+憥	U+61A5 (U+61A5)	e686a5
+憦	regret (U+61A6)	e686a6
+憧	irresolute, indecisive; yearn for (U+61A7)	e686a7
+憨	foolish, silly, coquettish (U+61A8)	e686a8
+憩	rest, take rest (U+61A9)	e686a9
+憪	composed, contented (U+61AA)	e686aa
+憫	pity, sympathize with, grieve for (U+61AB)	e686ab
+憬	rouse, awaken; become conscious (U+61AC)	e686ac
+憭	clear; intelligible; severe; cold (U+61AD)	e686ad
+憮	regretful, disappointed (U+61AE)	e686ae
+憯	sorrowful, sad; already, nevertheless (U+61AF)	e686af
+憰	wily, time-serving; to feign, to act the hypocrite (U+61B0)	e686b0
+憱	U+61B1 (U+61B1)	e686b1
+憲	constitution, statute, law (U+61B2)	e686b2
+憳	U+61B3 (U+61B3)	e686b3
+憴	U+61B4 (U+61B4)	e686b4
+憵	(Cant.) to rush (U+61B5)	e686b5
+憶	remember, reflect upon; memory (U+61B6)	e686b6
+憷	painful; suffering; privation (U+61B7)	e686b7
+憸	to flatter; crafty, having a specious tongue (U+61B8)	e686b8
+憹	U+61B9 (U+61B9)	e686b9
+憺	peace (U+61BA)	e686ba
+憻	U+61BB (U+61BB)	e686bb
+憼	U+61BC (U+61BC)	e686bc
+憽	U+61BD (U+61BD)	e686bd
+憾	to regret, remorse; dissatisfied (U+61BE)	e686be
+憿	U+61BF (U+61BF)	e686bf
+懀	U+61C0 (U+61C0)	e68780
+懁	anxious, distressed (U+61C1)	e68781
+懂	understand, comprehend (U+61C2)	e68782
+懃	courteous, cordial; zealous (U+61C3)	e68783
+懄	grief (U+61C4)	e68784
+懅	bashful; ashamed (U+61C5)	e68785
+懆	anxious, apprehensive (U+61C6)	e68786
+懇	sincere, earnest, cordial (U+61C7)	e68787
+懈	idle, relaxed, remiss (U+61C8)	e68788
+應	should, ought to, must (U+61C9)	e68789
+懊	vexed, worried, nervous; regret (U+61CA)	e6878a
+懋	splendid, grand, majestic (U+61CB)	e6878b
+懌	enjoy, be glad, be pleased (U+61CC)	e6878c
+懍	be afraid of, be awed by, be in awe (U+61CD)	e6878d
+懎	U+61CE (U+61CE)	e6878e
+懏	U+61CF (U+61CF)	e6878f
+懐	bosom, breast; carry in bosom (U+61D0)	e68790
+懑	be sick at heart, sorrowful, sad (U+61D1)	e68791
+懒	lazy, languid, listless (U+61D2)	e68792
+懓	U+61D3 (U+61D3)	e68793
+懔	be afraid of, to be in awe of (U+61D4)	e68794
+懕	satiated; contented (U+61D5)	e68795
+懖	U+61D6 (U+61D6)	e68796
+懗	U+61D7 (U+61D7)	e68797
+懘	U+61D8 (U+61D8)	e68798
+懙	U+61D9 (U+61D9)	e68799
+懚	U+61DA (U+61DA)	e6879a
+懛	alarmed, scared; stupid (U+61DB)	e6879b
+懜	dull, stupid, doltish (U+61DC)	e6879c
+懝	U+61DD (U+61DD)	e6879d
+懞	variant of U+8499 蒙 (U+61DE)	e6879e
+懟	hate, abhor; hatred, resentment (U+61DF)	e6879f
+懠	angry (U+61E0)	e687a0
+懡	U+61E1 (U+61E1)	e687a1
+懢	U+61E2 (U+61E2)	e687a2
+懣	be sick at heart, sorrowful, sad (U+61E3)	e687a3
+懤	grieved, pained (U+61E4)	e687a4
+懥	angry, enraged, resentful; hate (U+61E5)	e687a5
+懦	weak, timid, cowardly (U+61E6)	e687a6
+懧	U+61E7 (U+61E7)	e687a7
+懨	feeble, sickly; tranquil, calm (U+61E8)	e687a8
+懩	U+61E9 (U+61E9)	e687a9
+懪	U+61EA (U+61EA)	e687aa
+懫	enraged; resentful.to hate. to desist (U+61EB)	e687ab
+懬	U+61EC (U+61EC)	e687ac
+懭	U+61ED (U+61ED)	e687ad
+懮	calm, liesurely; procrastinating (U+61EE)	e687ae
+懯	U+61EF (U+61EF)	e687af
+懰	be glad, pleased, delighted (U+61F0)	e687b0
+懱	U+61F1 (U+61F1)	e687b1
+懲	punish, reprimand; warn (U+61F2)	e687b2
+懳	U+61F3 (U+61F3)	e687b3
+懴	regret, repent; confess sins (U+61F4)	e687b4
+懵	stupid, ignorant, dull (U+61F5)	e687b5
+懶	lazy, languid, listless (U+61F6)	e687b6
+懷	bosom, breast; carry in bosom (U+61F7)	e687b7
+懸	hang, suspend, hoist; be hung (U+61F8)	e687b8
+懹	U+61F9 (U+61F9)	e687b9
+懺	regret, repent; confess sins (U+61FA)	e687ba
+懻	overbearing, crafty (U+61FB)	e687bb
+懼	fear, be afraid of, dread (U+61FC)	e687bc
+懽	happy, pleased, glad, joyous (U+61FD)	e687bd
+懾	afraid, scared, fearful (U+61FE)	e687be
+懿	virtuous, admirable, esteemed (U+61FF)	e687bf
+戀	love; long for, yearn for; love (U+6200)	e68880
+戁	fear (U+6201)	e68881
+戂	U+6202 (U+6202)	e68882
+戃	U+6203 (U+6203)	e68883
+戄	to be in awe of; to fear (U+6204)	e68884
+戅	U+6205 (U+6205)	e68885
+戆	stupid, simple, simple-minded (U+6206)	e68886
+戇	stupid, simple, simple-minded (U+6207)	e68887
+戈	halberd, spear, lance; rad. 62 (U+6208)	e68888
+戉	a battle-axe, a halberd (U+6209)	e68889
+戊	5th heavenly stem (U+620A)	e6888a
+戋	small, narrow, tiny, little (U+620B)	e6888b
+戌	11th terrestrial branch (U+620C)	e6888c
+戍	defend borders, guard frontiers (U+620D)	e6888d
+戎	arms, armaments; military affair (U+620E)	e6888e
+戏	theatrical play, show (U+620F)	e6888f
+成	completed, finished, fixed (U+6210)	e68890
+我	our, us, i, me, my, we (U+6211)	e68891
+戒	warn, caution, admonish (U+6212)	e68892
+戓	U+6213 (U+6213)	e68893
+戔	small, narrow, tiny, little (U+6214)	e68894
+戕	kill, slay; wound, injure, hurt (U+6215)	e68895
+或	or, either, else; perhaps, maybe (U+6216)	e68896
+戗	support (U+6217)	e68897
+战	war, fighting, battle (U+6218)	e68898
+戙	(Cant.) to trap; upright; a pile (U+6219)	e68899
+戚	relative; be related to; sad (U+621A)	e6889a
+戛	lance; tap or strike lightly (U+621B)	e6889b
+戜	to scrape; advantageous (U+621C)	e6889c
+戝	pirate, thief (U+621D)	e6889d
+戞	lance; tap or strike lightly (U+621E)	e6889e
+戟	halberd with crescent blade (U+621F)	e6889f
+戠	a sword; potter's clay; to gather (U+6220)	e688a0
+戡	subjugate, subdue, quell; kill (U+6221)	e688a1
+戢	to put away; to cease; store up (U+6222)	e688a2
+戣	lance (U+6223)	e688a3
+戤	to infringe a trade-mark to pledge an article (U+6224)	e688a4
+戥	a small steelyard for weighing money, etc. (U+6225)	e688a5
+戦	war, fighting, battle (U+6226)	e688a6
+戧	support (U+6227)	e688a7
+戨	U+6228 (U+6228)	e688a8
+戩	exterminate, destroy; blessing (U+6229)	e688a9
+截	cut off, stop, obstruct, intersect (U+622A)	e688aa
+戫	U+622B (U+622B)	e688ab
+戬	exterminate, destroy; blessing (U+622C)	e688ac
+戭	spear (U+622D)	e688ad
+戮	kill, massacre; oppress (U+622E)	e688ae
+戯	theatrical play, show (U+622F)	e688af
+戰	war, fighting, battle (U+6230)	e688b0
+戱	theatrical play (U+6231)	e688b1
+戲	theatrical play, show (U+6232)	e688b2
+戳	prick, stab; stamp, seal, chop (U+6233)	e688b3
+戴	wear on top; support (U+6234)	e688b4
+戵	a halberd (U+6235)	e688b5
+戶	door; family, household (U+6236)	e688b6
+户	door; family (U+6237)	e688b7
+戸	door; family (U+6238)	e688b8
+戹	In difficulty, distressed (U+6239)	e688b9
+戺	stone boarder; steps (U+623A)	e688ba
+戻	perverse (U+623B)	e688bb
+戼	4th of Earth Branches; period from 5-7 a.m. (U+623C)	e688bc
+戽	to bale out water (U+623D)	e688bd
+戾	perverse, recalcitrant, rebellious (U+623E)	e688be
+房	house, building; room (U+623F)	e688bf
+所	place, location; numerary adjunct (U+6240)	e68980
+扁	flat; tablet, signboard (U+6241)	e68981
+扂	U+6242 (U+6242)	e68982
+扃	a door bar placed outside a door (U+6243)	e68983
+扄	large ring on a front door used as a knocker (U+6244)	e68984
+扅	gate bar, bolt (U+6245)	e68985
+扆	screen (U+6246)	e68986
+扇	fan; door panel (U+6247)	e68987
+扈	escort, retinue; insolent (U+6248)	e68988
+扉	door panel (U+6249)	e68989
+扊	upright bar for fastening door (U+624A)	e6898a
+手	hand (U+624B)	e6898b
+扌	hand; radical number 64 (U+624C)	e6898c
+才	talent, ability; just, only (U+624D)	e6898d
+扎	pull up; pierce; struggle free (U+624E)	e6898e
+扏	U+624F (U+624F)	e6898f
+扐	divine (U+6250)	e68990
+扑	pound, beat, strike; attack (U+6251)	e68991
+扒	scratch; dig up; crawl; crouch (U+6252)	e68992
+打	strike, hit, beat; fight; attack (U+6253)	e68993
+扔	throw, hurl; throw away, cast (U+6254)	e68994
+払	shake off, brush away; dust (U+6255)	e68995
+扖	U+6256 (U+6256)	e68996
+扗	U+6257 (U+6257)	e68997
+托	to hold up with palm; to support, rely on (U+6258)	e68998
+扙	U+6259 (U+6259)	e68999
+扚	U+625A (U+625A)	e6899a
+扛	carry on shoulders; lift (U+625B)	e6899b
+扜	U+625C (U+625C)	e6899c
+扝	U+625D (U+625D)	e6899d
+扞	ward off, withstand, resist (U+625E)	e6899e
+扟	U+625F (U+625F)	e6899f
+扠	pick up with fork or pincers (U+6260)	e689a0
+扡	drag along (U+6261)	e689a1
+扢	caper (U+6262)	e689a2
+扣	knock, strike, rap, tap; button (U+6263)	e689a3
+扤	to thrust; to move (U+6264)	e689a4
+扥	U+6265 (U+6265)	e689a5
+扦	probe, poke, prick, pierce (U+6266)	e689a6
+执	hold in hand; keep; carry out (U+6267)	e689a7
+扨	pick up with fork or pincers (U+6268)	e689a8
+扩	expand, enlarge, stretch (U+6269)	e689a9
+扪	stoke, pat, feel by hand, grope (U+626A)	e689aa
+扫	sweep, clear away; exterminate (U+626B)	e689ab
+扬	scatter, spread; praise (U+626C)	e689ac
+扭	turn, twist, wrench; seize, grasp (U+626D)	e689ad
+扮	dress up; dress up as (U+626E)	e689ae
+扯	rip up, tear down; raise; haul (U+626F)	e689af
+扰	disturb, annoy, agitate (U+6270)	e689b0
+扱	collect, draw in, gather; receive (U+6271)	e689b1
+扲	(Cant.) to pull out (U+6272)	e689b2
+扳	pull; drag; right itself (U+6273)	e689b3
+扴	U+6274 (U+6274)	e689b4
+扵	in, on, at, by, from; than; with reference to; compared with (U+6275)	e689b5
+扶	support, help; protect; hold on (U+6276)	e689b6
+扷	U+6277 (U+6277)	e689b7
+扸	U+6278 (U+6278)	e689b8
+批	comment, criticize; wholesale (U+6279)	e689b9
+扺	to strike one's palm with one's fist (U+627A)	e689ba
+扻	to strike; to run against to throw, as a stone (U+627B)	e689bb
+扼	grasp, clutch; choke, strangle (U+627C)	e689bc
+扽	to move, to shake (U+627D)	e689bd
+找	search, seek, look for; find (U+627E)	e689be
+承	inherit, receive; succeed (U+627F)	e689bf
+技	skill, ability, talent, ingenuity (U+6280)	e68a80
+抁	U+6281 (U+6281)	e68a81
+抂	U+6282 (U+6282)	e68a82
+抃	to clap hands; to cheer (U+6283)	e68a83
+抄	copy, confiscate, seize (U+6284)	e68a84
+抅	to collect; to join together (U+6285)	e68a85
+抆	wipe, rub off (U+6286)	e68a86
+抇	U+6287 (U+6287)	e68a87
+抈	to bend (U+6288)	e68a88
+抉	choose, select; gouge, pluck out (U+6289)	e68a89
+把	hold, take; guard; regard as (U+628A)	e68a8a
+抋	U+628B (U+628B)	e68a8b
+抌	to bale out water, to dip (U+628C)	e68a8c
+抍	to lift up; to rescue, save (U+628D)	e68a8d
+抎	U+628E (U+628E)	e68a8e
+抏	U+628F (U+628F)	e68a8f
+抐	U+6290 (U+6290)	e68a90
+抑	press down, repress; curb, hinder (U+6291)	e68a91
+抒	express; eliminate; relieve (U+6292)	e68a92
+抓	scratch; clutch, seize, grab (U+6293)	e68a93
+抔	take or hold up in both hands (U+6294)	e68a94
+投	throw, cast, fling, pitch; jump (U+6295)	e68a95
+抖	tremble, shake, rouse; give shake (U+6296)	e68a96
+抗	resist, oppose, defy, reject (U+6297)	e68a97
+折	break off, snap; bend (U+6298)	e68a98
+抙	U+6299 (U+6299)	e68a99
+抚	pat, console, comfort; pacify (U+629A)	e68a9a
+抛	throw (away) (U+629B)	e68a9b
+抜	uproot, pull out (U+629C)	e68a9c
+抝	U+629D (U+629D)	e68a9d
+択	select, choose, pick out (U+629E)	e68a9e
+抟	roll around with hand; model (U+629F)	e68a9f
+抠	raise, lift up; tight-fisted (U+62A0)	e68aa0
+抡	swing, brandish, flourish (U+62A1)	e68aa1
+抢	plunder, rob, take by force (U+62A2)	e68aa2
+抣	U+62A3 (U+62A3)	e68aa3
+护	protect, guard, defend, shelter (U+62A4)	e68aa4
+报	report, tell, announce (U+62A5)	e68aa5
+抦	(Cant.) to beat (U+62A6)	e68aa6
+抧	U+62A7 (U+62A7)	e68aa7
+抨	impeach, censure; attack (U+62A8)	e68aa8
+抩	U+62A9 (U+62A9)	e68aa9
+抪	to scatter, spread (U+62AA)	e68aaa
+披	wear; split; crack (U+62AB)	e68aab
+抬	lift, carry (U+62AC)	e68aac
+抭	U+62AD (U+62AD)	e68aad
+抮	to revolve, rotate (U+62AE)	e68aae
+抯	(Cant.) to grasp, hold (U+62AF)	e68aaf
+抰	U+62B0 (U+62B0)	e68ab0
+抱	embrace, hold in arms, enfold (U+62B1)	e68ab1
+抲	U+62B2 (U+62B2)	e68ab2
+抳	(Cant.) to crush, mash, grind (U+62B3)	e68ab3
+抴	U+62B4 (U+62B4)	e68ab4
+抵	resist, oppose; deny; off-set (U+62B5)	e68ab5
+抶	beat (U+62B6)	e68ab6
+抷	U+62B7 (U+62B7)	e68ab7
+抸	U+62B8 (U+62B8)	e68ab8
+抹	smear, apply, wipe off, erase (U+62B9)	e68ab9
+抺	U+62BA (U+62BA)	e68aba
+抻	pull (U+62BB)	e68abb
+押	mortgage, pledge; deposit; to pawn; to arrest, detain, guard (U+62BC)	e68abc
+抽	draw out, pull out; sprout (U+62BD)	e68abd
+抾	U+62BE (U+62BE)	e68abe
+抿	pucker up lips in smile; press (U+62BF)	e68abf
+拀	U+62C0 (U+62C0)	e68b80
+拁	U+62C1 (U+62C1)	e68b81
+拂	shake off, brush away; dust (U+62C2)	e68b82
+拃	grope, press, span (U+62C3)	e68b83
+拄	lean on; post; prod; ridicule (U+62C4)	e68b84
+担	carry, bear, undertake (U+62C5)	e68b85
+拆	to break up, split apart, rip open; to destroy (U+62C6)	e68b86
+拇	thumb; big toe (U+62C7)	e68b87
+拈	pick up with fingers; draw lots (U+62C8)	e68b88
+拉	pull, drag; seize, hold; lengthen (U+62C9)	e68b89
+拊	slap; pat; tap; handle of a vessel (U+62CA)	e68b8a
+拋	throw (away), abandon, reject (U+62CB)	e68b8b
+拌	mix (U+62CC)	e68b8c
+拍	clap, tap, beat; beat or rhythm (U+62CD)	e68b8d
+拎	to haul; to lift; to take (U+62CE)	e68b8e
+拏	take; bring; grasp, hold; arrest (U+62CF)	e68b8f
+拐	kidnap, abduct; turn (U+62D0)	e68b90
+拑	to clamp, tie down or pin down (U+62D1)	e68b91
+拒	ward off with hand, defend (U+62D2)	e68b92
+拓	expand; open up; support or push (U+62D3)	e68b93
+拔	uproot, pull out (U+62D4)	e68b94

@@ -1,0 +1,1024 @@
+諕	to intimidate (U+8AD5)	e8ab95
+論	debate; discuss; discourse (U+8AD6)	e8ab96
+諗	consult carefully with, counsel (U+8AD7)	e8ab97
+諘	U+8AD8 (U+8AD8)	e8ab98
+諙	U+8AD9 (U+8AD9)	e8ab99
+諚	(kokuji) command (U+8ADA)	e8ab9a
+諛	flatter, truckle (U+8ADB)	e8ab9b
+諜	an intelligence report; to spy; spying (U+8ADC)	e8ab9c
+諝	knowledge; discrimination; treachery (U+8ADD)	e8ab9d
+諞	brag, boast; quibble (U+8ADE)	e8ab9e
+諟	to examine; to consider; honest (U+8ADF)	e8ab9f
+諠	noisy, uproarious; forget (U+8AE0)	e8aba0
+諡	posthumous name, posthumous title (U+8AE1)	e8aba1
+諢	jokes, obscene jests; joke (U+8AE2)	e8aba2
+諣	U+8AE3 (U+8AE3)	e8aba3
+諤	honest speech, straightforward (U+8AE4)	e8aba4
+諥	U+8AE5 (U+8AE5)	e8aba5
+諦	careful, attentive (U+8AE6)	e8aba6
+諧	harmonize, agree; joke, jest (U+8AE7)	e8aba7
+諨	U+8AE8 (U+8AE8)	e8aba8
+諩	U+8AE9 (U+8AE9)	e8aba9
+諪	U+8AEA (U+8AEA)	e8abaa
+諫	remonstrate, admonish (U+8AEB)	e8abab
+諬	to open to begin to explain to inform a letter (U+8AEC)	e8abac
+諭	proclaim, instruct; edict (U+8AED)	e8abad
+諮	consult, confer; communicate in (U+8AEE)	e8abae
+諯	U+8AEF (U+8AEF)	e8abaf
+諰	apprehensive (U+8AF0)	e8abb0
+諱	conceal; shun; regard as taboo (U+8AF1)	e8abb1
+諲	U+8AF2 (U+8AF2)	e8abb2
+諳	versed in, fully acquainted with (U+8AF3)	e8abb3
+諴	in harmony; in agreement; incere (U+8AF4)	e8abb4
+諵	mutter (U+8AF5)	e8abb5
+諶	sincere, faithful; surname (U+8AF6)	e8abb6
+諷	recite, incant; satirize (U+8AF7)	e8abb7
+諸	several, various (U+8AF8)	e8abb8
+諹	U+8AF9 (U+8AF9)	e8abb9
+諺	proverb, maxim (U+8AFA)	e8abba
+諻	U+8AFB (U+8AFB)	e8abbb
+諼	forget; lie, cheat, deceive (U+8AFC)	e8abbc
+諽	U+8AFD (U+8AFD)	e8abbd
+諾	promise; assent, approve (U+8AFE)	e8abbe
+諿	U+8AFF (U+8AFF)	e8abbf
+謀	plan, scheme; strategem (U+8B00)	e8ac80
+謁	visit, pay respects to (U+8B01)	e8ac81
+謂	say, tell; call, name; be called (U+8B02)	e8ac82
+謃	U+8B03 (U+8B03)	e8ac83
+謄	copy, transcribe (U+8B04)	e8ac84
+謅	play with words, quip; talk nonse (U+8B05)	e8ac85
+謆	beguile, cajole (U+8B06)	e8ac86
+謇	stutter; speak out boldly (U+8B07)	e8ac87
+謈	U+8B08 (U+8B08)	e8ac88
+謉	U+8B09 (U+8B09)	e8ac89
+謊	lie (U+8B0A)	e8ac8a
+謋	U+8B0B (U+8B0B)	e8ac8b
+謌	slander, defame (U+8B0C)	e8ac8c
+謍	U+8B0D (U+8B0D)	e8ac8d
+謎	riddle, conundrum; puzzle (U+8B0E)	e8ac8e
+謏	scold, censure; lead people toward virtuous ways; small, little (U+8B0F)	e8ac8f
+謐	calm, quiet, still; cautious (U+8B10)	e8ac90
+謑	shame, disgrace (U+8B11)	e8ac91
+謒	U+8B12 (U+8B12)	e8ac92
+謓	U+8B13 (U+8B13)	e8ac93
+謔	jeer (U+8B14)	e8ac94
+謕	U+8B15 (U+8B15)	e8ac95
+謖	rise up; raise up (U+8B16)	e8ac96
+謗	slander, libel (U+8B17)	e8ac97
+謘	U+8B18 (U+8B18)	e8ac98
+謙	humble, modest (U+8B19)	e8ac99
+謚	to confer posthumous titles (U+8B1A)	e8ac9a
+講	explain; discuss; talk (U+8B1B)	e8ac9b
+謜	U+8B1C (U+8B1C)	e8ac9c
+謝	thank; decline (U+8B1D)	e8ac9d
+謞	U+8B1E (U+8B1E)	e8ac9e
+謟	flatter; suspect, be uncertain (U+8B1F)	e8ac9f
+謠	sing; folksong, ballad; rumor (U+8B20)	e8aca0
+謡	sing; folksong, ballad; rumor (U+8B21)	e8aca1
+謢	U+8B22 (U+8B22)	e8aca2
+謣	U+8B23 (U+8B23)	e8aca3
+謤	U+8B24 (U+8B24)	e8aca4
+謥	U+8B25 (U+8B25)	e8aca5
+謦	t speak softly (U+8B26)	e8aca6
+謧	U+8B27 (U+8B27)	e8aca7
+謨	scheme, plan; plan; be without (U+8B28)	e8aca8
+謩	U+8B29 (U+8B29)	e8aca9
+謪	to consult; to deliberate; commerce (U+8B2A)	e8acaa
+謫	charge, blame; disgrace; demote; punish (U+8B2B)	e8acab
+謬	error, exaggeration; erroneous (U+8B2C)	e8acac
+謭	shallow; stupid (U+8B2D)	e8acad
+謮	U+8B2E (U+8B2E)	e8acae
+謯	U+8B2F (U+8B2F)	e8acaf
+謰	U+8B30 (U+8B30)	e8acb0
+謱	U+8B31 (U+8B31)	e8acb1
+謲	U+8B32 (U+8B32)	e8acb2
+謳	to sing; songs (U+8B33)	e8acb3
+謴	U+8B34 (U+8B34)	e8acb4
+謵	U+8B35 (U+8B35)	e8acb5
+謶	U+8B36 (U+8B36)	e8acb6
+謷	slander; to revile; huge; big (U+8B37)	e8acb7
+謸	U+8B38 (U+8B38)	e8acb8
+謹	prudent, cautious; attentive (U+8B39)	e8acb9
+謺	U+8B3A (U+8B3A)	e8acba
+謻	U+8B3B (U+8B3B)	e8acbb
+謼	to shout; to mourn to invoke (U+8B3C)	e8acbc
+謽	U+8B3D (U+8B3D)	e8acbd
+謾	deceive, insult (U+8B3E)	e8acbe
+謿	ridicule, deride, scorn, jeer at (U+8B3F)	e8acbf
+譀	U+8B40 (U+8B40)	e8ad80
+譁	noise, uproar; clamor, hubbub (U+8B41)	e8ad81
+譂	U+8B42 (U+8B42)	e8ad82
+譃	U+8B43 (U+8B43)	e8ad83
+譄	U+8B44 (U+8B44)	e8ad84
+譅	wriggling (U+8B45)	e8ad85
+譆	scream (U+8B46)	e8ad86
+譇	U+8B47 (U+8B47)	e8ad87
+譈	dislike (U+8B48)	e8ad88
+證	proof, evidence; testify, verify (U+8B49)	e8ad89
+譊	wrangling; to quarrel (U+8B4A)	e8ad8a
+譋	U+8B4B (U+8B4B)	e8ad8b
+譌	false, erronious (U+8B4C)	e8ad8c
+譍	answer (U+8B4D)	e8ad8d
+譎	cunning, crafty, sly, wily (U+8B4E)	e8ad8e
+譏	ridicule, jeer, mock; inspect (U+8B4F)	e8ad8f
+譐	to talk, converse (U+8B50)	e8ad90
+譑	U+8B51 (U+8B51)	e8ad91
+譒	U+8B52 (U+8B52)	e8ad92
+譓	U+8B53 (U+8B53)	e8ad93
+譔	eulogize; compose, write (U+8B54)	e8ad94
+譕	U+8B55 (U+8B55)	e8ad95
+譖	to slander (U+8B56)	e8ad96
+譗	U+8B57 (U+8B57)	e8ad97
+識	recognize, understand, know (U+8B58)	e8ad98
+譙	tower; surname (U+8B59)	e8ad99
+譚	surname; to talk (U+8B5A)	e8ad9a
+譛	to slander (U+8B5B)	e8ad9b
+譜	register, list, table; musical score (U+8B5C)	e8ad9c
+譝	U+8B5D (U+8B5D)	e8ad9d
+譞	U+8B5E (U+8B5E)	e8ad9e
+譟	clamor, noise, din; slander (U+8B5F)	e8ad9f
+譠	U+8B60 (U+8B60)	e8ada0
+譡	U+8B61 (U+8B61)	e8ada1
+譢	U+8B62 (U+8B62)	e8ada2
+譣	U+8B63 (U+8B63)	e8ada3
+譤	U+8B64 (U+8B64)	e8ada4
+譥	U+8B65 (U+8B65)	e8ada5
+警	guard, watch; alert, alarm (U+8B66)	e8ada6
+譧	U+8B67 (U+8B67)	e8ada7
+譨	U+8B68 (U+8B68)	e8ada8
+譩	U+8B69 (U+8B69)	e8ada9
+譪	U+8B6A (U+8B6A)	e8adaa
+譫	talkative; incoherent talk (U+8B6B)	e8adab
+譬	metaphor, simile, example (U+8B6C)	e8adac
+譭	to slander; to defame (U+8B6D)	e8adad
+譮	U+8B6E (U+8B6E)	e8adae
+譯	translate; decode; encode (U+8B6F)	e8adaf
+議	consult, talk over, discuss (U+8B70)	e8adb0
+譱	U+8B71 (U+8B71)	e8adb1
+譲	allow, permit, yield, concede (U+8B72)	e8adb2
+譳	U+8B73 (U+8B73)	e8adb3
+譴	reprimand, scold, abuse (U+8B74)	e8adb4
+譵	U+8B75 (U+8B75)	e8adb5
+譶	U+8B76 (U+8B76)	e8adb6
+護	protect, guard, defend, shelter (U+8B77)	e8adb7
+譸	deceive, cheat; hurried, bustling (U+8B78)	e8adb8
+譹	to shout, roar, terrify; swiftly (U+8B79)	e8adb9
+譺	U+8B7A (U+8B7A)	e8adba
+譻	U+8B7B (U+8B7B)	e8adbb
+譼	to supervise to confine a government establishment (U+8B7C)	e8adbc
+譽	fame, reputation; praise (U+8B7D)	e8adbd
+譾	shallow; stupid (U+8B7E)	e8adbe
+譿	U+8B7F (U+8B7F)	e8adbf
+讀	read, study; pronounce (U+8B80)	e8ae80
+讁	punish; fault, blame, reprove (U+8B81)	e8ae81
+讂	U+8B82 (U+8B82)	e8ae82
+讃	praise, commend, eulogize (U+8B83)	e8ae83
+讄	U+8B84 (U+8B84)	e8ae84
+讅	know in detail (U+8B85)	e8ae85
+讆	to exaggerate; incredible (U+8B86)	e8ae86
+讇	flatter; suspect, be uncertain (U+8B87)	e8ae87
+讈	U+8B88 (U+8B88)	e8ae88
+讉	U+8B89 (U+8B89)	e8ae89
+變	change, transform, alter; rebel (U+8B8A)	e8ae8a
+讋	fear; envy; loquacious (U+8B8B)	e8ae8b
+讌	a feast, banquet; to entertain, feast (U+8B8C)	e8ae8c
+讍	honest speech (U+8B8D)	e8ae8d
+讎	enemy, rival, opponent (U+8B8E)	e8ae8e
+讏	U+8B8F (U+8B8F)	e8ae8f
+讐	enemy, rival, opponent (U+8B90)	e8ae90
+讑	U+8B91 (U+8B91)	e8ae91
+讒	slander, defame, misrepresent (U+8B92)	e8ae92
+讓	allow, permit, yield, concede (U+8B93)	e8ae93
+讔	U+8B94 (U+8B94)	e8ae94
+讕	accuse falsely; slander, libel (U+8B95)	e8ae95
+讖	prophecy, hint, omen (U+8B96)	e8ae96
+讗	U+8B97 (U+8B97)	e8ae97
+讘	U+8B98 (U+8B98)	e8ae98
+讙	cheer; noise, noisy (U+8B99)	e8ae99
+讚	praise, commend, eulogize (U+8B9A)	e8ae9a
+讛	U+8B9B (U+8B9B)	e8ae9b
+讜	counsel, advice; speak out (U+8B9C)	e8ae9c
+讝	U+8B9D (U+8B9D)	e8ae9d
+讞	to decide, judge; a verdict, decision (U+8B9E)	e8ae9e
+讟	slander, utter evil words (U+8B9F)	e8ae9f
+讠	simplified KangXi radical 149 (U+8BA0)	e8aea0
+计	plan, plot; strategem; scheme (U+8BA1)	e8aea1
+订	draw up agreement; arrange (U+8BA2)	e8aea2
+讣	obituary; give notice of death (U+8BA3)	e8aea3
+认	recognize, know, understand (U+8BA4)	e8aea4
+讥	ridicule, jeer, mock; inspect (U+8BA5)	e8aea5
+讦	expose other's secrets, pry (U+8BA6)	e8aea6
+讧	confusion; internal strife (U+8BA7)	e8aea7
+讨	to discuss; ask for, beg; demand; dun; marry (U+8BA8)	e8aea8
+让	allow, permit, yield, concede (U+8BA9)	e8aea9
+讪	abuse, slander; vilify; ridicule (U+8BAA)	e8aeaa
+讫	finish; conclude, stop; exhaust (U+8BAB)	e8aeab
+讬	entrust, rely on; commission (U+8BAC)	e8aeac
+训	teach, instruct; exegesis (U+8BAD)	e8aead
+议	consult, talk over, discuss (U+8BAE)	e8aeae
+讯	inquire; ask; examine; reproach (U+8BAF)	e8aeaf
+记	record; keep in mind, remember (U+8BB0)	e8aeb0
+讱	hesitate to say, reluctant to speak (U+8BB1)	e8aeb1
+讲	explain; discuss; talk (U+8BB2)	e8aeb2
+讳	conceal; shun; regard as taboo (U+8BB3)	e8aeb3
+讴	sing; songs (U+8BB4)	e8aeb4
+讵	an interjection used express surprise (U+8BB5)	e8aeb5
+讶	express surprise, be surprised (U+8BB6)	e8aeb6
+讷	slow of speech; mumble; stammer (U+8BB7)	e8aeb7
+许	allow, permit; promise; betroth (U+8BB8)	e8aeb8
+讹	swindle, cheat; erroneous, wrong (U+8BB9)	e8aeb9
+论	debate; discuss; discourse (U+8BBA)	e8aeba
+讻	noisily; uproarious; troublesome (U+8BBB)	e8aebb
+讼	accuse; argue, dispute; litigate (U+8BBC)	e8aebc
+讽	recite, incant; satirize (U+8BBD)	e8aebd
+设	build; establish; display (U+8BBE)	e8aebe
+访	visit; ask, inquire (U+8BBF)	e8aebf
+诀	take leave of, bid farewell (U+8BC0)	e8af80
+证	prove, confirm, verify; proof (U+8BC1)	e8af81
+诂	exegesis, explanation; explain (U+8BC2)	e8af82
+诃	scold loudly, curse, abuse (U+8BC3)	e8af83
+评	appraise, criticize, evaluate (U+8BC4)	e8af84
+诅	curse; swear, pledge (U+8BC5)	e8af85
+识	recognize, understand, know (U+8BC6)	e8af86
+诇	to spy; to give information; shrewd (U+8BC7)	e8af87
+诈	cheat, defraud, swindle; trick (U+8BC8)	e8af88
+诉	accuse; sue; inform; narrate (U+8BC9)	e8af89
+诊	examine patient, diagnose (U+8BCA)	e8af8a
+诋	slander, comdemn, reproach (U+8BCB)	e8af8b
+诌	play with words, quip; talk nonse (U+8BCC)	e8af8c
+词	words; phrase, expression (U+8BCD)	e8af8d
+诎	bend, stoop, crouch; to yield (U+8BCE)	e8af8e
+诏	decree, proclaim; imperial decree (U+8BCF)	e8af8f
+诐	argue; biased; one-sided (U+8BD0)	e8af90
+译	translate; decode; encode (U+8BD1)	e8af91
+诒	bequeath, pass on to future generations (U+8BD2)	e8af92
+诓	cheat, swindle, lie (U+8BD3)	e8af93
+诔	eulogize, praise the dead (U+8BD4)	e8af94
+试	test, try, experiment (U+8BD5)	e8af95
+诖	error, mistake; deceive, mislead (U+8BD6)	e8af96
+诗	poetry; poem, verse, ode (U+8BD7)	e8af97
+诘	question, interrogate (U+8BD8)	e8af98
+诙	tease, joke with; ridicule, mock (U+8BD9)	e8af99
+诚	sincere, honest; true, real (U+8BDA)	e8af9a
+诛	execute, kill, put to death; punish (U+8BDB)	e8af9b
+诜	inquire, question; numerous (U+8BDC)	e8af9c
+话	speech, talk, language; dialect (U+8BDD)	e8af9d
+诞	bear children, give birth; birth (U+8BDE)	e8af9e
+诟	abuse, scold, berate, insult (U+8BDF)	e8af9f
+诠	explain, expound, comment on (U+8BE0)	e8afa0
+诡	deceive, cheat, defraud; sly (U+8BE1)	e8afa1
+询	inquire into, ask about; consult (U+8BE2)	e8afa2
+诣	reach; achievement, accomplishment (U+8BE3)	e8afa3
+诤	to expostulate; to remonstrate (U+8BE4)	e8afa4
+该	should, ought to, need to (U+8BE5)	e8afa5
+详	detailed, complete, thorough (U+8BE6)	e8afa6
+诧	be surprised, be shocked (U+8BE7)	e8afa7
+诨	jokes, obsene jests; joke (U+8BE8)	e8afa8
+诩	boast, brag; popular, well-known (U+8BE9)	e8afa9
+诪	deceive, cheat; hurried, bustling (U+8BEA)	e8afaa
+诫	warn, admonish; warning (U+8BEB)	e8afab
+诬	make false accusation; defame (U+8BEC)	e8afac
+语	language, words; saying, expression (U+8BED)	e8afad
+诮	criticize, scold, blame, ridicule (U+8BEE)	e8afae
+误	err, make mistake; interfere (U+8BEF)	e8afaf
+诰	inform, notify, admonish, order (U+8BF0)	e8afb0
+诱	persuade, entice, induce; guide (U+8BF1)	e8afb1
+诲	teach, instruct; encourage, urge (U+8BF2)	e8afb2
+诳	deceive, lie, delude, cheat (U+8BF3)	e8afb3
+说	speak, say, talk; scold, upbraid (U+8BF4)	e8afb4
+诵	recite, chant, repeat (U+8BF5)	e8afb5
+诶	an exclamation of confirmation (U+8BF6)	e8afb6
+请	ask, request; invite; please (U+8BF7)	e8afb7
+诸	various, all, these; surname (U+8BF8)	e8afb8
+诹	consult, confer; select, choose (U+8BF9)	e8afb9
+诺	promise; assent, approve (U+8BFA)	e8afba
+读	read, study; pronounce (U+8BFB)	e8afbb
+诼	slander; gossip; rumors (U+8BFC)	e8afbc
+诽	slander, vilify, condemn (U+8BFD)	e8afbd
+课	lesson; course; classwork (U+8BFE)	e8afbe
+诿	pass buck, lay blame on others (U+8BFF)	e8afbf
+谀	flatter, truckle (U+8C00)	e8b080
+谁	who? whom? whose? anyone? (U+8C01)	e8b081
+谂	consult carefully with, counsel (U+8C02)	e8b082
+调	transfer, move, change; tune (U+8C03)	e8b083
+谄	flatter, truckle, toady (U+8C04)	e8b084
+谅	excuse, forgive; guess, presume (U+8C05)	e8b085
+谆	patient, earnest; earnestly (U+8C06)	e8b086
+谇	speak ill of, vilify; berate (U+8C07)	e8b087
+谈	talk; conversation; surname (U+8C08)	e8b088
+谉	U+8C09 (U+8C09)	e8b089
+谊	friendship; appropriate, suitable (U+8C0A)	e8b08a
+谋	plan, scheme; strategem (U+8C0B)	e8b08b
+谌	sincere, faithful; surname (U+8C0C)	e8b08c
+谍	an intelligence report; to spy; spying (U+8C0D)	e8b08d
+谎	lie (U+8C0E)	e8b08e
+谏	remonstrate, admonish (U+8C0F)	e8b08f
+谐	harmonize, agree; joke, jest (U+8C10)	e8b090
+谑	jeer (U+8C11)	e8b091
+谒	visit, pay respects (U+8C12)	e8b092
+谓	say, tell; call, name; be called (U+8C13)	e8b093
+谔	honest speech, straightforward (U+8C14)	e8b094
+谕	proclaim, instruct; edict (U+8C15)	e8b095
+谖	forget; lie, cheat, deceive (U+8C16)	e8b096
+谗	slander, defame, misrepresent (U+8C17)	e8b097
+谘	consult, confer; communicate in (U+8C18)	e8b098
+谙	versed in, fully acquainted with (U+8C19)	e8b099
+谚	proverb, maxim (U+8C1A)	e8b09a
+谛	careful, attentive (U+8C1B)	e8b09b
+谜	riddle, conundrum; puzzle (U+8C1C)	e8b09c
+谝	brag, boast; quibble (U+8C1D)	e8b09d
+谞	knowledge; discrimination; treachery (U+8C1E)	e8b09e
+谟	scheme, plan; plan; be without (U+8C1F)	e8b09f
+谠	counsel, advice; speak out (U+8C20)	e8b0a0
+谡	rise up; raise up (U+8C21)	e8b0a1
+谢	thank; decline (U+8C22)	e8b0a2
+谣	sing; folksong, ballad; rumor (U+8C23)	e8b0a3
+谤	slander, libel (U+8C24)	e8b0a4
+谥	to confer posthumous titles (U+8C25)	e8b0a5
+谦	humble, modest (U+8C26)	e8b0a6
+谧	calm, quiet, still; cautious (U+8C27)	e8b0a7
+谨	prudent, cautious; attentive (U+8C28)	e8b0a8
+谩	deceive, insult (U+8C29)	e8b0a9
+谪	charge, blame; disgrace; demote (U+8C2A)	e8b0aa
+谫	shallow; stupid (U+8C2B)	e8b0ab
+谬	error, exaggeration; erroneous (U+8C2C)	e8b0ac
+谭	surname (U+8C2D)	e8b0ad
+谮	to slander (U+8C2E)	e8b0ae
+谯	tower; surname (U+8C2F)	e8b0af
+谰	accuse falsely; slander, libel (U+8C30)	e8b0b0
+谱	list, table; musical score (U+8C31)	e8b0b1
+谲	cunning, crafty, sly, wily (U+8C32)	e8b0b2
+谳	to decide, judge; a verdict, decision (U+8C33)	e8b0b3
+谴	reprimand, scold, abuse (U+8C34)	e8b0b4
+谵	talkative; incoherent talk (U+8C35)	e8b0b5
+谶	prophecy, hint, omen (U+8C36)	e8b0b6
+谷	valley, gorge, ravine (U+8C37)	e8b0b7
+谸	U+8C38 (U+8C38)	e8b0b8
+谹	U+8C39 (U+8C39)	e8b0b9
+谺	the mouth of a valley (U+8C3A)	e8b0ba
+谻	U+8C3B (U+8C3B)	e8b0bb
+谼	U+8C3C (U+8C3C)	e8b0bc
+谽	a mouth or opening (U+8C3D)	e8b0bd
+谾	U+8C3E (U+8C3E)	e8b0be
+谿	valley, gorge; mountain stream (U+8C3F)	e8b0bf
+豀	to quarrel; mean and petty (U+8C40)	e8b180
+豁	open up, clear; exempt (U+8C41)	e8b181
+豂	U+8C42 (U+8C42)	e8b182
+豃	U+8C43 (U+8C43)	e8b183
+豄	U+8C44 (U+8C44)	e8b184
+豅	U+8C45 (U+8C45)	e8b185
+豆	beans, peas; bean-shaped (U+8C46)	e8b186
+豇	a small kidney bean (U+8C47)	e8b187
+豈	how? what? (U+8C48)	e8b188
+豉	fermented beans (U+8C49)	e8b189
+豊	abundant, lush, bountiful, plenty (U+8C4A)	e8b18a
+豋	ceremonial vessel (U+8C4B)	e8b18b
+豌	peas (U+8C4C)	e8b18c
+豍	U+8C4D (U+8C4D)	e8b18d
+豎	vertical; perpendicular; upright (U+8C4E)	e8b18e
+豏	half-grown beans (U+8C4F)	e8b18f
+豐	abundant, lush, bountiful, plenty (U+8C50)	e8b190
+豑	U+8C51 (U+8C51)	e8b191
+豒	U+8C52 (U+8C52)	e8b192
+豓	beautiful, captivating, plump, voluptuous (U+8C53)	e8b193
+豔	plump, voluptuous, beautiful (U+8C54)	e8b194
+豕	a pig, boar; KangXi radical 152 (U+8C55)	e8b195
+豖	a shackled pig (U+8C56)	e8b196
+豗	clamour (U+8C57)	e8b197
+豘	a small pig (U+8C58)	e8b198
+豙	U+8C59 (U+8C59)	e8b199
+豚	small pig, suckling pig; suffle (U+8C5A)	e8b19a
+豛	U+8C5B (U+8C5B)	e8b19b
+豜	pig of 3 years (U+8C5C)	e8b19c
+豝	sow (female pig) (U+8C5D)	e8b19d
+豞	U+8C5E (U+8C5E)	e8b19e
+豟	U+8C5F (U+8C5F)	e8b19f
+豠	U+8C60 (U+8C60)	e8b1a0
+象	elephant; ivory; figure, image (U+8C61)	e8b1a1
+豢	domestic animals; feed, raise (U+8C62)	e8b1a2
+豣	pig of 3 years (U+8C63)	e8b1a3
+豤	U+8C64 (U+8C64)	e8b1a4
+豥	U+8C65 (U+8C65)	e8b1a5
+豦	a wild boar; to fight (U+8C66)	e8b1a6
+豧	U+8C67 (U+8C67)	e8b1a7
+豨	pig, hog (U+8C68)	e8b1a8
+豩	U+8C69 (U+8C69)	e8b1a9
+豪	brave, heroic, chivalrous (U+8C6A)	e8b1aa
+豫	relaxed, comfortable, at ease (U+8C6B)	e8b1ab
+豬	pig, hog (U+8C6C)	e8b1ac
+豭	boar, male pig (U+8C6D)	e8b1ad
+豮	castrate pig (U+8C6E)	e8b1ae
+豯	U+8C6F (U+8C6F)	e8b1af
+豰	U+8C70 (U+8C70)	e8b1b0
+豱	U+8C71 (U+8C71)	e8b1b1
+豲	U+8C72 (U+8C72)	e8b1b2
+豳	a Zhou-dynasty state (U+8C73)	e8b1b3
+豴	a pig's hoof; to go, to send (U+8C74)	e8b1b4
+豵	young pig (U+8C75)	e8b1b5
+豶	castrate pig (U+8C76)	e8b1b6
+豷	person's name (U+8C77)	e8b1b7
+豸	KangXi radical 153; legless insects; a legendary beast (U+8C78)	e8b1b8
+豹	leopard, panther; surname (U+8C79)	e8b1b9
+豺	wolf; cruel, wicked, mean (U+8C7A)	e8b1ba
+豻	prison; a kind of wild dog (U+8C7B)	e8b1bb
+豼	fox, leopard, panther (U+8C7C)	e8b1bc
+豽	U+8C7D (U+8C7D)	e8b1bd
+豾	U+8C7E (U+8C7E)	e8b1be
+豿	U+8C7F (U+8C7F)	e8b1bf
+貀	U+8C80 (U+8C80)	e8b280
+貁	U+8C81 (U+8C81)	e8b281
+貂	marten, sable, mink (U+8C82)	e8b282
+貃	U+8C83 (U+8C83)	e8b283
+貄	U+8C84 (U+8C84)	e8b284
+貅	brave, fierce, courageous (U+8C85)	e8b285
+貆	small badger; porcupine (U+8C86)	e8b286
+貇	to root, gnaw (U+8C87)	e8b287
+貈	U+8C88 (U+8C88)	e8b288
+貉	badger; raccoon dog (U+8C89)	e8b289
+貊	leopard; ancient tribe in northeastern China (U+8C8A)	e8b28a
+貋	U+8C8B (U+8C8B)	e8b28b
+貌	countenance, appearance (U+8C8C)	e8b28c
+貍	a fox-like animal (U+8C8D)	e8b28d
+貎	lion; wild beast; wild horse (U+8C8E)	e8b28e
+貏	U+8C8F (U+8C8F)	e8b28f
+貐	U+8C90 (U+8C90)	e8b290
+貑	U+8C91 (U+8C91)	e8b291
+貒	U+8C92 (U+8C92)	e8b292
+貓	cat (U+8C93)	e8b293
+貔	fox, leopard, panther (U+8C94)	e8b294
+貕	U+8C95 (U+8C95)	e8b295
+貖	U+8C96 (U+8C96)	e8b296
+貗	U+8C97 (U+8C97)	e8b297
+貘	the panther; the tapir (U+8C98)	e8b298
+貙	a kind of animal like a tiger; fierce wild beasts (U+8C99)	e8b299
+貚	U+8C9A (U+8C9A)	e8b29a
+貛	badger (U+8C9B)	e8b29b
+貜	ape (U+8C9C)	e8b29c
+貝	sea shell; money, currency (U+8C9D)	e8b29d
+貞	virtuous, chaste, pure; loyal (U+8C9E)	e8b29e
+貟	member; personnel, staff member (U+8C9F)	e8b29f
+負	load, burden; carry, bear (U+8CA0)	e8b2a0
+財	wealth, valuables, riches (U+8CA1)	e8b2a1
+貢	offer tribute; tribute, gifts (U+8CA2)	e8b2a2
+貣	U+8CA3 (U+8CA3)	e8b2a3
+貤	steps, grade, strata; series (U+8CA4)	e8b2a4
+貥	U+8CA5 (U+8CA5)	e8b2a5
+貦	U+8CA6 (U+8CA6)	e8b2a6
+貧	poor, impoverished, needy (U+8CA7)	e8b2a7
+貨	goods, commodities, products (U+8CA8)	e8b2a8
+販	peddler, hawker, street merchant (U+8CA9)	e8b2a9
+貪	greedy, covet; covetous (U+8CAA)	e8b2aa
+貫	a string of 1000 coins; to go through (U+8CAB)	e8b2ab
+責	one's responsibility, duty (U+8CAC)	e8b2ac
+貭	matter, material, substance (U+8CAD)	e8b2ad
+貮	number two (U+8CAE)	e8b2ae
+貯	store, stockpile, hoard (U+8CAF)	e8b2af
+貰	borrow; pardon; loan (U+8CB0)	e8b2b0
+貱	U+8CB1 (U+8CB1)	e8b2b1
+貲	property; wealth; to count (U+8CB2)	e8b2b2
+貳	number two (U+8CB3)	e8b2b3
+貴	expensive, costly, valuable (U+8CB4)	e8b2b4
+貵	U+8CB5 (U+8CB5)	e8b2b5
+貶	decrease, lower; censure, criticize (U+8CB6)	e8b2b6
+買	buy, purchase; bribe, persuade (U+8CB7)	e8b2b7
+貸	lend; borrow; pardon (U+8CB8)	e8b2b8
+貹	U+8CB9 (U+8CB9)	e8b2b9
+貺	give, grant, bestow; surname (U+8CBA)	e8b2ba
+費	expenses, expenditures, fee (U+8CBB)	e8b2bb
+貼	paste to, stick on; attached to (U+8CBC)	e8b2bc
+貽	give to, hand down, bequeath (U+8CBD)	e8b2bd
+貾	U+8CBE (U+8CBE)	e8b2be
+貿	trade, barter; mixed; rashly (U+8CBF)	e8b2bf
+賀	congratulate; send present (U+8CC0)	e8b380
+賁	forge ahead; energetic; surname (U+8CC1)	e8b381
+賂	bribe; give present (U+8CC2)	e8b382
+賃	rent, hire; hired person (U+8CC3)	e8b383
+賄	bribe; bribes; riches, wealth (U+8CC4)	e8b384
+賅	prepared for; inclusive (U+8CC5)	e8b385
+賆	U+8CC6 (U+8CC6)	e8b386
+資	property; wealth; capital (U+8CC7)	e8b387
+賈	surname; merchant; buy, trade (U+8CC8)	e8b388
+賉	to give alms (U+8CC9)	e8b389
+賊	thief, traitor (U+8CCA)	e8b38a
+賋	U+8CCB (U+8CCB)	e8b38b
+賌	U+8CCC (U+8CCC)	e8b38c
+賍	booty, loot, stolen goods; bribe (U+8CCD)	e8b38d
+賎	mean, low; cheap, worthless (U+8CCE)	e8b38e
+賏	pearls or shells strung together (U+8CCF)	e8b38f
+賐	U+8CD0 (U+8CD0)	e8b390
+賑	relieve, aid distressed; rich (U+8CD1)	e8b391
+賒	buy and sell on credit, distant (U+8CD2)	e8b392
+賓	guest, visitor; surname; submit (U+8CD3)	e8b393
+賔	guest, visitor; surname; submit (U+8CD4)	e8b394
+賕	bribe (U+8CD5)	e8b395
+賖	U+8CD6 (U+8CD6)	e8b396
+賗	U+8CD7 (U+8CD7)	e8b397
+賘	U+8CD8 (U+8CD8)	e8b398
+賙	give for charity (U+8CD9)	e8b399
+賚	give, present, confer; surname (U+8CDA)	e8b39a
+賛	help, support, assist, aid (U+8CDB)	e8b39b
+賜	give, bestow favors; appoint (U+8CDC)	e8b39c
+賝	preious (U+8CDD)	e8b39d
+賞	reward, grant, bestow; appreciate (U+8CDE)	e8b39e
+賟	U+8CDF (U+8CDF)	e8b39f
+賠	indemnify, suffer loss (U+8CE0)	e8b3a0
+賡	continue (U+8CE1)	e8b3a1
+賢	virtuous, worthy, good; able (U+8CE2)	e8b3a2
+賣	sell; betray; show off (U+8CE3)	e8b3a3
+賤	mean, low; cheap, worthless (U+8CE4)	e8b3a4
+賥	U+8CE5 (U+8CE5)	e8b3a5
+賦	tax; give; endow; army; diffuse (U+8CE6)	e8b3a6
+賧	fine (U+8CE7)	e8b3a7
+賨	tribute paid in cloth by the tribes in Szechwan and Yunnan under the Han dynasty (U+8CE8)	e8b3a8
+賩	U+8CE9 (U+8CE9)	e8b3a9
+質	matter, material, substance (U+8CEA)	e8b3aa
+賫	present (U+8CEB)	e8b3ab
+賬	accounts; bill, debt; credit (U+8CEC)	e8b3ac
+賭	bet, gamble, wager; compete (U+8CED)	e8b3ad
+賮	farewell gift (U+8CEE)	e8b3ae
+賯	U+8CEF (U+8CEF)	e8b3af
+賰	plentiful, wealthy or rich; handsome (pay, gifts, etc.) (U+8CF0)	e8b3b0
+賱	U+8CF1 (U+8CF1)	e8b3b1
+賲	U+8CF2 (U+8CF2)	e8b3b2
+賳	U+8CF3 (U+8CF3)	e8b3b3
+賴	rely, depend on; accuse falsely (U+8CF4)	e8b3b4
+賵	gift (U+8CF5)	e8b3b5
+賶	U+8CF6 (U+8CF6)	e8b3b6
+賷	U+8CF7 (U+8CF7)	e8b3b7
+賸	leftovers, residue, remains (U+8CF8)	e8b3b8
+賹	U+8CF9 (U+8CF9)	e8b3b9
+賺	make money, earn; gain, profit (U+8CFA)	e8b3ba
+賻	gift of money help pay funeral (U+8CFB)	e8b3bb
+購	buy, purchase; hire (U+8CFC)	e8b3bc
+賽	compete, contend; contest, race (U+8CFD)	e8b3bd
+賾	abstruse, deep, profound (U+8CFE)	e8b3be
+賿	U+8CFF (U+8CFF)	e8b3bf
+贀	U+8D00 (U+8D00)	e8b480
+贁	to defeat to spoil or be spoiled; to corrupt or be corrupted (U+8D01)	e8b481
+贂	U+8D02 (U+8D02)	e8b482
+贃	to earn, to make a profit; (Cant.) to enjoy oneself (U+8D03)	e8b483
+贄	gift superior; gift given (U+8D04)	e8b484
+贅	unnecessary, superfluous (U+8D05)	e8b485
+贆	U+8D06 (U+8D06)	e8b486
+贇	affable, agreeable, pleasant (U+8D07)	e8b487
+贈	give present; bestow, confer (U+8D08)	e8b488
+贉	earnest money; silk label on books (U+8D09)	e8b489
+贊	help, support, assist, aid (U+8D0A)	e8b48a
+贋	false; counterfeit; bogus; sham (U+8D0B)	e8b48b
+贌	U+8D0C (U+8D0C)	e8b48c
+贍	support, aid; to be sufficient; rich, elegant (U+8D0D)	e8b48d
+贎	U+8D0E (U+8D0E)	e8b48e
+贏	win; surplus, gain, profit (U+8D0F)	e8b48f
+贐	farewell present (U+8D10)	e8b490
+贑	Jiangxi province (U+8D11)	e8b491
+贒	virtuous, worthy, good; able (U+8D12)	e8b492
+贓	booty, loot, stolen goods; bribe (U+8D13)	e8b493
+贔	strong (U+8D14)	e8b494
+贕	U+8D15 (U+8D15)	e8b495
+贖	buy, redeem; ransom; atone for (U+8D16)	e8b496
+贗	counterfeit, false (U+8D17)	e8b497
+贘	U+8D18 (U+8D18)	e8b498
+贙	U+8D19 (U+8D19)	e8b499
+贚	U+8D1A (U+8D1A)	e8b49a
+贛	Jiangxi province; places therein (U+8D1B)	e8b49b
+贜	booty, loot, stolen goods; bribe (U+8D1C)	e8b49c
+贝	sea shell; money, currency (U+8D1D)	e8b49d
+贞	virtuous, chaste, pure; loyal (U+8D1E)	e8b49e
+负	load, burden; carry, bear (U+8D1F)	e8b49f
+贠	member; personnel, staff member (U+8D20)	e8b4a0
+贡	offer tribute; tribute, gifts (U+8D21)	e8b4a1
+财	wealth, valuables, riches (U+8D22)	e8b4a2
+责	one's responsibility, duty (U+8D23)	e8b4a3
+贤	virtuous, worthy, good; able (U+8D24)	e8b4a4
+败	be defeated, decline, fail (U+8D25)	e8b4a5
+账	accounts; bill, debt; credit (U+8D26)	e8b4a6
+货	goods, commodities, products (U+8D27)	e8b4a7
+质	matter, material, substance (U+8D28)	e8b4a8
+贩	peddler, hawker, street merchant (U+8D29)	e8b4a9
+贪	be greedy, covet; covetous (U+8D2A)	e8b4aa
+贫	poor, impoverished, needy (U+8D2B)	e8b4ab
+贬	decrease, lower; censure, criticize (U+8D2C)	e8b4ac
+购	buy, purchase; hire (U+8D2D)	e8b4ad
+贮	store, stockpile, hoard (U+8D2E)	e8b4ae
+贯	a string of 1000 coins; to go through (U+8D2F)	e8b4af
+贰	number two (U+8D30)	e8b4b0
+贱	mean, low; cheap, worthless (U+8D31)	e8b4b1
+贲	forge ahead; energetic; surname (U+8D32)	e8b4b2
+贳	borrow; pardon; loan (U+8D33)	e8b4b3
+贴	paste to, stick on; attached to (U+8D34)	e8b4b4
+贵	expensive, costly, valuable (U+8D35)	e8b4b5
+贶	give, grant, bestow; surname (U+8D36)	e8b4b6
+贷	lend; borrow; pardon (U+8D37)	e8b4b7
+贸	trade, barter; mixed; rashly (U+8D38)	e8b4b8
+费	expenses, expenditures, fee (U+8D39)	e8b4b9
+贺	congratulate; send present (U+8D3A)	e8b4ba
+贻	give to, hand down, bequeath (U+8D3B)	e8b4bb
+贼	thief, traitor; kill (U+8D3C)	e8b4bc
+贽	gift superior; gift given (U+8D3D)	e8b4bd
+贾	surname; merchant; buy, trade (U+8D3E)	e8b4be
+贿	bribe; bribes; riches, wealth (U+8D3F)	e8b4bf
+赀	property; wealth; to count (U+8D40)	e8b580
+赁	rent, hire; hired person (U+8D41)	e8b581
+赂	bribe; give present (U+8D42)	e8b582
+赃	booty, loot, stolen goods; bribe (U+8D43)	e8b583
+资	property; wealth; capital (U+8D44)	e8b584
+赅	prepared for; inclusive (U+8D45)	e8b585
+赆	farewell present (U+8D46)	e8b586
+赇	bribe (U+8D47)	e8b587
+赈	relieve, aid distressed; rich (U+8D48)	e8b588
+赉	give, present, confer; surname (U+8D49)	e8b589
+赊	buy and sell on credit, distant (U+8D4A)	e8b58a
+赋	tax; give; endow; army; diffuse (U+8D4B)	e8b58b
+赌	bet, gamble, wager; compete (U+8D4C)	e8b58c
+赍	present (U+8D4D)	e8b58d
+赎	buy, redeem; ransome; atone for (U+8D4E)	e8b58e
+赏	reward, grant, bestow; appreciate (U+8D4F)	e8b58f
+赐	give, bestow favors; appoint (U+8D50)	e8b590
+赑	strong (U+8D51)	e8b591
+赒	give for charity (U+8D52)	e8b592
+赓	continue (U+8D53)	e8b593
+赔	indemnify, suffer loss (U+8D54)	e8b594
+赕	fine (U+8D55)	e8b595
+赖	rely, depend on; accuse falsely (U+8D56)	e8b596
+赗	gift (U+8D57)	e8b597
+赘	unnecessary, superfluous (U+8D58)	e8b598
+赙	gift of money help pay funeral (U+8D59)	e8b599
+赚	make money, earn; gain, profit (U+8D5A)	e8b59a
+赛	compete, contend; contest, race (U+8D5B)	e8b59b
+赜	abstruse, deep, profound (U+8D5C)	e8b59c
+赝	false; counterfeit; bogus; sham (U+8D5D)	e8b59d
+赞	help, support, assist, aid (U+8D5E)	e8b59e
+赟	affable, agreeable, pleasant (U+8D5F)	e8b59f
+赠	give present; bestow, confer (U+8D60)	e8b5a0
+赡	support, aid; rich, elegant (U+8D61)	e8b5a1
+赢	win; surplus, gain, profit (U+8D62)	e8b5a2
+赣	Jiangxi province; places therein (U+8D63)	e8b5a3
+赤	red; communist, 'red'; bare (U+8D64)	e8b5a4
+赥	U+8D65 (U+8D65)	e8b5a5
+赦	forgive, remit, pardon (U+8D66)	e8b5a6
+赧	blush, turn red (U+8D67)	e8b5a7
+赨	U+8D68 (U+8D68)	e8b5a8
+赩	U+8D69 (U+8D69)	e8b5a9
+赪	deep red (U+8D6A)	e8b5aa
+赫	bright, radiant, glowing (U+8D6B)	e8b5ab
+赬	deep red (U+8D6C)	e8b5ac
+赭	reddish brown; hematite; ochre (U+8D6D)	e8b5ad
+赮	U+8D6E (U+8D6E)	e8b5ae
+赯	U+8D6F (U+8D6F)	e8b5af
+走	walk, go on foot; run; leave (U+8D70)	e8b5b0
+赱	walk, go on foot; run; leave (U+8D71)	e8b5b1
+赲	U+8D72 (U+8D72)	e8b5b2
+赳	grand, valiant (U+8D73)	e8b5b3
+赴	go to; attend, be present (U+8D74)	e8b5b4
+赵	surname; ancient state (U+8D75)	e8b5b5
+赶	pursue, follow; expel, drive away (U+8D76)	e8b5b6
+起	rise, stand up; go up; begin (U+8D77)	e8b5b7
+赸	U+8D78 (U+8D78)	e8b5b8
+赹	U+8D79 (U+8D79)	e8b5b9
+赺	U+8D7A (U+8D7A)	e8b5ba
+赻	U+8D7B (U+8D7B)	e8b5bb
+赼	U+8D7C (U+8D7C)	e8b5bc
+赽	U+8D7D (U+8D7D)	e8b5bd
+赾	U+8D7E (U+8D7E)	e8b5be
+赿	late slow; dilatory; tardy to delay; dull; stupid (U+8D7F)	e8b5bf
+趀	U+8D80 (U+8D80)	e8b680
+趁	take advantage of, avail oneself (U+8D81)	e8b681
+趂	to take advantage of; to avail oneself of. to follow; to go (U+8D82)	e8b682
+趃	U+8D83 (U+8D83)	e8b683
+趄	weak, lame (U+8D84)	e8b684
+超	jump over, leap over; surpass (U+8D85)	e8b685
+趆	U+8D86 (U+8D86)	e8b686
+趇	U+8D87 (U+8D87)	e8b687
+趈	U+8D88 (U+8D88)	e8b688
+趉	U+8D89 (U+8D89)	e8b689
+越	exceed, go beyond; the more ... (U+8D8A)	e8b68a
+趋	hasten, hurry; be attracted to (U+8D8B)	e8b68b
+趌	(Cant.) to order someone to leave (U+8D8C)	e8b68c
+趍	U+8D8D (U+8D8D)	e8b68d
+趎	U+8D8E (U+8D8E)	e8b68e
+趏	U+8D8F (U+8D8F)	e8b68f
+趐	U+8D90 (U+8D90)	e8b690
+趑	can't move; to falter (U+8D91)	e8b691
+趒	to jump, to climb over, to leap, to posture; a gangway (U+8D92)	e8b692
+趓	U+8D93 (U+8D93)	e8b693
+趔	not progressing; to be checked (U+8D94)	e8b694
+趕	pursue, follow; expel, drive away (U+8D95)	e8b695
+趖	U+8D96 (U+8D96)	e8b696
+趗	U+8D97 (U+8D97)	e8b697
+趘	U+8D98 (U+8D98)	e8b698
+趙	surname; ancient state (U+8D99)	e8b699
+趚	U+8D9A (U+8D9A)	e8b69a
+趛	U+8D9B (U+8D9B)	e8b69b
+趜	(Cant.) to suffocate (U+8D9C)	e8b69c
+趝	to pursue; to follow up (U+8D9D)	e8b69d
+趞	U+8D9E (U+8D9E)	e8b69e
+趟	time, occasion; take journey (U+8D9F)	e8b69f
+趠	U+8DA0 (U+8DA0)	e8b6a0
+趡	place (U+8DA1)	e8b6a1
+趢	U+8DA2 (U+8DA2)	e8b6a2
+趣	what attracts one's attention (U+8DA3)	e8b6a3
+趤	U+8DA4 (U+8DA4)	e8b6a4
+趥	U+8DA5 (U+8DA5)	e8b6a5
+趦	can't move; to falter (U+8DA6)	e8b6a6
+趧	U+8DA7 (U+8DA7)	e8b6a7
+趨	hasten, hurry; be attracted to (U+8DA8)	e8b6a8
+趩	U+8DA9 (U+8DA9)	e8b6a9
+趪	U+8DAA (U+8DAA)	e8b6aa
+趫	nimble (U+8DAB)	e8b6ab
+趬	U+8DAC (U+8DAC)	e8b6ac
+趭	U+8DAD (U+8DAD)	e8b6ad
+趮	easily provoked, hasty; fierce, cruel (U+8DAE)	e8b6ae
+趯	jump (U+8DAF)	e8b6af
+趰	U+8DB0 (U+8DB0)	e8b6b0
+趱	go in hurry, hasten; urge (U+8DB1)	e8b6b1
+趲	go in hurry, hasten; urge (U+8DB2)	e8b6b2
+足	foot; attain, satisfy, enough (U+8DB3)	e8b6b3
+趴	lying prone, leaning over (U+8DB4)	e8b6b4
+趵	noise of tramping feet (U+8DB5)	e8b6b5
+趶	U+8DB6 (U+8DB6)	e8b6b6
+趷	to jolt; (Cant.) to raise up; block (U+8DB7)	e8b6b7
+趸	sell or buy wholesale; store (U+8DB8)	e8b6b8
+趹	kick with hoof; horse's gallop (U+8DB9)	e8b6b9
+趺	sit cross-legged; back of the foo (U+8DBA)	e8b6ba
+趻	U+8DBB (U+8DBB)	e8b6bb
+趼	callous skin on hands or feet. blisters (U+8DBC)	e8b6bc
+趽	U+8DBD (U+8DBD)	e8b6bd
+趾	toe; tracks, footprints (U+8DBE)	e8b6be
+趿	to tread on; slipshod (U+8DBF)	e8b6bf
+跀	to cut off the feet, to stretch up (U+8DC0)	e8b780
+跁	trample on, tread on; search for; (Cant.) to squat down (U+8DC1)	e8b781
+跂	creeping, crawling (U+8DC2)	e8b782
+跃	skip, jump, frolic (U+8DC3)	e8b783
+跄	walk rapidly (U+8DC4)	e8b784
+跅	careless, lax; dissolute (U+8DC5)	e8b785
+跆	trample (U+8DC6)	e8b786
+跇	U+8DC7 (U+8DC7)	e8b787
+跈	U+8DC8 (U+8DC8)	e8b788
+跉	U+8DC9 (U+8DC9)	e8b789
+跊	U+8DCA (U+8DCA)	e8b78a
+跋	go by foot; epilogue, colophon (U+8DCB)	e8b78b
+跌	stumble, slip, fall down; stamp (U+8DCC)	e8b78c
+跍	U+8DCD (U+8DCD)	e8b78d
+跎	slip, stumble, falter; vacillate (U+8DCE)	e8b78e
+跏	sit cross-legged; squat (U+8DCF)	e8b78f
+跐	to trample, to step, to walk on the ball of the foot (U+8DD0)	e8b790
+跑	run, flee, leave in hurry (U+8DD1)	e8b791
+跒	U+8DD2 (U+8DD2)	e8b792
+跓	U+8DD3 (U+8DD3)	e8b793
+跔	numb feet; to limp (U+8DD4)	e8b794
+跕	shuffle, limp (U+8DD5)	e8b795
+跖	sole (of the foot) (U+8DD6)	e8b796
+跗	the instep (U+8DD7)	e8b797
+跘	U+8DD8 (U+8DD8)	e8b798
+跙	weak, lame (U+8DD9)	e8b799
+跚	stagger, limp (U+8DDA)	e8b79a
+跛	lame (U+8DDB)	e8b79b
+跜	U+8DDC (U+8DDC)	e8b79c
+距	distance; bird's spur (U+8DDD)	e8b79d
+跞	walk, move (U+8DDE)	e8b79e
+跟	heel; to follow, accompany; with (U+8DDF)	e8b79f
+跠	U+8DE0 (U+8DE0)	e8b7a0
+跡	search, track, trace (U+8DE1)	e8b7a1
+跢	U+8DE2 (U+8DE2)	e8b7a2
+跣	bare footed (U+8DE3)	e8b7a3
+跤	stumble, fall down; wrestle (U+8DE4)	e8b7a4
+跥	stamp feet (U+8DE5)	e8b7a5
+跦	hop (U+8DE6)	e8b7a6
+跧	crouch (U+8DE7)	e8b7a7
+跨	straddle, bestride, ride; carry (U+8DE8)	e8b7a8
+跩	to waddle, to limp (U+8DE9)	e8b7a9
+跪	kneel (U+8DEA)	e8b7aa
+跫	sound of footsteps (U+8DEB)	e8b7ab
+跬	to step; a stride equal to half a pace (U+8DEC)	e8b7ac
+跭	U+8DED (U+8DED)	e8b7ad
+跮	hasty walking (U+8DEE)	e8b7ae
+路	road, path, street; journey (U+8DEF)	e8b7af
+跰	U+8DF0 (U+8DF0)	e8b7b0
+跱	stop (U+8DF1)	e8b7b1
+跲	hood, cowl, turban; stumble (U+8DF2)	e8b7b2
+跳	jump, leap, vault, bounce; dance (U+8DF3)	e8b7b3
+跴	step on, tread on; search for (U+8DF4)	e8b7b4
+践	trample, tread upon, walk on (U+8DF5)	e8b7b5
+跶	stumble, slip (U+8DF6)	e8b7b6
+跷	raise one's foot (U+8DF7)	e8b7b7
+跸	clear way, make room for; emp (U+8DF8)	e8b7b8
+跹	wander about, walk around; revolve (U+8DF9)	e8b7b9
+跺	stamp feet, step (U+8DFA)	e8b7ba
+跻	ascend, go up, rise (U+8DFB)	e8b7bb
+跼	bent, stooped, crouched; contract (U+8DFC)	e8b7bc
+跽	to kneel for a long time, to go down on hands and knees (U+8DFD)	e8b7bd
+跾	U+8DFE (U+8DFE)	e8b7be
+跿	U+8DFF (U+8DFF)	e8b7bf
+踀	U+8E00 (U+8E00)	e8b880
+踁	tinkling, obstinate (U+8E01)	e8b881
+踂	U+8E02 (U+8E02)	e8b882
+踃	U+8E03 (U+8E03)	e8b883
+踄	U+8E04 (U+8E04)	e8b884
+踅	to walk around; turn back midway (U+8E05)	e8b885
+踆	squat (U+8E06)	e8b886
+踇	U+8E07 (U+8E07)	e8b887
+踈	neglect; careless, lax (U+8E08)	e8b888
+踉	hop, jump; hurriedly, urgently (U+8E09)	e8b889
+踊	leap, jump (U+8E0A)	e8b88a
+踋	the foot or feet cast of a play (U+8E0B)	e8b88b
+踌	hesitate, falter; smug, self-satisfied (U+8E0C)	e8b88c
+踍	U+8E0D (U+8E0D)	e8b88d
+踎	(Cant.) to squat (U+8E0E)	e8b88e
+踏	step on, trample, tread on, walk (U+8E0F)	e8b88f
+踐	trample, tread upon, walk on (U+8E10)	e8b890
+踑	U+8E11 (U+8E11)	e8b891
+踒	to slip and sprain a blimb (U+8E12)	e8b892
+踓	U+8E13 (U+8E13)	e8b893
+踔	to get ahead; to stride; to excel (U+8E14)	e8b894
+踕	U+8E15 (U+8E15)	e8b895
+踖	trample on, tread on (U+8E16)	e8b896
+踗	U+8E17 (U+8E17)	e8b897
+踘	ball (U+8E18)	e8b898
+踙	U+8E19 (U+8E19)	e8b899
+踚	U+8E1A (U+8E1A)	e8b89a
+踛	U+8E1B (U+8E1B)	e8b89b
+踜	to stumble; to slip; to fall (U+8E1C)	e8b89c
+踝	ankle (U+8E1D)	e8b89d
+踞	crouch, squat; sit, occupy (U+8E1E)	e8b89e
+踟	hesitate, undecided; embarrassed (U+8E1F)	e8b89f
+踠	to writhe, struggle, squirm, wriggle; to be impatient for (U+8E20)	e8b8a0
+踡	curled, coiled (U+8E21)	e8b8a1
+踢	kick (U+8E22)	e8b8a2
+踣	to stumble and fall prone stiff in death (U+8E23)	e8b8a3
+踤	U+8E24 (U+8E24)	e8b8a4
+踥	U+8E25 (U+8E25)	e8b8a5
+踦	the shin; to pierce; to touch (U+8E26)	e8b8a6
+踧	uneasiness, nervousness; level (U+8E27)	e8b8a7
+踨	U+8E28 (U+8E28)	e8b8a8
+踩	step on (U+8E29)	e8b8a9
+踪	footprints, traces, tracks (U+8E2A)	e8b8aa
+踫	collide, bump into (U+8E2B)	e8b8ab
+踬	stumble, totter; fail, be frustrated (U+8E2C)	e8b8ac
+踭	(Cant.) heel, elbow (U+8E2D)	e8b8ad
+踮	tip toe (U+8E2E)	e8b8ae
+踯	waver, hesitate, be irresolute (U+8E2F)	e8b8af
+踰	exceed, transgress; cross over (U+8E30)	e8b8b0
+踱	stroll, pace, walk slowly (U+8E31)	e8b8b1
+踲	U+8E32 (U+8E32)	e8b8b2
+踳	U+8E33 (U+8E33)	e8b8b3
+踴	leap, jump (U+8E34)	e8b8b4
+踵	heel; follow; visit, call on (U+8E35)	e8b8b5
+踶	paw (U+8E36)	e8b8b6
+踷	U+8E37 (U+8E37)	e8b8b7
+踸	U+8E38 (U+8E38)	e8b8b8
+踹	trample, tread on, kick; to crush (U+8E39)	e8b8b9
+踺	U+8E3A (U+8E3A)	e8b8ba
+踻	U+8E3B (U+8E3B)	e8b8bb
+踼	to fall flat; to fall on the face (U+8E3C)	e8b8bc
+踽	to walk alone; self-reliant (U+8E3D)	e8b8bd
+踾	U+8E3E (U+8E3E)	e8b8be
+踿	U+8E3F (U+8E3F)	e8b8bf
+蹀	to skip, to dance; to put the foot down (U+8E40)	e8b980
+蹁	to walk with a limp (U+8E41)	e8b981
+蹂	trample under foot, tread on (U+8E42)	e8b982
+蹃	U+8E43 (U+8E43)	e8b983
+蹄	hoof; leg of pork; little witch (U+8E44)	e8b984
+蹅	to tread on, walk through (U+8E45)	e8b985
+蹆	(Cant.) to move in a straight line (U+8E46)	e8b986
+蹇	lame, crippled; unlucky (U+8E47)	e8b987
+蹈	stamp feet; dance (U+8E48)	e8b988
+蹉	error, mistake, slip; failure (U+8E49)	e8b989
+蹊	footpath, trail; track (U+8E4A)	e8b98a
+蹋	step on, tread on; stumble, slip (U+8E4B)	e8b98b
+蹌	walk rapidly (U+8E4C)	e8b98c
+蹍	upper millstone; to grind, roll, triturate (U+8E4D)	e8b98d
+蹎	U+8E4E (U+8E4E)	e8b98e
+蹏	hoof; leg of pork; little witch a horse (U+8E4F)	e8b98f
+蹐	take short steps (U+8E50)	e8b990
+蹑	tread, step on; follow, track (U+8E51)	e8b991
+蹒	to jump over; to limp (U+8E52)	e8b992
+蹓	stroll, take walk (U+8E53)	e8b993
+蹔	temporary; fleeting; ephemeral (U+8E54)	e8b994
+蹕	clear way, make room for; emp (U+8E55)	e8b995
+蹖	U+8E56 (U+8E56)	e8b996
+蹗	U+8E57 (U+8E57)	e8b997
+蹘	(Cant.) to roost (U+8E58)	e8b998
+蹙	urgent, suddenly; grieve, lament (U+8E59)	e8b999
+蹚	tread through mud and water (U+8E5A)	e8b99a
+蹛	U+8E5B (U+8E5B)	e8b99b
+蹜	walk carefully (U+8E5C)	e8b99c
+蹝	sandal (U+8E5D)	e8b99d
+蹞	U+8E5E (U+8E5E)	e8b99e
+蹟	trace, tracks; footprints (U+8E5F)	e8b99f
+蹠	step on, tread on; sole (U+8E60)	e8b9a0
+蹡	to limp; walking; in motion (U+8E61)	e8b9a1
+蹢	hoof; a falter; to hesitate (U+8E62)	e8b9a2
+蹣	to jump over; to limp (U+8E63)	e8b9a3
+蹤	footprints, traces, tracks (U+8E64)	e8b9a4
+蹥	U+8E65 (U+8E65)	e8b9a5
+蹦	hop, leap, jump; bright (U+8E66)	e8b9a6
+蹧	to spoil; to ruin (U+8E67)	e8b9a7
+蹨	(Cant.) to stand on tiptoe (U+8E68)	e8b9a8
+蹩	to limp (U+8E69)	e8b9a9
+蹪	U+8E6A (U+8E6A)	e8b9aa
+蹫	U+8E6B (U+8E6B)	e8b9ab
+蹬	step on, tread on; lose energy (U+8E6C)	e8b9ac
+蹭	to shuffle, procrastinate, dilly-dally (U+8E6D)	e8b9ad
+蹮	to whirl, pirouette (U+8E6E)	e8b9ae
+蹯	an animal's paws (U+8E6F)	e8b9af
+蹰	hesitate, waver, falter (U+8E70)	e8b9b0
+蹱	to stagger along; to fall (U+8E71)	e8b9b1
+蹲	squat, crouch; idle about (U+8E72)	e8b9b2
+蹳	U+8E73 (U+8E73)	e8b9b3
+蹴	kick; tread on; leap; solemn (U+8E74)	e8b9b4
+蹵	to tread on; to kick (U+8E75)	e8b9b5
+蹶	stumble, fall down; trample (U+8E76)	e8b9b6
+蹷	to kick back; to stumble, slip, fall (U+8E77)	e8b9b7
+蹸	U+8E78 (U+8E78)	e8b9b8
+蹹	to tread on; to stamp; to walk (U+8E79)	e8b9b9
+蹺	raise one's foot (U+8E7A)	e8b9ba
+蹻	to raise the feet; to cross the legs; brave; sandals (U+8E7B)	e8b9bb
+蹼	webbed feet of waterfowl (U+8E7C)	e8b9bc
+蹽	U+8E7D (U+8E7D)	e8b9bd
+蹾	to squat; to crouch (U+8E7E)	e8b9be
+蹿	leap; to jump; to spurt out (U+8E7F)	e8b9bf
+躀	(Cant.) to stumble over, to fall (U+8E80)	e8ba80
+躁	tense, excited, irritable (U+8E81)	e8ba81
+躂	stumble, slip (U+8E82)	e8ba82
+躃	U+8E83 (U+8E83)	e8ba83
+躄	cripple, lame (U+8E84)	e8ba84
+躅	walk carefully; hesitate, falter (U+8E85)	e8ba85
+躆	U+8E86 (U+8E86)	e8ba86
+躇	hesitate, falter, be undecided (U+8E87)	e8ba87
+躈	U+8E88 (U+8E88)	e8ba88
+躉	sell or buy wholesale; store (U+8E89)	e8ba89
+躊	hesitate, falter; smug, self-satisfied (U+8E8A)	e8ba8a
+躋	ascend, go up, rise (U+8E8B)	e8ba8b
+躌	U+8E8C (U+8E8C)	e8ba8c
+躍	skip, jump, frolic (U+8E8D)	e8ba8d
+躎	U+8E8E (U+8E8E)	e8ba8e
+躏	trample down, oppress, overrun (U+8E8F)	e8ba8f
+躐	to stride over; to step across (U+8E90)	e8ba90
+躑	waver, hesitate, be irresolute (U+8E91)	e8ba91
+躒	walk, move (U+8E92)	e8ba92
+躓	stumble, totter; fail, be frustrated (U+8E93)	e8ba93
+躔	follow in, imitate; rut, path (U+8E94)	e8ba94
+躕	hesitate, waver, falter (U+8E95)	e8ba95
+躖	U+8E96 (U+8E96)	e8ba96
+躗	exaggerate (U+8E97)	e8ba97
+躘	to walk (U+8E98)	e8ba98
+躙	trample down, oppress, overrun (U+8E99)	e8ba99
+躚	wander about, walk around; revolve (U+8E9A)	e8ba9a
+躛	exaggerate (U+8E9B)	e8ba9b
+躜	to jump (U+8E9C)	e8ba9c
+躝	to pass; to step over; to creep; to twine round (U+8E9D)	e8ba9d
+躞	to walk (U+8E9E)	e8ba9e
+躟	U+8E9F (U+8E9F)	e8ba9f
+躠	to limp (U+8EA0)	e8baa0
+躡	tread, step on; follow, track (U+8EA1)	e8baa1
+躢	U+8EA2 (U+8EA2)	e8baa2
+躣	U+8EA3 (U+8EA3)	e8baa3
+躤	U+8EA4 (U+8EA4)	e8baa4
+躥	leap; to jump; to spurt out (U+8EA5)	e8baa5
+躦	to jump (U+8EA6)	e8baa6
+躧	sandal (U+8EA7)	e8baa7
+躨	U+8EA8 (U+8EA8)	e8baa8
+躩	take quick, short steps (U+8EA9)	e8baa9
+躪	trample down, oppress, overrun (U+8EAA)	e8baaa
+身	body; trunk, hull; rad. no. 158 (U+8EAB)	e8baab
+躬	body; personally, in person (U+8EAC)	e8baac
+躭	to delay; to loiter; to hinder (U+8EAD)	e8baad
+躮	U+8EAE (U+8EAE)	e8baae
+躯	body (U+8EAF)	e8baaf
+躰	body; group, class, body, unit (U+8EB0)	e8bab0
+躱	hide (U+8EB1)	e8bab1
+躲	hide, secrete; avoid, escape (U+8EB2)	e8bab2
+躳	body; self (U+8EB3)	e8bab3
+躴	tall (U+8EB4)	e8bab4
+躵	U+8EB5 (U+8EB5)	e8bab5
+躶	bare, nude; undress, strip (U+8EB6)	e8bab6
+躷	of short stature, low in height (U+8EB7)	e8bab7
+躸	U+8EB8 (U+8EB8)	e8bab8
+躹	U+8EB9 (U+8EB9)	e8bab9
+躺	lie down, recline (U+8EBA)	e8baba
+躻	U+8EBB (U+8EBB)	e8babb
+躼	U+8EBC (U+8EBC)	e8babc
+躽	(Cant.) 躽胸凸肚, to push out one's chest and belly (U+8EBD)	e8babd
+躾	to discipline, train, bring up; discipline, training (U+8EBE)	e8babe
+躿	tall (U+8EBF)	e8babf
+軀	body (U+8EC0)	e8bb80
+軁	U+8EC1 (U+8EC1)	e8bb81
+軂	U+8EC2 (U+8EC2)	e8bb82
+軃	U+8EC3 (U+8EC3)	e8bb83
+軄	to govern, to oversee, to manage, to direct official duty, office (U+8EC4)	e8bb84
+軅	U+8EC5 (U+8EC5)	e8bb85
+軆	body; group, class, body, unit (U+8EC6)	e8bb86
+軇	U+8EC7 (U+8EC7)	e8bb87
+軈	soon after, soon; almost; no more than; after all (U+8EC8)	e8bb88
+軉	U+8EC9 (U+8EC9)	e8bb89
+車	cart, vehicle; carry in cart (U+8ECA)	e8bb8a
+軋	crush by weight; grind (U+8ECB)	e8bb8b
+軌	track, rut, path (U+8ECC)	e8bb8c
+軍	army, military; soldiers, troops (U+8ECD)	e8bb8d
+軎	a brass parts for a cart in ancient China (U+8ECE)	e8bb8e
+軏	cross-bar at the end of the poles of a cart (U+8ECF)	e8bb8f
+軐	U+8ED0 (U+8ED0)	e8bb90
+軑	U+8ED1 (U+8ED1)	e8bb91
+軒	carriage; high; wide; balcony; surname of the Yellow Emperor (U+8ED2)	e8bb92
+軓	U+8ED3 (U+8ED3)	e8bb93
+軔	a block that keeps a wheel from moving (U+8ED4)	e8bb94

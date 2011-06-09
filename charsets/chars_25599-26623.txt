@@ -1,0 +1,1024 @@
+櫕	U+6AD5 (U+6AD5)	e6ab95
+櫖	U+6AD6 (U+6AD6)	e6ab96
+櫗	U+6AD7 (U+6AD7)	e6ab97
+櫘	U+6AD8 (U+6AD8)	e6ab98
+櫙	U+6AD9 (U+6AD9)	e6ab99
+櫚	palm (U+6ADA)	e6ab9a
+櫛	comb out; weed out, eliminate (U+6ADB)	e6ab9b
+櫜	quiver (case for arrows) (U+6ADC)	e6ab9c
+櫝	cabinet, wardrobe; closet (U+6ADD)	e6ab9d
+櫞	citrus (U+6ADE)	e6ab9e
+櫟	chestnut-leaved oak; oak (U+6ADF)	e6ab9f
+櫠	U+6AE0 (U+6AE0)	e6aba0
+櫡	U+6AE1 (U+6AE1)	e6aba1
+櫢	U+6AE2 (U+6AE2)	e6aba2
+櫣	U+6AE3 (U+6AE3)	e6aba3
+櫤	U+6AE4 (U+6AE4)	e6aba4
+櫥	cabinet, wardrobe, cupboard (U+6AE5)	e6aba5
+櫦	U+6AE6 (U+6AE6)	e6aba6
+櫧	Oak (U+6AE7)	e6aba7
+櫨	supporting block; sumac, loquat (U+6AE8)	e6aba8
+櫩	U+6AE9 (U+6AE9)	e6aba9
+櫪	type of oak; stable (U+6AEA)	e6abaa
+櫫	wooden peg, post or stick (U+6AEB)	e6abab
+櫬	coffin; tung tree (U+6AEC)	e6abac
+櫭	U+6AED (U+6AED)	e6abad
+櫮	U+6AEE (U+6AEE)	e6abae
+櫯	U+6AEF (U+6AEF)	e6abaf
+櫰	U+6AF0 (U+6AF0)	e6abb0
+櫱	yeast; leaven for making liquors (U+6AF1)	e6abb1
+櫲	U+6AF2 (U+6AF2)	e6abb2
+櫳	cage, pen; set of bars (U+6AF3)	e6abb3
+櫴	U+6AF4 (U+6AF4)	e6abb4
+櫵	U+6AF5 (U+6AF5)	e6abb5
+櫶	U+6AF6 (U+6AF6)	e6abb6
+櫷	U+6AF7 (U+6AF7)	e6abb7
+櫸	type of elm (U+6AF8)	e6abb8
+櫹	U+6AF9 (U+6AF9)	e6abb9
+櫺	carved or patterned window sills (U+6AFA)	e6abba
+櫻	cherry, cherry blossom (U+6AFB)	e6abbb
+櫼	U+6AFC (U+6AFC)	e6abbc
+櫽	shape wood by use of heat; tool for shaping bent wood (U+6AFD)	e6abbd
+櫾	the pomelo (U+6AFE)	e6abbe
+櫿	U+6AFF (U+6AFF)	e6abbf
+欀	U+6B00 (U+6B00)	e6ac80
+欁	U+6B01 (U+6B01)	e6ac81
+欂	U+6B02 (U+6B02)	e6ac82
+欃	sandalwood; comet (U+6B03)	e6ac83
+欄	railing, balustrade; animal pan (U+6B04)	e6ac84
+欅	zelkova (U+6B05)	e6ac85
+欆	U+6B06 (U+6B06)	e6ac86
+欇	U+6B07 (U+6B07)	e6ac87
+欈	U+6B08 (U+6B08)	e6ac88
+欉	U+6B09 (U+6B09)	e6ac89
+權	power, right, authority (U+6B0A)	e6ac8a
+欋	U+6B0B (U+6B0B)	e6ac8b
+欌	U+6B0C (U+6B0C)	e6ac8c
+欍	U+6B0D (U+6B0D)	e6ac8d
+欎	U+6B0E (U+6B0E)	e6ac8e
+欏	the horse-chestnut (U+6B0F)	e6ac8f
+欐	beam (U+6B10)	e6ac90
+欑	gather (U+6B11)	e6ac91
+欒	name of tree; a part of cornice (U+6B12)	e6ac92
+欓	a cross-piece, as the round of a ladder, the rail of a chair; shelves; pigeonholes (U+6B13)	e6ac93
+欔	U+6B14 (U+6B14)	e6ac94
+欕	tree name (U+6B15)	e6ac95
+欖	olive (U+6B16)	e6ac96
+欗	U+6B17 (U+6B17)	e6ac97
+欘	U+6B18 (U+6B18)	e6ac98
+欙	sedan (U+6B19)	e6ac99
+欚	U+6B1A (U+6B1A)	e6ac9a
+欛	a handle (U+6B1B)	e6ac9b
+欜	U+6B1C (U+6B1C)	e6ac9c
+欝	luxuriant; dense, thick; moody (U+6B1D)	e6ac9d
+欞	the lattice of a window a sill, a lintel (U+6B1E)	e6ac9e
+欟	U+6B1F (U+6B1F)	e6ac9f
+欠	owe, lack, be deficient; KangXi radical number 76 (U+6B20)	e6aca0
+次	order, sequence; next (U+6B21)	e6aca1
+欢	happy, pleased, glad; joy; enjoy (U+6B22)	e6aca2
+欣	happy, joyous, delighted (U+6B23)	e6aca3
+欤	a final particle used to express admiration, doubt, surprise, or to mark a question (U+6B24)	e6aca4
+欥	U+6B25 (U+6B25)	e6aca5
+欦	U+6B26 (U+6B26)	e6aca6
+欧	translit.: Europe; ohm; surname (U+6B27)	e6aca7
+欨	to blow or breathe upon; to smile (U+6B28)	e6aca8
+欩	U+6B29 (U+6B29)	e6aca9
+欪	U+6B2A (U+6B2A)	e6acaa
+欫	U+6B2B (U+6B2B)	e6acab
+欬	cough; sound of laughter (U+6B2C)	e6acac
+欭	U+6B2D (U+6B2D)	e6acad
+欮	to hiccough; to dig out to expand (U+6B2E)	e6acae
+欯	U+6B2F (U+6B2F)	e6acaf
+欰	U+6B30 (U+6B30)	e6acb0
+欱	U+6B31 (U+6B31)	e6acb1
+欲	desire, want, long for; intend (U+6B32)	e6acb2
+欳	U+6B33 (U+6B33)	e6acb3
+欴	U+6B34 (U+6B34)	e6acb4
+欵	to treat well; to detain (U+6B35)	e6acb5
+欶	to suck in (U+6B36)	e6acb6
+欷	sob; sigh (U+6B37)	e6acb7
+欸	sigh; an exclamatory sound (U+6B38)	e6acb8
+欹	fierce dog; interjection of pleas; (Cant.) strange (U+6B39)	e6acb9
+欺	cheat, double-cross, deceive (U+6B3A)	e6acba
+欻	sudden, abrupt, quick (U+6B3B)	e6acbb
+欼	drink; (Cant.) to use one's teeth and hands to break something such as a string (U+6B3C)	e6acbc
+欽	respect, admire; respectful (U+6B3D)	e6acbd
+款	item, article; clause; fund (U+6B3E)	e6acbe
+欿	discontented; sad; gloomy (U+6B3F)	e6acbf
+歀	same as 款 U+6B3E, an item, article; clause, fund (U+6B40)	e6ad80
+歁	U+6B41 (U+6B41)	e6ad81
+歂	U+6B42 (U+6B42)	e6ad82
+歃	smear one's mouth with blood of a victim when taking an oath (U+6B43)	e6ad83
+歄	U+6B44 (U+6B44)	e6ad84
+歅	U+6B45 (U+6B45)	e6ad85
+歆	like, admire; willingly, gladly; to quicken (U+6B46)	e6ad86
+歇	rest, stop, lodge (U+6B47)	e6ad87
+歈	songs (U+6B48)	e6ad88
+歉	deficient, lacking, insufficient (U+6B49)	e6ad89
+歊	sigh (U+6B4A)	e6ad8a
+歋	U+6B4B (U+6B4B)	e6ad8b
+歌	song, lyrics; sing, chant; praise (U+6B4C)	e6ad8c
+歍	U+6B4D (U+6B4D)	e6ad8d
+歎	sigh, admire (U+6B4E)	e6ad8e
+歏	U+6B4F (U+6B4F)	e6ad8f
+歐	used in transliterating non-Chinese words such as Europe, ohm; surname (U+6B50)	e6ad90
+歑	U+6B51 (U+6B51)	e6ad91
+歒	U+6B52 (U+6B52)	e6ad92
+歓	happy, pleased, glad; joy; enjoy (U+6B53)	e6ad93
+歔	blow through nose, snort (U+6B54)	e6ad94
+歕	spurt, blow out, puff out (U+6B55)	e6ad95
+歖	U+6B56 (U+6B56)	e6ad96
+歗	roar, howl, scream; whistle (U+6B57)	e6ad97
+歘	sudden (U+6B58)	e6ad98
+歙	to suck; a county's name in anhui (U+6B59)	e6ad99
+歚	used in name of famous Korean painter Ceng Sen (U+6B5A)	e6ad9a
+歛	draw back, fold back; collect (U+6B5B)	e6ad9b
+歜	furious; wrathful (U+6B5C)	e6ad9c
+歝	U+6B5D (U+6B5D)	e6ad9d
+歞	U+6B5E (U+6B5E)	e6ad9e
+歟	a final particle used to express admiration, doubt, surprise, or to mark a question (U+6B5F)	e6ad9f
+歠	sip, drink, suck (U+6B60)	e6ada0
+歡	happy, pleased, glad; joy; to enjoy (U+6B61)	e6ada1
+止	stop, halt, desist; detain (U+6B62)	e6ada2
+正	right, proper, correct (U+6B63)	e6ada3
+此	this, these; in this case, then (U+6B64)	e6ada4
+步	step, pace; walk, stroll (U+6B65)	e6ada5
+武	military; martial, warlike (U+6B66)	e6ada6
+歧	fork of road; branching off (U+6B67)	e6ada7
+歨	U+6B68 (U+6B68)	e6ada8
+歩	step (U+6B69)	e6ada9
+歪	slant; inclined; askewd, awry (U+6B6A)	e6adaa
+歫	U+6B6B (U+6B6B)	e6adab
+歬	U+6B6C (U+6B6C)	e6adac
+歭	U+6B6D (U+6B6D)	e6adad
+歮	U+6B6E (U+6B6E)	e6adae
+歯	teeth; gears, cogs; age; a form of KangXi radical 211 (U+6B6F)	e6adaf
+歰	(Cant.) 歰氣 to argue, wrangle, disagree (U+6B70)	e6adb0
+歱	to visit; to imitate (U+6B71)	e6adb1
+歲	year; age; harvest (U+6B72)	e6adb2
+歳	year; age; harvest (U+6B73)	e6adb3
+歴	take place, past, history (U+6B74)	e6adb4
+歵	U+6B75 (U+6B75)	e6adb5
+歶	U+6B76 (U+6B76)	e6adb6
+歷	take place, past, history (U+6B77)	e6adb7
+歸	return; return to, revert to (U+6B78)	e6adb8
+歹	bad, vicious, depraved, wicked (U+6B79)	e6adb9
+歺	vicious, depraved, bad (U+6B7A)	e6adba
+死	die; dead; death (U+6B7B)	e6adbb
+歼	annihilate, wipe out, kill off (U+6B7C)	e6adbc
+歽	U+6B7D (U+6B7D)	e6adbd
+歾	drown (U+6B7E)	e6adbe
+歿	die; death; dead (U+6B7F)	e6adbf
+殀	die young, die prematurely (U+6B80)	e6ae80
+殁	die; death; dead (U+6B81)	e6ae81
+殂	to die (U+6B82)	e6ae82
+殃	misfortune, disaster, calamity (U+6B83)	e6ae83
+殄	to end; to exterminate (U+6B84)	e6ae84
+殅	U+6B85 (U+6B85)	e6ae85
+殆	dangerous, perilous; endanger (U+6B86)	e6ae86
+殇	die young; national mourning (U+6B87)	e6ae87
+殈	infertile (U+6B88)	e6ae88
+殉	die for cause, be martyr for (U+6B89)	e6ae89
+殊	different, special, unusual (U+6B8A)	e6ae8a
+残	injure, spoil; oppress; broken (U+6B8B)	e6ae8b
+殌	U+6B8C (U+6B8C)	e6ae8c
+殍	to starve to death (U+6B8D)	e6ae8d
+殎	U+6B8E (U+6B8E)	e6ae8e
+殏	U+6B8F (U+6B8F)	e6ae8f
+殐	U+6B90 (U+6B90)	e6ae90
+殑	swoon (U+6B91)	e6ae91
+殒	die, perish; vanish; fall (U+6B92)	e6ae92
+殓	dress corpse for burial (U+6B93)	e6ae93
+殔	U+6B94 (U+6B94)	e6ae94
+殕	U+6B95 (U+6B95)	e6ae95
+殖	breed, spawn; increase; prosper (U+6B96)	e6ae96
+殗	sickness; repeated (U+6B97)	e6ae97
+殘	injure, spoil; oppress; broken (U+6B98)	e6ae98
+殙	to die by taking poison (U+6B99)	e6ae99
+殚	utmost, entirely, quite; use up (U+6B9A)	e6ae9a
+殛	to put to death to imprison for life (U+6B9B)	e6ae9b
+殜	half-sitting, half-reclining (U+6B9C)	e6ae9c
+殝	U+6B9D (U+6B9D)	e6ae9d
+殞	die, perish; vanish; fall (U+6B9E)	e6ae9e
+殟	U+6B9F (U+6B9F)	e6ae9f
+殠	U+6BA0 (U+6BA0)	e6aea0
+殡	encoffin; embalm; funeral (U+6BA1)	e6aea1
+殢	be in great difficulty, greatly (U+6BA2)	e6aea2
+殣	die; death; to starve to death (U+6BA3)	e6aea3
+殤	die young; national mourning (U+6BA4)	e6aea4
+殥	U+6BA5 (U+6BA5)	e6aea5
+殦	U+6BA6 (U+6BA6)	e6aea6
+殧	U+6BA7 (U+6BA7)	e6aea7
+殨	to open as an ulcer or sore (U+6BA8)	e6aea8
+殩	U+6BA9 (U+6BA9)	e6aea9
+殪	die; kill, exterminate (U+6BAA)	e6aeaa
+殫	utmost, entirely, quite; use up (U+6BAB)	e6aeab
+殬	U+6BAC (U+6BAC)	e6aeac
+殭	a stiff corpse (U+6BAD)	e6aead
+殮	dress corpse for burial (U+6BAE)	e6aeae
+殯	encoffin; embalm; funeral (U+6BAF)	e6aeaf
+殰	an abortion; stillborn (U+6BB0)	e6aeb0
+殱	annihilate, wipe out, kill off (U+6BB1)	e6aeb1
+殲	annihilate, wipe out, kill off (U+6BB2)	e6aeb2
+殳	name of old weapon; kill; rad. 79 (U+6BB3)	e6aeb3
+殴	beat, fight with fists, hit (U+6BB4)	e6aeb4
+段	section, piece, division (U+6BB5)	e6aeb5
+殶	U+6BB6 (U+6BB6)	e6aeb6
+殷	many, great; abundant, flourishing (U+6BB7)	e6aeb7
+殸	stone chimes (U+6BB8)	e6aeb8
+殹	an echo (U+6BB9)	e6aeb9
+殺	kill, slaughter, murder; hurt; to pare off, reduce, clip (U+6BBA)	e6aeba
+殻	casing, shell, husk, hull, skin (U+6BBB)	e6aebb
+殼	casing, shell, husk, hull, skin (U+6BBC)	e6aebc
+殽	mixed up, confused; cooked (U+6BBD)	e6aebd
+殾	U+6BBE (U+6BBE)	e6aebe
+殿	hall; palace; temple (U+6BBF)	e6aebf
+毀	destroy, ruin, injure; slander (U+6BC0)	e6af80
+毁	destroy (U+6BC1)	e6af81
+毂	hub of wheel (U+6BC2)	e6af82
+毃	U+6BC3 (U+6BC3)	e6af83
+毄	U+6BC4 (U+6BC4)	e6af84
+毅	resolute, decisive, firm, persist (U+6BC5)	e6af85
+毆	beat, fight with fists, hit; to strike, brawl (U+6BC6)	e6af86
+毇	U+6BC7 (U+6BC7)	e6af87
+毈	fertile eggs; (Cant.) rotten, muddled (U+6BC8)	e6af88
+毉	U+6BC9 (U+6BC9)	e6af89
+毊	U+6BCA (U+6BCA)	e6af8a
+毋	do not; not; surname; rad. 80 (U+6BCB)	e6af8b
+毌	old form of 貫; component in 贯,貫,實, etc.; not to be confused with 毋 (U+6BCC)	e6af8c
+母	mother; female elders; female (U+6BCD)	e6af8d
+毎	every (U+6BCE)	e6af8e
+每	every, each (U+6BCF)	e6af8f
+毐	person of reprehensible morals; immoral; adulterer (U+6BD0)	e6af90
+毑	U+6BD1 (U+6BD1)	e6af91
+毒	poison, venom; poisonous (U+6BD2)	e6af92
+毓	give birth to; bring up, educate (U+6BD3)	e6af93
+比	to compare, liken; comparison; than (U+6BD4)	e6af94
+毕	end, finish, conclude; completed (U+6BD5)	e6af95
+毖	guard against, take care; caution (U+6BD6)	e6af96
+毗	help, assist; connect, adjoin (U+6BD7)	e6af97
+毘	help, assist; connect, adjoin (U+6BD8)	e6af98
+毙	kill; die violent death (U+6BD9)	e6af99
+毚	cunning; greedy; crafty (U+6BDA)	e6af9a
+毛	hair, fur, feathers; coarse (U+6BDB)	e6af9b
+毜	U+6BDC (U+6BDC)	e6af9c
+毝	U+6BDD (U+6BDD)	e6af9d
+毞	U+6BDE (U+6BDE)	e6af9e
+毟	to pluck, pick, tear (U+6BDF)	e6af9f
+毠	U+6BE0 (U+6BE0)	e6afa0
+毡	felt; rug, carpet (U+6BE1)	e6afa1
+毢	U+6BE2 (U+6BE2)	e6afa2
+毣	U+6BE3 (U+6BE3)	e6afa3
+毤	U+6BE4 (U+6BE4)	e6afa4
+毥	U+6BE5 (U+6BE5)	e6afa5
+毦	U+6BE6 (U+6BE6)	e6afa6
+毧	fur, hair, down; camel hair (U+6BE7)	e6afa7
+毨	U+6BE8 (U+6BE8)	e6afa8
+毩	a leather ball for kicking (U+6BE9)	e6afa9
+毪	serge from Tibet (U+6BEA)	e6afaa
+毫	fine hair; measure of length (U+6BEB)	e6afab
+毬	ball, anything round, sphere (U+6BEC)	e6afac
+毭	U+6BED (U+6BED)	e6afad
+毮	[kokuji] to pull out hair, etc. (U+6BEE)	e6afae
+毯	rug, carpet, blanket (U+6BEF)	e6afaf
+毰	U+6BF0 (U+6BF0)	e6afb0
+毱	U+6BF1 (U+6BF1)	e6afb1
+毲	U+6BF2 (U+6BF2)	e6afb2
+毳	fine hair or fur on animals (U+6BF3)	e6afb3
+毴	U+6BF4 (U+6BF4)	e6afb4
+毵	long feathers; scraggy (U+6BF5)	e6afb5
+毶	U+6BF6 (U+6BF6)	e6afb6
+毷	restless (U+6BF7)	e6afb7
+毸	U+6BF8 (U+6BF8)	e6afb8
+毹	U+6BF9 (U+6BF9)	e6afb9
+毺	U+6BFA (U+6BFA)	e6afba
+毻	to molt; to change the coat of animals; (Cant.) muddled, confused (U+6BFB)	e6afbb
+毼	U+6BFC (U+6BFC)	e6afbc
+毽	a shuttlecock (U+6BFD)	e6afbd
+毾	a coarse, woollen serge (U+6BFE)	e6afbe
+毿	long feathers; scraggy (U+6BFF)	e6afbf
+氀	U+6C00 (U+6C00)	e6b080
+氁	U+6C01 (U+6C01)	e6b081
+氂	tail; hair; yak (U+6C02)	e6b082
+氃	U+6C03 (U+6C03)	e6b083
+氄	down (U+6C04)	e6b084
+氅	overcoat; down feathers (U+6C05)	e6b085
+氆	thick, rough serge from Tibet (U+6C06)	e6b086
+氇	thick rough serge from Tibet (U+6C07)	e6b087
+氈	felt; rug, carpet (U+6C08)	e6b088
+氉	restless, melancholy (U+6C09)	e6b089
+氊	felt; coarse fabrics use for rugs, carpets, wrappers etc. (U+6C0A)	e6b08a
+氋	U+6C0B (U+6C0B)	e6b08b
+氌	thick rough serge from Tibet (U+6C0C)	e6b08c
+氍	fine woollen cloth; a mat used by the emperor in worshipping god (U+6C0D)	e6b08d
+氎	U+6C0E (U+6C0E)	e6b08e
+氏	clan, family; mister (U+6C0F)	e6b08f
+氐	name of an ancient tribe (U+6C10)	e6b090
+民	people, subjects, citizens (U+6C11)	e6b091
+氒	U+6C12 (U+6C12)	e6b092
+氓	people; subjects; vassals (U+6C13)	e6b093
+气	steam, vapor; KangXi radical 84 (U+6C14)	e6b094
+氕	hydrogen-1, protium (U+6C15)	e6b095
+氖	neon (U+6C16)	e6b096
+気	air, gas, steam, vapor; spirit (U+6C17)	e6b097
+氘	deuterium (U+6C18)	e6b098
+氙	xenon (U+6C19)	e6b099
+氚	tritium (U+6C1A)	e6b09a
+氛	gas, vapor, air (U+6C1B)	e6b09b
+氜	clear, bright; the sun; heat pertaining to this world; superior; upper; front (U+6C1C)	e6b09c
+氝	neon (U+6C1D)	e6b09d
+氞	U+6C1E (U+6C1E)	e6b09e
+氟	fluorine (U+6C1F)	e6b09f
+氠	U+6C20 (U+6C20)	e6b0a0
+氡	radon (U+6C21)	e6b0a1
+氢	ammonia; hydrogen nitride (U+6C22)	e6b0a2
+氣	air, gas, steam, vapor; spirit (U+6C23)	e6b0a3
+氤	hanging fog, misty (U+6C24)	e6b0a4
+氥	xenon (U+6C25)	e6b0a5
+氦	fluorine (U+6C26)	e6b0a6
+氧	oxygen (U+6C27)	e6b0a7
+氨	ammonia; hydrogen nitride (U+6C28)	e6b0a8
+氩	argonium (U+6C29)	e6b0a9
+氪	krypton (U+6C2A)	e6b0aa
+氫	amonia; hydrogen nitride (U+6C2B)	e6b0ab
+氬	argonium (U+6C2C)	e6b0ac
+氭	U+6C2D (U+6C2D)	e6b0ad
+氮	xenon (U+6C2E)	e6b0ae
+氯	chlorine (U+6C2F)	e6b0af
+氰	cyanogen; ethane dinitrile (U+6C30)	e6b0b0
+氱	U+6C31 (U+6C31)	e6b0b1
+氲	life giving influences of nature; spirit of harmony; prosperity (U+6C32)	e6b0b2
+氳	life giving influences of nature; spirit of harmony; prosperity (U+6C33)	e6b0b3
+水	water, liquid, lotion, juice (U+6C34)	e6b0b4
+氵	water; radical number 85 (U+6C35)	e6b0b5
+氶	name of a river in Shandong (U+6C36)	e6b0b6
+氷	ice, frost, icicles; cold (U+6C37)	e6b0b7
+永	long, perpetual, eternal, forever (U+6C38)	e6b0b8
+氹	ditch; pool (U+6C39)	e6b0b9
+氺	U+6C3A (U+6C3A)	e6b0ba
+氻	U+6C3B (U+6C3B)	e6b0bb
+氼	to sink; to drown to be given over to (U+6C3C)	e6b0bc
+氽	to float; to deep fry; (Cant.) to turn inside-out (U+6C3D)	e6b0bd
+氾	overflow, flood, inundate (U+6C3E)	e6b0be
+氿	spring (U+6C3F)	e6b0bf
+汀	sandbar, beach, bank, shore (U+6C40)	e6b180
+汁	juice, liquor, fluid, sap, gravy, sauce (U+6C41)	e6b181
+求	seek; demand, request; beseech (U+6C42)	e6b182
+汃	U+6C43 (U+6C43)	e6b183
+汄	U+6C44 (U+6C44)	e6b184
+汅	U+6C45 (U+6C45)	e6b185
+汆	to parboil; hot water kettle; to boil (U+6C46)	e6b186
+汇	concourse; flow together, gather (U+6C47)	e6b187
+汈	U+6C48 (U+6C48)	e6b188
+汉	Chinese people; Chinese language (U+6C49)	e6b189
+汊	a branching stream (U+6C4A)	e6b18a
+汋	to pour (U+6C4B)	e6b18b
+汌	U+6C4C (U+6C4C)	e6b18c
+汍	weep (U+6C4D)	e6b18d
+汎	float, drift; afloat; careless (U+6C4E)	e6b18e
+汏	U+6C4F (U+6C4F)	e6b18f
+汐	night tides, evening ebb tide (U+6C50)	e6b190
+汑	U+6C51 (U+6C51)	e6b191
+汒	U+6C52 (U+6C52)	e6b192
+汓	U+6C53 (U+6C53)	e6b193
+汔	U+6C54 (U+6C54)	e6b194
+汕	basket for catching fish; bamboo; Swatow (Shantou) (U+6C55)	e6b195
+汖	U+6C56 (U+6C56)	e6b196
+汗	perspiration, sweat (U+6C57)	e6b197
+汘	U+6C58 (U+6C58)	e6b198
+汙	filthy, dirty, impure, polluted (U+6C59)	e6b199
+汚	filthy, dirty, impure, polluted (U+6C5A)	e6b19a
+汛	high water, flood tides (U+6C5B)	e6b19b
+汜	a stream which leaves the main branch then later returns (U+6C5C)	e6b19c
+汝	you (U+6C5D)	e6b19d
+汞	element mercury (U+6C5E)	e6b19e
+江	large river; yangzi; surname (U+6C5F)	e6b19f
+池	pool, pond; moat; cistern (U+6C60)	e6b1a0
+污	filthy, dirty, impure, polluted (U+6C61)	e6b1a1
+汢	U+6C62 (U+6C62)	e6b1a2
+汣	U+6C63 (U+6C63)	e6b1a3
+汤	hot water; soup, gravy, broth (U+6C64)	e6b1a4
+汥	U+6C65 (U+6C65)	e6b1a5
+汦	U+6C66 (U+6C66)	e6b1a6
+汧	name of a river in Shangdong; marsh; float (U+6C67)	e6b1a7
+汨	Mi(luo) river in Hunan province where Qu Yuan drowned himself; to sink; used (erroneously) for U+6C69 汩 (U+6C68)	e6b1a8
+汩	run swiftly (U+6C69)	e6b1a9
+汪	vast, extensive, deep; surname (U+6C6A)	e6b1aa
+汫	a pit, trap; the appearance of a small, meandering stream (U+6C6B)	e6b1ab
+汬	U+6C6C (U+6C6C)	e6b1ac
+汭	confluence of two streams; bend (U+6C6D)	e6b1ad
+汮	U+6C6E (U+6C6E)	e6b1ae
+汯	U+6C6F (U+6C6F)	e6b1af
+汰	excessive; scour, wash out (U+6C70)	e6b1b0
+汱	U+6C71 (U+6C71)	e6b1b1
+汲	draw water from well; imbibe (U+6C72)	e6b1b2
+汳	U+6C73 (U+6C73)	e6b1b3
+汴	name of a river in Henan; Henan (U+6C74)	e6b1b4
+汵	U+6C75 (U+6C75)	e6b1b5
+汶	a river in Shandong province (U+6C76)	e6b1b6
+汷	U+6C77 (U+6C77)	e6b1b7
+汸	U+6C78 (U+6C78)	e6b1b8
+汹	turbulent; noisy, restless (U+6C79)	e6b1b9
+決	decide, determine, judge (U+6C7A)	e6b1ba
+汻	U+6C7B (U+6C7B)	e6b1bb
+汼	U+6C7C (U+6C7C)	e6b1bc
+汽	steam, vapor, gas (U+6C7D)	e6b1bd
+汾	river in Shanxi province (U+6C7E)	e6b1be
+汿	U+6C7F (U+6C7F)	e6b1bf
+沀	U+6C80 (U+6C80)	e6b280
+沁	soak into, seep in, percolate (U+6C81)	e6b281
+沂	river in southeast Shandong (U+6C82)	e6b282
+沃	water, irrigate; fertile, rich (U+6C83)	e6b283
+沄	billows (U+6C84)	e6b284
+沅	name of a river in western Hunan that flows into Dongting lake (U+6C85)	e6b285
+沆	a ferry; fog; flowing (U+6C86)	e6b286
+沇	flowing and engulfing; brimming (U+6C87)	e6b287
+沈	sink, submerge; addicted to; surname (U+6C88)	e6b288
+沉	sink, submerge; addicted to (U+6C89)	e6b289
+沊	(Cant.) onomatopoetic (U+6C8A)	e6b28a
+沋	U+6C8B (U+6C8B)	e6b28b
+沌	chaotic, confused; turbid, murky (U+6C8C)	e6b28c
+沍	freezing; stopped up, closed off (U+6C8D)	e6b28d
+沎	U+6C8E (U+6C8E)	e6b28e
+沏	infuse (U+6C8F)	e6b28f
+沐	bathe, cleanse, wash, shampoo (U+6C90)	e6b290
+沑	U+6C91 (U+6C91)	e6b291
+沒	not, have not, none; to drown, sink (U+6C92)	e6b292
+沓	connected, joined; repeated (U+6C93)	e6b293
+沔	flood; overflowing (U+6C94)	e6b294
+沕	deep; (Cant.) to dive (U+6C95)	e6b295
+沖	pour, infuse, steep; wash away (U+6C96)	e6b296
+沗	U+6C97 (U+6C97)	e6b297
+沘	name of a river (U+6C98)	e6b298
+沙	sand, gravel, pebbles; granulated (U+6C99)	e6b299
+沚	islet in stream; small sandbar (U+6C9A)	e6b29a
+沛	abundant, full, copious; sudden (U+6C9B)	e6b29b
+沜	U+6C9C (U+6C9C)	e6b29c
+沝	U+6C9D (U+6C9D)	e6b29d
+沞	U+6C9E (U+6C9E)	e6b29e
+沟	ditch, drain, narrow waterway (U+6C9F)	e6b29f
+沠	U+6CA0 (U+6CA0)	e6b2a0
+没	not, have not, none; drown, sink (U+6CA1)	e6b2a1
+沢	marsh, swamp; grace, brilliance (U+6CA2)	e6b2a2
+沣	river in Shanxi province (U+6CA3)	e6b2a3
+沤	soak, steep; sodden or soaked (U+6CA4)	e6b2a4
+沥	trickle, drip; strain; dregs (U+6CA5)	e6b2a5
+沦	be lost; sink, be submerged (U+6CA6)	e6b2a6
+沧	blue, dark green; cold (U+6CA7)	e6b2a7
+沨	U+6CA8 (U+6CA8)	e6b2a8
+沩	name of a river in Shanxi (U+6CA9)	e6b2a9
+沪	Shanghai; river near Shanghai (U+6CAA)	e6b2aa
+沫	froth, foam, bubbles, suds (U+6CAB)	e6b2ab
+沬	dusk; Mei river; Zhou dynasty place-name; (Cant.) to go underwater, to dive (U+6CAC)	e6b2ac
+沭	river in Shantung (U+6CAD)	e6b2ad
+沮	stop, prevent; defeated, dejected (U+6CAE)	e6b2ae
+沯	U+6CAF (U+6CAF)	e6b2af
+沰	to let drop (U+6CB0)	e6b2b0
+沱	rivers, streams, waterways; flow (U+6CB1)	e6b2b1
+沲	float (U+6CB2)	e6b2b2
+河	river; stream; yellow river (U+6CB3)	e6b2b3
+沴	foul and poisonous in confusion; out of harmony (U+6CB4)	e6b2b4
+沵	U+6CB5 (U+6CB5)	e6b2b5
+沶	U+6CB6 (U+6CB6)	e6b2b6
+沷	to remove evil; to cleanse; to wash away (U+6CB7)	e6b2b7
+沸	boil, bubble up, gush (U+6CB8)	e6b2b8
+油	oil, fat, grease, lard; paints (U+6CB9)	e6b2b9
+沺	turbulent (U+6CBA)	e6b2ba
+治	govern, regulate, administer (U+6CBB)	e6b2bb
+沼	lake, fishpond, swamps (U+6CBC)	e6b2bc
+沽	buy and sell; inferior in quality (U+6CBD)	e6b2bd
+沾	moisten, wet, soak; touch (U+6CBE)	e6b2be
+沿	follow a course, go along (U+6CBF)	e6b2bf
+泀	U+6CC0 (U+6CC0)	e6b380
+況	condition, situation; furthermore (U+6CC1)	e6b381
+泂	clear and deep (of water); wide (U+6CC2)	e6b382
+泃	river in Henan (U+6CC3)	e6b383
+泄	leak; vent; flow; reveal (U+6CC4)	e6b384
+泅	swim, float, wade (U+6CC5)	e6b385
+泆	licentious, libertine, dissipated (U+6CC6)	e6b386
+泇	U+6CC7 (U+6CC7)	e6b387
+泈	U+6CC8 (U+6CC8)	e6b388
+泉	spring, fountain; wealth, money (U+6CC9)	e6b389
+泊	anchor vessel; lie at anchor (U+6CCA)	e6b38a
+泋	U+6CCB (U+6CCB)	e6b38b
+泌	to seep out, excrete (U+6CCC)	e6b38c
+泍	U+6CCD (U+6CCD)	e6b38d
+泎	U+6CCE (U+6CCE)	e6b38e
+泏	U+6CCF (U+6CCF)	e6b38f
+泐	to write; to indite; veins in minerals (U+6CD0)	e6b390
+泑	the vitreous glaze on china, porcelain, etc. (U+6CD1)	e6b391
+泒	a river in Hubei province (U+6CD2)	e6b392
+泓	clear, deep pool of water (U+6CD3)	e6b393
+泔	water from washing rice to boil thick, as gruel (U+6CD4)	e6b394
+法	law, rule, regulation, statute; France, French (U+6CD5)	e6b395
+泖	still waters; river in Jiangsu (U+6CD6)	e6b396
+泗	mucous; nasal flow; sniffle; river in Shandong (U+6CD7)	e6b397
+泘	U+6CD8 (U+6CD8)	e6b398
+泙	roar (U+6CD9)	e6b399
+泚	clear; bright and brilliant; swea (U+6CDA)	e6b39a
+泛	to drift, float; careless, reckless (U+6CDB)	e6b39b
+泜	a river in Hebei province (U+6CDC)	e6b39c
+泝	go upstream; trace source; formerly (U+6CDD)	e6b39d
+泞	mud; miry, muddy, stagnant (U+6CDE)	e6b39e
+泟	U+6CDF (U+6CDF)	e6b39f
+泠	nice and cool, mild and comfortable (U+6CE0)	e6b3a0
+泡	bubbles, suds; blister; soak (U+6CE1)	e6b3a1
+波	waves, breakers; undulations (U+6CE2)	e6b3a2
+泣	cry, sob, weep (U+6CE3)	e6b3a3
+泤	U+6CE4 (U+6CE4)	e6b3a4
+泥	mud, mire; earth, clay; plaster (U+6CE5)	e6b3a5
+泦	U+6CE6 (U+6CE6)	e6b3a6
+泧	U+6CE7 (U+6CE7)	e6b3a7
+注	concentrate, focus, direct (U+6CE8)	e6b3a8
+泩	U+6CE9 (U+6CE9)	e6b3a9
+泪	tears; weep, cry (U+6CEA)	e6b3aa
+泫	weep; cry; shine, glisten (U+6CEB)	e6b3ab
+泬	U+6CEC (U+6CEC)	e6b3ac
+泭	a raft (U+6CED)	e6b3ad
+泮	Zhou dynasty school; disperse; fall apart (U+6CEE)	e6b3ae
+泯	destroy, eliminate; perish (U+6CEF)	e6b3af
+泰	great, exalted, superior; big (U+6CF0)	e6b3b0
+泱	great, expansive; agitated (U+6CF1)	e6b3b1
+泲	kind of white wine; rivers in Hebei and Shandong (U+6CF2)	e6b3b2
+泳	dive; swim (U+6CF3)	e6b3b3
+泴	U+6CF4 (U+6CF4)	e6b3b4
+泵	pump (U+6CF5)	e6b3b5
+泶	U+6CF6 (U+6CF6)	e6b3b6
+泷	raining; wet; soaked; a river in Guangdong (U+6CF7)	e6b3b7
+泸	river in Jiangxi province (U+6CF8)	e6b3b8
+泹	U+6CF9 (U+6CF9)	e6b3b9
+泺	river in Shandong province (U+6CFA)	e6b3ba
+泻	drain off, leak; flow, pour down (U+6CFB)	e6b3bb
+泼	pour, splash, water, sprinkle (U+6CFC)	e6b3bc
+泽	marsh, swamp; grace, brilliance (U+6CFD)	e6b3bd
+泾	name of a river (U+6CFE)	e6b3be
+泿	U+6CFF (U+6CFF)	e6b3bf
+洀	U+6D00 (U+6D00)	e6b480
+洁	clean, purify, pure (U+6D01)	e6b481
+洂	U+6D02 (U+6D02)	e6b482
+洃	U+6D03 (U+6D03)	e6b483
+洄	a back-water; an eddy a whirlpool (U+6D04)	e6b484
+洅	U+6D05 (U+6D05)	e6b485
+洆	U+6D06 (U+6D06)	e6b486
+洇	U+6D07 (U+6D07)	e6b487
+洈	U+6D08 (U+6D08)	e6b488
+洉	U+6D09 (U+6D09)	e6b489
+洊	flowing water (U+6D0A)	e6b48a
+洋	ocean, sea; foreign; western (U+6D0B)	e6b48b
+洌	clear (U+6D0C)	e6b48c
+洍	U+6D0D (U+6D0D)	e6b48d
+洎	until; till; soup; to soak (U+6D0E)	e6b48e
+洏	tears; tearful (U+6D0F)	e6b48f
+洐	U+6D10 (U+6D10)	e6b490
+洑	whirlpool, undercurrent (U+6D11)	e6b491
+洒	sprinkle; scatter; pour; to wipe away; to shiver (U+6D12)	e6b492
+洓	U+6D13 (U+6D13)	e6b493
+洔	U+6D14 (U+6D14)	e6b494
+洕	U+6D15 (U+6D15)	e6b495
+洖	U+6D16 (U+6D16)	e6b496
+洗	wash, rinse; clean, purify (U+6D17)	e6b497
+洘	U+6D18 (U+6D18)	e6b498
+洙	name of a river in Shandong (U+6D19)	e6b499
+洚	a flood (U+6D1A)	e6b49a
+洛	river in Shanxi province; city (U+6D1B)	e6b49b
+洜	U+6D1C (U+6D1C)	e6b49c
+洝	U+6D1D (U+6D1D)	e6b49d
+洞	cave, grotto; ravine; hole (U+6D1E)	e6b49e
+洟	snivel, mucus from nose (U+6D1F)	e6b49f
+洠	U+6D20 (U+6D20)	e6b4a0
+洡	U+6D21 (U+6D21)	e6b4a1
+洢	U+6D22 (U+6D22)	e6b4a2
+洣	Mi river in Hunan, tributary of Xiangjiang (U+6D23)	e6b4a3
+洤	a fountain or spring (U+6D24)	e6b4a4
+津	ferry; saliva; ford (U+6D25)	e6b4a5
+洦	U+6D26 (U+6D26)	e6b4a6
+洧	name of a river in honan (U+6D27)	e6b4a7
+洨	river in Hebei province (U+6D28)	e6b4a8
+洩	leak, drip; vent or release (U+6D29)	e6b4a9
+洪	vast, immense; flood, deluge (U+6D2A)	e6b4aa
+洫	to ditch; a moat (U+6D2B)	e6b4ab
+洬	U+6D2C (U+6D2C)	e6b4ac
+洭	U+6D2D (U+6D2D)	e6b4ad
+洮	cleanse; river in Gansu province (U+6D2E)	e6b4ae
+洯	U+6D2F (U+6D2F)	e6b4af
+洰	U+6D30 (U+6D30)	e6b4b0
+洱	a lake in Yunnan (U+6D31)	e6b4b1
+洲	continent; island; islet (U+6D32)	e6b4b2
+洳	damp, boggy, marshy (U+6D33)	e6b4b3
+洴	sound (U+6D34)	e6b4b4
+洵	true, real, truly, really (U+6D35)	e6b4b5
+洶	the rush of water; turbulent; noisy, restless (U+6D36)	e6b4b6
+洷	U+6D37 (U+6D37)	e6b4b7
+洸	sparkle, glitter (U+6D38)	e6b4b8
+洹	river in Henan province (U+6D39)	e6b4b9
+洺	river in Hebei province (U+6D3A)	e6b4ba
+活	live, exist, survive; lively (U+6D3B)	e6b4bb
+洼	hollow; pit; depression; swamp (U+6D3C)	e6b4bc
+洽	to blend with, be in harmony; to penetrate; to cover; a river in Shenxi (U+6D3D)	e6b4bd
+派	school of thought, sect, branch (U+6D3E)	e6b4be
+洿	stagnant water; impure, filthy (U+6D3F)	e6b4bf
+浀	U+6D40 (U+6D40)	e6b580
+流	flow, circulate, drift; class (U+6D41)	e6b581
+浂	U+6D42 (U+6D42)	e6b582
+浃	saturate, drench; damp, wet (U+6D43)	e6b583
+浄	pure, clean, unspoiled (U+6D44)	e6b584
+浅	shallow, not deep; superficial (U+6D45)	e6b585
+浆	any thick fluid; starch; broth (U+6D46)	e6b586
+浇	spray, water, sprinkle (U+6D47)	e6b587
+浈	river in Guangdong province (U+6D48)	e6b588
+浉	U+6D49 (U+6D49)	e6b589
+浊	muddy, turbid, dirty, filthy (U+6D4A)	e6b58a
+测	measure, estimate, conjecture (U+6D4B)	e6b58b
+浌	U+6D4C (U+6D4C)	e6b58c
+浍	irrigation ditch, trench; river (U+6D4D)	e6b58d
+济	help, aid, relieve; ferry, cross (U+6D4E)	e6b58e
+浏	clear; bright; whistling (U+6D4F)	e6b58f
+浐	U+6D50 (U+6D50)	e6b590
+浑	muddy, turbid; blend, merge, mix (U+6D51)	e6b591
+浒	riverbank, shore (U+6D52)	e6b592
+浓	thick, strong, concentrated (U+6D53)	e6b593
+浔	steep bank by stream; jiujiang (U+6D54)	e6b594
+浕	U+6D55 (U+6D55)	e6b595
+浖	(Cant.) intensifier (U+6D56)	e6b596
+浗	U+6D57 (U+6D57)	e6b597
+浘	U+6D58 (U+6D58)	e6b598
+浙	Zhejiang province; river (U+6D59)	e6b599
+浚	dredge (U+6D5A)	e6b59a
+浛	U+6D5B (U+6D5B)	e6b59b
+浜	creek, stream; beach, sea coast (U+6D5C)	e6b59c
+浝	U+6D5D (U+6D5D)	e6b59d
+浞	to soak, to steep in water (U+6D5E)	e6b59e
+浟	U+6D5F (U+6D5F)	e6b59f
+浠	U+6D60 (U+6D60)	e6b5a0
+浡	burst forth; rise; vigorous (U+6D61)	e6b5a1
+浢	U+6D62 (U+6D62)	e6b5a2
+浣	to wash, to rinse (U+6D63)	e6b5a3
+浤	beating of ocean; surging of wate (U+6D64)	e6b5a4
+浥	moist, wet, dampen (U+6D65)	e6b5a5
+浦	bank of river, shore; surname (U+6D66)	e6b5a6
+浧	U+6D67 (U+6D67)	e6b5a7
+浨	U+6D68 (U+6D68)	e6b5a8
+浩	great, numerous, vast, abundant (U+6D69)	e6b5a9
+浪	wave; wasteful, reckless (U+6D6A)	e6b5aa
+浫	U+6D6B (U+6D6B)	e6b5ab
+浬	nautical mile (U+6D6C)	e6b5ac
+浭	river in Hebei province; (Cant.) a ford; to wade (U+6D6D)	e6b5ad
+浮	to float, drift, waft; to exceed; superfluous (U+6D6E)	e6b5ae
+浯	name of a river in Shandong (U+6D6F)	e6b5af
+浰	U+6D70 (U+6D70)	e6b5b0
+浱	U+6D71 (U+6D71)	e6b5b1
+浲	U+6D72 (U+6D72)	e6b5b2
+浳	U+6D73 (U+6D73)	e6b5b3
+浴	bathe, wash; bath (U+6D74)	e6b5b4
+浵	U+6D75 (U+6D75)	e6b5b5
+浶	U+6D76 (U+6D76)	e6b5b6
+海	sea, ocean; maritime (U+6D77)	e6b5b7
+浸	soak, immerse, dip, percolate (U+6D78)	e6b5b8
+浹	saturate, drench; damp, wet (U+6D79)	e6b5b9
+浺	U+6D7A (U+6D7A)	e6b5ba
+浻	U+6D7B (U+6D7B)	e6b5bb
+浼	to request; to ask a favour of; to pollute, contaminate (U+6D7C)	e6b5bc
+浽	U+6D7D (U+6D7D)	e6b5bd
+浾	U+6D7E (U+6D7E)	e6b5be
+浿	U+6D7F (U+6D7F)	e6b5bf
+涀	U+6D80 (U+6D80)	e6b680
+涁	U+6D81 (U+6D81)	e6b681
+涂	surname; name of certain rivers (U+6D82)	e6b682
+涃	U+6D83 (U+6D83)	e6b683
+涄	U+6D84 (U+6D84)	e6b684
+涅	blacken; black mud, slime; tatto (U+6D85)	e6b685
+涆	U+6D86 (U+6D86)	e6b686
+涇	name of a river (U+6D87)	e6b687
+消	vanish, die out; melt away (U+6D88)	e6b688
+涉	ford stream, wade across (U+6D89)	e6b689
+涊	dirt (U+6D8A)	e6b68a
+涋	U+6D8B (U+6D8B)	e6b68b
+涌	surge up, bubble up, gush forth (U+6D8C)	e6b68c
+涍	U+6D8D (U+6D8D)	e6b68d
+涎	saliva (U+6D8E)	e6b68e
+涏	U+6D8F (U+6D8F)	e6b68f
+涐	U+6D90 (U+6D90)	e6b690
+涑	river in Shansi province (U+6D91)	e6b691
+涒	meander (U+6D92)	e6b692
+涓	brook, stream; select; pure (U+6D93)	e6b693
+涔	river in Shaanxi; murky torrent (U+6D94)	e6b694
+涕	tear; snivel, nasal mucus (U+6D95)	e6b695
+涖	river in Hebei province; creek (U+6D96)	e6b696
+涗	U+6D97 (U+6D97)	e6b697
+涘	river bank; water's edge (U+6D98)	e6b698
+涙	tears; weep (U+6D99)	e6b699
+涚	U+6D9A (U+6D9A)	e6b69a
+涛	large waves (U+6D9B)	e6b69b
+涜	ditch, sluice, gutter, drain (U+6D9C)	e6b69c
+涝	inundate, flood; torrent (U+6D9D)	e6b69d
+涞	river in Hebei province; creek (U+6D9E)	e6b69e
+涟	flowing water; ripples; weeping (U+6D9F)	e6b69f
+涠	still water (U+6DA0)	e6b6a0
+涡	swirl, whirlpool, eddy (U+6DA1)	e6b6a1
+涢	U+6DA2 (U+6DA2)	e6b6a2
+涣	scatter; scattered (U+6DA3)	e6b6a3
+涤	wash, cleanse, purify; sweep (U+6DA4)	e6b6a4
+涥	U+6DA5 (U+6DA5)	e6b6a5
+润	soft, moist; sleek; freshen (U+6DA6)	e6b6a6
+涧	brook, mountain stream (U+6DA7)	e6b6a7
+涨	rise in price (U+6DA8)	e6b6a8
+涩	astringent; harsh; uneven, rough (U+6DA9)	e6b6a9
+涪	river in Sichuan province (U+6DAA)	e6b6aa
+涫	U+6DAB (U+6DAB)	e6b6ab
+涬	watery expanse (U+6DAC)	e6b6ac
+涭	U+6DAD (U+6DAD)	e6b6ad
+涮	rinse; cook or boil in juice (U+6DAE)	e6b6ae
+涯	shore, bank, water's edge (U+6DAF)	e6b6af
+涰	U+6DB0 (U+6DB0)	e6b6b0
+涱	U+6DB1 (U+6DB1)	e6b6b1
+液	sap, juice, liquid, fluid (U+6DB2)	e6b6b2
+涳	U+6DB3 (U+6DB3)	e6b6b3
+涴	daub (U+6DB4)	e6b6b4
+涵	soak, wet; tolerate, be lenient (U+6DB5)	e6b6b5
+涶	to spit; saliva (U+6DB6)	e6b6b6
+涷	rainstorm (U+6DB7)	e6b6b7
+涸	dried up; exhausted, tired; dry (U+6DB8)	e6b6b8
+涹	U+6DB9 (U+6DB9)	e6b6b9
+涺	U+6DBA (U+6DBA)	e6b6ba
+涻	U+6DBB (U+6DBB)	e6b6bb
+涼	cool, cold; disheartened (U+6DBC)	e6b6bc
+涽	U+6DBD (U+6DBD)	e6b6bd
+涾	U+6DBE (U+6DBE)	e6b6be
+涿	drip, dribble, trickle (U+6DBF)	e6b6bf
+淀	shallow water, swamp; swampy (U+6DC0)	e6b780
+淁	U+6DC1 (U+6DC1)	e6b781
+淂	U+6DC2 (U+6DC2)	e6b782
+淃	U+6DC3 (U+6DC3)	e6b783
+淄	river in Shandong province (U+6DC4)	e6b784
+淅	water used wash rice; to wash ric (U+6DC5)	e6b785
+淆	confused, in disarray, mixed up (U+6DC6)	e6b786
+淇	river in Henan province (U+6DC7)	e6b787
+淈	U+6DC8 (U+6DC8)	e6b788
+淉	U+6DC9 (U+6DC9)	e6b789
+淊	U+6DCA (U+6DCA)	e6b78a
+淋	drip, soak, drench; perfectly (U+6DCB)	e6b78b
+淌	trickle; flow down; drip (U+6DCC)	e6b78c
+淍	U+6DCD (U+6DCD)	e6b78d
+淎	U+6DCE (U+6DCE)	e6b78e
+淏	U+6DCF (U+6DCF)	e6b78f
+淐	U+6DD0 (U+6DD0)	e6b790
+淑	good, pure, virtuous, charming (U+6DD1)	e6b791
+淒	bitter cold, miserable, dreary (U+6DD2)	e6b792
+淓	U+6DD3 (U+6DD3)	e6b793
+淔	U+6DD4 (U+6DD4)	e6b794
+淕	U+6DD5 (U+6DD5)	e6b795
+淖	slush; mud (U+6DD6)	e6b796
+淗	U+6DD7 (U+6DD7)	e6b797
+淘	wash in sieve; weed out (U+6DD8)	e6b798
+淙	gurgling sound of water (U+6DD9)	e6b799
+淚	tears; weep, cry (U+6DDA)	e6b79a
+淛	U+6DDB (U+6DDB)	e6b79b
+淜	roar of dashing waves (U+6DDC)	e6b79c
+淝	name of an affluent of the Poyang Lake (U+6DDD)	e6b79d
+淞	name of a river in Jiangsu (U+6DDE)	e6b79e
+淟	turbid; muddy (U+6DDF)	e6b79f
+淠	U+6DE0 (U+6DE0)	e6b7a0
+淡	weak, watery; insipid, tasteless (U+6DE1)	e6b7a1
+淢	ditch (U+6DE2)	e6b7a2
+淣	U+6DE3 (U+6DE3)	e6b7a3
+淤	mud, sediment; clog up, silt up (U+6DE4)	e6b7a4
+淥	strain; (Cant.) to scald (U+6DE5)	e6b7a5
+淦	river in Jiangxi province; water leaking into a boat (U+6DE6)	e6b7a6
+淧	U+6DE7 (U+6DE7)	e6b7a7
+淨	pure, clean, unspoiled (U+6DE8)	e6b7a8
+淩	pass over, cross, traverse (U+6DE9)	e6b7a9
+淪	be lost; sink, be submerged (U+6DEA)	e6b7aa
+淫	obscene, licentious, lewd (U+6DEB)	e6b7ab
+淬	temper; dye; soak; change, alter (U+6DEC)	e6b7ac
+淭	U+6DED (U+6DED)	e6b7ad
+淮	river in Anhui province (U+6DEE)	e6b7ae
+淯	name of river; old name of Baihe in Henan (U+6DEF)	e6b7af
+淰	fish; still; (Cant.) thoroughly soaked; a deep sleep (U+6DF0)	e6b7b0
+深	deep; depth; far; very, extreme (U+6DF1)	e6b7b1
+淲	U+6DF2 (U+6DF2)	e6b7b2
+淳	honest, simple, unsophisticated; cyanogen; ethane dinitrile (U+6DF3)	e6b7b3
+淴	U+6DF4 (U+6DF4)	e6b7b4
+淵	gulf, abyss, deep (U+6DF5)	e6b7b5
+淶	river in Hebei province; creek (U+6DF6)	e6b7b6
+混	to mix, blend, mingle; to bumble along (U+6DF7)	e6b7b7
+淸	clear (U+6DF8)	e6b7b8
+淹	drown; cover with liquid, steep (U+6DF9)	e6b7b9
+淺	shallow, not deep; superficial (U+6DFA)	e6b7ba
+添	append, add to; increase (U+6DFB)	e6b7bb
+淼	a wide expanse of water (U+6DFC)	e6b7bc
+淽	U+6DFD (U+6DFD)	e6b7bd
+淾	U+6DFE (U+6DFE)	e6b7be
+淿	U+6DFF (U+6DFF)	e6b7bf
+渀	U+6E00 (U+6E00)	e6b880
+渁	U+6E01 (U+6E01)	e6b881
+渂	U+6E02 (U+6E02)	e6b882
+渃	U+6E03 (U+6E03)	e6b883
+渄	U+6E04 (U+6E04)	e6b884
+清	clear, pure, clean; peaceful (U+6E05)	e6b885
+渆	U+6E06 (U+6E06)	e6b886
+渇	thirsty (U+6E07)	e6b887
+済	help, aid, relieve; ferry, cross (U+6E08)	e6b888
+渉	ford stream (U+6E09)	e6b889
+渊	surge up, bubble up, gush forth (U+6E0A)	e6b88a
+渋	astringent; harsh; uneven, rough (U+6E0B)	e6b88b
+渌	strain (U+6E0C)	e6b88c
+渍	soak, steep; dye; stains; sodden (U+6E0D)	e6b88d
+渎	ditch, sluice, gutter, drain (U+6E0E)	e6b88e
+渏	U+6E0F (U+6E0F)	e6b88f
+渐	gradually (U+6E10)	e6b890
+渑	name of a river in Shandong (U+6E11)	e6b891
+渒	U+6E12 (U+6E12)	e6b892
+渓	mountain stream, creek (U+6E13)	e6b893
+渔	to fish; seize; pursue; surname (U+6E14)	e6b894
+渕	surge up, bubble up, gush forth (U+6E15)	e6b895
+渖	juice; liquid; water; to leak, pour (U+6E16)	e6b896
+渗	soak through, infiltrate (U+6E17)	e6b897
+渘	U+6E18 (U+6E18)	e6b898
+渙	scatter; scattered, dispersed (U+6E19)	e6b899
+渚	small sand bank, islet (U+6E1A)	e6b89a
+減	decrease, subtract, diminish (U+6E1B)	e6b89b
+渜	U+6E1C (U+6E1C)	e6b89c
+渝	change; chongqing (U+6E1D)	e6b89d
+渞	U+6E1E (U+6E1E)	e6b89e
+渟	(of water) not flowing; clear (U+6E1F)	e6b89f
+渠	ditch, canal, channel, gutter (U+6E20)	e6b8a0
+渡	cross, ferry over; ferry (U+6E21)	e6b8a1
+渢	pleasant sound (U+6E22)	e6b8a2
+渣	refuse, dregs, lees, sediment (U+6E23)	e6b8a3
+渤	swelling; the Gulf of Hopei (Hebei) (U+6E24)	e6b8a4
+渥	moisten, soak; great, deep; dye; to enrich (U+6E25)	e6b8a5
+渦	swirl, whirlpool, eddy (U+6E26)	e6b8a6
+渧	to drop, as liquids; a drop (U+6E27)	e6b8a7
+渨	a cove, a bay; a bend or nook in the hills; the curve of a bow (U+6E28)	e6b8a8
+温	lukewarm (U+6E29)	e6b8a9
+渪	U+6E2A (U+6E2A)	e6b8aa
+渫	beating of ocean; surging of wate (U+6E2B)	e6b8ab
+測	measure, estimate, conjecture (U+6E2C)	e6b8ac
+渭	name of a river in Shanxi (U+6E2D)	e6b8ad
+渮	river in Shandong province (U+6E2E)	e6b8ae
+港	port, harbor; small stream; bay (U+6E2F)	e6b8af
+渰	(of cloud) forming or rising (U+6E30)	e6b8b0
+渱	U+6E31 (U+6E31)	e6b8b1
+渲	add repeated washes of color (U+6E32)	e6b8b2
+渳	U+6E33 (U+6E33)	e6b8b3
+渴	thirsty, parched; yearn, pine (U+6E34)	e6b8b4
+渵	U+6E35 (U+6E35)	e6b8b5
+渶	U+6E36 (U+6E36)	e6b8b6
+渷	U+6E37 (U+6E37)	e6b8b7
+游	to swim; float, drift; wander, roam (U+6E38)	e6b8b8
+渹	roar, crash (U+6E39)	e6b8b9
+渺	endlessly long, boundless, vast (U+6E3A)	e6b8ba
+渻	U+6E3B (U+6E3B)	e6b8bb
+渼	ripples (U+6E3C)	e6b8bc
+渽	U+6E3D (U+6E3D)	e6b8bd
+渾	muddy, turbid; blend, merge, mix (U+6E3E)	e6b8be
+渿	U+6E3F (U+6E3F)	e6b8bf
+湀	U+6E40 (U+6E40)	e6b980
+湁	U+6E41 (U+6E41)	e6b981
+湂	U+6E42 (U+6E42)	e6b982
+湃	sound of waves; turbulent (U+6E43)	e6b983
+湄	water's edge, shore, bank (U+6E44)	e6b984
+湅	boil silk (U+6E45)	e6b985
+湆	(Cant.) sticky, not smooth, slow (U+6E46)	e6b986
+湇	U+6E47 (U+6E47)	e6b987
+湈	U+6E48 (U+6E48)	e6b988
+湉	U+6E49 (U+6E49)	e6b989
+湊	piece together, assemble (U+6E4A)	e6b98a
+湋	river in Shanxi province (U+6E4B)	e6b98b
+湌	U+6E4C (U+6E4C)	e6b98c
+湍	rapid water current, rapids (U+6E4D)	e6b98d
+湎	flushed with drink, drunk (U+6E4E)	e6b98e
+湏	wash face; erroneously borrowed for DKW 43352 'necessary, must' (U+6E4F)	e6b98f
+湐	U+6E50 (U+6E50)	e6b990
+湑	to strain spirits; river in Guangxi; abundant; bright (U+6E51)	e6b991
+湒	U+6E52 (U+6E52)	e6b992
+湓	an affluent of the River Yangtze near Kiukiang (U+6E53)	e6b993
+湔	wash, cleanse; purge (U+6E54)	e6b994
+湕	U+6E55 (U+6E55)	e6b995
+湖	a lake; Hubei, Hunan; bluish-green (U+6E56)	e6b996
+湗	U+6E57 (U+6E57)	e6b997
+湘	Hunan province (U+6E58)	e6b998
+湙	U+6E59 (U+6E59)	e6b999
+湚	U+6E5A (U+6E5A)	e6b99a
+湛	deep; profound; clear; tranquil, placid (U+6E5B)	e6b99b
+湜	transparent, clear (U+6E5C)	e6b99c
+湝	flow (U+6E5D)	e6b99d
+湞	river in Guangdong province (U+6E5E)	e6b99e
+湟	river in qinghai province (U+6E5F)	e6b99f
+湠	U+6E60 (U+6E60)	e6b9a0
+湡	U+6E61 (U+6E61)	e6b9a1
+湢	bathroom; neat; orderly (U+6E62)	e6b9a2
+湣	mixed, confused; pity (U+6E63)	e6b9a3
+湤	U+6E64 (U+6E64)	e6b9a4
+湥	U+6E65 (U+6E65)	e6b9a5
+湦	U+6E66 (U+6E66)	e6b9a6
+湧	well up; gush forth; rise (U+6E67)	e6b9a7
+湨	U+6E68 (U+6E68)	e6b9a8
+湩	muddy, turbid; milk (U+6E69)	e6b9a9
+湪	U+6E6A (U+6E6A)	e6b9aa
+湫	a small pond; a damp and narrow place (U+6E6B)	e6b9ab
+湬	U+6E6C (U+6E6C)	e6b9ac
+湭	U+6E6D (U+6E6D)	e6b9ad
+湮	bury, sink, block up; stain (U+6E6E)	e6b9ae
+湯	hot water; soup, gravy, broth (U+6E6F)	e6b9af
+湰	U+6E70 (U+6E70)	e6b9b0
+湱	sound of water (U+6E71)	e6b9b1
+湲	flow (U+6E72)	e6b9b2
+湳	U+6E73 (U+6E73)	e6b9b3
+湴	(Cant.) mud, mire (U+6E74)	e6b9b4
+湵	U+6E75 (U+6E75)	e6b9b5
+湶	U+6E76 (U+6E76)	e6b9b6
+湷	U+6E77 (U+6E77)	e6b9b7
+湸	U+6E78 (U+6E78)	e6b9b8
+湹	U+6E79 (U+6E79)	e6b9b9
+湺	U+6E7A (U+6E7A)	e6b9ba
+湻	pure, unmixed, genuine; honest (U+6E7B)	e6b9bb
+湼	black mud; slime (U+6E7C)	e6b9bc
+湽	U+6E7D (U+6E7D)	e6b9bd
+湾	bay, cove, inlet, bend of stream (U+6E7E)	e6b9be
+湿	wet, moist, humid, damp; illness (U+6E7F)	e6b9bf
+満	fullness, enough; pride (U+6E80)	e6ba80
+溁	U+6E81 (U+6E81)	e6ba81
+溂	U+6E82 (U+6E82)	e6ba82
+溃	flooding river; militarily defeat (U+6E83)	e6ba83
+溄	U+6E84 (U+6E84)	e6ba84
+溅	sprinkle, spray; spill, splash (U+6E85)	e6ba85
+溆	river in Hunan (U+6E86)	e6ba86
+溇	U+6E87 (U+6E87)	e6ba87
+溈	name of a river in Shanxi (U+6E88)	e6ba88
+溉	water, irrigate, flood; wash (U+6E89)	e6ba89
+溊	U+6E8A (U+6E8A)	e6ba8a
+溋	U+6E8B (U+6E8B)	e6ba8b
+溌	pour, splash, water, sprinkle (U+6E8C)	e6ba8c
+溍	water (U+6E8D)	e6ba8d
+溎	river in Guangxi province (U+6E8E)	e6ba8e
+溏	pool; not hardened, semi-soft (U+6E8F)	e6ba8f
+源	spring; source, head; surname (U+6E90)	e6ba90
+溑	U+6E91 (U+6E91)	e6ba91
+溒	U+6E92 (U+6E92)	e6ba92
+溓	U+6E93 (U+6E93)	e6ba93
+溔	U+6E94 (U+6E94)	e6ba94
+溕	U+6E95 (U+6E95)	e6ba95
+準	rule, guideline, standard (U+6E96)	e6ba96
+溗	U+6E97 (U+6E97)	e6ba97
+溘	abruptly, suddenly, unexpectedly (U+6E98)	e6ba98
+溙	U+6E99 (U+6E99)	e6ba99
+溚	(Cant.) to get wet by rain; to drip (U+6E9A)	e6ba9a
+溛	U+6E9B (U+6E9B)	e6ba9b
+溜	slide, glide, slip; slippery (U+6E9C)	e6ba9c
+溝	ditch, drain, narrow waterway (U+6E9D)	e6ba9d
+溞	U+6E9E (U+6E9E)	e6ba9e
+溟	drizzling rain; dark, obscure (U+6E9F)	e6ba9f
+溠	river in Hubei province (U+6EA0)	e6baa0
+溡	U+6EA1 (U+6EA1)	e6baa1
+溢	overflow, brim over; full (U+6EA2)	e6baa2
+溣	U+6EA3 (U+6EA3)	e6baa3
+溤	U+6EA4 (U+6EA4)	e6baa4
+溥	big, great, vast, wide; widespread (U+6EA5)	e6baa5
+溦	drizzle; (variant) valley; (variant) mold (U+6EA6)	e6baa6
+溧	river in Anhui and Jiangsu provinces (U+6EA7)	e6baa7
+溨	U+6EA8 (U+6EA8)	e6baa8
+溩	U+6EA9 (U+6EA9)	e6baa9
+溪	mountain stream, creek (U+6EAA)	e6baaa
+溫	lukewarm, warm; tepid, mild (U+6EAB)	e6baab
+溬	U+6EAC (U+6EAC)	e6baac
+溭	U+6EAD (U+6EAD)	e6baad
+溮	river in Henan province (U+6EAE)	e6baae
+溯	go upstream, go against current; formerly (U+6EAF)	e6baaf
+溰	U+6EB0 (U+6EB0)	e6bab0
+溱	river in Henan (U+6EB1)	e6bab1
+溲	urinate; soak, drench (U+6EB2)	e6bab2
+溳	U+6EB3 (U+6EB3)	e6bab3
+溴	bromine (U+6EB4)	e6bab4
+溵	U+6EB5 (U+6EB5)	e6bab5
+溶	to melt, dissolve; overflowing with (U+6EB6)	e6bab6
+溷	privy, latrine; turbid, dirty (U+6EB7)	e6bab7
+溸	U+6EB8 (U+6EB8)	e6bab8
+溹	U+6EB9 (U+6EB9)	e6bab9
+溺	drown; submerge in water; indulge (U+6EBA)	e6baba
+溻	wet (U+6EBB)	e6babb
+溼	damp, moist; dampness, moisture (U+6EBC)	e6babc
+溽	moist, humid, muggy (U+6EBD)	e6babd
+溾	U+6EBE (U+6EBE)	e6babe
+溿	U+6EBF (U+6EBF)	e6babf
+滀	U+6EC0 (U+6EC0)	e6bb80
+滁	district in Anhui province (U+6EC1)	e6bb81
+滂	torrential; voluminous (U+6EC2)	e6bb82
+滃	swelling, rising, dispersing (U+6EC3)	e6bb83
+滄	blue, dark green; cold (U+6EC4)	e6bb84
+滅	extinguish; wipe out, exterminate (U+6EC5)	e6bb85
+滆	U+6EC6 (U+6EC6)	e6bb86
+滇	Yunnan province (U+6EC7)	e6bb87
+滈	U+6EC8 (U+6EC8)	e6bb88
+滉	deep (U+6EC9)	e6bb89
+滊	a river name; a long rain (U+6ECA)	e6bb8a
+滋	grow, multiply, increase; thrive (U+6ECB)	e6bb8b
+滌	wash, cleanse, purify; sweep (U+6ECC)	e6bb8c
+滍	U+6ECD (U+6ECD)	e6bb8d
+滎	county in Henan; rising and dashing of waves (U+6ECE)	e6bb8e
+滏	U+6ECF (U+6ECF)	e6bb8f
+滐	(Cant.) dense, thick, viscous (U+6ED0)	e6bb90
+滑	slip, slide; slippery, polished (U+6ED1)	e6bb91
+滒	U+6ED2 (U+6ED2)	e6bb92
+滓	sediment, lees, dregs (U+6ED3)	e6bb93
+滔	overflow; rushing water, a torrent (U+6ED4)	e6bb94
