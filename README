@@ -1,0 +1,61 @@
+wingalingding
+==============================
+
+What is it?
+-----------------------------
+
+The underlying concept is simple.  Have you ever wanted to find all of the box drawing
+unicode symbols without wanting to go online and look through various crappy resources
+to find them?  Maybe you'd like to do something with them programmatically, but that 
+first involes either scraping information about the characters from online, or knowing
+the range in which they exist throughout the unicode map, and accessing them programmatically.
+
+Wingadingling is a very simple gem that aims to make processes like these simpler.
+
+Description goes here.
+
+
+How to use it?
+-------------------------------
+
+It's pretty eff-ing easy.  If you want to print all box drawing characters, along with
+their unicode address, you can just do:
+
+```
+require 'wingadingling'
+
+# display prints in a fancy line-drawn box, instead of just vomiting up results
+puts Wingalingding::Char.display("DRAWINGS")
+
+```
+
+If you want to see what the most ubiquitous character classes/alphabets are in unicode,
+just check
+
+
+```
+require 'wingadingling'
+
+puts Wingalingding::CATEGORIES
+
+```
+
+If you want to do anything with characters matching whatever search term you come up with,
+try
+
+```
+require 'wingadingling'
+
+puts Wingalingding::Char.find("tree")
+
+```
+
+That's about it for now.  Oh yeah - it also comes with a binary called "wing", that gives you quick access to this
+stuff/
+
+```
+wing "snowman"
+
+```
+
+Enjoy.
