@@ -4,15 +4,15 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{wingalingding}
+  s.name = "wingalingding"
   s.version = "0.1.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = [%q{justin}]
-  s.date = %q{2011-09-01}
-  s.description = %q{A gem to search through and get information on various unicode symbols/groups}
-  s.email = %q{jvthibault@gmail.com}
-  s.executables = [%q{wing}]
+  s.authors = ["justin"]
+  s.date = "2011-09-01"
+  s.description = "A gem to search through and get information on various unicode symbols/groups"
+  s.email = "jvthibault@gmail.com"
+  s.executables = ["wing"]
   s.extra_rdoc_files = [
     "LICENSE.txt",
     "README"
@@ -131,11 +131,11 @@ Gem::Specification.new do |s|
     "log/scrape.log",
     "wingalingding.gemspec"
   ]
-  s.homepage = %q{http://github.com/justinvt/wingalingding}
-  s.licenses = [%q{MIT}]
-  s.require_paths = [%q{lib}]
-  s.rubygems_version = %q{1.8.6}
-  s.summary = %q{A gem to search through unicode symbols}
+  s.homepage = "http://github.com/justinvt/wingalingding"
+  s.licenses = ["MIT"]
+  s.require_paths = ["lib"]
+  s.rubygems_version = "1.8.10"
+  s.summary = "A gem to search through unicode symbols"
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
