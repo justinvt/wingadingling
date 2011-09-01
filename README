@@ -1,6 +1,16 @@
 wingalingding
 ==============================
 
+Installation
+-----------------------------
+
+```
+git clone git://github.com/justinvt/wingadingling.git
+cd wingadingling
+bundle install
+rake install
+```
+
 What is it?
 -----------------------------
 
