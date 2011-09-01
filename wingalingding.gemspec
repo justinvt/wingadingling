@@ -130,7 +130,6 @@ Gem::Specification.new do |s|
     "lib/scraper.rb",
     "lib/wingalingding.rb",
     "log/scrape.log",
-    "wingalingding-0.4.0.gem",
     "wingalingding.gemspec"
   ]
   s.homepage = "http://github.com/justinvt/wingalingding"
